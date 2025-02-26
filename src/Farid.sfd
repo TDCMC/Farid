@@ -13514,6 +13514,34 @@ SplineSet
  552 278 703 323 651 408 c 4
 EndSplineSet
 EndChar
+StartChar: uniFB56
+Encoding: 64342 64342 64342
+Width: 1926
+Flags: W
+AnchorPoint: "HarakatBelow" 782 -935 basechar 0
+AnchorPoint: "HarakatAbove" 908 895 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+18 454 m 0
+ -16 595 121 852 220 808 c 0
+ 290 778 127 579 166 486 c 0
+ 246 296 518 270 688 261 c 0
+ 984 246 1278 302 1536 472 c 0
+ 1694 576 1802 805 1886 759 c 0
+ 1932 733 1871 530 1641 356 c 0
+ 1458 218 1170 101 747 105 c 0
+ 457 108 86 175 18 454 c 0
+528 -498 m 4
+ 458 -390 666 -255 783 -252 c 4
+ 885 -249 1082 -298 1020 -430 c 4
+ 986 -504 856 -416 786 -422 c 4
+ 692 -428 584 -580 528 -498 c 4
+710 -777 m 4
+ 628 -715 755 -562 854 -624 c 4
+ 924 -668 848 -879 710 -777 c 4
+EndSplineSet
+EndChar
 StartChar: uniFB57
 Encoding: 64343 64343 64343
 Width: 2028
@@ -13606,6 +13634,40 @@ Substitution2: "Medial Forms Preceding Reh-1" PehMedi5
 Substitution2: "Medial Forms Preceding Heh-1" PehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" PehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" PehMedi1
+EndChar
+StartChar: uniFB7A
+Encoding: 64378 64378 64378
+Width: 1234
+Flags: W
+AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
+AnchorPoint: "HarakatAbove" 803 979 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+618 -572 m 0
+ 550 -470 745 -343 856 -340 c 0
+ 948 -337 1136 -384 1078 -507 c 0
+ 1048 -575 924 -492 856 -498 c 0
+ 764 -507 670 -648 618 -572 c 0
+789 -832 m 0
+ 713 -776 829 -628 921 -686 c 0
+ 985 -726 918 -926 789 -832 c 0
+478 332 m 0
+ 410 335 402 586 507 680 c 0
+ 677 830 1170 798 1096 586 c 0
+ 1016 361 715 245 525 -34 c 0
+ 408 -206 332 -384 298 -572 c 0
+ 248 -839 393 -1185 753 -1176 c 0
+ 919 -1173 1044 -1149 1240 -1005 c 0
+ 1483 -827 1634 -491 1708 -537 c 0
+ 1782 -583 1584 -970 1305 -1164 c 0
+ 1155 -1269 882 -1380 609 -1324 c 0
+ 246 -1248 117 -928 138 -636 c 0
+ 156 -405 237 -220 357 -12 c 0
+ 513 258 819 454 921 562 c 0
+ 985 632 648 648 598 566 c 0
+ 586 545 572 329 478 332 c 0
+EndSplineSet
 EndChar
 StartChar: uniFB7B
 Encoding: 64379 64379 64379
@@ -13720,6 +13782,30 @@ Substitution2: "Medial Forms Preceding Heh-1" TchehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" TchehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" TchehMedi2
 EndChar
+StartChar: uniFB8A
+Encoding: 64394 64394 64394
+Width: 532
+Flags: W
+AnchorPoint: "HarakatBelow" 266 -359 basechar 0
+AnchorPoint: "HarakatAbove" 323 1679 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+386 1132 m 4
+ 298 1092 204 904 136 974 c 4
+ 50 1066 238 1240 358 1280 c 4
+ 450 1310 638 1299 638 1200 c 4
+ 638 1114 466 1170 386 1132 c 4
+286 1470 m 4
+ 184 1556 306 1696 394 1622 c 4
+ 499 1536 378 1390 286 1470 c 4
+486 470 m 0
+ 568 434 433 123 286 0 c 0
+ 166 -102 -113 -278 -159 -184 c 0
+ -203 -96 75 0 210 120 c 0
+ 327 225 394 510 486 470 c 0
+EndSplineSet
+EndChar
 StartChar: uniFB8B
 Encoding: 64395 64395 64395
 Width: 568
@@ -13748,6 +13834,32 @@ SplineSet
  458 351 512 382 568 382 c 1
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" JehFina1
+EndChar
+StartChar: uniFB8E
+Encoding: 64398 64398 64398
+Width: 1695
+Flags: W
+AnchorPoint: "HarakatBelow" 862 -193 basechar 0
+AnchorPoint: "HarakatAbove" 804 1431 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1536 1202 m 0
+ 1610 1211 1610 854 1610 728 c 0
+ 1610 602 1590 488 1515 384 c 0
+ 1423 255 1107 89 750 62 c 0
+ 436 38 136 60 50 240 c 0
+ -8 366 110 657 208 612 c 0
+ 276 582 133 342 190 296 c 0
+ 331 182 632 178 848 212 c 0
+ 1001 236 1286 318 1398 478 c 0
+ 1536 674 1380 1184 1536 1202 c 0
+1554 1401 m 0
+ 1474 1439 1843 1961 2025 2216 c 0
+ 2201 2462 2510 2900 2574 2844 c 0
+ 2637 2790 2302 2357 2120 2102 c 0
+ 1944 1856 1626 1368 1554 1401 c 0
+EndSplineSet
 EndChar
 StartChar: uniFB8F
 Encoding: 64399 64399 64399
@@ -13837,6 +13949,39 @@ Substitution2: "Medial Forms Preceding Yeh-1" KehMedi2
 Substitution2: "Medial Forms Preceding Heh-1" KehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
+EndChar
+StartChar: uniFB92
+Encoding: 64402 64402 64402
+Width: 1695
+Flags: W
+AnchorPoint: "HarakatBelow" 862 -193 basechar 0
+AnchorPoint: "HarakatAbove" 804 1431 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1536 1202 m 0
+ 1610 1211 1610 854 1610 728 c 0
+ 1610 602 1590 488 1515 384 c 0
+ 1423 255 1107 89 750 62 c 0
+ 436 38 136 60 50 240 c 0
+ -8 366 110 657 208 612 c 0
+ 276 582 133 342 190 296 c 0
+ 331 182 632 178 848 212 c 0
+ 1001 236 1286 318 1398 478 c 0
+ 1536 674 1380 1184 1536 1202 c 0
+1880 2122 m 0
+ 1920 2190 2022 2342 2120 2516 c 0
+ 2267 2778 2422 3070 2482 3042 c 0
+ 2534 3016 2398 2744 2244 2470 c 0
+ 2118 2246 1979 2021 1917 1923 c 0
+ 1800 1735 1576 1410 1502 1460 c 0
+ 1470 1481 1497 1522 1506 1566 c 1
+ 1460 1520 1441 1460 1389 1484 c 0
+ 1325 1518 1483 1735 1539 1846 c 0
+ 1601 1966 1670 2213 1750 2169 c 0
+ 1818 2135 1644 1810 1600 1702 c 1
+ 1656 1776 1842 2060 1880 2122 c 0
+EndSplineSet
 EndChar
 StartChar: uniFB93
 Encoding: 64403 64403 64403
@@ -13942,6 +14087,34 @@ Substitution2: "Medial Forms Preceding Heh-1" GafMedi5
 Substitution2: "Medial Forms Preceding Meem-1" GafMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" GafMedi3
 EndChar
+StartChar: uniFBA4
+Encoding: 64420 64420 64420
+Width: 528
+Flags: W
+AnchorPoint: "HarakatBelow" 280 89 basechar 0
+AnchorPoint: "HarakatAbove" 270 1633 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+387 1611 m 0
+ 449 1547 264 1438 279 1398 c 0
+ 291 1368 455 1365 464 1257 c 0
+ 476 1093 153 905 126 975 c 0
+ 82 1086 346 1159 322 1233 c 0
+ 307 1283 153 1246 138 1328 c 0
+ 117 1442 323 1679 387 1611 c 0
+258 756 m 4
+ 366 756 480 684 498 579 c 4
+ 522 453 419 296 296 262 c 4
+ 204 235 60 286 30 378 c 4
+ 3 458 132 627 132 627 c 5
+ 108 648 150 759 258 756 c 4
+255 594 m 5
+ 246 585 146 466 202 410 c 4
+ 242 370 351 440 366 492 c 4
+ 384 548 289 591 255 594 c 5
+EndSplineSet
+EndChar
 StartChar: uniFBA5
 Encoding: 64421 64421 64421
 Width: 744
@@ -13966,6 +14139,32 @@ SplineSet
  184 917 449 990 425 1064 c 0
  410 1114 255 1076 240 1158 c 0
  219 1272 425 1510 489 1442 c 0
+EndSplineSet
+EndChar
+StartChar: uniFBFC
+Encoding: 64508 64508 64508
+Width: 1525
+Flags: W
+AnchorPoint: "HarakatBelow" 710 -665 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1496 1108 m 0
+ 1540 1044 1413 931 1302 825 c 0
+ 1184 713 1046 505 1065 397 c 0
+ 1079 315 1286 360 1302 243 c 0
+ 1340 -30 1081 -311 820 -405 c 0
+ 580 -491 206 -395 86 -170 c 0
+ -6 2 40 256 86 476 c 0
+ 116 617 207 862 285 820 c 0
+ 330 796 266 629 218 440 c 0
+ 166 236 132 8 228 -114 c 0
+ 322 -234 581 -315 728 -276 c 0
+ 904 -230 1132 -38 1152 144 c 0
+ 1164 255 882 162 891 334 c 0
+ 897 478 979 639 1053 765 c 0
+ 1115 867 1437 1193 1496 1108 c 0
 EndSplineSet
 EndChar
 StartChar: uniFBFD
@@ -14243,6 +14442,31 @@ SplineSet
  70 633 307 934 387 832 c 0
 EndSplineSet
 EndChar
+StartChar: uniFE81
+Encoding: 65153 65153 65153
+Width: 669
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+298 814 m 0
+ 397 823 359 682 350 470 c 0
+ 344 320 241 60 147 120 c 0
+ 79 164 220 346 220 466 c 0
+ 220 583 234 808 298 814 c 0
+-44 1398 m 0
+ -161 1401 -52 1715 56 1838 c 0
+ 155 1951 282 1992 404 1999 c 0
+ 528 2006 646 1976 722 1950 c 0
+ 928 1880 958 1960 1026 2034 c 0
+ 1114 2128 1199 2241 1263 2184 c 0
+ 1315 2138 1224 2022 1158 1941 c 0
+ 1076 1839 1011 1794 900 1773 c 0
+ 791 1752 693 1799 584 1827 c 0
+ 476 1855 357 1864 206 1773 c 0
+ 41 1674 61 1395 -44 1398 c 0
+EndSplineSet
+EndChar
 StartChar: uniFE82
 Encoding: 65154 65154 65154
 Width: 310
@@ -14272,6 +14496,29 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefMaddaFina1
 EndChar
+StartChar: uniFE83
+Encoding: 65155 65155 65155
+Width: 279
+Flags: W
+AnchorPoint: "HarakatBelow" 104 -23 basechar 0
+AnchorPoint: "HarakatAbove" 185 2131 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+228 624 m 0
+ 231 507 179 49 68 99 c 0
+ -14 137 95 478 92 666 c 0
+ 89 836 82 1238 196 1232 c 0
+ 270 1228 222 861 228 624 c 0
+264 2061 m 0
+ 326 1997 141 1890 156 1850 c 0
+ 168 1820 331 1816 340 1708 c 0
+ 352 1544 30 1355 3 1425 c 0
+ -41 1536 224 1609 200 1683 c 0
+ 185 1733 30 1697 15 1779 c 0
+ -6 1893 200 2129 264 2061 c 0
+EndSplineSet
+EndChar
 StartChar: uniFE84
 Encoding: 65156 65156 65156
 Width: 310
@@ -14299,6 +14546,32 @@ SplineSet
  25 1878 231 2114 295 2046 c 0
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaAboveFina1
+EndChar
+StartChar: uniFE85
+Encoding: 65157 65157 65157
+Width: 550
+Flags: W
+AnchorPoint: "HarakatBelow" 246 -383 basechar 0
+AnchorPoint: "HarakatAbove" 281 1525 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+372 1460 m 0
+ 434 1396 249 1286 264 1246 c 0
+ 276 1216 439 1214 448 1106 c 0
+ 460 942 138 754 111 824 c 0
+ 67 935 332 1008 308 1082 c 0
+ 293 1132 138 1094 123 1176 c 0
+ 102 1290 308 1528 372 1460 c 0
+357 184 m 1
+ 167 205 137 358 290 504 c 0
+ 348 560 406 600 474 556 c 0
+ 560 500 552 332 512 178 c 0
+ 476 42 366 -45 231 -132 c 0
+ 54 -246 -135 -298 -159 -228 c 0
+ -181 -164 -11 -112 142 -20 c 0
+ 247 43 329 84 357 184 c 1
+EndSplineSet
 EndChar
 StartChar: uniFE86
 Encoding: 65158 65158 65158
@@ -14331,6 +14604,29 @@ SplineSet
  243 -35 304 -9 336 105 c 1
 EndSplineSet
 EndChar
+StartChar: uniFE87
+Encoding: 65159 65159 65159
+Width: 279
+Flags: W
+AnchorPoint: "HarakatBelow" 104 -806 basechar 0
+AnchorPoint: "HarakatAbove" 185 1375 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+228 624 m 0
+ 231 507 179 49 68 99 c 0
+ -14 137 95 478 92 666 c 0
+ 89 836 82 1238 196 1232 c 0
+ 270 1228 222 861 228 624 c 0
+178 -76 m 0
+ 240 -140 55 -250 70 -290 c 0
+ 82 -320 246 -322 255 -430 c 0
+ 267 -594 -55 -782 -82 -712 c 0
+ -126 -601 138 -528 114 -454 c 0
+ 99 -404 -55 -442 -70 -360 c 0
+ -91 -246 114 -8 178 -76 c 0
+EndSplineSet
+EndChar
 StartChar: uniFE88
 Encoding: 65160 65160 65160
 Width: 310
@@ -14358,6 +14654,39 @@ SplineSet
  -36 -246 169 -8 233 -76 c 0
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaBelowFina1
+EndChar
+StartChar: uniFE89
+Encoding: 65161 65161 65161
+Width: 1525
+Flags: W
+AnchorPoint: "HarakatBelow" 710 -665 basechar 0
+AnchorPoint: "HarakatAbove" 722 1729 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1496 1108 m 0
+ 1540 1044 1413 931 1302 825 c 0
+ 1184 713 1046 505 1065 397 c 0
+ 1079 315 1286 360 1302 243 c 0
+ 1340 -30 1081 -311 820 -405 c 0
+ 580 -491 206 -395 86 -170 c 0
+ -6 2 40 256 86 476 c 0
+ 116 617 207 862 285 820 c 0
+ 330 796 266 629 218 440 c 0
+ 166 236 132 8 228 -114 c 0
+ 322 -234 581 -315 728 -276 c 0
+ 904 -230 1132 -38 1152 144 c 0
+ 1164 255 882 162 891 334 c 0
+ 897 478 979 639 1053 765 c 0
+ 1115 867 1437 1193 1496 1108 c 0
+832 1720 m 0
+ 894 1656 709 1549 724 1509 c 0
+ 736 1479 900 1474 909 1366 c 0
+ 921 1202 599 1014 572 1084 c 0
+ 528 1195 792 1268 768 1342 c 0
+ 753 1392 599 1355 584 1437 c 0
+ 563 1551 768 1788 832 1720 c 0
+EndSplineSet
 EndChar
 StartChar: uniFE8A
 Encoding: 65162 65162 65162
@@ -14456,6 +14785,22 @@ Substitution2: "Medial Forms Preceding Reh-1" YehHamzaMedi5
 Substitution2: "Medial Forms Preceding Meem-1" YehHamzaMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehHamzaMedi1
 EndChar
+StartChar: uniFE8D
+Encoding: 65165 65165 65165
+Width: 279
+Flags: W
+AnchorPoint: "HarakatBelow" 104 -23 basechar 0
+AnchorPoint: "HarakatAbove" 185 1375 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+228 624 m 0
+ 231 507 179 49 68 99 c 0
+ -14 137 95 478 92 666 c 0
+ 89 836 82 1238 196 1232 c 0
+ 270 1228 222 861 228 624 c 0
+EndSplineSet
+EndChar
 StartChar: uniFE8E
 Encoding: 65166 65166 65166
 Width: 310
@@ -14476,6 +14821,29 @@ SplineSet
  140 994 168 1056 214 1053 c 0
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefFina1
+EndChar
+StartChar: uniFE8F
+Encoding: 65167 65167 65167
+Width: 1926
+Flags: W
+AnchorPoint: "HarakatBelow" 785 -705 basechar 0
+AnchorPoint: "HarakatAbove" 908 895 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+18 454 m 0
+ -16 595 121 852 220 808 c 0
+ 290 778 127 579 166 486 c 0
+ 246 296 518 270 688 261 c 0
+ 984 246 1278 302 1536 472 c 0
+ 1694 576 1802 805 1886 759 c 0
+ 1932 733 1871 530 1641 356 c 0
+ 1458 218 1170 101 747 105 c 0
+ 457 108 86 175 18 454 c 0
+768 -572 m 4
+ 642 -522 777 -268 888 -308 c 4
+ 993 -346 903 -624 768 -572 c 4
+EndSplineSet
 EndChar
 StartChar: uniFE90
 Encoding: 65168 65168 65168
@@ -14555,6 +14923,32 @@ Substitution2: "Medial Forms Preceding Heh-1" BehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" BehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" BehMedi1
 EndChar
+StartChar: uniFE93
+Encoding: 65171 65171 65171
+Width: 528
+Flags: W
+AnchorPoint: "HarakatBelow" 280 89 basechar 0
+AnchorPoint: "HarakatAbove" 270 1391 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+282 1154 m 4
+ 174 1136 129 968 55 1044 c 4
+ -25 1126 138 1293 289 1307 c 4
+ 421 1319 521 1269 490 1186 c 4
+ 464 1116 344 1164 282 1154 c 4
+258 756 m 0
+ 366 756 480 684 498 579 c 0
+ 522 453 419 296 296 262 c 0
+ 204 235 60 286 30 378 c 0
+ 3 458 132 627 132 627 c 1
+ 108 648 150 759 258 756 c 0
+255 594 m 1
+ 246 585 146 466 202 410 c 0
+ 242 370 351 440 366 492 c 0
+ 384 548 289 591 255 594 c 1
+EndSplineSet
+EndChar
 StartChar: uniFE94
 Encoding: 65172 65172 65172
 Width: 744
@@ -14577,6 +14971,31 @@ SplineSet
  606 166 549 412 414 344 c 0
  196 236 182 -80 114 -80 c 0
  12 -80 74 82 126 208 c 0
+EndSplineSet
+EndChar
+StartChar: uniFE95
+Encoding: 65173 65173 65173
+Width: 1926
+Flags: W
+AnchorPoint: "HarakatBelow" 872 -192 basechar 0
+AnchorPoint: "HarakatAbove" 848 1717 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+18 454 m 0
+ -16 595 121 852 220 808 c 0
+ 290 778 127 579 166 486 c 0
+ 246 296 518 270 688 261 c 0
+ 984 246 1278 302 1536 472 c 0
+ 1694 576 1802 805 1886 759 c 0
+ 1932 733 1871 530 1641 356 c 0
+ 1458 218 1170 101 747 105 c 0
+ 457 108 86 175 18 454 c 0
+1214 1492 m 0
+ 1184 1400 974 1472 882 1428 c 0
+ 765 1372 668 1172 598 1234 c 0
+ 516 1308 692 1538 856 1594 c 0
+ 967 1634 1254 1606 1214 1492 c 0
 EndSplineSet
 EndChar
 StartChar: uniFE96
@@ -14665,6 +15084,34 @@ Substitution2: "Medial Forms Preceding Reh-1" TehMedi5
 Substitution2: "Medial Forms Preceding Heh-1" TehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" TehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TehMedi1
+EndChar
+StartChar: uniFE99
+Encoding: 65177 65177 65177
+Width: 1926
+Flags: W
+AnchorPoint: "HarakatBelow" 872 -192 basechar 0
+AnchorPoint: "HarakatAbove" 848 2113 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+18 454 m 0
+ -16 595 121 852 220 808 c 0
+ 290 778 127 579 166 486 c 0
+ 246 296 518 270 688 261 c 0
+ 984 246 1278 302 1536 472 c 0
+ 1694 576 1802 805 1886 759 c 0
+ 1932 733 1871 530 1641 356 c 0
+ 1458 218 1170 101 747 105 c 0
+ 457 108 86 175 18 454 c 0
+1214 1492 m 0
+ 1184 1400 974 1472 882 1428 c 0
+ 765 1372 668 1172 598 1234 c 0
+ 516 1308 692 1538 856 1594 c 0
+ 967 1634 1254 1606 1214 1492 c 0
+826 1785 m 0
+ 718 1825 835 2040 927 2006 c 0
+ 1013 1976 940 1741 826 1785 c 0
+EndSplineSet
 EndChar
 StartChar: uniFE9A
 Encoding: 65178 65178 65178
@@ -14761,6 +15208,35 @@ Substitution2: "Medial Forms Preceding Reh-1" ThehMedi5
 Substitution2: "Medial Forms Preceding Heh-1" ThehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" ThehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ThehMedi1
+EndChar
+StartChar: uniFE9D
+Encoding: 65181 65181 65181
+Width: 1234
+Flags: W
+AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
+AnchorPoint: "HarakatAbove" 803 979 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+934 -466 m 0
+ 1039 -512 947 -724 836 -660 c 0
+ 728 -596 817 -414 934 -466 c 0
+478 332 m 0
+ 410 335 402 586 507 680 c 0
+ 677 830 1170 798 1096 586 c 0
+ 1016 361 715 245 525 -34 c 0
+ 408 -206 332 -384 298 -572 c 0
+ 248 -839 393 -1185 753 -1176 c 0
+ 919 -1173 1044 -1149 1240 -1005 c 0
+ 1483 -827 1634 -491 1708 -537 c 0
+ 1782 -583 1584 -970 1305 -1164 c 0
+ 1155 -1269 882 -1380 609 -1324 c 0
+ 246 -1248 117 -928 138 -636 c 0
+ 156 -405 237 -220 357 -12 c 0
+ 513 258 819 454 921 562 c 0
+ 985 632 648 648 598 566 c 0
+ 586 545 572 329 478 332 c 0
+EndSplineSet
 EndChar
 StartChar: uniFE9E
 Encoding: 65182 65182 65182
@@ -14860,6 +15336,32 @@ Substitution2: "Medial Forms Preceding Heh-1" JeemMedi5
 Substitution2: "Medial Forms Preceding Meem-1" JeemMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" JeemMedi2
 EndChar
+StartChar: uniFEA1
+Encoding: 65185 65185 65185
+Width: 1234
+Flags: W
+AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
+AnchorPoint: "HarakatAbove" 803 979 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+478 332 m 0
+ 410 335 402 586 507 680 c 0
+ 677 830 1170 798 1096 586 c 0
+ 1016 361 715 245 525 -34 c 0
+ 408 -206 332 -384 298 -572 c 0
+ 248 -839 393 -1185 753 -1176 c 0
+ 919 -1173 1044 -1149 1240 -1005 c 0
+ 1483 -827 1634 -491 1708 -537 c 0
+ 1782 -583 1584 -970 1305 -1164 c 0
+ 1155 -1269 882 -1380 609 -1324 c 0
+ 246 -1248 117 -928 138 -636 c 0
+ 156 -405 237 -220 357 -12 c 0
+ 513 258 819 454 921 562 c 0
+ 985 632 648 648 598 566 c 0
+ 586 545 572 329 478 332 c 0
+EndSplineSet
+EndChar
 StartChar: uniFEA2
 Encoding: 65186 65186 65186
 Width: 522
@@ -14948,6 +15450,35 @@ Substitution2: "Medial Forms Preceding Yeh-1" HahMedi4
 Substitution2: "Medial Forms Preceding Heh-1" HahMedi5
 Substitution2: "Medial Forms Preceding Meem-1" HahMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" HahMedi2
+EndChar
+StartChar: uniFEA5
+Encoding: 65189 65189 65189
+Width: 1234
+Flags: W
+AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
+AnchorPoint: "HarakatAbove" 803 1663 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+478 332 m 0
+ 410 335 402 586 507 680 c 0
+ 677 830 1170 798 1096 586 c 0
+ 1016 361 715 245 525 -34 c 0
+ 408 -206 332 -384 298 -572 c 0
+ 248 -839 393 -1185 753 -1176 c 0
+ 919 -1173 1044 -1149 1240 -1005 c 0
+ 1483 -827 1634 -491 1708 -537 c 0
+ 1782 -583 1584 -970 1305 -1164 c 0
+ 1155 -1269 882 -1380 609 -1324 c 0
+ 246 -1248 117 -928 138 -636 c 0
+ 156 -405 237 -220 357 -12 c 0
+ 513 258 819 454 921 562 c 0
+ 985 632 648 648 598 566 c 0
+ 586 545 572 329 478 332 c 0
+830 1622 m 0
+ 935 1576 841 1364 730 1428 c 0
+ 622 1492 713 1674 830 1622 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEA6
 Encoding: 65190 65190 65190
@@ -15047,6 +15578,22 @@ Substitution2: "Medial Forms Preceding Heh-1" KhehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KhehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" KhehMedi2
 EndChar
+StartChar: uniFEA9
+Encoding: 65193 65193 65193
+Width: 469
+Flags: W
+AnchorPoint: "HarakatBelow" 221 -80 basechar 0
+AnchorPoint: "HarakatAbove" 221 1031 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+194 850 m 0
+ 280 922 510 592 446 402 c 0
+ 370 177 67 -20 15 68 c 0
+ -45 170 258 244 304 452 c 0
+ 338 605 106 776 194 850 c 0
+EndSplineSet
+EndChar
 StartChar: uniFEAA
 Encoding: 65194 65194 65194
 Width: 487
@@ -15068,6 +15615,25 @@ SplineSet
  273 357 298 624 392 624 c 0
 EndSplineSet
 Substitution2: "Long Final Forms-1" DalFina1
+EndChar
+StartChar: uniFEAB
+Encoding: 65195 65195 65195
+Width: 469
+Flags: W
+AnchorPoint: "HarakatBelow" 221 -80 basechar 0
+AnchorPoint: "HarakatAbove" 221 1712 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+194 850 m 0
+ 280 922 510 592 446 402 c 0
+ 370 177 67 -20 15 68 c 0
+ -45 170 258 244 304 452 c 0
+ 338 605 106 776 194 850 c 0
+285 1604 m 0
+ 390 1558 299 1346 188 1410 c 0
+ 80 1474 168 1656 285 1604 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEAC
 Encoding: 65196 65196 65196
@@ -15094,6 +15660,22 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" ThalFina1
 EndChar
+StartChar: uniFEAD
+Encoding: 65197 65197 65197
+Width: 532
+Flags: W
+AnchorPoint: "HarakatBelow" 266 -359 basechar 0
+AnchorPoint: "HarakatAbove" 361 783 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+486 470 m 0
+ 568 434 433 123 286 0 c 0
+ 166 -102 -113 -278 -159 -184 c 0
+ -203 -96 75 0 210 120 c 0
+ 327 225 394 510 486 470 c 0
+EndSplineSet
+EndChar
 StartChar: uniFEAE
 Encoding: 65198 65198 65198
 Width: 568
@@ -15114,6 +15696,25 @@ SplineSet
  458 351 512 382 568 382 c 1
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" RehFina1
+EndChar
+StartChar: uniFEAF
+Encoding: 65199 65199 65199
+Width: 532
+Flags: W
+AnchorPoint: "HarakatBelow" 266 -359 basechar 0
+AnchorPoint: "HarakatAbove" 361 1623 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+304 1281 m 0
+ 222 1349 342 1566 450 1484 c 0
+ 544 1414 398 1201 304 1281 c 0
+486 470 m 0
+ 568 434 433 123 286 0 c 0
+ 166 -102 -113 -278 -159 -184 c 0
+ -203 -96 75 0 210 120 c 0
+ 327 225 394 510 486 470 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEB0
 Encoding: 65200 65200 65200
@@ -15138,6 +15739,34 @@ SplineSet
  469 1258 322 1048 228 1128 c 0
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" ZehFina1
+EndChar
+StartChar: uniFEB1
+Encoding: 65201 65201 65201
+Width: 2091
+Flags: W
+AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
+AnchorPoint: "HarakatAbove" 1313 1246 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+2014 1058 m 0
+ 2094 1058 2076 861 2049 741 c 0
+ 2019 615 1880 668 1818 680 c 1
+ 1812 610 1810 506 1730 436 c 0
+ 1642 356 1551 418 1551 418 c 1
+ 1559 322 1560 81 1416 -129 c 0
+ 1316 -276 1144 -408 854 -464 c 0
+ 587 -516 261 -420 147 -144 c 0
+ 55 84 238 588 346 568 c 0
+ 469 547 150 107 292 -123 c 0
+ 412 -317 656 -362 838 -326 c 0
+ 1142 -264 1358 -57 1398 231 c 0
+ 1422 407 1343 584 1413 648 c 0
+ 1477 706 1554 550 1618 572 c 0
+ 1706 602 1668 760 1738 818 c 0
+ 1796 868 1892 774 1926 814 c 0
+ 1970 864 1932 1058 2014 1058 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEB2
 Encoding: 65202 65202 65202
@@ -15234,6 +15863,42 @@ Substitution2: "Medial Forms Preceding Yeh-1" SeenMedi3
 Substitution2: "Medial Forms Preceding Heh-1" SeenMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SeenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SeenMedi1
+EndChar
+StartChar: uniFEB5
+Encoding: 65205 65205 65205
+Width: 2091
+Flags: W
+AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
+AnchorPoint: "HarakatAbove" 1313 2026 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+2014 1058 m 0
+ 2094 1058 2076 861 2049 741 c 0
+ 2019 615 1880 668 1818 680 c 1
+ 1812 610 1810 506 1730 436 c 0
+ 1642 356 1551 418 1551 418 c 1
+ 1559 322 1560 81 1416 -129 c 0
+ 1316 -276 1144 -408 854 -464 c 0
+ 587 -516 261 -420 147 -144 c 0
+ 55 84 238 588 346 568 c 0
+ 469 547 150 107 292 -123 c 0
+ 412 -317 656 -362 838 -326 c 0
+ 1142 -264 1358 -57 1398 231 c 0
+ 1422 407 1343 584 1413 648 c 0
+ 1477 706 1554 550 1618 572 c 0
+ 1706 602 1668 760 1738 818 c 0
+ 1796 868 1892 774 1926 814 c 0
+ 1970 864 1932 1058 2014 1058 c 0
+1354 1428 m 0
+ 1260 1382 1152 1240 1106 1296 c 0
+ 1054 1358 1188 1511 1299 1563 c 0
+ 1401 1613 1647 1635 1638 1521 c 0
+ 1632 1416 1436 1468 1354 1428 c 0
+1275 1791 m 0
+ 1195 1815 1237 2020 1348 2002 c 0
+ 1436 1990 1407 1751 1275 1791 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEB6
 Encoding: 65206 65206 65206
@@ -15357,6 +16022,38 @@ Substitution2: "Medial Forms Preceding Heh-1" SheenMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SheenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SheenMedi1
 EndChar
+StartChar: uniFEB9
+Encoding: 65209 65209 65209
+Width: 2254
+Flags: W
+AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
+AnchorPoint: "HarakatAbove" 1313 1246 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1486 393 m 1
+ 1507 390 1539 387 1557 390 c 1
+ 1557 390 1685 660 1767 814 c 0
+ 1791 860 2019 1274 2145 1240 c 0
+ 2256 1210 2262 831 2187 627 c 0
+ 2076 323 1691 219 1527 234 c 1
+ 1533 198 1555 94 1479 -70 c 0
+ 1435 -164 1360 -270 1234 -363 c 0
+ 1040 -504 740 -568 522 -466 c 0
+ 310 -367 146 -162 170 105 c 0
+ 188 311 388 711 470 657 c 0
+ 522 623 348 327 320 102 c 0
+ 286 -159 545 -389 765 -369 c 0
+ 1164 -335 1271 -159 1358 21 c 0
+ 1410 129 1382 222 1354 310 c 0
+ 1327 396 1282 520 1328 548 c 0
+ 1408 598 1465 451 1486 393 c 1
+2090 1064 m 1
+ 1973 926 1832 657 1712 396 c 1
+ 1712 396 1962 496 2037 648 c 0
+ 2105 786 2090 1064 2090 1064 c 1
+EndSplineSet
+EndChar
 StartChar: uniFEBA
 Encoding: 65210 65210 65210
 Width: 2131
@@ -15460,6 +16157,41 @@ Substitution2: "Medial Forms Preceding Yeh-1" SadMedi3
 Substitution2: "Medial Forms Preceding Heh-1" SadMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SadMedi1
+EndChar
+StartChar: uniFEBD
+Encoding: 65213 65213 65213
+Width: 2254
+Flags: W
+AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
+AnchorPoint: "HarakatAbove" 1313 1918 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1486 393 m 1
+ 1507 390 1539 387 1557 390 c 1
+ 1557 390 1685 660 1767 814 c 0
+ 1791 860 2019 1274 2145 1240 c 0
+ 2256 1210 2262 831 2187 627 c 0
+ 2076 323 1691 219 1527 234 c 1
+ 1533 198 1555 94 1479 -70 c 0
+ 1435 -164 1360 -270 1234 -363 c 0
+ 1040 -504 740 -568 522 -466 c 0
+ 310 -367 146 -162 170 105 c 0
+ 188 311 388 711 470 657 c 0
+ 522 623 348 327 320 102 c 0
+ 286 -159 545 -389 765 -369 c 0
+ 1164 -335 1271 -159 1358 21 c 0
+ 1410 129 1382 222 1354 310 c 0
+ 1327 396 1282 520 1328 548 c 0
+ 1408 598 1465 451 1486 393 c 1
+2090 1064 m 1
+ 1973 926 1832 657 1712 396 c 1
+ 1712 396 1962 496 2037 648 c 0
+ 2105 786 2090 1064 2090 1064 c 1
+1316 1647 m 0
+ 1236 1671 1281 1874 1392 1856 c 0
+ 1480 1844 1448 1607 1316 1647 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEBE
 Encoding: 65214 65214 65214
@@ -15574,6 +16306,33 @@ Substitution2: "Medial Forms Preceding Heh-1" DadMedi4
 Substitution2: "Medial Forms Preceding Meem-1" DadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" DadMedi1
 EndChar
+StartChar: uniFEC1
+Encoding: 65217 65217 65217
+Width: 780
+Flags: W
+AnchorPoint: "HarakatBelow" 452 -104 basechar 0
+AnchorPoint: "HarakatAbove" 440 1816 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+454 1644 m 0
+ 518 1634 487 1375 483 1222 c 0
+ 477 1032 492 744 492 744 c 1
+ 492 744 635 908 759 824 c 0
+ 845 766 776 548 716 442 c 0
+ 630 292 424 76 252 80 c 0
+ 126 83 45 99 27 141 c 0
+ 0 209 42 264 150 255 c 1
+ 196 369 313 553 363 621 c 1
+ 363 621 338 1009 346 1234 c 0
+ 352 1430 380 1656 454 1644 c 0
+654 688 m 0
+ 636 700 536 611 446 495 c 0
+ 383 414 328 318 298 249 c 1
+ 356 276 444 338 513 418 c 0
+ 612 532 681 668 654 688 c 0
+EndSplineSet
+EndChar
 StartChar: uniFEC2
 Encoding: 65218 65218 65218
 Width: 888
@@ -15666,6 +16425,36 @@ Substitution2: "Medial Forms Preceding Yeh-1" TahMedi1
 Substitution2: "Medial Forms Preceding Heh-1" TahMedi3
 Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TahMedi1
+EndChar
+StartChar: uniFEC5
+Encoding: 65221 65221 65221
+Width: 780
+Flags: W
+AnchorPoint: "HarakatBelow" 452 -104 basechar 0
+AnchorPoint: "HarakatAbove" 440 1816 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+454 1644 m 0
+ 518 1634 487 1375 483 1222 c 0
+ 477 1032 492 744 492 744 c 1
+ 492 744 635 908 759 824 c 0
+ 845 766 776 548 716 442 c 0
+ 630 292 424 76 252 80 c 0
+ 126 83 45 99 27 141 c 0
+ 0 209 42 264 150 255 c 1
+ 196 369 313 553 363 621 c 1
+ 363 621 338 1009 346 1234 c 0
+ 352 1430 380 1656 454 1644 c 0
+654 688 m 0
+ 636 700 536 611 446 495 c 0
+ 383 414 328 318 298 249 c 1
+ 356 276 444 338 513 418 c 0
+ 612 532 681 668 654 688 c 0
+698 1622 m 0
+ 618 1646 663 1850 774 1832 c 0
+ 862 1820 830 1582 698 1622 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEC6
 Encoding: 65222 65222 65222
@@ -15769,6 +16558,35 @@ Substitution2: "Medial Forms Preceding Heh-1" ZahMedi3
 Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ZahMedi1
 EndChar
+StartChar: uniFEC9
+Encoding: 65225 65225 65225
+Width: 777
+Flags: W
+AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
+AnchorPoint: "HarakatAbove" 536 811 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+645 578 m 0
+ 599 514 547 598 489 574 c 0
+ 449 559 375 469 369 405 c 0
+ 360 306 618 317 700 363 c 0
+ 808 425 928 513 946 399 c 0
+ 964 276 560 168 360 -105 c 0
+ 222 -295 132 -580 220 -826 c 0
+ 306 -1066 590 -1172 940 -1102 c 0
+ 1066 -1078 1191 -983 1305 -903 c 0
+ 1443 -804 1530 -654 1592 -706 c 0
+ 1678 -782 1363 -1112 1161 -1198 c 0
+ 903 -1309 557 -1323 326 -1167 c 0
+ 120 -1026 50 -890 38 -592 c 0
+ 29 -316 199 6 442 196 c 1
+ 442 196 299 190 261 240 c 0
+ 197 326 254 470 310 562 c 0
+ 360 642 406 716 498 734 c 0
+ 562 746 697 654 645 578 c 0
+EndSplineSet
+EndChar
 StartChar: uniFECA
 Encoding: 65226 65226 65226
 Width: 860
@@ -15856,6 +16674,38 @@ Substitution2: "Medial Forms Preceding Yeh-1" AinMedi3
 Substitution2: "Medial Forms Preceding Heh-1" AinMedi4
 Substitution2: "Medial Forms Preceding Meem-1" AinMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" AinMedi1
+EndChar
+StartChar: uniFECD
+Encoding: 65229 65229 65229
+Width: 777
+Flags: W
+AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
+AnchorPoint: "HarakatAbove" 420 1479 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+645 578 m 0
+ 599 514 547 598 489 574 c 0
+ 449 559 375 469 369 405 c 0
+ 360 306 618 317 700 363 c 0
+ 808 425 928 513 946 399 c 0
+ 964 276 560 168 360 -105 c 0
+ 222 -295 132 -580 220 -826 c 0
+ 306 -1066 590 -1172 940 -1102 c 0
+ 1066 -1078 1191 -983 1305 -903 c 0
+ 1443 -804 1530 -654 1592 -706 c 0
+ 1678 -782 1363 -1112 1161 -1198 c 0
+ 903 -1309 557 -1323 326 -1167 c 0
+ 120 -1026 50 -890 38 -592 c 0
+ 29 -316 199 6 442 196 c 1
+ 442 196 299 190 261 240 c 0
+ 197 326 254 470 310 562 c 0
+ 360 642 406 716 498 734 c 0
+ 562 746 697 654 645 578 c 0
+369 1216 m 0
+ 289 1240 335 1446 446 1428 c 0
+ 534 1416 501 1176 369 1216 c 0
+EndSplineSet
 EndChar
 StartChar: uniFECE
 Encoding: 65230 65230 65230
@@ -15954,6 +16804,30 @@ Substitution2: "Medial Forms Preceding Heh-1" GhainMedi4
 Substitution2: "Medial Forms Preceding Meem-1" GhainMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" GhainMedi1
 EndChar
+StartChar: uniFED1
+Encoding: 65233 65233 65233
+Width: 1777
+Flags: W
+AnchorPoint: "HarakatBelow" 862 -193 basechar 0
+AnchorPoint: "HarakatAbove" 926 1633 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1496 446 m 1
+ 1496 446 1323 544 1428 700 c 0
+ 1474 770 1573 872 1665 820 c 0
+ 1785 752 1751 519 1665 411 c 0
+ 1472 171 1098 57 760 41 c 0
+ 432 25 136 102 70 246 c 0
+ 18 357 48 575 150 566 c 0
+ 230 560 132 400 212 320 c 0
+ 332 200 565 178 862 208 c 0
+ 1246 247 1496 446 1496 446 c 1
+879 1322 m 0
+ 817 1343 862 1584 976 1560 c 0
+ 1052 1545 1011 1276 879 1322 c 0
+EndSplineSet
+EndChar
 StartChar: uniFED2
 Encoding: 65234 65234 65234
 Width: 1750
@@ -16042,6 +16916,34 @@ Substitution2: "Medial Forms Preceding Yeh-1" FehMedi4
 Substitution2: "Medial Forms Preceding Heh-1" FehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" FehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" FehMedi2
+EndChar
+StartChar: uniFED5
+Encoding: 65237 65237 65237
+Width: 1641
+Flags: W
+AnchorPoint: "HarakatBelow" 862 -877 basechar 0
+AnchorPoint: "HarakatAbove" 854 1606 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1186 285 m 0
+ 1232 444 1358 570 1444 543 c 0
+ 1573 503 1526 214 1506 38 c 0
+ 1491 -97 1430 -334 1190 -528 c 0
+ 1014 -669 624 -713 428 -639 c 0
+ 146 -534 48 -372 86 -62 c 0
+ 124 240 159 404 234 384 c 0
+ 292 369 266 222 224 -66 c 0
+ 190 -303 294 -444 468 -501 c 0
+ 708 -581 1042 -510 1186 -334 c 0
+ 1285 -214 1356 -62 1359 64 c 1
+ 1212 116 1150 162 1186 285 c 0
+900 1336 m 4
+ 792 1318 725 1128 651 1204 c 4
+ 571 1286 771 1488 921 1509 c 4
+ 1053 1521 1204 1446 1140 1352 c 4
+ 1102 1300 962 1345 900 1336 c 4
+EndSplineSet
 EndChar
 StartChar: uniFED6
 Encoding: 65238 65238 65238
@@ -16136,6 +17038,39 @@ Substitution2: "Medial Forms Preceding Yeh-1" QafMedi4
 Substitution2: "Medial Forms Preceding Heh-1" QafMedi5
 Substitution2: "Medial Forms Preceding Meem-1" QafMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" QafMedi2
+EndChar
+StartChar: uniFED9
+Encoding: 65241 65241 65241
+Width: 1695
+Flags: W
+AnchorPoint: "HarakatBelow" 862 -193 basechar 0
+AnchorPoint: "HarakatAbove" 804 1431 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+912 1358 m 0
+ 974 1294 791 1186 806 1146 c 0
+ 818 1116 984 1110 993 1002 c 0
+ 1005 838 681 652 654 722 c 0
+ 610 833 872 906 848 980 c 0
+ 833 1030 678 990 663 1072 c 0
+ 642 1186 848 1426 912 1358 c 0
+1536 1202 m 0
+ 1610 1211 1610 854 1610 728 c 0
+ 1610 602 1590 488 1515 384 c 0
+ 1423 255 1107 89 750 62 c 0
+ 436 38 136 60 50 240 c 0
+ -8 366 110 657 208 612 c 0
+ 276 582 133 342 190 296 c 0
+ 331 182 632 178 848 212 c 0
+ 1001 236 1286 318 1398 478 c 0
+ 1536 674 1380 1184 1536 1202 c 0
+1554 1401 m 0
+ 1474 1439 1843 1961 2025 2216 c 0
+ 2201 2462 2510 2900 2574 2844 c 0
+ 2637 2790 2302 2357 2120 2102 c 0
+ 1944 1856 1626 1368 1554 1401 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEDA
 Encoding: 65242 65242 65242
@@ -16233,6 +17168,30 @@ Substitution2: "Medial Forms Preceding Heh-1" KehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
 EndChar
+StartChar: uniFEDD
+Encoding: 65245 65245 65245
+Width: 1606
+Flags: W
+AnchorPoint: "HarakatBelow" 814 -1123 basechar 0
+AnchorPoint: "HarakatAbove" 1370 1063 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1462 1014 m 0
+ 1536 1020 1548 446 1554 264 c 0
+ 1560 74 1540 -122 1498 -264 c 0
+ 1424 -516 1280 -648 988 -795 c 0
+ 758 -911 416 -924 214 -783 c 0
+ 104 -707 41 -594 50 -411 c 0
+ 62 -174 193 160 279 114 c 0
+ 325 90 250 -113 206 -285 c 0
+ 178 -402 190 -568 276 -636 c 0
+ 386 -722 618 -760 848 -682 c 0
+ 1012 -626 1187 -536 1293 -366 c 0
+ 1404 -190 1413 90 1413 296 c 0
+ 1413 474 1363 1006 1462 1014 c 0
+EndSplineSet
+EndChar
 StartChar: uniFEDE
 Encoding: 65246 65246 65246
 Width: 1653
@@ -16312,6 +17271,27 @@ Substitution2: "Medial Forms Preceding Heh-1" LamMedi3
 Substitution2: "Medial Forms Preceding Meem-1" LamMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" LamMedi1
 EndChar
+StartChar: uniFEE1
+Encoding: 65249 65249 65249
+Width: 828
+Flags: W
+AnchorPoint: "HarakatBelow" 787 842 basechar 0
+AnchorPoint: "HarakatAbove" 710 1498 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+627 1244 m 1
+ 667 1308 682 1398 756 1413 c 0
+ 844 1431 952 1361 952 1269 c 0
+ 952 1187 892 1149 812 1122 c 0
+ 750 1098 621 1103 519 974 c 0
+ 408 833 342 712 296 540 c 0
+ 188 141 354 -716 176 -750 c 0
+ 88 -765 129 -354 120 -170 c 0
+ 105 120 107 279 159 543 c 0
+ 241 965 449 1072 627 1244 c 1
+EndSplineSet
+EndChar
 StartChar: uniFEE2
 Encoding: 65250 65250 65250
 Width: 637
@@ -16388,6 +17368,31 @@ Substitution2: "Medial Forms Preceding Yeh-1" MeemMedi3
 Substitution2: "Medial Forms Preceding Heh-1" MeemMedi4
 Substitution2: "Medial Forms Preceding Meem-1" MeemMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" MeemMedi1
+EndChar
+StartChar: uniFEE5
+Encoding: 65253 65253 65253
+Width: 1707
+Flags: W
+AnchorPoint: "HarakatBelow" 808 -745 basechar 0
+AnchorPoint: "HarakatAbove" 896 982 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1318 968 m 0
+ 1386 1012 1484 860 1530 676 c 0
+ 1574 494 1616 356 1554 166 c 0
+ 1416 -264 1088 -506 774 -540 c 0
+ 442 -578 132 -380 102 -46 c 0
+ 87 138 234 522 314 478 c 0
+ 356 456 273 222 252 123 c 0
+ 213 -53 265 -183 369 -279 c 0
+ 527 -425 866 -466 1134 -220 c 0
+ 1246 -116 1363 55 1425 261 c 0
+ 1505 528 1243 920 1318 968 c 0
+848 176 m 0
+ 749 214 858 411 944 381 c 0
+ 1024 354 953 136 848 176 c 0
+EndSplineSet
 EndChar
 StartChar: uniFEE6
 Encoding: 65254 65254 65254
@@ -16475,6 +17480,27 @@ Substitution2: "Medial Forms Preceding Heh-1" NoonMedi4
 Substitution2: "Medial Forms Preceding Meem-1" NoonMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" NoonMedi1
 EndChar
+StartChar: uniFEE9
+Encoding: 65257 65257 65257
+Width: 528
+Flags: W
+AnchorPoint: "HarakatBelow" 280 89 basechar 0
+AnchorPoint: "HarakatAbove" 270 907 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+258 756 m 4
+ 366 756 480 684 498 579 c 4
+ 522 453 419 296 296 262 c 4
+ 204 235 60 286 30 378 c 4
+ 3 458 132 627 132 627 c 5
+ 108 648 150 759 258 756 c 4
+255 594 m 5
+ 246 585 146 466 202 410 c 4
+ 242 370 351 440 366 492 c 4
+ 384 548 289 591 255 594 c 5
+EndSplineSet
+EndChar
 StartChar: uniFEEA
 Encoding: 65258 65258 65258
 Width: 744
@@ -16554,6 +17580,25 @@ Substitution2: "Medial Forms Preceding Reh-1" HehMedi5
 Substitution2: "Medial Forms Preceding Heh-1" HehMedi3
 Substitution2: "Medial Forms Preceding Meem-1" HehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" HehMedi1
+EndChar
+StartChar: uniFEED
+Encoding: 65261 65261 65261
+Width: 550
+Flags: W
+AnchorPoint: "HarakatBelow" 246 -383 basechar 0
+AnchorPoint: "HarakatAbove" 281 759 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+357 184 m 1
+ 167 205 137 358 290 504 c 0
+ 348 560 406 600 474 556 c 0
+ 560 500 552 332 512 178 c 0
+ 476 42 366 -45 231 -132 c 0
+ 54 -246 -135 -298 -159 -228 c 0
+ -181 -164 -11 -112 142 -20 c 0
+ 247 43 329 84 357 184 c 1
+EndSplineSet
 EndChar
 StartChar: uniFEEE
 Encoding: 65262 65262 65262
