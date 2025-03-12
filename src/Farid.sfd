@@ -21,8 +21,6 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1740814464
-ModificationTime: 1741776635
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -237,10 +235,8 @@ Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
-DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 342 38 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -248,17 +244,15 @@ Grid
  4096 33548.8798828 l 1024
 EndSplineSet
 AnchorClass2: "HarakatBelowLig" "'blwm' Below Base Mark lookup 4-1" "HarakatBelow" "'blwm' Below Base Mark lookup 3-1" "HarakatAboveLig" "'abvm' Above Base Mark lookup 2-1" "HarakatAbove" "'abvm' Above Base Mark lookup 1-1" "Curs" "'curs' Cursive Attachment in Arabic lookup 0-1"
-BeginChars: 1114370 868
-
+BeginChars: 1114370 0
 StartChar: space
-Encoding: 32 32 0
+Encoding: 32 32 32
 Width: 400
 Flags: W
 LayerCount: 2
 EndChar
-
 StartChar: exclam
-Encoding: 33 33 1
+Encoding: 33 33 33
 Width: 276
 Flags: W
 LayerCount: 2
@@ -276,9 +270,8 @@ SplineSet
  319 137 177 -4 107 60 c 4
 EndSplineSet
 EndChar
-
 StartChar: quotedbl
-Encoding: 34 34 2
+Encoding: 34 34 34
 Width: 503
 Flags: W
 LayerCount: 2
@@ -296,9 +289,8 @@ SplineSet
  317 1414 320 1567 411 1558 c 0
 EndSplineSet
 EndChar
-
 StartChar: numbersign
-Encoding: 35 35 3
+Encoding: 35 35 35
 Width: 1351
 Flags: W
 LayerCount: 2
@@ -334,9 +326,8 @@ SplineSet
  1078 613 1300 563 1261 471 c 0
 EndSplineSet
 EndChar
-
 StartChar: dollar
-Encoding: 36 36 4
+Encoding: 36 36 36
 Width: 978
 Flags: W
 LayerCount: 2
@@ -369,9 +360,8 @@ SplineSet
  403 1244 325 1615 438 1628 c 4
 EndSplineSet
 EndChar
-
 StartChar: percent
-Encoding: 37 37 5
+Encoding: 37 37 37
 Width: 1096
 Flags: W
 LayerCount: 2
@@ -409,9 +399,8 @@ SplineSet
  921 528 916 590 887 605 c 0
 EndSplineSet
 EndChar
-
 StartChar: ampersand
-Encoding: 38 38 6
+Encoding: 38 38 38
 Width: 1095
 Flags: W
 LayerCount: 2
@@ -444,9 +433,8 @@ SplineSet
  955 324 1094 251 1065 193 c 4
 EndSplineSet
 EndChar
-
 StartChar: quotesingle
-Encoding: 39 39 7
+Encoding: 39 39 39
 Width: 309
 Flags: W
 LayerCount: 2
@@ -459,9 +447,8 @@ SplineSet
  131 1317 139 1464 212 1453 c 4
 EndSplineSet
 EndChar
-
 StartChar: parenleft
-Encoding: 40 40 8
+Encoding: 40 40 40
 Width: 442
 Flags: W
 LayerCount: 2
@@ -478,9 +465,8 @@ SplineSet
  213 1487 321 1655 395 1585 c 0
 EndSplineSet
 EndChar
-
 StartChar: parenright
-Encoding: 41 41 9
+Encoding: 41 41 41
 Width: 454
 Flags: W
 LayerCount: 2
@@ -497,9 +483,8 @@ SplineSet
  232 1487 124 1655 50 1585 c 0
 EndSplineSet
 EndChar
-
 StartChar: asterisk
-Encoding: 42 42 10
+Encoding: 42 42 42
 Width: 839
 Flags: W
 LayerCount: 2
@@ -522,9 +507,8 @@ SplineSet
  277 448 29 386 11 499 c 0
 EndSplineSet
 EndChar
-
 StartChar: plus
-Encoding: 43 43 11
+Encoding: 43 43 43
 Width: 836
 Flags: W
 LayerCount: 2
@@ -542,9 +526,8 @@ SplineSet
  343 609 331 895 427 891 c 0
 EndSplineSet
 EndChar
-
 StartChar: comma
-Encoding: 44 44 12
+Encoding: 44 44 44
 Width: 272
 Flags: W
 LayerCount: 2
@@ -560,9 +543,8 @@ SplineSet
  44 51 96 93 158 78 c 4
 EndSplineSet
 EndChar
-
 StartChar: hyphen
-Encoding: 45 45 13
+Encoding: 45 45 45
 Width: 707
 Flags: W
 LayerCount: 2
@@ -575,9 +557,8 @@ SplineSet
  242 382 23 334 17 450 c 0
 EndSplineSet
 EndChar
-
 StartChar: period
-Encoding: 46 46 14
+Encoding: 46 46 46
 Width: 177
 Flags: W
 LayerCount: 2
@@ -590,9 +571,8 @@ SplineSet
  149 199 112 160 48 182 c 4
 EndSplineSet
 EndChar
-
 StartChar: slash
-Encoding: 47 47 15
+Encoding: 47 47 47
 Width: 599
 Flags: W
 LayerCount: 2
@@ -607,9 +587,8 @@ SplineSet
  216 255 145 12 54 42 c 4
 EndSplineSet
 EndChar
-
 StartChar: zero
-Encoding: 48 48 16
+Encoding: 48 48 48
 Width: 938
 Flags: W
 LayerCount: 2
@@ -633,9 +612,8 @@ SplineSet
  657 1131 600 1193 508 1195 c 0
 EndSplineSet
 EndChar
-
 StartChar: one
-Encoding: 49 49 17
+Encoding: 49 49 49
 Width: 320
 Flags: W
 LayerCount: 2
@@ -650,9 +628,8 @@ SplineSet
  96 1072 127 1359 256 1335 c 0
 EndSplineSet
 EndChar
-
 StartChar: two
-Encoding: 50 50 18
+Encoding: 50 50 50
 Width: 954
 Flags: W
 LayerCount: 2
@@ -677,9 +654,8 @@ SplineSet
  110 1038 35 1052 30 1125 c 0
 EndSplineSet
 EndChar
-
 StartChar: three
-Encoding: 51 51 19
+Encoding: 51 51 51
 Width: 819
 Flags: W
 LayerCount: 2
@@ -708,9 +684,8 @@ SplineSet
  174 1045 152 927 107 910 c 0
 EndSplineSet
 EndChar
-
 StartChar: four
-Encoding: 52 52 20
+Encoding: 52 52 52
 Width: 789
 Flags: W
 LayerCount: 2
@@ -736,9 +711,8 @@ SplineSet
  394 701 444 952 543 923 c 0
 EndSplineSet
 EndChar
-
 StartChar: five
-Encoding: 53 53 21
+Encoding: 53 53 53
 Width: 859
 Flags: W
 LayerCount: 2
@@ -764,9 +738,8 @@ SplineSet
  354 1070 170 912 104 1010 c 0
 EndSplineSet
 EndChar
-
 StartChar: six
-Encoding: 54 54 22
+Encoding: 54 54 54
 Width: 834
 Flags: W
 LayerCount: 2
@@ -790,9 +763,8 @@ SplineSet
  157 876 273 1218 383 1172 c 0
 EndSplineSet
 EndChar
-
 StartChar: seven
-Encoding: 55 55 23
+Encoding: 55 55 55
 Width: 1049
 Flags: W
 LayerCount: 2
@@ -822,9 +794,8 @@ SplineSet
  430 425 234 345 222 465 c 0
 EndSplineSet
 EndChar
-
 StartChar: eight
-Encoding: 56 56 24
+Encoding: 56 56 56
 Width: 819
 Flags: W
 LayerCount: 2
@@ -855,9 +826,8 @@ SplineSet
  151 690 1 700 48 799 c 0
 EndSplineSet
 EndChar
-
 StartChar: nine
-Encoding: 57 57 25
+Encoding: 57 57 57
 Width: 825
 Flags: W
 LayerCount: 2
@@ -884,9 +854,8 @@ SplineSet
  686 1226 752 1132 673 1067 c 0
 EndSplineSet
 EndChar
-
 StartChar: colon
-Encoding: 58 58 26
+Encoding: 58 58 58
 Width: 177
 Flags: W
 LayerCount: 2
@@ -900,9 +869,8 @@ SplineSet
  197 407 178 193 46 238 c 4
 EndSplineSet
 EndChar
-
 StartChar: semicolon
-Encoding: 59 59 27
+Encoding: 59 59 59
 Width: 272
 Flags: W
 LayerCount: 2
@@ -921,9 +889,8 @@ SplineSet
  240 957 221 743 89 788 c 0
 EndSplineSet
 EndChar
-
 StartChar: less
-Encoding: 60 60 28
+Encoding: 60 60 60
 Width: 652
 Flags: W
 LayerCount: 2
@@ -940,9 +907,8 @@ SplineSet
  441 899 555 1035 611 973 c 4
 EndSplineSet
 EndChar
-
 StartChar: equal
-Encoding: 61 61 29
+Encoding: 61 61 61
 Width: 685
 Flags: W
 LayerCount: 2
@@ -960,9 +926,8 @@ SplineSet
  236 629 83 558 67 647 c 0
 EndSplineSet
 EndChar
-
 StartChar: greater
-Encoding: 62 62 30
+Encoding: 62 62 62
 Width: 625
 Flags: W
 LayerCount: 2
@@ -979,9 +944,8 @@ SplineSet
  199 899 85 1035 29 973 c 4
 EndSplineSet
 EndChar
-
 StartChar: question
-Encoding: 63 63 31
+Encoding: 63 63 63
 Width: 751
 Flags: W
 LayerCount: 2
@@ -1001,9 +965,8 @@ SplineSet
  414 273 540 96 405 58 c 0
 EndSplineSet
 EndChar
-
 StartChar: at
-Encoding: 64 64 32
+Encoding: 64 64 64
 Width: 1291
 Flags: W
 LayerCount: 2
@@ -1040,9 +1003,8 @@ SplineSet
  872 1024 910 964 888 936 c 4
 EndSplineSet
 EndChar
-
 StartChar: A
-Encoding: 65 65 33
+Encoding: 65 65 65
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -1069,9 +1031,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: B
-Encoding: 66 66 34
+Encoding: 66 66 66
 Width: 1272
 Flags: W
 LayerCount: 2
@@ -1102,9 +1063,8 @@ SplineSet
  286 877 267 311 109 337 c 0
 EndSplineSet
 EndChar
-
 StartChar: C
-Encoding: 67 67 35
+Encoding: 67 67 67
 Width: 1080
 Flags: W
 LayerCount: 2
@@ -1125,9 +1085,8 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
-
 StartChar: D
-Encoding: 68 68 36
+Encoding: 68 68 68
 Width: 1362
 Flags: W
 LayerCount: 2
@@ -1158,9 +1117,8 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
-
 StartChar: E
-Encoding: 69 69 37
+Encoding: 69 69 69
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -1191,9 +1149,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: F
-Encoding: 70 70 38
+Encoding: 70 70 70
 Width: 1069
 Flags: W
 LayerCount: 2
@@ -1216,9 +1173,8 @@ SplineSet
  350 542 138 496 134 584 c 0
 EndSplineSet
 EndChar
-
 StartChar: G
-Encoding: 71 71 39
+Encoding: 71 71 71
 Width: 1495
 Flags: W
 LayerCount: 2
@@ -1245,9 +1201,8 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: H
-Encoding: 72 72 40
+Encoding: 72 72 72
 Width: 1243
 Flags: W
 LayerCount: 2
@@ -1270,9 +1225,8 @@ SplineSet
  947 960 1002 1439 1126 1425 c 4
 EndSplineSet
 EndChar
-
 StartChar: I
-Encoding: 73 73 41
+Encoding: 73 73 73
 Width: 768
 Flags: W
 LayerCount: 2
@@ -1297,9 +1251,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: J
-Encoding: 74 74 42
+Encoding: 74 74 74
 Width: 901
 Flags: W
 LayerCount: 2
@@ -1325,9 +1278,8 @@ SplineSet
  650 934 624 1299 767 1265 c 0
 EndSplineSet
 EndChar
-
 StartChar: K
-Encoding: 75 75 43
+Encoding: 75 75 75
 Width: 1221
 Flags: W
 LayerCount: 2
@@ -1350,9 +1302,8 @@ SplineSet
  597 451 367 461 383 574 c 0
 EndSplineSet
 EndChar
-
 StartChar: L
-Encoding: 76 76 44
+Encoding: 76 76 76
 Width: 1058
 Flags: W
 LayerCount: 2
@@ -1371,9 +1322,8 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
-
 StartChar: M
-Encoding: 77 77 45
+Encoding: 77 77 77
 Width: 1480
 Flags: W
 LayerCount: 2
@@ -1401,9 +1351,8 @@ SplineSet
  218 834 246 1242 378 1214 c 0
 EndSplineSet
 EndChar
-
 StartChar: N
-Encoding: 78 78 46
+Encoding: 78 78 78
 Width: 1074
 Flags: W
 LayerCount: 2
@@ -1424,9 +1373,8 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
-
 StartChar: O
-Encoding: 79 79 47
+Encoding: 79 79 79
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -1449,9 +1397,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: P
-Encoding: 80 80 48
+Encoding: 80 80 80
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -1478,9 +1425,8 @@ SplineSet
  229 511 284 34 133 46 c 4
 EndSplineSet
 EndChar
-
 StartChar: Q
-Encoding: 81 81 49
+Encoding: 81 81 81
 Width: 1293
 Flags: W
 LayerCount: 2
@@ -1511,9 +1457,8 @@ SplineSet
  580 304 439 178 390 271 c 0
 EndSplineSet
 EndChar
-
 StartChar: R
-Encoding: 82 82 50
+Encoding: 82 82 82
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -1545,9 +1490,8 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
-
 StartChar: S
-Encoding: 83 83 51
+Encoding: 83 83 83
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -1574,9 +1518,8 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
-
 StartChar: T
-Encoding: 84 84 52
+Encoding: 84 84 84
 Width: 1413
 Flags: W
 LayerCount: 2
@@ -1594,9 +1537,8 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
-
 StartChar: U
-Encoding: 85 85 53
+Encoding: 85 85 85
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -1622,9 +1564,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: V
-Encoding: 86 86 54
+Encoding: 86 86 86
 Width: 1257
 Flags: W
 LayerCount: 2
@@ -1643,9 +1584,8 @@ SplineSet
  47 1251 0 1411 72 1444 c 0
 EndSplineSet
 EndChar
-
 StartChar: W
-Encoding: 87 87 55
+Encoding: 87 87 87
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -1670,9 +1610,8 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
-
 StartChar: X
-Encoding: 88 88 56
+Encoding: 88 88 88
 Width: 1117
 Flags: W
 LayerCount: 2
@@ -1692,9 +1631,8 @@ SplineSet
  146 1133 -49 1493 40 1536 c 0
 EndSplineSet
 EndChar
-
 StartChar: Y
-Encoding: 89 89 57
+Encoding: 89 89 89
 Width: 851
 Flags: W
 LayerCount: 2
@@ -1718,9 +1656,8 @@ SplineSet
  591 1188 697 1521 807 1478 c 4
 EndSplineSet
 EndChar
-
 StartChar: Z
-Encoding: 90 90 58
+Encoding: 90 90 90
 Width: 1052
 Flags: W
 LayerCount: 2
@@ -1750,9 +1687,8 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
-
 StartChar: bracketleft
-Encoding: 91 91 59
+Encoding: 91 91 91
 Width: 627
 Flags: W
 LayerCount: 2
@@ -1778,9 +1714,8 @@ SplineSet
  93 1198 44 1339 115 1368 c 0
 EndSplineSet
 EndChar
-
 StartChar: backslash
-Encoding: 92 92 60
+Encoding: 92 92 92
 Width: 599
 Flags: W
 LayerCount: 2
@@ -1795,9 +1730,8 @@ SplineSet
  390 255 461 12 552 42 c 0
 EndSplineSet
 EndChar
-
 StartChar: bracketright
-Encoding: 93 93 61
+Encoding: 93 93 93
 Width: 627
 Flags: W
 LayerCount: 2
@@ -1823,9 +1757,8 @@ SplineSet
  534 1198 582 1339 511 1368 c 0
 EndSplineSet
 EndChar
-
 StartChar: asciicircum
-Encoding: 94 94 62
+Encoding: 94 94 94
 Width: 437
 Flags: W
 LayerCount: 2
@@ -1843,9 +1776,8 @@ SplineSet
  127 1252 180 1364 231 1342 c 4
 EndSplineSet
 EndChar
-
 StartChar: underscore
-Encoding: 95 95 63
+Encoding: 95 95 95
 Width: 751
 Flags: W
 LayerCount: 2
@@ -1858,9 +1790,8 @@ SplineSet
  32 145 253 160 354 166 c 0
 EndSplineSet
 EndChar
-
 StartChar: grave
-Encoding: 96 96 64
+Encoding: 96 96 96
 Width: 384
 Flags: W
 LayerCount: 2
@@ -1873,9 +1804,8 @@ SplineSet
  106 1221 -8 1331 49 1384 c 4
 EndSplineSet
 EndChar
-
 StartChar: a
-Encoding: 97 97 65
+Encoding: 97 97 97
 Width: 795
 Flags: W
 LayerCount: 2
@@ -1903,9 +1833,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: b
-Encoding: 98 98 66
+Encoding: 98 98 98
 Width: 751
 Flags: W
 LayerCount: 2
@@ -1932,9 +1861,8 @@ SplineSet
  275 385 269 188 171 215 c 4
 EndSplineSet
 EndChar
-
 StartChar: c
-Encoding: 99 99 67
+Encoding: 99 99 99
 Width: 751
 Flags: W
 LayerCount: 2
@@ -1954,9 +1882,8 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: d
-Encoding: 100 100 68
+Encoding: 100 100 100
 Width: 789
 Flags: W
 LayerCount: 2
@@ -1986,9 +1913,8 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
-
 StartChar: e
-Encoding: 101 101 69
+Encoding: 101 101 101
 Width: 751
 Flags: W
 LayerCount: 2
@@ -2014,9 +1940,8 @@ SplineSet
  332 428 192 329 148 407 c 0
 EndSplineSet
 EndChar
-
 StartChar: f
-Encoding: 102 102 70
+Encoding: 102 102 102
 Width: 915
 Flags: W
 LayerCount: 2
@@ -2041,9 +1966,8 @@ SplineSet
  807 804 578 785 401 702 c 0
 EndSplineSet
 EndChar
-
 StartChar: g
-Encoding: 103 103 71
+Encoding: 103 103 103
 Width: 763
 Flags: W
 LayerCount: 2
@@ -2079,9 +2003,8 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
-
 StartChar: h
-Encoding: 104 104 72
+Encoding: 104 104 104
 Width: 809
 Flags: W
 LayerCount: 2
@@ -2108,9 +2031,8 @@ SplineSet
  240 143 197 -32 126 -4 c 0
 EndSplineSet
 EndChar
-
 StartChar: i
-Encoding: 105 105 73
+Encoding: 105 105 105
 Width: 355
 Flags: W
 LayerCount: 2
@@ -2129,9 +2051,8 @@ SplineSet
  328 1282 326 1182 265 1156 c 0
 EndSplineSet
 EndChar
-
 StartChar: j
-Encoding: 106 106 74
+Encoding: 106 106 106
 Width: 703
 Flags: W
 LayerCount: 2
@@ -2163,9 +2084,8 @@ SplineSet
  696 1440 693 1340 632 1314 c 0
 EndSplineSet
 EndChar
-
 StartChar: k
-Encoding: 107 107 75
+Encoding: 107 107 107
 Width: 789
 Flags: W
 LayerCount: 2
@@ -2198,9 +2118,8 @@ SplineSet
  411 285 212 344 273 430 c 0
 EndSplineSet
 EndChar
-
 StartChar: l
-Encoding: 108 108 76
+Encoding: 108 108 108
 Width: 549
 Flags: W
 LayerCount: 2
@@ -2217,9 +2136,8 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
-
 StartChar: m
-Encoding: 109 109 77
+Encoding: 109 109 109
 Width: 947
 Flags: W
 LayerCount: 2
@@ -2250,9 +2168,8 @@ SplineSet
  544 249 538 35 461 75 c 0
 EndSplineSet
 EndChar
-
 StartChar: n
-Encoding: 110 110 78
+Encoding: 110 110 110
 Width: 643
 Flags: W
 LayerCount: 2
@@ -2276,9 +2193,8 @@ SplineSet
  488 19 461 90 452 304 c 4
 EndSplineSet
 EndChar
-
 StartChar: o
-Encoding: 111 111 79
+Encoding: 111 111 111
 Width: 649
 Flags: W
 LayerCount: 2
@@ -2300,9 +2216,8 @@ SplineSet
  456 639 407 728 343 728 c 4
 EndSplineSet
 EndChar
-
 StartChar: p
-Encoding: 112 112 80
+Encoding: 112 112 112
 Width: 847
 Flags: W
 LayerCount: 2
@@ -2334,9 +2249,8 @@ SplineSet
  363 57 283 127 310 192 c 0
 EndSplineSet
 EndChar
-
 StartChar: q
-Encoding: 113 113 81
+Encoding: 113 113 113
 Width: 928
 Flags: W
 LayerCount: 2
@@ -2373,9 +2287,8 @@ SplineSet
  513 -467 531 -748 402 -732 c 0
 EndSplineSet
 EndChar
-
 StartChar: r
-Encoding: 114 114 82
+Encoding: 114 114 114
 Width: 751
 Flags: W
 LayerCount: 2
@@ -2396,9 +2309,8 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
-
 StartChar: s
-Encoding: 115 115 83
+Encoding: 115 115 115
 Width: 654
 Flags: W
 LayerCount: 2
@@ -2422,9 +2334,8 @@ SplineSet
  368 850 466 798 444 737 c 4
 EndSplineSet
 EndChar
-
 StartChar: t
-Encoding: 116 116 84
+Encoding: 116 116 116
 Width: 928
 Flags: W
 LayerCount: 2
@@ -2451,9 +2362,8 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
-
 StartChar: u
-Encoding: 117 117 85
+Encoding: 117 117 117
 Width: 672
 Flags: W
 LayerCount: 2
@@ -2478,9 +2388,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: v
-Encoding: 118 118 86
+Encoding: 118 118 118
 Width: 536
 Flags: W
 LayerCount: 2
@@ -2498,9 +2407,8 @@ SplineSet
  5 479 -5 620 64 633 c 0
 EndSplineSet
 EndChar
-
 StartChar: w
-Encoding: 119 119 87
+Encoding: 119 119 119
 Width: 892
 Flags: W
 LayerCount: 2
@@ -2526,9 +2434,8 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
-
 StartChar: x
-Encoding: 120 120 88
+Encoding: 120 120 120
 Width: 640
 Flags: W
 LayerCount: 2
@@ -2550,9 +2457,8 @@ SplineSet
  308 756 392 887 466 831 c 0
 EndSplineSet
 EndChar
-
 StartChar: y
-Encoding: 121 121 89
+Encoding: 121 121 121
 Width: 607
 Flags: W
 LayerCount: 2
@@ -2576,9 +2482,8 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
-
 StartChar: z
-Encoding: 122 122 90
+Encoding: 122 122 122
 Width: 678
 Flags: W
 LayerCount: 2
@@ -2605,9 +2510,8 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
-
 StartChar: braceleft
-Encoding: 123 123 91
+Encoding: 123 123 123
 Width: 540
 Flags: W
 LayerCount: 2
@@ -2631,9 +2535,8 @@ SplineSet
  395 1566 512 1545 496 1443 c 0
 EndSplineSet
 EndChar
-
 StartChar: bar
-Encoding: 124 124 92
+Encoding: 124 124 124
 Width: 253
 Flags: W
 LayerCount: 2
@@ -2648,9 +2551,8 @@ SplineSet
  40 1219 33 1546 128 1553 c 0
 EndSplineSet
 EndChar
-
 StartChar: braceright
-Encoding: 125 125 93
+Encoding: 125 125 125
 Width: 534
 Flags: W
 LayerCount: 2
@@ -2674,9 +2576,8 @@ SplineSet
  134 8 18 29 34 131 c 0
 EndSplineSet
 EndChar
-
 StartChar: asciitilde
-Encoding: 126 126 94
+Encoding: 126 126 126
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -2693,16 +2594,14 @@ SplineSet
  63 606 -5 496 56 446 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni00A0
-Encoding: 160 160 95
+Encoding: 160 160 160
 Width: 400
 Flags: W
 LayerCount: 2
 EndChar
-
 StartChar: exclamdown
-Encoding: 161 161 96
+Encoding: 161 161 161
 Width: 276
 Flags: W
 LayerCount: 2
@@ -2720,9 +2619,8 @@ SplineSet
  -43 547 99 688 169 624 c 4
 EndSplineSet
 EndChar
-
 StartChar: cent
-Encoding: 162 162 97
+Encoding: 162 162 162
 Width: 978
 Flags: W
 LayerCount: 2
@@ -2749,9 +2647,8 @@ SplineSet
  375 1240 297 1611 410 1624 c 4
 EndSplineSet
 EndChar
-
 StartChar: sterling
-Encoding: 163 163 98
+Encoding: 163 163 163
 Width: 1009
 Flags: W
 LayerCount: 2
@@ -2787,9 +2684,8 @@ SplineSet
  274 632 98 424 34 514 c 0
 EndSplineSet
 EndChar
-
 StartChar: currency
-Encoding: 164 164 99
+Encoding: 164 164 164
 Width: 973
 Flags: W
 LayerCount: 2
@@ -2827,9 +2723,8 @@ SplineSet
  739 1330 851 1462 931 1398 c 0
 EndSplineSet
 EndChar
-
 StartChar: yen
-Encoding: 165 165 100
+Encoding: 165 165 165
 Width: 851
 Flags: W
 LayerCount: 2
@@ -2863,9 +2758,8 @@ SplineSet
  296 110 90 15 66 97 c 0
 EndSplineSet
 EndChar
-
 StartChar: brokenbar
-Encoding: 166 166 101
+Encoding: 166 166 166
 Width: 244
 Flags: W
 LayerCount: 2
@@ -2883,9 +2777,8 @@ SplineSet
  33 534 25 743 116 747 c 0
 EndSplineSet
 EndChar
-
 StartChar: section
-Encoding: 167 167 102
+Encoding: 167 167 167
 Width: 911
 Flags: W
 LayerCount: 2
@@ -2918,9 +2811,8 @@ SplineSet
  291 1122 413 1231 480 1167 c 0
 EndSplineSet
 EndChar
-
 StartChar: dieresis
-Encoding: 168 168 103
+Encoding: 168 168 168
 Width: 505
 Flags: W
 LayerCount: 2
@@ -2938,9 +2830,8 @@ SplineSet
  421 1024 365 973 322 994 c 4
 EndSplineSet
 EndChar
-
 StartChar: copyright
-Encoding: 169 169 104
+Encoding: 169 169 169
 Width: 1463
 Flags: W
 LayerCount: 2
@@ -2974,9 +2865,8 @@ SplineSet
  831 1180 925 1115 890 1039 c 0
 EndSplineSet
 EndChar
-
 StartChar: ordfeminine
-Encoding: 170 170 105
+Encoding: 170 170 170
 Width: 750
 Flags: W
 LayerCount: 2
@@ -3000,9 +2890,8 @@ SplineSet
  421 1338 430 1484 513 1483 c 0
 EndSplineSet
 EndChar
-
 StartChar: guillemotleft
-Encoding: 171 171 106
+Encoding: 171 171 171
 Width: 813
 Flags: W
 LayerCount: 2
@@ -3026,9 +2915,8 @@ SplineSet
  666 626 835 742 757 820 c 4
 EndSplineSet
 EndChar
-
 StartChar: logicalnot
-Encoding: 172 172 107
+Encoding: 172 172 172
 Width: 1102
 Flags: W
 LayerCount: 2
@@ -3046,9 +2934,8 @@ SplineSet
  894 629 888 874 1003 867 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni00AD
-Encoding: 173 173 108
+Encoding: 173 173 173
 Width: 707
 Flags: W
 LayerCount: 2
@@ -3061,9 +2948,8 @@ SplineSet
  242 382 23 334 17 450 c 4
 EndSplineSet
 EndChar
-
 StartChar: registered
-Encoding: 174 174 109
+Encoding: 174 174 174
 Width: 1461
 Flags: W
 LayerCount: 2
@@ -3107,9 +2993,8 @@ SplineSet
  754 653 638 696 669 756 c 0
 EndSplineSet
 EndChar
-
 StartChar: macron
-Encoding: 175 175 110
+Encoding: 175 175 175
 Width: 751
 Flags: W
 LayerCount: 2
@@ -3122,9 +3007,8 @@ SplineSet
  41 1203 238 1238 335 1261 c 4
 EndSplineSet
 EndChar
-
 StartChar: degree
-Encoding: 176 176 111
+Encoding: 176 176 176
 Width: 386
 Flags: W
 LayerCount: 2
@@ -3142,9 +3026,8 @@ SplineSet
  274 1387 256 1430 221 1444 c 4
 EndSplineSet
 EndChar
-
 StartChar: plusminus
-Encoding: 177 177 112
+Encoding: 177 177 177
 Width: 836
 Flags: W
 LayerCount: 2
@@ -3167,9 +3050,8 @@ SplineSet
  343 609 331 895 427 891 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni00B2
-Encoding: 178 178 113
+Encoding: 178 178 178
 Width: 633
 Flags: W
 LayerCount: 2
@@ -3191,9 +3073,8 @@ SplineSet
  161 1343 170 1316 106 1276 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni00B3
-Encoding: 179 179 114
+Encoding: 179 179 179
 Width: 561
 Flags: W
 LayerCount: 2
@@ -3218,9 +3099,8 @@ SplineSet
  89 1304 23 1349 30 1401 c 0
 EndSplineSet
 EndChar
-
 StartChar: acute
-Encoding: 180 180 115
+Encoding: 180 180 180
 Width: 384
 Flags: W
 LayerCount: 2
@@ -3233,9 +3113,8 @@ SplineSet
  270 1221 384 1331 327 1384 c 4
 EndSplineSet
 EndChar
-
 StartChar: mu
-Encoding: 181 181 116
+Encoding: 181 181 181
 Width: 751
 Flags: W
 LayerCount: 2
@@ -3264,9 +3143,8 @@ SplineSet
  89 511 92 823 219 808 c 0
 EndSplineSet
 EndChar
-
 StartChar: paragraph
-Encoding: 182 182 117
+Encoding: 182 182 182
 Width: 1109
 Flags: W
 LayerCount: 2
@@ -3302,9 +3180,8 @@ SplineSet
  412 1287 399 1585 524 1585 c 0
 EndSplineSet
 EndChar
-
 StartChar: periodcentered
-Encoding: 183 183 118
+Encoding: 183 183 183
 Width: 177
 Flags: W
 LayerCount: 2
@@ -3317,9 +3194,8 @@ SplineSet
  146 595 109 556 45 578 c 4
 EndSplineSet
 EndChar
-
 StartChar: cedilla
-Encoding: 184 184 119
+Encoding: 184 184 184
 Width: 751
 Flags: W
 LayerCount: 2
@@ -3340,9 +3216,8 @@ SplineSet
  264 5 289 25 318 25 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni00B9
-Encoding: 185 185 120
+Encoding: 185 185 185
 Width: 245
 Flags: W
 LayerCount: 2
@@ -3355,9 +3230,8 @@ SplineSet
  47 1273 -1 1476 106 1483 c 4
 EndSplineSet
 EndChar
-
 StartChar: ordmasculine
-Encoding: 186 186 121
+Encoding: 186 186 186
 Width: 639
 Flags: W
 LayerCount: 2
@@ -3375,9 +3249,8 @@ SplineSet
  447 1332 386 1427 329 1431 c 0
 EndSplineSet
 EndChar
-
 StartChar: guillemotright
-Encoding: 187 187 122
+Encoding: 187 187 187
 Width: 813
 Flags: W
 LayerCount: 2
@@ -3401,9 +3274,8 @@ SplineSet
  146 626 -23 742 55 820 c 0
 EndSplineSet
 EndChar
-
 StartChar: onequarter
-Encoding: 188 188 123
+Encoding: 188 188 188
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -3437,9 +3309,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: onehalf
-Encoding: 189 189 124
+Encoding: 189 189 189
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -3473,9 +3344,8 @@ SplineSet
  808 509 817 482 753 442 c 4
 EndSplineSet
 EndChar
-
 StartChar: threequarters
-Encoding: 190 190 125
+Encoding: 190 190 190
 Width: 1453
 Flags: W
 LayerCount: 2
@@ -3521,9 +3391,8 @@ SplineSet
  462 277 295 26 222 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: questiondown
-Encoding: 191 191 126
+Encoding: 191 191 191
 Width: 751
 Flags: W
 LayerCount: 2
@@ -3543,9 +3412,8 @@ SplineSet
  310 501 184 678 319 716 c 4
 EndSplineSet
 EndChar
-
 StartChar: Agrave
-Encoding: 192 192 127
+Encoding: 192 192 192
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3577,9 +3445,8 @@ SplineSet
  421 494 258 378 216 475 c 4
 EndSplineSet
 EndChar
-
 StartChar: Aacute
-Encoding: 193 193 128
+Encoding: 193 193 193
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3611,9 +3478,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: Acircumflex
-Encoding: 194 194 129
+Encoding: 194 194 194
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3650,9 +3516,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: Atilde
-Encoding: 195 195 130
+Encoding: 195 195 195
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3686,9 +3551,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: Adieresis
-Encoding: 196 196 131
+Encoding: 196 196 196
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3725,9 +3589,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: Aring
-Encoding: 197 197 132
+Encoding: 197 197 197
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3764,9 +3627,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: AE
-Encoding: 198 198 133
+Encoding: 198 198 198
 Width: 1649
 Flags: W
 LayerCount: 2
@@ -3805,9 +3667,8 @@ SplineSet
  553 597 376 530 351 614 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ccedilla
-Encoding: 199 199 134
+Encoding: 199 199 199
 Width: 1080
 Flags: W
 LayerCount: 2
@@ -3841,9 +3702,8 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
-
 StartChar: Egrave
-Encoding: 200 200 135
+Encoding: 200 200 200
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -3879,9 +3739,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Eacute
-Encoding: 201 201 136
+Encoding: 201 201 201
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -3917,9 +3776,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ecircumflex
-Encoding: 202 202 137
+Encoding: 202 202 202
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -3960,9 +3818,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Edieresis
-Encoding: 203 203 138
+Encoding: 203 203 203
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -4003,9 +3860,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Igrave
-Encoding: 204 204 139
+Encoding: 204 204 204
 Width: 768
 Flags: W
 LayerCount: 2
@@ -4035,9 +3891,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: Iacute
-Encoding: 205 205 140
+Encoding: 205 205 205
 Width: 768
 Flags: W
 LayerCount: 2
@@ -4067,9 +3922,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: Icircumflex
-Encoding: 206 206 141
+Encoding: 206 206 206
 Width: 768
 Flags: W
 LayerCount: 2
@@ -4104,9 +3958,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: Idieresis
-Encoding: 207 207 142
+Encoding: 207 207 207
 Width: 768
 Flags: W
 LayerCount: 2
@@ -4141,9 +3994,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: Eth
-Encoding: 208 208 143
+Encoding: 208 208 208
 Width: 1362
 Flags: W
 LayerCount: 2
@@ -4179,9 +4031,8 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ntilde
-Encoding: 209 209 144
+Encoding: 209 209 209
 Width: 1074
 Flags: W
 LayerCount: 2
@@ -4209,9 +4060,8 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ograve
-Encoding: 210 210 145
+Encoding: 210 210 210
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -4239,9 +4089,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: Oacute
-Encoding: 211 211 146
+Encoding: 211 211 211
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -4269,9 +4118,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ocircumflex
-Encoding: 212 212 147
+Encoding: 212 212 212
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -4304,9 +4152,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: Otilde
-Encoding: 213 213 148
+Encoding: 213 213 213
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -4336,9 +4183,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: Odieresis
-Encoding: 214 214 149
+Encoding: 214 214 214
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -4371,9 +4217,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: multiply
-Encoding: 215 215 150
+Encoding: 215 215 215
 Width: 563
 Flags: W
 LayerCount: 2
@@ -4391,9 +4236,8 @@ SplineSet
  229 423 192 173 96 213 c 0
 EndSplineSet
 EndChar
-
 StartChar: Oslash
-Encoding: 216 216 151
+Encoding: 216 216 216
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -4424,9 +4268,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ugrave
-Encoding: 217 217 152
+Encoding: 217 217 217
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -4457,9 +4300,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: Uacute
-Encoding: 218 218 153
+Encoding: 218 218 218
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -4490,9 +4332,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ucircumflex
-Encoding: 219 219 154
+Encoding: 219 219 219
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -4528,9 +4369,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: Udieresis
-Encoding: 220 220 155
+Encoding: 220 220 220
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -4566,9 +4406,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: Yacute
-Encoding: 221 221 156
+Encoding: 221 221 221
 Width: 851
 Flags: W
 LayerCount: 2
@@ -4597,9 +4436,8 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
-
 StartChar: Thorn
-Encoding: 222 222 157
+Encoding: 222 222 222
 Width: 1237
 Flags: W
 LayerCount: 2
@@ -4630,9 +4468,8 @@ SplineSet
  339 805 258 454 150 505 c 0
 EndSplineSet
 EndChar
-
 StartChar: germandbls
-Encoding: 223 223 158
+Encoding: 223 223 223
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -4660,9 +4497,8 @@ SplineSet
  205 78 202 -279 97 -273 c 0
 EndSplineSet
 EndChar
-
 StartChar: agrave
-Encoding: 224 224 159
+Encoding: 224 224 224
 Width: 795
 Flags: W
 LayerCount: 2
@@ -4695,9 +4531,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: aacute
-Encoding: 225 225 160
+Encoding: 225 225 225
 Width: 795
 Flags: W
 LayerCount: 2
@@ -4730,9 +4565,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: acircumflex
-Encoding: 226 226 161
+Encoding: 226 226 226
 Width: 795
 Flags: W
 LayerCount: 2
@@ -4770,9 +4604,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: atilde
-Encoding: 227 227 162
+Encoding: 227 227 227
 Width: 795
 Flags: W
 LayerCount: 2
@@ -4807,9 +4640,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: adieresis
-Encoding: 228 228 163
+Encoding: 228 228 228
 Width: 795
 Flags: W
 LayerCount: 2
@@ -4847,9 +4679,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: aring
-Encoding: 229 229 164
+Encoding: 229 229 229
 Width: 795
 Flags: W
 LayerCount: 2
@@ -4887,9 +4718,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: ae
-Encoding: 230 230 165
+Encoding: 230 230 230
 Width: 1153
 Flags: W
 LayerCount: 2
@@ -4932,9 +4762,8 @@ SplineSet
  393 643 480 702 504 650 c 0
 EndSplineSet
 EndChar
-
 StartChar: ccedilla
-Encoding: 231 231 166
+Encoding: 231 231 231
 Width: 751
 Flags: W
 LayerCount: 2
@@ -4967,9 +4796,8 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: egrave
-Encoding: 232 232 167
+Encoding: 232 232 232
 Width: 751
 Flags: W
 LayerCount: 2
@@ -5000,9 +4828,8 @@ SplineSet
  208 1263 94 1373 151 1426 c 0
 EndSplineSet
 EndChar
-
 StartChar: eacute
-Encoding: 233 233 168
+Encoding: 233 233 233
 Width: 751
 Flags: W
 LayerCount: 2
@@ -5033,9 +4860,8 @@ SplineSet
  498 1249 612 1359 555 1412 c 0
 EndSplineSet
 EndChar
-
 StartChar: ecircumflex
-Encoding: 234 234 169
+Encoding: 234 234 234
 Width: 751
 Flags: W
 LayerCount: 2
@@ -5071,9 +4897,8 @@ SplineSet
  246 1293 299 1405 350 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: edieresis
-Encoding: 235 235 170
+Encoding: 235 235 235
 Width: 751
 Flags: W
 LayerCount: 2
@@ -5109,9 +4934,8 @@ SplineSet
  538 1132 482 1081 439 1102 c 0
 EndSplineSet
 EndChar
-
 StartChar: igrave
-Encoding: 236 236 171
+Encoding: 236 236 236
 Width: 355
 Flags: W
 LayerCount: 2
@@ -5130,9 +4954,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: iacute
-Encoding: 237 237 172
+Encoding: 237 237 237
 Width: 355
 Flags: W
 LayerCount: 2
@@ -5151,9 +4974,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: icircumflex
-Encoding: 238 238 173
+Encoding: 238 238 238
 Width: 355
 Flags: W
 LayerCount: 2
@@ -5177,9 +4999,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: idieresis
-Encoding: 239 239 174
+Encoding: 239 239 239
 Width: 355
 Flags: W
 LayerCount: 2
@@ -5203,9 +5024,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: eth
-Encoding: 240 240 175
+Encoding: 240 240 240
 Width: 805
 Flags: W
 LayerCount: 2
@@ -5232,9 +5052,8 @@ SplineSet
  392 1323 607 1463 657 1360 c 0
 EndSplineSet
 EndChar
-
 StartChar: ntilde
-Encoding: 241 241 176
+Encoding: 241 241 241
 Width: 643
 Flags: W
 LayerCount: 2
@@ -5265,9 +5084,8 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
-
 StartChar: ograve
-Encoding: 242 242 177
+Encoding: 242 242 242
 Width: 649
 Flags: W
 LayerCount: 2
@@ -5294,9 +5112,8 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: oacute
-Encoding: 243 243 178
+Encoding: 243 243 243
 Width: 649
 Flags: W
 LayerCount: 2
@@ -5323,9 +5140,8 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: ocircumflex
-Encoding: 244 244 179
+Encoding: 244 244 244
 Width: 649
 Flags: W
 LayerCount: 2
@@ -5357,9 +5173,8 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: otilde
-Encoding: 245 245 180
+Encoding: 245 245 245
 Width: 649
 Flags: W
 LayerCount: 2
@@ -5388,9 +5203,8 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: odieresis
-Encoding: 246 246 181
+Encoding: 246 246 246
 Width: 649
 Flags: W
 LayerCount: 2
@@ -5422,9 +5236,8 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: divide
-Encoding: 247 247 182
+Encoding: 247 247 247
 Width: 872
 Flags: W
 LayerCount: 2
@@ -5443,9 +5256,8 @@ SplineSet
  265 533 54 439 26 539 c 0
 EndSplineSet
 EndChar
-
 StartChar: oslash
-Encoding: 248 248 183
+Encoding: 248 248 248
 Width: 649
 Flags: W
 LayerCount: 2
@@ -5474,9 +5286,8 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: ugrave
-Encoding: 249 249 184
+Encoding: 249 249 249
 Width: 672
 Flags: W
 LayerCount: 2
@@ -5506,9 +5317,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: uacute
-Encoding: 250 250 185
+Encoding: 250 250 250
 Width: 672
 Flags: W
 LayerCount: 2
@@ -5538,9 +5348,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: ucircumflex
-Encoding: 251 251 186
+Encoding: 251 251 251
 Width: 672
 Flags: W
 LayerCount: 2
@@ -5575,9 +5384,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: udieresis
-Encoding: 252 252 187
+Encoding: 252 252 252
 Width: 672
 Flags: W
 LayerCount: 2
@@ -5612,9 +5420,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: yacute
-Encoding: 253 253 188
+Encoding: 253 253 253
 Width: 607
 Flags: W
 LayerCount: 2
@@ -5643,9 +5450,8 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
-
 StartChar: thorn
-Encoding: 254 254 189
+Encoding: 254 254 254
 Width: 847
 Flags: W
 LayerCount: 2
@@ -5678,9 +5484,8 @@ SplineSet
  363 57 283 127 310 192 c 0
 EndSplineSet
 EndChar
-
 StartChar: ydieresis
-Encoding: 255 255 190
+Encoding: 255 255 255
 Width: 607
 Flags: W
 LayerCount: 2
@@ -5714,9 +5519,8 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
-
 StartChar: Amacron
-Encoding: 256 256 191
+Encoding: 256 256 256
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -5748,9 +5552,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: amacron
-Encoding: 257 257 192
+Encoding: 257 257 257
 Width: 795
 Flags: W
 LayerCount: 2
@@ -5783,9 +5586,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: Abreve
-Encoding: 258 258 193
+Encoding: 258 258 258
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -5821,9 +5623,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: abreve
-Encoding: 259 259 194
+Encoding: 259 259 259
 Width: 795
 Flags: W
 LayerCount: 2
@@ -5860,9 +5661,8 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: Aogonek
-Encoding: 260 260 195
+Encoding: 260 260 260
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -5897,9 +5697,8 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
-
 StartChar: aogonek
-Encoding: 261 261 196
+Encoding: 261 261 261
 Width: 795
 Flags: W
 LayerCount: 2
@@ -5936,9 +5735,8 @@ SplineSet
  451 496 483 769 581 724 c 0
 EndSplineSet
 EndChar
-
 StartChar: Cacute
-Encoding: 262 262 197
+Encoding: 262 262 262
 Width: 1080
 Flags: W
 LayerCount: 2
@@ -5964,9 +5762,8 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
-
 StartChar: cacute
-Encoding: 263 263 198
+Encoding: 263 263 263
 Width: 751
 Flags: W
 LayerCount: 2
@@ -5991,9 +5788,8 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ccircumflex
-Encoding: 264 264 199
+Encoding: 264 264 264
 Width: 1080
 Flags: W
 LayerCount: 2
@@ -6024,9 +5820,8 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
-
 StartChar: ccircumflex
-Encoding: 265 265 200
+Encoding: 265 265 265
 Width: 751
 Flags: W
 LayerCount: 2
@@ -6056,9 +5851,8 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: Cdotaccent
-Encoding: 266 266 201
+Encoding: 266 266 266
 Width: 1080
 Flags: W
 LayerCount: 2
@@ -6084,9 +5878,8 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
-
 StartChar: cdotaccent
-Encoding: 267 267 202
+Encoding: 267 267 267
 Width: 751
 Flags: W
 LayerCount: 2
@@ -6111,9 +5904,8 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ccaron
-Encoding: 268 268 203
+Encoding: 268 268 268
 Width: 1080
 Flags: W
 LayerCount: 2
@@ -6144,9 +5936,8 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
-
 StartChar: ccaron
-Encoding: 269 269 204
+Encoding: 269 269 269
 Width: 751
 Flags: W
 LayerCount: 2
@@ -6176,9 +5967,8 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: Dcaron
-Encoding: 270 270 205
+Encoding: 270 270 270
 Width: 1362
 Flags: W
 LayerCount: 2
@@ -6219,9 +6009,8 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
-
 StartChar: dcaron
-Encoding: 271 271 206
+Encoding: 271 271 271
 Width: 789
 Flags: W
 LayerCount: 2
@@ -6256,9 +6045,8 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
-
 StartChar: Dcroat
-Encoding: 272 272 207
+Encoding: 272 272 272
 Width: 1362
 Flags: W
 LayerCount: 2
@@ -6294,9 +6082,8 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
-
 StartChar: dcroat
-Encoding: 273 273 208
+Encoding: 273 273 273
 Width: 789
 Flags: W
 LayerCount: 2
@@ -6331,9 +6118,8 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
-
 StartChar: Emacron
-Encoding: 274 274 209
+Encoding: 274 274 274
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -6369,9 +6155,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: emacron
-Encoding: 275 275 210
+Encoding: 275 275 275
 Width: 751
 Flags: W
 LayerCount: 2
@@ -6402,9 +6187,8 @@ SplineSet
  35 1170 232 1205 329 1228 c 0
 EndSplineSet
 EndChar
-
 StartChar: Edotaccent
-Encoding: 278 278 211
+Encoding: 278 278 278
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -6440,9 +6224,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: edotaccent
-Encoding: 279 279 212
+Encoding: 279 279 279
 Width: 751
 Flags: W
 LayerCount: 2
@@ -6473,9 +6256,8 @@ SplineSet
  418 1071 362 1020 319 1041 c 0
 EndSplineSet
 EndChar
-
 StartChar: Eogonek
-Encoding: 280 280 213
+Encoding: 280 280 280
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -6514,9 +6296,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: eogonek
-Encoding: 281 281 214
+Encoding: 281 281 281
 Width: 751
 Flags: W
 LayerCount: 2
@@ -6550,9 +6331,8 @@ SplineSet
  332 428 192 329 148 407 c 4
 EndSplineSet
 EndChar
-
 StartChar: Ecaron
-Encoding: 282 282 215
+Encoding: 282 282 282
 Width: 1008
 Flags: W
 LayerCount: 2
@@ -6593,9 +6373,8 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: ecaron
-Encoding: 283 283 216
+Encoding: 283 283 283
 Width: 751
 Flags: W
 LayerCount: 2
@@ -6631,9 +6410,8 @@ SplineSet
  439 1125 386 1013 335 1035 c 0
 EndSplineSet
 EndChar
-
 StartChar: Gcircumflex
-Encoding: 284 284 217
+Encoding: 284 284 284
 Width: 1495
 Flags: W
 LayerCount: 2
@@ -6670,9 +6448,8 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: gcircumflex
-Encoding: 285 285 218
+Encoding: 285 285 285
 Width: 763
 Flags: W
 LayerCount: 2
@@ -6718,9 +6495,8 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
-
 StartChar: Gbreve
-Encoding: 286 286 219
+Encoding: 286 286 286
 Width: 1495
 Flags: W
 LayerCount: 2
@@ -6756,9 +6532,8 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: gbreve
-Encoding: 287 287 220
+Encoding: 287 287 287
 Width: 763
 Flags: W
 LayerCount: 2
@@ -6803,9 +6578,8 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
-
 StartChar: Gdotaccent
-Encoding: 288 288 221
+Encoding: 288 288 288
 Width: 1495
 Flags: W
 LayerCount: 2
@@ -6837,9 +6611,8 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: gdotaccent
-Encoding: 289 289 222
+Encoding: 289 289 289
 Width: 763
 Flags: W
 LayerCount: 2
@@ -6880,9 +6653,8 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
-
 StartChar: Gcommaaccent
-Encoding: 290 290 223
+Encoding: 290 290 290
 Width: 1495
 Flags: W
 LayerCount: 2
@@ -6914,9 +6686,8 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
-
 StartChar: gcommaaccent
-Encoding: 291 291 224
+Encoding: 291 291 291
 Width: 763
 Flags: W
 LayerCount: 2
@@ -6957,9 +6728,8 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
-
 StartChar: Hcircumflex
-Encoding: 292 292 225
+Encoding: 292 292 292
 Width: 1243
 Flags: W
 LayerCount: 2
@@ -6992,9 +6762,8 @@ SplineSet
  947 960 1002 1439 1126 1425 c 0
 EndSplineSet
 EndChar
-
 StartChar: hcircumflex
-Encoding: 293 293 226
+Encoding: 293 293 293
 Width: 793
 Flags: W
 LayerCount: 2
@@ -7031,9 +6800,8 @@ SplineSet
  284 1817 337 1929 388 1907 c 4
 EndSplineSet
 EndChar
-
 StartChar: Hbar
-Encoding: 294 294 227
+Encoding: 294 294 294
 Width: 1569
 Flags: W
 LayerCount: 2
@@ -7063,9 +6831,8 @@ SplineSet
  1109 960 1164 1439 1288 1425 c 0
 EndSplineSet
 EndChar
-
 StartChar: hbar
-Encoding: 295 295 228
+Encoding: 295 295 295
 Width: 971
 Flags: W
 LayerCount: 2
@@ -7097,9 +6864,8 @@ SplineSet
  402 143 359 -32 288 -4 c 0
 EndSplineSet
 EndChar
-
 StartChar: Itilde
-Encoding: 296 296 229
+Encoding: 296 296 296
 Width: 768
 Flags: W
 LayerCount: 2
@@ -7131,9 +6897,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: itilde
-Encoding: 297 297 230
+Encoding: 297 297 297
 Width: 355
 Flags: W
 LayerCount: 2
@@ -7154,9 +6919,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: Imacron
-Encoding: 298 298 231
+Encoding: 298 298 298
 Width: 768
 Flags: W
 LayerCount: 2
@@ -7186,9 +6950,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: imacron
-Encoding: 299 299 232
+Encoding: 299 299 299
 Width: 355
 Flags: W
 LayerCount: 2
@@ -7207,9 +6970,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: Iogonek
-Encoding: 302 302 233
+Encoding: 302 302 302
 Width: 768
 Flags: W
 LayerCount: 2
@@ -7242,9 +7004,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: iogonek
-Encoding: 303 303 234
+Encoding: 303 303 303
 Width: 355
 Flags: W
 LayerCount: 2
@@ -7266,9 +7027,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: Idotaccent
-Encoding: 304 304 235
+Encoding: 304 304 304
 Width: 768
 Flags: W
 LayerCount: 2
@@ -7298,9 +7058,8 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
-
 StartChar: dotlessi
-Encoding: 305 305 236
+Encoding: 305 305 305
 Width: 355
 Flags: W
 LayerCount: 2
@@ -7314,9 +7073,8 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
-
 StartChar: Jcircumflex
-Encoding: 308 308 237
+Encoding: 308 308 308
 Width: 901
 Flags: W
 LayerCount: 2
@@ -7352,9 +7110,8 @@ SplineSet
  650 934 624 1299 767 1265 c 0
 EndSplineSet
 EndChar
-
 StartChar: jcircumflex
-Encoding: 309 309 238
+Encoding: 309 309 309
 Width: 703
 Flags: W
 LayerCount: 2
@@ -7391,9 +7148,8 @@ SplineSet
  528 484 488 719 592 725 c 0
 EndSplineSet
 EndChar
-
 StartChar: Kcommaaccent
-Encoding: 310 310 239
+Encoding: 310 310 310
 Width: 1221
 Flags: W
 LayerCount: 2
@@ -7421,9 +7177,8 @@ SplineSet
  597 451 367 461 383 574 c 0
 EndSplineSet
 EndChar
-
 StartChar: kcommaaccent
-Encoding: 311 311 240
+Encoding: 311 311 311
 Width: 789
 Flags: W
 LayerCount: 2
@@ -7461,9 +7216,8 @@ SplineSet
  411 285 212 344 273 430 c 0
 EndSplineSet
 EndChar
-
 StartChar: kgreenlandic
-Encoding: 312 312 241
+Encoding: 312 312 312
 Width: 805
 Flags: W
 LayerCount: 2
@@ -7486,9 +7240,8 @@ SplineSet
  312 331 184 408 244 478 c 0
 EndSplineSet
 EndChar
-
 StartChar: Lacute
-Encoding: 313 313 242
+Encoding: 313 313 313
 Width: 1058
 Flags: W
 LayerCount: 2
@@ -7512,9 +7265,8 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
-
 StartChar: lacute
-Encoding: 314 314 243
+Encoding: 314 314 314
 Width: 549
 Flags: W
 LayerCount: 2
@@ -7536,9 +7288,8 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Lcommaaccent
-Encoding: 315 315 244
+Encoding: 315 315 315
 Width: 1058
 Flags: W
 LayerCount: 2
@@ -7562,9 +7313,8 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
-
 StartChar: lcommaaccent
-Encoding: 316 316 245
+Encoding: 316 316 316
 Width: 549
 Flags: W
 LayerCount: 2
@@ -7586,9 +7336,8 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Lcaron
-Encoding: 317 317 246
+Encoding: 317 317 317
 Width: 1058
 Flags: W
 LayerCount: 2
@@ -7612,9 +7361,8 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
-
 StartChar: lcaron
-Encoding: 318 318 247
+Encoding: 318 318 318
 Width: 549
 Flags: W
 LayerCount: 2
@@ -7636,9 +7384,8 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Lslash
-Encoding: 321 321 248
+Encoding: 321 321 321
 Width: 1058
 Flags: W
 LayerCount: 2
@@ -7662,9 +7409,8 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
-
 StartChar: lslash
-Encoding: 322 322 249
+Encoding: 322 322 322
 Width: 549
 Flags: W
 LayerCount: 2
@@ -7686,9 +7432,8 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
-
 StartChar: Nacute
-Encoding: 323 323 250
+Encoding: 323 323 323
 Width: 1074
 Flags: W
 LayerCount: 2
@@ -7714,9 +7459,8 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
-
 StartChar: nacute
-Encoding: 324 324 251
+Encoding: 324 324 324
 Width: 643
 Flags: W
 LayerCount: 2
@@ -7745,9 +7489,8 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ncommaaccent
-Encoding: 325 325 252
+Encoding: 325 325 325
 Width: 1074
 Flags: W
 LayerCount: 2
@@ -7773,9 +7516,8 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
-
 StartChar: ncommaaccent
-Encoding: 326 326 253
+Encoding: 326 326 326
 Width: 643
 Flags: W
 LayerCount: 2
@@ -7804,9 +7546,8 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ncaron
-Encoding: 327 327 254
+Encoding: 327 327 327
 Width: 1074
 Flags: W
 LayerCount: 2
@@ -7837,9 +7578,8 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
-
 StartChar: ncaron
-Encoding: 328 328 255
+Encoding: 328 328 328
 Width: 643
 Flags: W
 LayerCount: 2
@@ -7873,9 +7613,8 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
-
 StartChar: Eng
-Encoding: 330 330 256
+Encoding: 330 330 330
 Width: 1129
 Flags: W
 LayerCount: 2
@@ -7906,9 +7645,8 @@ SplineSet
  207 375 181 187 112 197 c 0
 EndSplineSet
 EndChar
-
 StartChar: eng
-Encoding: 331 331 257
+Encoding: 331 331 331
 Width: 733
 Flags: W
 LayerCount: 2
@@ -7935,9 +7673,8 @@ SplineSet
  246 216 192 -12 101 21 c 0
 EndSplineSet
 EndChar
-
 StartChar: Omacron
-Encoding: 332 332 258
+Encoding: 332 332 332
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -7965,9 +7702,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: omacron
-Encoding: 333 333 259
+Encoding: 333 333 333
 Width: 663
 Flags: W
 LayerCount: 2
@@ -7994,9 +7730,8 @@ SplineSet
  470 639 421 728 357 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ohungarumlaut
-Encoding: 336 336 260
+Encoding: 336 336 336
 Width: 1106
 Flags: W
 LayerCount: 2
@@ -8029,9 +7764,8 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
-
 StartChar: ohungarumlaut
-Encoding: 337 337 261
+Encoding: 337 337 337
 Width: 649
 Flags: W
 LayerCount: 2
@@ -8063,9 +7797,8 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: OE
-Encoding: 338 338 262
+Encoding: 338 338 338
 Width: 1657
 Flags: W
 LayerCount: 2
@@ -8109,9 +7842,8 @@ SplineSet
  1094 717 940 613 899 695 c 0
 EndSplineSet
 EndChar
-
 StartChar: oe
-Encoding: 339 339 263
+Encoding: 339 339 339
 Width: 1212
 Flags: W
 LayerCount: 2
@@ -8145,9 +7877,8 @@ SplineSet
  537 834 669 721 615 656 c 0
 EndSplineSet
 EndChar
-
 StartChar: Racute
-Encoding: 340 340 264
+Encoding: 340 340 340
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -8184,9 +7915,8 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
-
 StartChar: racute
-Encoding: 341 341 265
+Encoding: 341 341 341
 Width: 751
 Flags: W
 LayerCount: 2
@@ -8212,9 +7942,8 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
-
 StartChar: Rcommaaccent
-Encoding: 342 342 266
+Encoding: 342 342 342
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -8251,9 +7980,8 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
-
 StartChar: rcommaaccent
-Encoding: 343 343 267
+Encoding: 343 343 343
 Width: 751
 Flags: W
 LayerCount: 2
@@ -8279,9 +8007,8 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
-
 StartChar: Rcaron
-Encoding: 344 344 268
+Encoding: 344 344 344
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -8323,9 +8050,8 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
-
 StartChar: rcaron
-Encoding: 345 345 269
+Encoding: 345 345 345
 Width: 751
 Flags: W
 LayerCount: 2
@@ -8356,9 +8082,8 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
-
 StartChar: Sacute
-Encoding: 346 346 270
+Encoding: 346 346 346
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -8390,9 +8115,8 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
-
 StartChar: sacute
-Encoding: 347 347 271
+Encoding: 347 347 347
 Width: 654
 Flags: W
 LayerCount: 2
@@ -8421,9 +8145,8 @@ SplineSet
  481 1216 595 1326 538 1379 c 0
 EndSplineSet
 EndChar
-
 StartChar: Scircumflex
-Encoding: 348 348 272
+Encoding: 348 348 348
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -8460,9 +8183,8 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
-
 StartChar: scircumflex
-Encoding: 349 349 273
+Encoding: 349 349 349
 Width: 654
 Flags: W
 LayerCount: 2
@@ -8496,9 +8218,8 @@ SplineSet
  195 1267 248 1379 299 1357 c 0
 EndSplineSet
 EndChar
-
 StartChar: Scedilla
-Encoding: 350 350 274
+Encoding: 350 350 350
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -8538,9 +8259,8 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
-
 StartChar: scedilla
-Encoding: 351 351 275
+Encoding: 351 351 351
 Width: 654
 Flags: W
 LayerCount: 2
@@ -8577,9 +8297,8 @@ SplineSet
  241 24 266 44 295 44 c 0
 EndSplineSet
 EndChar
-
 StartChar: Scaron
-Encoding: 352 352 276
+Encoding: 352 352 352
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -8616,9 +8335,8 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
-
 StartChar: scaron
-Encoding: 353 353 277
+Encoding: 353 353 353
 Width: 654
 Flags: W
 LayerCount: 2
@@ -8652,9 +8370,8 @@ SplineSet
  358 1040 305 928 254 950 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0162
-Encoding: 354 354 278
+Encoding: 354 354 354
 Width: 1413
 Flags: W
 LayerCount: 2
@@ -8685,9 +8402,8 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0163
-Encoding: 355 355 279
+Encoding: 355 355 355
 Width: 928
 Flags: W
 LayerCount: 2
@@ -8727,9 +8443,8 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
-
 StartChar: Tcaron
-Encoding: 356 356 280
+Encoding: 356 356 356
 Width: 1413
 Flags: W
 LayerCount: 2
@@ -8757,9 +8472,8 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
-
 StartChar: tcaron
-Encoding: 357 357 281
+Encoding: 357 357 357
 Width: 928
 Flags: W
 LayerCount: 2
@@ -8791,9 +8505,8 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
-
 StartChar: Tbar
-Encoding: 358 358 282
+Encoding: 358 358 358
 Width: 1413
 Flags: W
 LayerCount: 2
@@ -8816,9 +8529,8 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
-
 StartChar: tbar
-Encoding: 359 359 283
+Encoding: 359 359 359
 Width: 928
 Flags: W
 LayerCount: 2
@@ -8850,9 +8562,8 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
-
 StartChar: Utilde
-Encoding: 360 360 284
+Encoding: 360 360 360
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -8885,9 +8596,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: utilde
-Encoding: 361 361 285
+Encoding: 361 361 361
 Width: 672
 Flags: W
 LayerCount: 2
@@ -8919,9 +8629,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: Umacron
-Encoding: 362 362 286
+Encoding: 362 362 362
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -8952,9 +8661,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: umacron
-Encoding: 363 363 287
+Encoding: 363 363 363
 Width: 672
 Flags: W
 LayerCount: 2
@@ -8984,9 +8692,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ubreve
-Encoding: 364 364 288
+Encoding: 364 364 364
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -9023,9 +8730,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: ubreve
-Encoding: 365 365 289
+Encoding: 365 365 365
 Width: 672
 Flags: W
 LayerCount: 2
@@ -9059,9 +8765,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: Uring
-Encoding: 366 366 290
+Encoding: 366 366 366
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -9098,9 +8803,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uring
-Encoding: 367 367 291
+Encoding: 367 367 367
 Width: 672
 Flags: W
 LayerCount: 2
@@ -9136,9 +8840,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: Uhungarumlaut
-Encoding: 368 368 292
+Encoding: 368 368 368
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -9174,9 +8877,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uhungarumlaut
-Encoding: 369 369 293
+Encoding: 369 369 369
 Width: 672
 Flags: W
 LayerCount: 2
@@ -9211,9 +8913,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: Uogonek
-Encoding: 370 370 294
+Encoding: 370 370 370
 Width: 1398
 Flags: W
 LayerCount: 2
@@ -9247,9 +8948,8 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uogonek
-Encoding: 371 371 295
+Encoding: 371 371 371
 Width: 888
 Flags: W
 LayerCount: 2
@@ -9282,9 +8982,8 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
-
 StartChar: Wcircumflex
-Encoding: 372 372 296
+Encoding: 372 372 372
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -9319,9 +9018,8 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
-
 StartChar: wcircumflex
-Encoding: 373 373 297
+Encoding: 373 373 373
 Width: 892
 Flags: W
 LayerCount: 2
@@ -9357,9 +9055,8 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ycircumflex
-Encoding: 374 374 298
+Encoding: 374 374 374
 Width: 851
 Flags: W
 LayerCount: 2
@@ -9393,9 +9090,8 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
-
 StartChar: ycircumflex
-Encoding: 375 375 299
+Encoding: 375 375 375
 Width: 607
 Flags: W
 LayerCount: 2
@@ -9429,9 +9125,8 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ydieresis
-Encoding: 376 376 300
+Encoding: 376 376 376
 Width: 851
 Flags: W
 LayerCount: 2
@@ -9465,9 +9160,8 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
-
 StartChar: Zacute
-Encoding: 377 377 301
+Encoding: 377 377 377
 Width: 1052
 Flags: W
 LayerCount: 2
@@ -9502,9 +9196,8 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
-
 StartChar: zacute
-Encoding: 378 378 302
+Encoding: 378 378 378
 Width: 678
 Flags: W
 LayerCount: 2
@@ -9536,9 +9229,8 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
-
 StartChar: Zdotaccent
-Encoding: 379 379 303
+Encoding: 379 379 379
 Width: 1052
 Flags: W
 LayerCount: 2
@@ -9573,9 +9265,8 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
-
 StartChar: zdotaccent
-Encoding: 380 380 304
+Encoding: 380 380 380
 Width: 678
 Flags: W
 LayerCount: 2
@@ -9607,9 +9298,8 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
-
 StartChar: Zcaron
-Encoding: 381 381 305
+Encoding: 381 381 381
 Width: 1052
 Flags: W
 LayerCount: 2
@@ -9649,9 +9339,8 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
-
 StartChar: zcaron
-Encoding: 382 382 306
+Encoding: 382 382 382
 Width: 678
 Flags: W
 LayerCount: 2
@@ -9688,9 +9377,8 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
-
 StartChar: florin
-Encoding: 402 402 307
+Encoding: 402 402 402
 Width: 915
 Flags: W
 LayerCount: 2
@@ -9718,9 +9406,8 @@ SplineSet
  807 804 578 785 401 702 c 0
 EndSplineSet
 EndChar
-
 StartChar: Scommaaccent
-Encoding: 536 536 308
+Encoding: 536 536 536
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -9752,9 +9439,8 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
-
 StartChar: scommaaccent
-Encoding: 537 537 309
+Encoding: 537 537 537
 Width: 654
 Flags: W
 LayerCount: 2
@@ -9783,9 +9469,8 @@ SplineSet
  368 850 466 798 444 737 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni021A
-Encoding: 538 538 310
+Encoding: 538 538 538
 Width: 1413
 Flags: W
 LayerCount: 2
@@ -9808,9 +9493,8 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni021B
-Encoding: 539 539 311
+Encoding: 539 539 539
 Width: 928
 Flags: W
 LayerCount: 2
@@ -9842,9 +9526,8 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
-
 StartChar: circumflex
-Encoding: 710 710 312
+Encoding: 710 710 710
 Width: 437
 Flags: W
 LayerCount: 2
@@ -9862,9 +9545,8 @@ SplineSet
  127 1252 180 1364 231 1342 c 4
 EndSplineSet
 EndChar
-
 StartChar: caron
-Encoding: 711 711 313
+Encoding: 711 711 711
 Width: 437
 Flags: W
 LayerCount: 2
@@ -9882,9 +9564,8 @@ SplineSet
  311 1051 258 939 207 961 c 0
 EndSplineSet
 EndChar
-
 StartChar: breve
-Encoding: 728 728 314
+Encoding: 728 728 728
 Width: 575
 Flags: W
 LayerCount: 2
@@ -9901,9 +9582,8 @@ SplineSet
  18 1146 5 1319 96 1319 c 4
 EndSplineSet
 EndChar
-
 StartChar: dotaccent
-Encoding: 729 729 315
+Encoding: 729 729 729
 Width: 234
 Flags: W
 LayerCount: 2
@@ -9916,9 +9596,8 @@ SplineSet
  168 1147 112 1096 69 1117 c 4
 EndSplineSet
 EndChar
-
 StartChar: ring
-Encoding: 730 730 316
+Encoding: 730 730 730
 Width: 386
 Flags: W
 LayerCount: 2
@@ -9936,9 +9615,8 @@ SplineSet
  276 1173 258 1216 223 1230 c 4
 EndSplineSet
 EndChar
-
 StartChar: ogonek
-Encoding: 731 731 317
+Encoding: 731 731 731
 Width: 465
 Flags: W
 LayerCount: 2
@@ -9954,9 +9632,8 @@ SplineSet
  99 137 196 281 257 256 c 0
 EndSplineSet
 EndChar
-
 StartChar: tilde
-Encoding: 732 732 318
+Encoding: 732 732 732
 Width: 702
 Flags: W
 LayerCount: 2
@@ -9971,9 +9648,8 @@ SplineSet
  100 1298 -14 1123 47 1060 c 4
 EndSplineSet
 EndChar
-
 StartChar: hungarumlaut
-Encoding: 733 733 319
+Encoding: 733 733 733
 Width: 672
 Flags: W
 LayerCount: 2
@@ -9991,9 +9667,8 @@ SplineSet
  286 1230 400 1340 343 1393 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0609
-Encoding: 1545 1545 320
+Encoding: 1545 1545 1545
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -10025,9 +9700,8 @@ SplineSet
  525 1344 628 1558 717 1506 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni060A
-Encoding: 1546 1546 321
+Encoding: 1546 1546 1546
 Width: 1312
 Flags: W
 LayerCount: 2
@@ -10064,9 +9738,8 @@ SplineSet
  525 1344 628 1558 717 1506 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni060C
-Encoding: 1548 1548 322
+Encoding: 1548 1548 1548
 Width: 264
 Flags: W
 LayerCount: 2
@@ -10082,9 +9755,8 @@ SplineSet
  221 207 169 165 107 180 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni061B
-Encoding: 1563 1563 323
+Encoding: 1563 1563 1563
 Width: 264
 Flags: W
 LayerCount: 2
@@ -10103,9 +9775,8 @@ SplineSet
  235 279 216 65 84 110 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni061F
-Encoding: 1567 1567 324
+Encoding: 1567 1567 1567
 Width: 810
 Flags: W
 LayerCount: 2
@@ -10128,9 +9799,8 @@ SplineSet
  473 273 599 96 464 58 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0621
-Encoding: 1569 1569 325
+Encoding: 1569 1569 1569
 Width: 537
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -23 basechar 0
@@ -10148,9 +9818,8 @@ SplineSet
  70 633 307 934 387 832 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0622
-Encoding: 1570 1570 326
+Encoding: 1570 1570 1570
 Width: 669
 Flags: W
 LayerCount: 2
@@ -10174,9 +9843,8 @@ SplineSet
  41 1674 61 1395 -44 1398 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0623
-Encoding: 1571 1571 327
+Encoding: 1571 1571 1571
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -23 basechar 0
@@ -10198,9 +9866,8 @@ SplineSet
  -6 1893 200 2129 264 2061 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0624
-Encoding: 1572 1572 328
+Encoding: 1572 1572 1572
 Width: 550
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -10225,9 +9892,8 @@ SplineSet
  247 43 329 84 357 184 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni0625
-Encoding: 1573 1573 329
+Encoding: 1573 1573 1573
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -806 basechar 0
@@ -10249,9 +9915,8 @@ SplineSet
  -91 -246 114 -8 178 -76 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0626
-Encoding: 1574 1574 330
+Encoding: 1574 1574 1574
 Width: 1525
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -10283,9 +9948,8 @@ SplineSet
  563 1551 768 1788 832 1720 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0627
-Encoding: 1575 1575 331
+Encoding: 1575 1575 1575
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -23 basechar 0
@@ -10300,9 +9964,8 @@ SplineSet
  270 1228 222 861 228 624 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0628
-Encoding: 1576 1576 332
+Encoding: 1576 1576 1576
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 785 -705 basechar 0
@@ -10324,9 +9987,8 @@ SplineSet
  993 -346 903 -624 768 -572 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0629
-Encoding: 1577 1577 333
+Encoding: 1577 1577 1577
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -10351,9 +10013,8 @@ SplineSet
  384 548 289 591 255 594 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni062A
-Encoding: 1578 1578 334
+Encoding: 1578 1578 1578
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 872 -192 basechar 0
@@ -10377,9 +10038,8 @@ SplineSet
  967 1634 1254 1606 1214 1492 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni062B
-Encoding: 1579 1579 335
+Encoding: 1579 1579 1579
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 872 -192 basechar 0
@@ -10406,9 +10066,8 @@ SplineSet
  1013 1976 940 1741 826 1785 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni062C
-Encoding: 1580 1580 336
+Encoding: 1580 1580 1580
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -10436,9 +10095,8 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni062D
-Encoding: 1581 1581 337
+Encoding: 1581 1581 1581
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -10463,9 +10121,8 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni062E
-Encoding: 1582 1582 338
+Encoding: 1582 1582 1582
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -10493,9 +10150,8 @@ SplineSet
  622 1492 713 1674 830 1622 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni062F
-Encoding: 1583 1583 339
+Encoding: 1583 1583 1583
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 221 -80 basechar 0
@@ -10510,9 +10166,8 @@ SplineSet
  338 605 106 776 194 850 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0630
-Encoding: 1584 1584 340
+Encoding: 1584 1584 1584
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 221 -80 basechar 0
@@ -10530,9 +10185,8 @@ SplineSet
  80 1474 168 1656 285 1604 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0631
-Encoding: 1585 1585 341
+Encoding: 1585 1585 1585
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -10547,9 +10201,8 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0632
-Encoding: 1586 1586 342
+Encoding: 1586 1586 1586
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -10567,9 +10220,8 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0633
-Encoding: 1587 1587 343
+Encoding: 1587 1587 1587
 Width: 2091
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -10596,9 +10248,8 @@ SplineSet
  1970 864 1932 1058 2014 1058 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0634
-Encoding: 1588 1588 344
+Encoding: 1588 1588 1588
 Width: 2091
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -10633,9 +10284,8 @@ SplineSet
  1436 1990 1407 1751 1275 1791 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0635
-Encoding: 1589 1589 345
+Encoding: 1589 1589 1589
 Width: 2254
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -10666,9 +10316,8 @@ SplineSet
  2105 786 2090 1064 2090 1064 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni0636
-Encoding: 1590 1590 346
+Encoding: 1590 1590 1590
 Width: 2254
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -10702,9 +10351,8 @@ SplineSet
  1480 1844 1448 1607 1316 1647 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0637
-Encoding: 1591 1591 347
+Encoding: 1591 1591 1591
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -10730,9 +10378,8 @@ SplineSet
  612 532 681 668 654 688 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0638
-Encoding: 1592 1592 348
+Encoding: 1592 1592 1592
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -10761,9 +10408,8 @@ SplineSet
  862 1820 830 1582 698 1622 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0639
-Encoding: 1593 1593 349
+Encoding: 1593 1593 1593
 Width: 777
 Flags: W
 AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
@@ -10791,9 +10437,8 @@ SplineSet
  562 746 697 654 645 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni063A
-Encoding: 1594 1594 350
+Encoding: 1594 1594 1594
 Width: 777
 Flags: W
 AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
@@ -10824,9 +10469,8 @@ SplineSet
  534 1416 501 1176 369 1216 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0641
-Encoding: 1601 1601 351
+Encoding: 1601 1601 1601
 Width: 1777
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -10849,9 +10493,8 @@ SplineSet
  1052 1545 1011 1276 879 1322 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0642
-Encoding: 1602 1602 352
+Encoding: 1602 1602 1602
 Width: 1641
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -877 basechar 0
@@ -10878,9 +10521,8 @@ SplineSet
  1102 1300 962 1345 900 1336 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0643
-Encoding: 1603 1603 353
+Encoding: 1603 1603 1603
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -10912,9 +10554,8 @@ SplineSet
  1944 1856 1626 1368 1554 1401 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0644
-Encoding: 1604 1604 354
+Encoding: 1604 1604 1604
 Width: 1606
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -1123 basechar 0
@@ -10937,9 +10578,8 @@ SplineSet
  1413 474 1363 1006 1462 1014 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0645
-Encoding: 1605 1605 355
+Encoding: 1605 1605 1605
 Width: 828
 Flags: W
 AnchorPoint: "HarakatBelow" 787 842 basechar 0
@@ -10959,9 +10599,8 @@ SplineSet
  241 965 449 1072 627 1244 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni0646
-Encoding: 1606 1606 356
+Encoding: 1606 1606 1606
 Width: 1707
 Flags: W
 AnchorPoint: "HarakatBelow" 808 -745 basechar 0
@@ -10985,9 +10624,8 @@ SplineSet
  1024 354 953 136 848 176 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0647
-Encoding: 1607 1607 357
+Encoding: 1607 1607 1607
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -11007,9 +10645,8 @@ SplineSet
  384 548 289 591 255 594 c 5
 EndSplineSet
 EndChar
-
 StartChar: uni0648
-Encoding: 1608 1608 358
+Encoding: 1608 1608 1608
 Width: 550
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -11027,9 +10664,8 @@ SplineSet
  247 43 329 84 357 184 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni064B
-Encoding: 1611 1611 359
+Encoding: 1611 1611 1611
 Width: 515
 Flags: W
 AnchorPoint: "HarakatAbove" 270 478 mark 0
@@ -11048,9 +10684,8 @@ SplineSet
  297 873 412 1021 474 954 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni064C
-Encoding: 1612 1612 360
+Encoding: 1612 1612 1612
 Width: 473
 Flags: W
 AnchorPoint: "HarakatAbove" 240 478 mark 0
@@ -11074,9 +10709,8 @@ SplineSet
  119 908 122 850 84 851 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni064D
-Encoding: 1613 1613 361
+Encoding: 1613 1613 1613
 Width: 515
 Flags: W
 AnchorPoint: "HarakatBelowLig" 270 2 mark 0
@@ -11096,9 +10730,8 @@ SplineSet
  317 -452 432 -305 494 -372 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni064E
-Encoding: 1614 1614 362
+Encoding: 1614 1614 1614
 Width: 515
 Flags: W
 AnchorPoint: "HarakatAboveLig" 270 478 mark 0
@@ -11113,9 +10746,8 @@ SplineSet
  297 873 412 1021 474 954 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni064F
-Encoding: 1615 1615 363
+Encoding: 1615 1615 1615
 Width: 435
 Flags: W
 AnchorPoint: "HarakatAboveLig" 204 478 mark 0
@@ -11131,9 +10763,8 @@ SplineSet
  332 662 72 480 29 559 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0650
-Encoding: 1616 1616 364
+Encoding: 1616 1616 1616
 Width: 515
 Flags: W
 AnchorPoint: "HarakatBelowLig" 270 2 mark 0
@@ -11148,9 +10779,8 @@ SplineSet
  297 -204 412 -57 474 -124 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0651
-Encoding: 1617 1617 365
+Encoding: 1617 1617 1617
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -11170,9 +10800,8 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0652
-Encoding: 1618 1618 366
+Encoding: 1618 1618 1618
 Width: 405
 Flags: W
 AnchorPoint: "HarakatAboveLig" 212 478 mark 0
@@ -11190,9 +10819,8 @@ SplineSet
  121 913 121 804 57 814 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0653
-Encoding: 1619 1619 367
+Encoding: 1619 1619 1619
 Width: 959
 Flags: W
 AnchorPoint: "HarakatAboveLig" 442 478 mark 0
@@ -11211,9 +10839,8 @@ SplineSet
  185 680 136 472 62 502 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0654
-Encoding: 1620 1620 368
+Encoding: 1620 1620 1620
 Width: 403
 Flags: W
 AnchorPoint: "HarakatAboveLig" 182 478 mark 0
@@ -11230,9 +10857,8 @@ SplineSet
  24 1031 231 1268 295 1200 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0655
-Encoding: 1621 1621 369
+Encoding: 1621 1621 1621
 Width: 403
 Flags: W
 AnchorPoint: "HarakatBelowLig" 182 0 mark 0
@@ -11249,9 +10875,8 @@ SplineSet
  24 -332 231 -95 295 -163 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0656
-Encoding: 1622 1622 370
+Encoding: 1622 1622 1622
 Width: 211
 Flags: W
 AnchorPoint: "HarakatBelowLig" 134 0 mark 0
@@ -11266,9 +10891,8 @@ SplineSet
  28 -317 -9 -155 80 -148 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni066A
-Encoding: 1642 1642 371
+Encoding: 1642 1642 1642
 Width: 790
 Flags: W
 LayerCount: 2
@@ -11295,9 +10919,8 @@ SplineSet
  525 1344 628 1558 717 1506 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni066D
-Encoding: 1645 1645 372
+Encoding: 1645 1645 1645
 Width: 839
 Flags: W
 LayerCount: 2
@@ -11320,9 +10943,8 @@ SplineSet
  275 478 79 419 61 532 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0670
-Encoding: 1648 1648 373
+Encoding: 1648 1648 1648
 Width: 211
 Flags: W
 AnchorPoint: "HarakatAboveLig" 134 593 mark 0
@@ -11337,9 +10959,8 @@ SplineSet
  28 1093 -9 1255 80 1262 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0674
-Encoding: 1652 1652 374
+Encoding: 1652 1652 1652
 Width: 427
 Flags: W
 LayerCount: 2
@@ -11354,9 +10975,8 @@ SplineSet
  41 1436 248 1673 312 1605 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni067E
-Encoding: 1662 1662 375
+Encoding: 1662 1662 1662
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 782 -935 basechar 0
@@ -11383,9 +11003,8 @@ SplineSet
  924 -668 848 -879 710 -777 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni0686
-Encoding: 1670 1670 376
+Encoding: 1670 1670 1670
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -11418,9 +11037,8 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni0698
-Encoding: 1688 1688 377
+Encoding: 1688 1688 1688
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -11443,9 +11061,8 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06A9
-Encoding: 1705 1705 378
+Encoding: 1705 1705 1705
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -11470,9 +11087,8 @@ SplineSet
  1944 1856 1626 1368 1554 1401 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06AF
-Encoding: 1711 1711 379
+Encoding: 1711 1711 1711
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -11504,9 +11120,8 @@ SplineSet
  1656 1776 1842 2060 1880 2122 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06C0
-Encoding: 1728 1728 380
+Encoding: 1728 1728 1728
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -11533,9 +11148,8 @@ SplineSet
  384 548 289 591 255 594 c 5
 EndSplineSet
 EndChar
-
 StartChar: uni06CC
-Encoding: 1740 1740 381
+Encoding: 1740 1740 1740
 Width: 1525
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -11560,9 +11174,8 @@ SplineSet
  1115 867 1437 1193 1496 1108 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06F0
-Encoding: 1776 1776 382
+Encoding: 1776 1776 1776
 Width: 512
 Flags: W
 LayerCount: 2
@@ -11580,9 +11193,8 @@ SplineSet
  350 674 329 726 287 743 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06F1
-Encoding: 1777 1777 383
+Encoding: 1777 1777 1777
 Width: 363
 Flags: W
 LayerCount: 2
@@ -11595,9 +11207,8 @@ SplineSet
  82 883 -29 1406 86 1423 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06F2
-Encoding: 1778 1778 384
+Encoding: 1778 1778 1778
 Width: 865
 Flags: W
 LayerCount: 2
@@ -11614,9 +11225,8 @@ SplineSet
  609 900 494 832 348 882 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni06F3
-Encoding: 1779 1779 385
+Encoding: 1779 1779 1779
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11636,9 +11246,8 @@ SplineSet
  156 881 -53 1302 84 1372 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06F4
-Encoding: 1780 1780 386
+Encoding: 1780 1780 1780
 Width: 746
 Flags: W
 LayerCount: 2
@@ -11659,9 +11268,8 @@ SplineSet
  12 774 114 912 240 996 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni06F5
-Encoding: 1781 1781 387
+Encoding: 1781 1781 1781
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11686,9 +11294,8 @@ SplineSet
  720 797 653 871 528 968 c 1
 EndSplineSet
 EndChar
-
 StartChar: uni06F6
-Encoding: 1782 1782 388
+Encoding: 1782 1782 1782
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11707,9 +11314,8 @@ SplineSet
  785 1130 876 1268 943 1178 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni06F7
-Encoding: 1783 1783 389
+Encoding: 1783 1783 1783
 Width: 925
 Flags: W
 LayerCount: 2
@@ -11728,9 +11334,8 @@ SplineSet
  146 907 -50 1277 60 1327 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06F8
-Encoding: 1784 1784 390
+Encoding: 1784 1784 1784
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11748,9 +11353,8 @@ SplineSet
  265 285 204 72 113 106 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni06F9
-Encoding: 1785 1785 391
+Encoding: 1785 1785 1785
 Width: 703
 Flags: W
 LayerCount: 2
@@ -11769,9 +11373,8 @@ SplineSet
  386 1004 372 1173 358 1199 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E02
-Encoding: 7682 7682 392
+Encoding: 7682 7682 7682
 Width: 1272
 Flags: W
 LayerCount: 2
@@ -11807,9 +11410,8 @@ SplineSet
  286 877 267 311 109 337 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E03
-Encoding: 7683 7683 393
+Encoding: 7683 7683 7683
 Width: 751
 Flags: W
 LayerCount: 2
@@ -11841,9 +11443,8 @@ SplineSet
  275 385 269 188 171 215 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E0A
-Encoding: 7690 7690 394
+Encoding: 7690 7690 7690
 Width: 1362
 Flags: W
 LayerCount: 2
@@ -11879,9 +11480,8 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E0B
-Encoding: 7691 7691 395
+Encoding: 7691 7691 7691
 Width: 789
 Flags: W
 LayerCount: 2
@@ -11916,9 +11516,8 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E1E
-Encoding: 7710 7710 396
+Encoding: 7710 7710 7710
 Width: 1069
 Flags: W
 LayerCount: 2
@@ -11946,9 +11545,8 @@ SplineSet
  350 542 138 496 134 584 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E1F
-Encoding: 7711 7711 397
+Encoding: 7711 7711 7711
 Width: 915
 Flags: W
 LayerCount: 2
@@ -11978,9 +11576,8 @@ SplineSet
  807 804 578 785 401 702 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E40
-Encoding: 7744 7744 398
+Encoding: 7744 7744 7744
 Width: 1480
 Flags: W
 LayerCount: 2
@@ -12013,9 +11610,8 @@ SplineSet
  218 834 246 1242 378 1214 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E41
-Encoding: 7745 7745 399
+Encoding: 7745 7745 7745
 Width: 947
 Flags: W
 LayerCount: 2
@@ -12051,9 +11647,8 @@ SplineSet
  544 249 538 35 461 75 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E56
-Encoding: 7766 7766 400
+Encoding: 7766 7766 7766
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -12085,9 +11680,8 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E57
-Encoding: 7767 7767 401
+Encoding: 7767 7767 7767
 Width: 847
 Flags: W
 LayerCount: 2
@@ -12124,9 +11718,8 @@ SplineSet
  363 57 283 127 310 192 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E60
-Encoding: 7776 7776 402
+Encoding: 7776 7776 7776
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -12158,9 +11751,8 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E61
-Encoding: 7777 7777 403
+Encoding: 7777 7777 7777
 Width: 654
 Flags: W
 LayerCount: 2
@@ -12189,9 +11781,8 @@ SplineSet
  368 850 466 798 444 737 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E6A
-Encoding: 7786 7786 404
+Encoding: 7786 7786 7786
 Width: 1413
 Flags: W
 LayerCount: 2
@@ -12214,9 +11805,8 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni1E6B
-Encoding: 7787 7787 405
+Encoding: 7787 7787 7787
 Width: 928
 Flags: W
 LayerCount: 2
@@ -12248,9 +11838,8 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
-
 StartChar: Wgrave
-Encoding: 7808 7808 406
+Encoding: 7808 7808 7808
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -12280,9 +11869,8 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
-
 StartChar: wgrave
-Encoding: 7809 7809 407
+Encoding: 7809 7809 7809
 Width: 892
 Flags: W
 LayerCount: 2
@@ -12313,9 +11901,8 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
-
 StartChar: Wacute
-Encoding: 7810 7810 408
+Encoding: 7810 7810 7810
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -12345,9 +11932,8 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
-
 StartChar: wacute
-Encoding: 7811 7811 409
+Encoding: 7811 7811 7811
 Width: 892
 Flags: W
 LayerCount: 2
@@ -12378,9 +11964,8 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
-
 StartChar: Wdieresis
-Encoding: 7812 7812 410
+Encoding: 7812 7812 7812
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -12415,9 +12000,8 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
-
 StartChar: wdieresis
-Encoding: 7813 7813 411
+Encoding: 7813 7813 7813
 Width: 892
 Flags: W
 LayerCount: 2
@@ -12453,9 +12037,8 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
-
 StartChar: Ygrave
-Encoding: 7922 7922 412
+Encoding: 7922 7922 7922
 Width: 851
 Flags: W
 LayerCount: 2
@@ -12484,9 +12067,8 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
-
 StartChar: ygrave
-Encoding: 7923 7923 413
+Encoding: 7923 7923 7923
 Width: 607
 Flags: W
 LayerCount: 2
@@ -12515,9 +12097,8 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
-
 StartChar: endash
-Encoding: 8211 8211 414
+Encoding: 8211 8211 8211
 Width: 707
 Flags: W
 LayerCount: 2
@@ -12530,9 +12111,8 @@ SplineSet
  242 382 23 334 17 450 c 0
 EndSplineSet
 EndChar
-
 StartChar: emdash
-Encoding: 8212 8212 415
+Encoding: 8212 8212 8212
 Width: 1092
 Flags: W
 LayerCount: 2
@@ -12547,9 +12127,8 @@ SplineSet
  196 391 19 348 17 450 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2015
-Encoding: 8213 8213 416
+Encoding: 8213 8213 8213
 Width: 1423
 Flags: W
 LayerCount: 2
@@ -12564,9 +12143,8 @@ SplineSet
  207 387 29 348 27 450 c 0
 EndSplineSet
 EndChar
-
 StartChar: quoteleft
-Encoding: 8216 8216 417
+Encoding: 8216 8216 8216
 Width: 415
 Flags: W
 LayerCount: 2
@@ -12579,9 +12157,8 @@ SplineSet
  191 1233 148 1091 80 1119 c 0
 EndSplineSet
 EndChar
-
 StartChar: quoteright
-Encoding: 8217 8217 418
+Encoding: 8217 8217 8217
 Width: 406
 Flags: W
 LayerCount: 2
@@ -12594,9 +12171,8 @@ SplineSet
  211 1454 254 1595 322 1567 c 0
 EndSplineSet
 EndChar
-
 StartChar: quotesinglbase
-Encoding: 8218 8218 419
+Encoding: 8218 8218 8218
 Width: 406
 Flags: W
 LayerCount: 2
@@ -12609,9 +12185,8 @@ SplineSet
  211 368 254 510 322 482 c 0
 EndSplineSet
 EndChar
-
 StartChar: quotedblleft
-Encoding: 8220 8220 420
+Encoding: 8220 8220 8220
 Width: 673
 Flags: W
 LayerCount: 2
@@ -12629,9 +12204,8 @@ SplineSet
  191 1233 148 1091 80 1119 c 0
 EndSplineSet
 EndChar
-
 StartChar: quotedblright
-Encoding: 8221 8221 421
+Encoding: 8221 8221 8221
 Width: 649
 Flags: W
 LayerCount: 2
@@ -12649,9 +12223,8 @@ SplineSet
  465 1487 508 1629 576 1601 c 4
 EndSplineSet
 EndChar
-
 StartChar: quotedblbase
-Encoding: 8222 8222 422
+Encoding: 8222 8222 8222
 Width: 649
 Flags: W
 LayerCount: 2
@@ -12669,9 +12242,8 @@ SplineSet
  465 373 508 514 576 486 c 4
 EndSplineSet
 EndChar
-
 StartChar: dagger
-Encoding: 8224 8224 423
+Encoding: 8224 8224 8224
 Width: 854
 Flags: W
 LayerCount: 2
@@ -12693,9 +12265,8 @@ SplineSet
  23 1049 194 1074 280 1090 c 4
 EndSplineSet
 EndChar
-
 StartChar: daggerdbl
-Encoding: 8225 8225 424
+Encoding: 8225 8225 8225
 Width: 854
 Flags: W
 LayerCount: 2
@@ -12724,9 +12295,8 @@ SplineSet
  23 1049 194 1074 280 1090 c 0
 EndSplineSet
 EndChar
-
 StartChar: bullet
-Encoding: 8226 8226 425
+Encoding: 8226 8226 8226
 Width: 386
 Flags: W
 LayerCount: 2
@@ -12739,9 +12309,8 @@ SplineSet
  300 559 199 510 110 552 c 0
 EndSplineSet
 EndChar
-
 StartChar: ellipsis
-Encoding: 8230 8230 426
+Encoding: 8230 8230 8230
 Width: 787
 Flags: W
 LayerCount: 2
@@ -12764,9 +12333,8 @@ SplineSet
  205 103 168 64 104 86 c 4
 EndSplineSet
 EndChar
-
 StartChar: perthousand
-Encoding: 8240 8240 427
+Encoding: 8240 8240 8240
 Width: 1579
 Flags: W
 LayerCount: 2
@@ -12814,9 +12382,8 @@ SplineSet
  921 528 916 590 887 605 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2031
-Encoding: 8241 8241 428
+Encoding: 8241 8241 8241
 Width: 2086
 Flags: W
 LayerCount: 2
@@ -12874,9 +12441,8 @@ SplineSet
  921 528 916 590 887 605 c 0
 EndSplineSet
 EndChar
-
 StartChar: guilsinglleft
-Encoding: 8249 8249 429
+Encoding: 8249 8249 8249
 Width: 613
 Flags: W
 LayerCount: 2
@@ -12893,9 +12459,8 @@ SplineSet
  460 772 579 843 520 915 c 0
 EndSplineSet
 EndChar
-
 StartChar: guilsinglright
-Encoding: 8250 8250 430
+Encoding: 8250 8250 8250
 Width: 611
 Flags: W
 LayerCount: 2
@@ -12912,9 +12477,8 @@ SplineSet
  150 772 31 843 90 915 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni203B
-Encoding: 8251 8251 431
+Encoding: 8251 8251 8251
 Width: 1325
 Flags: W
 LayerCount: 2
@@ -12956,9 +12520,8 @@ SplineSet
  802 1146 979 1316 1048 1233 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2070
-Encoding: 8304 8304 432
+Encoding: 8304 8304 8304
 Width: 639
 Flags: W
 LayerCount: 2
@@ -12976,9 +12539,8 @@ SplineSet
  447 1332 386 1427 329 1431 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni2074
-Encoding: 8308 8308 433
+Encoding: 8308 8308 8308
 Width: 568
 Flags: W
 LayerCount: 2
@@ -13000,9 +12562,8 @@ SplineSet
  292 1120 262 1309 338 1318 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2075
-Encoding: 8309 8309 434
+Encoding: 8309 8309 8309
 Width: 561
 Flags: W
 LayerCount: 2
@@ -13025,9 +12586,8 @@ SplineSet
  233 1431 118 1345 82 1396 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni2076
-Encoding: 8310 8310 435
+Encoding: 8310 8310 8310
 Width: 503
 Flags: W
 LayerCount: 2
@@ -13048,9 +12608,8 @@ SplineSet
  51 1399 148 1610 225 1555 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2077
-Encoding: 8311 8311 436
+Encoding: 8311 8311 8311
 Width: 648
 Flags: W
 LayerCount: 2
@@ -13073,9 +12632,8 @@ SplineSet
  329 1182 188 1089 148 1156 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni2078
-Encoding: 8312 8312 437
+Encoding: 8312 8312 8312
 Width: 499
 Flags: W
 LayerCount: 2
@@ -13101,9 +12659,8 @@ SplineSet
  119 1340 31 1390 65 1447 c 4
 EndSplineSet
 EndChar
-
 StartChar: uni2079
-Encoding: 8313 8313 438
+Encoding: 8313 8313 8313
 Width: 513
 Flags: W
 LayerCount: 2
@@ -13127,9 +12684,8 @@ SplineSet
  313 1349 344 1611 455 1584 c 4
 EndSplineSet
 EndChar
-
 StartChar: Euro
-Encoding: 8364 8364 439
+Encoding: 8364 8364 8364
 Width: 1083
 Flags: W
 LayerCount: 2
@@ -13160,9 +12716,8 @@ SplineSet
  221 354 33 275 1 360 c 0
 EndSplineSet
 EndChar
-
 StartChar: trademark
-Encoding: 8482 8482 440
+Encoding: 8482 8482 8482
 Width: 1020
 Flags: W
 LayerCount: 2
@@ -13200,9 +12755,8 @@ SplineSet
  816 1308 805 1507 858 1516 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2150
-Encoding: 8528 8528 441
+Encoding: 8528 8528 8528
 Width: 1335
 Flags: W
 LayerCount: 2
@@ -13237,9 +12791,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2151
-Encoding: 8529 8529 442
+Encoding: 8529 8529 8529
 Width: 1183
 Flags: W
 LayerCount: 2
@@ -13275,9 +12828,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2152
-Encoding: 8530 8530 443
+Encoding: 8530 8530 8530
 Width: 1589
 Flags: W
 LayerCount: 2
@@ -13312,9 +12864,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: onethird
-Encoding: 8531 8531 444
+Encoding: 8531 8531 8531
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13351,9 +12902,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: twothirds
-Encoding: 8532 8532 445
+Encoding: 8532 8532 8532
 Width: 1526
 Flags: W
 LayerCount: 2
@@ -13399,9 +12949,8 @@ SplineSet
  214 1233 223 1206 159 1166 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2155
-Encoding: 8533 8533 446
+Encoding: 8533 8533 8533
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13436,9 +12985,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2156
-Encoding: 8534 8534 447
+Encoding: 8534 8534 8534
 Width: 1456
 Flags: W
 LayerCount: 2
@@ -13482,9 +13030,8 @@ SplineSet
  474 277 307 26 234 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2157
-Encoding: 8535 8535 448
+Encoding: 8535 8535 8535
 Width: 1336
 Flags: W
 LayerCount: 2
@@ -13531,9 +13078,8 @@ SplineSet
  942 688 827 602 791 653 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2158
-Encoding: 8536 8536 449
+Encoding: 8536 8536 8536
 Width: 1462
 Flags: W
 LayerCount: 2
@@ -13577,9 +13123,8 @@ SplineSet
  1068 688 953 602 917 653 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni2159
-Encoding: 8537 8537 450
+Encoding: 8537 8537 8537
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13612,9 +13157,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni215A
-Encoding: 8538 8538 451
+Encoding: 8538 8538 8538
 Width: 1391
 Flags: W
 LayerCount: 2
@@ -13657,9 +13201,8 @@ SplineSet
  396 277 229 26 156 86 c 4
 EndSplineSet
 EndChar
-
 StartChar: oneeighth
-Encoding: 8539 8539 452
+Encoding: 8539 8539 8539
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13697,9 +13240,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: threeeighths
-Encoding: 8540 8540 453
+Encoding: 8540 8540 8540
 Width: 1333
 Flags: W
 LayerCount: 2
@@ -13749,9 +13291,8 @@ SplineSet
  91 1256 25 1301 32 1353 c 4
 EndSplineSet
 EndChar
-
 StartChar: fiveeighths
-Encoding: 8541 8541 454
+Encoding: 8541 8541 8541
 Width: 1336
 Flags: W
 LayerCount: 2
@@ -13799,9 +13340,8 @@ SplineSet
  354 277 187 26 114 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: seveneighths
-Encoding: 8542 8542 455
+Encoding: 8542 8542 8542
 Width: 1438
 Flags: W
 LayerCount: 2
@@ -13849,9 +13389,8 @@ SplineSet
  456 277 289 26 216 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: uni215F
-Encoding: 8543 8543 456
+Encoding: 8543 8543 8543
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13871,9 +13410,8 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
-
 StartChar: infinity
-Encoding: 8734 8734 457
+Encoding: 8734 8734 8734
 Width: 1293
 Flags: W
 LayerCount: 2
@@ -13902,9 +13440,8 @@ SplineSet
  513 389 621 567 697 499 c 0
 EndSplineSet
 EndChar
-
 StartChar: notequal
-Encoding: 8800 8800 458
+Encoding: 8800 8800 8800
 Width: 685
 Flags: W
 LayerCount: 2
@@ -13929,9 +13466,8 @@ SplineSet
  236 629 83 558 67 647 c 0
 EndSplineSet
 EndChar
-
 StartChar: lessequal
-Encoding: 8804 8804 459
+Encoding: 8804 8804 8804
 Width: 679
 Flags: W
 LayerCount: 2
@@ -13954,9 +13490,8 @@ SplineSet
  136 278 -15 323 37 408 c 0
 EndSplineSet
 EndChar
-
 StartChar: greaterequal
-Encoding: 8805 8805 460
+Encoding: 8805 8805 8805
 Width: 679
 Flags: W
 LayerCount: 2
@@ -13979,9 +13514,8 @@ SplineSet
  552 278 703 323 651 408 c 4
 EndSplineSet
 EndChar
-
 StartChar: uniFB56
-Encoding: 64342 64342 461
+Encoding: 64342 64342 64342
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 782 -935 basechar 0
@@ -14008,9 +13542,8 @@ SplineSet
  924 -668 848 -879 710 -777 c 4
 EndSplineSet
 EndChar
-
 StartChar: uniFB57
-Encoding: 64343 64343 462
+Encoding: 64343 64343 64343
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 835 -1117 basechar 0
@@ -14040,9 +13573,8 @@ SplineSet
  508 -53 138 17 70 296 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB58
-Encoding: 64344 64344 463
+Encoding: 64344 64344 64344
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -893 basechar 0
@@ -14070,9 +13602,8 @@ Substitution2: "Initial Forms Preceding Heh-1" PehInit3
 Substitution2: "Initial Forms Preceding Meem-1" PehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" PehInit1
 EndChar
-
 StartChar: uniFB59
-Encoding: 64345 64345 464
+Encoding: 64345 64345 64345
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -884 basechar 0
@@ -14104,9 +13635,8 @@ Substitution2: "Medial Forms Preceding Heh-1" PehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" PehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" PehMedi1
 EndChar
-
 StartChar: uniFB7A
-Encoding: 64378 64378 465
+Encoding: 64378 64378 64378
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -14139,9 +13669,8 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB7B
-Encoding: 64379 64379 466
+Encoding: 64379 64379 64379
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -14176,9 +13705,8 @@ SplineSet
  718 -709 651 -908 522 -814 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB7C
-Encoding: 64380 64380 467
+Encoding: 64380 64380 64380
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 126 -863 basechar 0
@@ -14216,9 +13744,8 @@ Substitution2: "Initial Forms Preceding Heh-1" TchehInit5
 Substitution2: "Initial Forms Preceding Meem-1" TchehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" TchehInit2
 EndChar
-
 StartChar: uniFB7D
-Encoding: 64381 64381 468
+Encoding: 64381 64381 64381
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 135 -708 basechar 0
@@ -14255,9 +13782,8 @@ Substitution2: "Medial Forms Preceding Heh-1" TchehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" TchehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" TchehMedi2
 EndChar
-
 StartChar: uniFB8A
-Encoding: 64394 64394 469
+Encoding: 64394 64394 64394
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -14280,9 +13806,8 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB8B
-Encoding: 64395 64395 470
+Encoding: 64395 64395 64395
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 299 -440 basechar 0
@@ -14310,9 +13835,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" JehFina1
 EndChar
-
 StartChar: uniFB8E
-Encoding: 64398 64398 471
+Encoding: 64398 64398 64398
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -14337,9 +13861,8 @@ SplineSet
  1944 1856 1626 1368 1554 1401 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB8F
-Encoding: 64399 64399 472
+Encoding: 64399 64399 64399
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -14367,9 +13890,8 @@ SplineSet
  1438 603 1385 942 1484 945 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB90
-Encoding: 64400 64400 473
+Encoding: 64400 64400 64400
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -14396,9 +13918,8 @@ Substitution2: "Initial Forms Preceding Heh-1" KehInit4
 Substitution2: "Initial Forms Preceding Meem-1" KehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KehInit2
 EndChar
-
 StartChar: uniFB91
-Encoding: 64401 64401 474
+Encoding: 64401 64401 64401
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -133 basechar 0
@@ -14429,9 +13950,8 @@ Substitution2: "Medial Forms Preceding Heh-1" KehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
 EndChar
-
 StartChar: uniFB92
-Encoding: 64402 64402 475
+Encoding: 64402 64402 64402
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -14463,9 +13983,8 @@ SplineSet
  1656 1776 1842 2060 1880 2122 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB93
-Encoding: 64403 64403 476
+Encoding: 64403 64403 64403
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -14499,9 +14018,8 @@ SplineSet
  1438 603 1385 942 1484 945 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFB94
-Encoding: 64404 64404 477
+Encoding: 64404 64404 64404
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -14533,9 +14051,8 @@ Substitution2: "Initial Forms Preceding Heh-1" GafInit4
 Substitution2: "Initial Forms Preceding Meem-1" GafInit3
 Substitution2: "Initial Forms Preceding Jeem-1" GafInit2
 EndChar
-
 StartChar: uniFB95
-Encoding: 64405 64405 478
+Encoding: 64405 64405 64405
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -133 basechar 0
@@ -14570,9 +14087,8 @@ Substitution2: "Medial Forms Preceding Heh-1" GafMedi5
 Substitution2: "Medial Forms Preceding Meem-1" GafMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" GafMedi3
 EndChar
-
 StartChar: uniFBA4
-Encoding: 64420 64420 479
+Encoding: 64420 64420 64420
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -14599,9 +14115,8 @@ SplineSet
  384 548 289 591 255 594 c 5
 EndSplineSet
 EndChar
-
 StartChar: uniFBA5
-Encoding: 64421 64421 480
+Encoding: 64421 64421 64421
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 435 -328 basechar 0
@@ -14626,9 +14141,8 @@ SplineSet
  219 1272 425 1510 489 1442 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFBFC
-Encoding: 64508 64508 481
+Encoding: 64508 64508 64508
 Width: 1525
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -14653,9 +14167,8 @@ SplineSet
  1115 867 1437 1193 1496 1108 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFBFD
-Encoding: 64509 64509 482
+Encoding: 64509 64509 64509
 Width: 1090
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -14682,9 +14195,8 @@ EndSplineSet
 Substitution2: "Final Form Yeh 2-1" YehFina2
 Substitution2: "Final Form Yeh 1-1" YehFina1
 EndChar
-
 StartChar: uniFBFE
-Encoding: 64510 64510 483
+Encoding: 64510 64510 64510
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 56 -815 basechar 0
@@ -14709,9 +14221,8 @@ Substitution2: "Initial Forms Preceding Heh-1" YehInit3
 Substitution2: "Initial Forms Preceding Meem-1" YehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" YehInit1
 EndChar
-
 StartChar: uniFBFF
-Encoding: 64511 64511 484
+Encoding: 64511 64511 64511
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 58 -830 basechar 0
@@ -14740,9 +14251,8 @@ Substitution2: "Medial Forms Preceding Heh-1" YehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" YehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehMedi1
 EndChar
-
 StartChar: uniFC5E
-Encoding: 64606 64606 485
+Encoding: 64606 64606 64606
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14777,9 +14287,8 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFC5F
-Encoding: 64607 64607 486
+Encoding: 64607 64607 64607
 Width: 551
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14809,9 +14318,8 @@ SplineSet
  433 1483 390 1621 447 1627 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFC60
-Encoding: 64608 64608 487
+Encoding: 64608 64608 64608
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14836,9 +14344,8 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFC61
-Encoding: 64609 64609 488
+Encoding: 64609 64609 64609
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14864,9 +14371,8 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFC62
-Encoding: 64610 64610 489
+Encoding: 64610 64610 64610
 Width: 551
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14891,9 +14397,8 @@ SplineSet
  433 1230 390 1368 447 1374 c 4
 EndSplineSet
 EndChar
-
 StartChar: uniFC63
-Encoding: 64611 64611 490
+Encoding: 64611 64611 64611
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14918,9 +14423,8 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE80
-Encoding: 65152 65152 491
+Encoding: 65152 65152 65152
 Width: 537
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -181 basechar 0
@@ -14938,9 +14442,8 @@ SplineSet
  70 633 307 934 387 832 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE81
-Encoding: 65153 65153 492
+Encoding: 65153 65153 65153
 Width: 669
 Flags: W
 LayerCount: 2
@@ -14964,9 +14467,8 @@ SplineSet
  41 1674 61 1395 -44 1398 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE82
-Encoding: 65154 65154 493
+Encoding: 65154 65154 65154
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 207 -208 basechar 0
@@ -14994,9 +14496,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefMaddaFina1
 EndChar
-
 StartChar: uniFE83
-Encoding: 65155 65155 494
+Encoding: 65155 65155 65155
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -23 basechar 0
@@ -15018,9 +14519,8 @@ SplineSet
  -6 1893 200 2129 264 2061 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE84
-Encoding: 65156 65156 495
+Encoding: 65156 65156 65156
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 207 -208 basechar 0
@@ -15047,9 +14547,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaAboveFina1
 EndChar
-
 StartChar: uniFE85
-Encoding: 65157 65157 496
+Encoding: 65157 65157 65157
 Width: 550
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -15074,9 +14573,8 @@ SplineSet
  247 43 329 84 357 184 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFE86
-Encoding: 65158 65158 497
+Encoding: 65158 65158 65158
 Width: 570
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -15106,9 +14604,8 @@ SplineSet
  243 -35 304 -9 336 105 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFE87
-Encoding: 65159 65159 498
+Encoding: 65159 65159 65159
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -806 basechar 0
@@ -15130,9 +14627,8 @@ SplineSet
  -91 -246 114 -8 178 -76 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE88
-Encoding: 65160 65160 499
+Encoding: 65160 65160 65160
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 138 -841 basechar 0
@@ -15159,9 +14655,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaBelowFina1
 EndChar
-
 StartChar: uniFE89
-Encoding: 65161 65161 500
+Encoding: 65161 65161 65161
 Width: 1525
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -15193,9 +14688,8 @@ SplineSet
  563 1551 768 1788 832 1720 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE8A
-Encoding: 65162 65162 501
+Encoding: 65162 65162 65162
 Width: 1090
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -15228,9 +14722,8 @@ EndSplineSet
 Substitution2: "Final Form Yeh 2-1" YehHamzaFina2
 Substitution2: "Final Form Yeh 1-1" YehHamzaFina1
 EndChar
-
 StartChar: uniFE8B
-Encoding: 65163 65163 502
+Encoding: 65163 65163 65163
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 17 -494 basechar 0
@@ -15259,9 +14752,8 @@ Substitution2: "Initial Forms Preceding Heh-1" YehHamzaInit3
 Substitution2: "Initial Forms Preceding Meem-1" YehHamzaInit2
 Substitution2: "Initial Forms Preceding Jeem-1" YehHamzaInit1
 EndChar
-
 StartChar: uniFE8C
-Encoding: 65164 65164 503
+Encoding: 65164 65164 65164
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 17 -494 basechar 0
@@ -15293,9 +14785,8 @@ Substitution2: "Medial Forms Preceding Reh-1" YehHamzaMedi5
 Substitution2: "Medial Forms Preceding Meem-1" YehHamzaMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehHamzaMedi1
 EndChar
-
 StartChar: uniFE8D
-Encoding: 65165 65165 504
+Encoding: 65165 65165 65165
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -23 basechar 0
@@ -15310,9 +14801,8 @@ SplineSet
  270 1228 222 861 228 624 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE8E
-Encoding: 65166 65166 505
+Encoding: 65166 65166 65166
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 207 -208 basechar 0
@@ -15332,9 +14822,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefFina1
 EndChar
-
 StartChar: uniFE8F
-Encoding: 65167 65167 506
+Encoding: 65167 65167 65167
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 785 -705 basechar 0
@@ -15356,9 +14845,8 @@ SplineSet
  993 -346 903 -624 768 -572 c 4
 EndSplineSet
 EndChar
-
 StartChar: uniFE90
-Encoding: 65168 65168 507
+Encoding: 65168 65168 65168
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 841 -886 basechar 0
@@ -15383,9 +14871,8 @@ SplineSet
  508 -53 138 17 70 296 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE91
-Encoding: 65169 65169 508
+Encoding: 65169 65169 65169
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -47 -863 basechar 0
@@ -15408,9 +14895,8 @@ Substitution2: "Initial Forms Preceding Heh-1" BehInit3
 Substitution2: "Initial Forms Preceding Meem-1" BehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" BehInit1
 EndChar
-
 StartChar: uniFE92
-Encoding: 65170 65170 509
+Encoding: 65170 65170 65170
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -9 -811 basechar 0
@@ -15437,9 +14923,8 @@ Substitution2: "Medial Forms Preceding Heh-1" BehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" BehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" BehMedi1
 EndChar
-
 StartChar: uniFE93
-Encoding: 65171 65171 510
+Encoding: 65171 65171 65171
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -15464,9 +14949,8 @@ SplineSet
  384 548 289 591 255 594 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFE94
-Encoding: 65172 65172 511
+Encoding: 65172 65172 65172
 Width: 744
 Flags: W
 AnchorPoint: "HarakatAbove" 413 1149 basechar 0
@@ -15489,9 +14973,8 @@ SplineSet
  12 -80 74 82 126 208 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE95
-Encoding: 65173 65173 512
+Encoding: 65173 65173 65173
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 872 -192 basechar 0
@@ -15515,9 +14998,8 @@ SplineSet
  967 1634 1254 1606 1214 1492 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE96
-Encoding: 65174 65174 513
+Encoding: 65174 65174 65174
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 841 -456 basechar 0
@@ -15544,9 +15026,8 @@ SplineSet
  1020 1453 1301 1425 1263 1311 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE97
-Encoding: 65175 65175 514
+Encoding: 65175 65175 65175
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15573,9 +15054,8 @@ Substitution2: "Initial Forms Preceding Heh-1" TehInit3
 Substitution2: "Initial Forms Preceding Meem-1" TehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" TehInit1
 EndChar
-
 StartChar: uniFE98
-Encoding: 65176 65176 515
+Encoding: 65176 65176 65176
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15605,9 +15085,8 @@ Substitution2: "Medial Forms Preceding Heh-1" TehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" TehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TehMedi1
 EndChar
-
 StartChar: uniFE99
-Encoding: 65177 65177 516
+Encoding: 65177 65177 65177
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 872 -192 basechar 0
@@ -15634,9 +15113,8 @@ SplineSet
  1013 1976 940 1741 826 1785 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE9A
-Encoding: 65178 65178 517
+Encoding: 65178 65178 65178
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 841 -456 basechar 0
@@ -15666,9 +15144,8 @@ SplineSet
  1060 1782 961 1571 879 1604 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE9B
-Encoding: 65179 65179 518
+Encoding: 65179 65179 65179
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15698,9 +15175,8 @@ Substitution2: "Initial Forms Preceding Heh-1" ThehInit3
 Substitution2: "Initial Forms Preceding Meem-1" ThehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" ThehInit1
 EndChar
-
 StartChar: uniFE9C
-Encoding: 65180 65180 519
+Encoding: 65180 65180 65180
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15733,9 +15209,8 @@ Substitution2: "Medial Forms Preceding Heh-1" ThehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" ThehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ThehMedi1
 EndChar
-
 StartChar: uniFE9D
-Encoding: 65181 65181 520
+Encoding: 65181 65181 65181
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -15763,9 +15238,8 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE9E
-Encoding: 65182 65182 521
+Encoding: 65182 65182 65182
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -15795,9 +15269,8 @@ SplineSet
  428 -542 507 -384 609 -430 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFE9F
-Encoding: 65183 65183 522
+Encoding: 65183 65183 65183
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -992 basechar 0
@@ -15830,9 +15303,8 @@ Substitution2: "Initial Forms Preceding Heh-1" JeemInit5
 Substitution2: "Initial Forms Preceding Meem-1" JeemInit3
 Substitution2: "Initial Forms Preceding Jeem-1" JeemInit2
 EndChar
-
 StartChar: uniFEA0
-Encoding: 65184 65184 523
+Encoding: 65184 65184 65184
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -512 basechar 0
@@ -15864,9 +15336,8 @@ Substitution2: "Medial Forms Preceding Heh-1" JeemMedi5
 Substitution2: "Medial Forms Preceding Meem-1" JeemMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" JeemMedi2
 EndChar
-
 StartChar: uniFEA1
-Encoding: 65185 65185 524
+Encoding: 65185 65185 65185
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -15891,9 +15362,8 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEA2
-Encoding: 65186 65186 525
+Encoding: 65186 65186 65186
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -15920,9 +15390,8 @@ SplineSet
  190 546 513 783 522 789 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEA3
-Encoding: 65187 65187 526
+Encoding: 65187 65187 65187
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -353 basechar 0
@@ -15952,9 +15421,8 @@ Substitution2: "Initial Forms Preceding Heh-1" HahInit5
 Substitution2: "Initial Forms Preceding Meem-1" HahInit3
 Substitution2: "Initial Forms Preceding Jeem-1" HahInit2
 EndChar
-
 StartChar: uniFEA4
-Encoding: 65188 65188 527
+Encoding: 65188 65188 65188
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -15983,9 +15451,8 @@ Substitution2: "Medial Forms Preceding Heh-1" HahMedi5
 Substitution2: "Medial Forms Preceding Meem-1" HahMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" HahMedi2
 EndChar
-
 StartChar: uniFEA5
-Encoding: 65189 65189 528
+Encoding: 65189 65189 65189
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -16013,9 +15480,8 @@ SplineSet
  622 1492 713 1674 830 1622 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEA6
-Encoding: 65190 65190 529
+Encoding: 65190 65190 65190
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -16045,9 +15511,8 @@ SplineSet
  274 1156 352 1318 454 1272 c 4
 EndSplineSet
 EndChar
-
 StartChar: uniFEA7
-Encoding: 65191 65191 530
+Encoding: 65191 65191 65191
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -353 basechar 0
@@ -16080,9 +15545,8 @@ Substitution2: "Initial Forms Preceding Heh-1" KhehInit5
 Substitution2: "Initial Forms Preceding Meem-1" KhehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KhehInit2
 EndChar
-
 StartChar: uniFEA8
-Encoding: 65192 65192 531
+Encoding: 65192 65192 65192
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -16114,9 +15578,8 @@ Substitution2: "Medial Forms Preceding Heh-1" KhehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KhehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" KhehMedi2
 EndChar
-
 StartChar: uniFEA9
-Encoding: 65193 65193 532
+Encoding: 65193 65193 65193
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 221 -80 basechar 0
@@ -16131,9 +15594,8 @@ SplineSet
  338 605 106 776 194 850 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEAA
-Encoding: 65194 65194 533
+Encoding: 65194 65194 65194
 Width: 487
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -16154,9 +15616,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" DalFina1
 EndChar
-
 StartChar: uniFEAB
-Encoding: 65195 65195 534
+Encoding: 65195 65195 65195
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 221 -80 basechar 0
@@ -16174,9 +15635,8 @@ SplineSet
  80 1474 168 1656 285 1604 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEAC
-Encoding: 65196 65196 535
+Encoding: 65196 65196 65196
 Width: 487
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -16200,9 +15660,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" ThalFina1
 EndChar
-
 StartChar: uniFEAD
-Encoding: 65197 65197 536
+Encoding: 65197 65197 65197
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -16217,9 +15676,8 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEAE
-Encoding: 65198 65198 537
+Encoding: 65198 65198 65198
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 330 -438 basechar 0
@@ -16239,9 +15697,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" RehFina1
 EndChar
-
 StartChar: uniFEAF
-Encoding: 65199 65199 538
+Encoding: 65199 65199 65199
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -16259,9 +15716,8 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEB0
-Encoding: 65200 65200 539
+Encoding: 65200 65200 65200
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 330 -438 basechar 0
@@ -16284,9 +15740,8 @@ SplineSet
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" ZehFina1
 EndChar
-
 StartChar: uniFEB1
-Encoding: 65201 65201 540
+Encoding: 65201 65201 65201
 Width: 2091
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16313,9 +15768,8 @@ SplineSet
  1970 864 1932 1058 2014 1058 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEB2
-Encoding: 65202 65202 541
+Encoding: 65202 65202 65202
 Width: 2046
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16346,9 +15800,8 @@ SplineSet
  1894 784 1884 988 1964 976 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEB3
-Encoding: 65203 65203 542
+Encoding: 65203 65203 65203
 Width: 763
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16376,9 +15829,8 @@ Substitution2: "Initial Forms Preceding Heh-1" SeenInit4
 Substitution2: "Initial Forms Preceding Meem-1" SeenInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SeenInit1
 EndChar
-
 StartChar: uniFEB4
-Encoding: 65204 65204 543
+Encoding: 65204 65204 65204
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16412,9 +15864,8 @@ Substitution2: "Medial Forms Preceding Heh-1" SeenMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SeenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SeenMedi1
 EndChar
-
 StartChar: uniFEB5
-Encoding: 65205 65205 544
+Encoding: 65205 65205 65205
 Width: 2091
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16449,9 +15900,8 @@ SplineSet
  1436 1990 1407 1751 1275 1791 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEB6
-Encoding: 65206 65206 545
+Encoding: 65206 65206 65206
 Width: 2046
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16490,9 +15940,8 @@ SplineSet
  1363 1911 1330 1672 1198 1712 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEB7
-Encoding: 65207 65207 546
+Encoding: 65207 65207 65207
 Width: 763
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16529,9 +15978,8 @@ Substitution2: "Initial Forms Preceding Heh-1" SheenInit4
 Substitution2: "Initial Forms Preceding Meem-1" SheenInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SheenInit1
 EndChar
-
 StartChar: uniFEB8
-Encoding: 65208 65208 547
+Encoding: 65208 65208 65208
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16574,9 +16022,8 @@ Substitution2: "Medial Forms Preceding Heh-1" SheenMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SheenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SheenMedi1
 EndChar
-
 StartChar: uniFEB9
-Encoding: 65209 65209 548
+Encoding: 65209 65209 65209
 Width: 2254
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16607,9 +16054,8 @@ SplineSet
  2105 786 2090 1064 2090 1064 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEBA
-Encoding: 65210 65210 549
+Encoding: 65210 65210 65210
 Width: 2131
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16643,9 +16089,8 @@ SplineSet
  1996 753 1978 1014 1978 1014 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEBB
-Encoding: 65211 65211 550
+Encoding: 65211 65211 65211
 Width: 862
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16676,9 +16121,8 @@ Substitution2: "Initial Forms Preceding Heh-1" SadInit4
 Substitution2: "Initial Forms Preceding Meem-1" SadInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SadInit1
 EndChar
-
 StartChar: uniFEBC
-Encoding: 65212 65212 551
+Encoding: 65212 65212 65212
 Width: 847
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16714,9 +16158,8 @@ Substitution2: "Medial Forms Preceding Heh-1" SadMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SadMedi1
 EndChar
-
 StartChar: uniFEBD
-Encoding: 65213 65213 552
+Encoding: 65213 65213 65213
 Width: 2254
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16750,9 +16193,8 @@ SplineSet
  1480 1844 1448 1607 1316 1647 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEBE
-Encoding: 65214 65214 553
+Encoding: 65214 65214 65214
 Width: 2131
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16789,9 +16231,8 @@ SplineSet
  1996 753 1978 1014 1978 1014 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEBF
-Encoding: 65215 65215 554
+Encoding: 65215 65215 65215
 Width: 862
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16825,9 +16266,8 @@ Substitution2: "Initial Forms Preceding Heh-1" DadInit4
 Substitution2: "Initial Forms Preceding Meem-1" DadInit2
 Substitution2: "Initial Forms Preceding Jeem-1" DadInit1
 EndChar
-
 StartChar: uniFEC0
-Encoding: 65216 65216 555
+Encoding: 65216 65216 65216
 Width: 847
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16866,9 +16306,8 @@ Substitution2: "Medial Forms Preceding Heh-1" DadMedi4
 Substitution2: "Medial Forms Preceding Meem-1" DadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" DadMedi1
 EndChar
-
 StartChar: uniFEC1
-Encoding: 65217 65217 556
+Encoding: 65217 65217 65217
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -16894,9 +16333,8 @@ SplineSet
  612 532 681 668 654 688 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEC2
-Encoding: 65218 65218 557
+Encoding: 65218 65218 65218
 Width: 888
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -16926,9 +16364,8 @@ SplineSet
  657 504 726 640 699 660 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEC3
-Encoding: 65219 65219 558
+Encoding: 65219 65219 65219
 Width: 666
 Flags: W
 AnchorPoint: "HarakatBelow" 341 -146 basechar 0
@@ -16956,9 +16393,8 @@ Substitution2: "Initial Forms Preceding Heh-1" TahInit3
 Substitution2: "Initial Forms Preceding Meem-1" TahInit2
 Substitution2: "Initial Forms Preceding Jeem-1" TahInit1
 EndChar
-
 StartChar: uniFEC4
-Encoding: 65220 65220 559
+Encoding: 65220 65220 65220
 Width: 645
 Flags: W
 AnchorPoint: "HarakatBelow" 350 -38 basechar 0
@@ -16990,9 +16426,8 @@ Substitution2: "Medial Forms Preceding Heh-1" TahMedi3
 Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TahMedi1
 EndChar
-
 StartChar: uniFEC5
-Encoding: 65221 65221 560
+Encoding: 65221 65221 65221
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -17021,9 +16456,8 @@ SplineSet
  862 1820 830 1582 698 1622 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEC6
-Encoding: 65222 65222 561
+Encoding: 65222 65222 65222
 Width: 888
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -17056,9 +16490,8 @@ SplineSet
  943 1700 910 1462 778 1502 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEC7
-Encoding: 65223 65223 562
+Encoding: 65223 65223 65223
 Width: 666
 Flags: W
 AnchorPoint: "HarakatBelow" 341 -146 basechar 0
@@ -17089,9 +16522,8 @@ Substitution2: "Initial Forms Preceding Heh-1" ZahInit3
 Substitution2: "Initial Forms Preceding Meem-1" ZahInit2
 Substitution2: "Initial Forms Preceding Jeem-1" ZahInit1
 EndChar
-
 StartChar: uniFEC8
-Encoding: 65224 65224 563
+Encoding: 65224 65224 65224
 Width: 645
 Flags: W
 AnchorPoint: "HarakatBelow" 350 -38 basechar 0
@@ -17126,9 +16558,8 @@ Substitution2: "Medial Forms Preceding Heh-1" ZahMedi3
 Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ZahMedi1
 EndChar
-
 StartChar: uniFEC9
-Encoding: 65225 65225 564
+Encoding: 65225 65225 65225
 Width: 777
 Flags: W
 AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
@@ -17156,9 +16587,8 @@ SplineSet
  562 746 697 654 645 578 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFECA
-Encoding: 65226 65226 565
+Encoding: 65226 65226 65226
 Width: 860
 Flags: W
 AnchorPoint: "HarakatBelow" 751 -1378 basechar 0
@@ -17187,9 +16617,8 @@ SplineSet
  568 912 624 932 676 932 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFECB
-Encoding: 65227 65227 566
+Encoding: 65227 65227 65227
 Width: 607
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -17217,9 +16646,8 @@ Substitution2: "Initial Forms Preceding Heh-1" AinInit5
 Substitution2: "Initial Forms Preceding Meem-1" AinInit3
 Substitution2: "Initial Forms Preceding Jeem-1" AinInit2
 EndChar
-
 StartChar: uniFECC
-Encoding: 65228 65228 567
+Encoding: 65228 65228 65228
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -17247,9 +16675,8 @@ Substitution2: "Medial Forms Preceding Heh-1" AinMedi4
 Substitution2: "Medial Forms Preceding Meem-1" AinMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" AinMedi1
 EndChar
-
 StartChar: uniFECD
-Encoding: 65229 65229 568
+Encoding: 65229 65229 65229
 Width: 777
 Flags: W
 AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
@@ -17280,9 +16707,8 @@ SplineSet
  534 1416 501 1176 369 1216 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFECE
-Encoding: 65230 65230 569
+Encoding: 65230 65230 65230
 Width: 860
 Flags: W
 AnchorPoint: "HarakatBelow" 751 -1378 basechar 0
@@ -17314,9 +16740,8 @@ SplineSet
  648 1668 615 1428 483 1468 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFECF
-Encoding: 65231 65231 570
+Encoding: 65231 65231 65231
 Width: 607
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -17347,9 +16772,8 @@ Substitution2: "Initial Forms Preceding Heh-1" GhainInit5
 Substitution2: "Initial Forms Preceding Meem-1" GhainInit3
 Substitution2: "Initial Forms Preceding Jeem-1" GhainInit2
 EndChar
-
 StartChar: uniFED0
-Encoding: 65232 65232 571
+Encoding: 65232 65232 65232
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -17380,9 +16804,8 @@ Substitution2: "Medial Forms Preceding Heh-1" GhainMedi4
 Substitution2: "Medial Forms Preceding Meem-1" GhainMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" GhainMedi1
 EndChar
-
 StartChar: uniFED1
-Encoding: 65233 65233 572
+Encoding: 65233 65233 65233
 Width: 1777
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -17405,9 +16828,8 @@ SplineSet
  1052 1545 1011 1276 879 1322 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFED2
-Encoding: 65234 65234 573
+Encoding: 65234 65234 65234
 Width: 1750
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -17437,9 +16859,8 @@ SplineSet
  1026 1545 982 1276 850 1322 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFED3
-Encoding: 65235 65235 574
+Encoding: 65235 65235 65235
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -17465,9 +16886,8 @@ Substitution2: "Initial Forms Preceding Heh-1" FehInit5
 Substitution2: "Initial Forms Preceding Meem-1" FehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" FehInit2
 EndChar
-
 StartChar: uniFED4
-Encoding: 65236 65236 575
+Encoding: 65236 65236 65236
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -17497,9 +16917,8 @@ Substitution2: "Medial Forms Preceding Heh-1" FehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" FehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" FehMedi2
 EndChar
-
 StartChar: uniFED5
-Encoding: 65237 65237 576
+Encoding: 65237 65237 65237
 Width: 1641
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -877 basechar 0
@@ -17526,9 +16945,8 @@ SplineSet
  1102 1300 962 1345 900 1336 c 4
 EndSplineSet
 EndChar
-
 StartChar: uniFED6
-Encoding: 65238 65238 577
+Encoding: 65238 65238 65238
 Width: 1590
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -877 basechar 0
@@ -17559,9 +16977,8 @@ SplineSet
  1100 1300 960 1345 898 1336 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFED7
-Encoding: 65239 65239 578
+Encoding: 65239 65239 65239
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -17589,9 +17006,8 @@ Substitution2: "Initial Forms Preceding Heh-1" QafInit5
 Substitution2: "Initial Forms Preceding Meem-1" QafInit3
 Substitution2: "Initial Forms Preceding Jeem-1" QafInit2
 EndChar
-
 StartChar: uniFED8
-Encoding: 65240 65240 579
+Encoding: 65240 65240 65240
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -17623,9 +17039,8 @@ Substitution2: "Medial Forms Preceding Heh-1" QafMedi5
 Substitution2: "Medial Forms Preceding Meem-1" QafMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" QafMedi2
 EndChar
-
 StartChar: uniFED9
-Encoding: 65241 65241 580
+Encoding: 65241 65241 65241
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -17657,9 +17072,8 @@ SplineSet
  1944 1856 1626 1368 1554 1401 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEDA
-Encoding: 65242 65242 581
+Encoding: 65242 65242 65242
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -17694,9 +17108,8 @@ SplineSet
  642 1052 848 1288 912 1220 c 4
 EndSplineSet
 EndChar
-
 StartChar: uniFEDB
-Encoding: 65243 65243 582
+Encoding: 65243 65243 65243
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -17723,9 +17136,8 @@ Substitution2: "Initial Forms Preceding Heh-1" KehInit4
 Substitution2: "Initial Forms Preceding Meem-1" KehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KehInit2
 EndChar
-
 StartChar: uniFEDC
-Encoding: 65244 65244 583
+Encoding: 65244 65244 65244
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -133 basechar 0
@@ -17756,9 +17168,8 @@ Substitution2: "Medial Forms Preceding Heh-1" KehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
 EndChar
-
 StartChar: uniFEDD
-Encoding: 65245 65245 584
+Encoding: 65245 65245 65245
 Width: 1606
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -1123 basechar 0
@@ -17781,9 +17192,8 @@ SplineSet
  1413 474 1363 1006 1462 1014 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEDE
-Encoding: 65246 65246 585
+Encoding: 65246 65246 65246
 Width: 1653
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -1123 basechar 0
@@ -17809,9 +17219,8 @@ SplineSet
  1401 492 1367 1032 1466 1032 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEDF
-Encoding: 65247 65247 586
+Encoding: 65247 65247 65247
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 61 -184 basechar 0
@@ -17834,9 +17243,8 @@ Substitution2: "Initial Forms Preceding Heh-1" LamInit3
 Substitution2: "Initial Forms Preceding Meem-1" LamInit2
 Substitution2: "Initial Forms Preceding Jeem-1" LamInit1
 EndChar
-
 StartChar: uniFEE0
-Encoding: 65248 65248 587
+Encoding: 65248 65248 65248
 Width: 357
 Flags: W
 AnchorPoint: "HarakatBelow" 61 -184 basechar 0
@@ -17863,9 +17271,8 @@ Substitution2: "Medial Forms Preceding Heh-1" LamMedi3
 Substitution2: "Medial Forms Preceding Meem-1" LamMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" LamMedi1
 EndChar
-
 StartChar: uniFEE1
-Encoding: 65249 65249 588
+Encoding: 65249 65249 65249
 Width: 828
 Flags: W
 AnchorPoint: "HarakatBelow" 787 842 basechar 0
@@ -17885,9 +17292,8 @@ SplineSet
  241 965 449 1072 627 1244 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEE2
-Encoding: 65250 65250 589
+Encoding: 65250 65250 65250
 Width: 637
 Flags: W
 AnchorPoint: "HarakatBelow" 499 -241 basechar 0
@@ -17910,9 +17316,8 @@ SplineSet
  452 482 493 640 637 784 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEE3
-Encoding: 65251 65251 590
+Encoding: 65251 65251 65251
 Width: 472
 Flags: W
 AnchorPoint: "HarakatBelow" 112 -264 basechar 0
@@ -17936,9 +17341,8 @@ Substitution2: "Initial Forms Preceding Heh-1" MeemInit5
 Substitution2: "Initial Forms Preceding Meem-1" MeemInit3
 Substitution2: "Initial Forms Preceding Jeem-1" MeemInit2
 EndChar
-
 StartChar: uniFEE4
-Encoding: 65252 65252 591
+Encoding: 65252 65252 65252
 Width: 282
 Flags: W
 AnchorPoint: "HarakatBelow" 188 -158 basechar 0
@@ -17965,9 +17369,8 @@ Substitution2: "Medial Forms Preceding Heh-1" MeemMedi4
 Substitution2: "Medial Forms Preceding Meem-1" MeemMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" MeemMedi1
 EndChar
-
 StartChar: uniFEE5
-Encoding: 65253 65253 592
+Encoding: 65253 65253 65253
 Width: 1707
 Flags: W
 AnchorPoint: "HarakatBelow" 808 -745 basechar 0
@@ -17991,11 +17394,10 @@ SplineSet
  1024 354 953 136 848 176 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEE6
-Encoding: 65254 65254 593
+Encoding: 65254 65254 65254
 Width: 1683
-Flags: HW
+Flags: W
 AnchorPoint: "HarakatBelow" 679 -769 basechar 0
 AnchorPoint: "HarakatAbove" 854 1015 basechar 0
 AnchorPoint: "Curs" 1683 460 entry 0
@@ -18006,7 +17408,7 @@ SplineSet
  1683 460 l 1
  1659 460 1616 476 1594 494 c 1
  1612 414 1632 297 1616 149 c 4
- 1595 -43 1462.24815803 -204.282861724 1354 -299 c 0
+ 1595 -43 1462 -204 1354 -299 c 0
  1250 -390 1138 -439 954 -484 c 0
  796 -523 552 -527 380 -462 c 0
  269 -420 131 -304 87 -188 c 0
@@ -18026,9 +17428,8 @@ SplineSet
  982 354 940 90 781 154 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEE7
-Encoding: 65255 65255 594
+Encoding: 65255 65255 65255
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -18051,9 +17452,8 @@ Substitution2: "Initial Forms Preceding Heh-1" NoonInit3
 Substitution2: "Initial Forms Preceding Meem-1" NoonInit2
 Substitution2: "Initial Forms Preceding Jeem-1" NoonInit1
 EndChar
-
 StartChar: uniFEE8
-Encoding: 65256 65256 595
+Encoding: 65256 65256 65256
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -18080,9 +17480,8 @@ Substitution2: "Medial Forms Preceding Heh-1" NoonMedi4
 Substitution2: "Medial Forms Preceding Meem-1" NoonMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" NoonMedi1
 EndChar
-
 StartChar: uniFEE9
-Encoding: 65257 65257 596
+Encoding: 65257 65257 65257
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -18102,9 +17501,8 @@ SplineSet
  384 548 289 591 255 594 c 5
 EndSplineSet
 EndChar
-
 StartChar: uniFEEA
-Encoding: 65258 65258 597
+Encoding: 65258 65258 65258
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 435 -328 basechar 0
@@ -18122,9 +17520,8 @@ SplineSet
  12 -80 74 82 126 208 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEEB
-Encoding: 65259 65259 598
+Encoding: 65259 65259 65259
 Width: 625
 Flags: W
 AnchorPoint: "HarakatBelow" 219 -42 basechar 0
@@ -18155,9 +17552,8 @@ Substitution2: "Initial Forms Preceding Heh-1" HehInit4
 Substitution2: "Initial Forms Preceding Meem-1" HehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" HehInit1
 EndChar
-
 StartChar: uniFEEC
-Encoding: 65260 65260 599
+Encoding: 65260 65260 65260
 Width: 525
 Flags: W
 AnchorPoint: "HarakatBelow" 360 -240 basechar 0
@@ -18185,9 +17581,8 @@ Substitution2: "Medial Forms Preceding Heh-1" HehMedi3
 Substitution2: "Medial Forms Preceding Meem-1" HehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" HehMedi1
 EndChar
-
 StartChar: uniFEED
-Encoding: 65261 65261 600
+Encoding: 65261 65261 65261
 Width: 550
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -18205,9 +17600,8 @@ SplineSet
  247 43 329 84 357 184 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEEE
-Encoding: 65262 65262 601
+Encoding: 65262 65262 65262
 Width: 570
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -18230,9 +17624,8 @@ SplineSet
  243 -35 304 -9 336 105 c 1
 EndSplineSet
 EndChar
-
 StartChar: uniFEF5
-Encoding: 65269 65269 602
+Encoding: 65269 65269 65269
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -18267,9 +17660,8 @@ SplineSet
  37 1450 -12 1242 -86 1272 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEF6
-Encoding: 65270 65270 603
+Encoding: 65270 65270 65270
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -18307,9 +17699,8 @@ SplineSet
  654 1281 627 1144 633 968 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEF7
-Encoding: 65271 65271 604
+Encoding: 65271 65271 65271
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -18341,9 +17732,8 @@ SplineSet
  675 1265 639 1140 645 964 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEF8
-Encoding: 65272 65272 605
+Encoding: 65272 65272 65272
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -18379,9 +17769,8 @@ SplineSet
  90 1850 296 2087 360 2019 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEF9
-Encoding: 65273 65273 606
+Encoding: 65273 65273 65273
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -18413,9 +17802,8 @@ SplineSet
  675 1265 639 1140 645 964 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEFA
-Encoding: 65274 65274 607
+Encoding: 65274 65274 65274
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -18451,9 +17839,8 @@ SplineSet
  -85 -214 120 22 184 -46 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEFB
-Encoding: 65275 65275 608
+Encoding: 65275 65275 65275
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -18478,9 +17865,8 @@ SplineSet
  675 1265 639 1140 645 964 c 0
 EndSplineSet
 EndChar
-
 StartChar: uniFEFC
-Encoding: 65276 65276 609
+Encoding: 65276 65276 65276
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -18509,9 +17895,8 @@ SplineSet
  654 1281 627 1144 633 968 c 0
 EndSplineSet
 EndChar
-
 StartChar: AlefFina1
-Encoding: 1114112 -1 610
+Encoding: 1114112 -1 1114112
 Width: 488
 Flags: W
 AnchorPoint: "Curs" 488 74 entry 0
@@ -18531,9 +17916,8 @@ SplineSet
  111 1013 139 1072 189 1072 c 4
 EndSplineSet
 EndChar
-
 StartChar: DalFina1
-Encoding: 1114113 -1 611
+Encoding: 1114113 -1 1114113
 Width: 771
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -298 basechar 0
@@ -18553,9 +17937,8 @@ SplineSet
  479 400 506 669 598 666 c 0
 EndSplineSet
 EndChar
-
 StartChar: ThalFina1
-Encoding: 1114114 -1 612
+Encoding: 1114114 -1 1114114
 Width: 771
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -298 basechar 0
@@ -18578,9 +17961,8 @@ SplineSet
  479 400 506 669 598 666 c 0
 EndSplineSet
 EndChar
-
 StartChar: RehFina1
-Encoding: 1114115 -1 613
+Encoding: 1114115 -1 1114115
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -448 basechar 0
@@ -18598,9 +17980,8 @@ SplineSet
  270 206 356 296 414 340 c 1
 EndSplineSet
 EndChar
-
 StartChar: ZehFina1
-Encoding: 1114116 -1 614
+Encoding: 1114116 -1 1114116
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -448 basechar 0
@@ -18621,9 +18002,8 @@ SplineSet
  270 206 356 296 414 340 c 1
 EndSplineSet
 EndChar
-
 StartChar: JehFina1
-Encoding: 1114117 -1 615
+Encoding: 1114117 -1 1114117
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -448 basechar 0
@@ -18649,9 +18029,8 @@ SplineSet
  270 206 356 296 414 340 c 1
 EndSplineSet
 EndChar
-
 StartChar: KehFina1
-Encoding: 1114118 -1 616
+Encoding: 1114118 -1 1114118
 Width: 1699
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18679,9 +18058,8 @@ SplineSet
  1722 1527 1543 979 1455 982 c 0
 EndSplineSet
 EndChar
-
 StartChar: KehFina2
-Encoding: 1114119 -1 617
+Encoding: 1114119 -1 1114119
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18709,9 +18087,8 @@ SplineSet
  1722 1527 1543 979 1455 982 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafFina1
-Encoding: 1114120 -1 618
+Encoding: 1114120 -1 1114120
 Width: 1699
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18745,9 +18122,8 @@ SplineSet
  1496 587 1445 923 1544 926 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafFina2
-Encoding: 1114121 -1 619
+Encoding: 1114121 -1 1114121
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18781,9 +18157,8 @@ SplineSet
  1496 587 1445 923 1544 926 c 0
 EndSplineSet
 EndChar
-
 StartChar: HehFina1
-Encoding: 1114122 -1 620
+Encoding: 1114122 -1 1114122
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 501 -130 basechar 0
@@ -18801,9 +18176,8 @@ SplineSet
  152 30 172 86 234 206 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehFina1
-Encoding: 1114123 -1 621
+Encoding: 1114123 -1 1114123
 Width: 1002
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -18828,9 +18202,8 @@ SplineSet
  832 449 808 534 1002 774 c 5
 EndSplineSet
 EndChar
-
 StartChar: YehFina2
-Encoding: 1114124 -1 622
+Encoding: 1114124 -1 1114124
 Width: 1065
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -18855,9 +18228,8 @@ SplineSet
  85 -150 -15 -8 65 296 c 0
 EndSplineSet
 EndChar
-
 StartChar: AlefMaddaFina1
-Encoding: 1114125 -1 623
+Encoding: 1114125 -1 1114125
 Width: 488
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -208 basechar 0
@@ -18886,9 +18258,8 @@ SplineSet
  -29 1486 -78 1278 -152 1308 c 0
 EndSplineSet
 EndChar
-
 StartChar: AlefHamzaAboveFina1
-Encoding: 1114126 -1 624
+Encoding: 1114126 -1 1114126
 Width: 488
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -208 basechar 0
@@ -18915,9 +18286,8 @@ SplineSet
  42 1893 248 2129 312 2061 c 0
 EndSplineSet
 EndChar
-
 StartChar: AlefHamzaBelowFina1
-Encoding: 1114127 -1 625
+Encoding: 1114127 -1 1114127
 Width: 488
 Flags: W
 AnchorPoint: "Curs" 488 74 entry 0
@@ -18944,9 +18314,8 @@ SplineSet
  -7 -408 196 -169 260 -237 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaFina1
-Encoding: 1114128 -1 626
+Encoding: 1114128 -1 1114128
 Width: 1002
 Flags: W
 AnchorPoint: "Curs" 1002 540 entry 0
@@ -18978,9 +18347,8 @@ SplineSet
  474 1306 680 1546 744 1478 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaFina2
-Encoding: 1114129 -1 627
+Encoding: 1114129 -1 1114129
 Width: 1065
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -19011,9 +18379,8 @@ SplineSet
  522 1279 729 1516 793 1448 c 0
 EndSplineSet
 EndChar
-
 StartChar: HehYehFina1
-Encoding: 1114130 -1 628
+Encoding: 1114130 -1 1114130
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 501 -130 basechar 0
@@ -19038,9 +18405,8 @@ SplineSet
  295 1222 502 1460 566 1392 c 0
 EndSplineSet
 EndChar
-
 StartChar: BehMedi1
-Encoding: 1114131 -1 629
+Encoding: 1114131 -1 1114131
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -427 basechar 0
@@ -19062,9 +18428,8 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
-
 StartChar: BehMedi2
-Encoding: 1114132 -1 630
+Encoding: 1114132 -1 1114132
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 143 basechar 0
@@ -19086,9 +18451,8 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: BehMedi3
-Encoding: 1114133 -1 631
+Encoding: 1114133 -1 1114133
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -808 basechar 0
@@ -19110,9 +18474,8 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: BehMedi4
-Encoding: 1114134 -1 632
+Encoding: 1114134 -1 1114134
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 69 -385 basechar 0
@@ -19134,9 +18497,8 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: BehMedi5
-Encoding: 1114135 -1 633
+Encoding: 1114135 -1 1114135
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -802 basechar 0
@@ -19158,9 +18520,8 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
-
 StartChar: PehMedi1
-Encoding: 1114136 -1 634
+Encoding: 1114136 -1 1114136
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 232 -518 basechar 0
@@ -19187,9 +18548,8 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
-
 StartChar: PehMedi2
-Encoding: 1114137 -1 635
+Encoding: 1114137 -1 1114137
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 143 basechar 0
@@ -19216,9 +18576,8 @@ SplineSet
  68 1355 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: PehMedi3
-Encoding: 1114138 -1 636
+Encoding: 1114138 -1 1114138
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 168 -946 basechar 0
@@ -19245,9 +18604,8 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: PehMedi4
-Encoding: 1114139 -1 637
+Encoding: 1114139 -1 1114139
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 216 -474 basechar 0
@@ -19274,9 +18632,8 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: PehMedi5
-Encoding: 1114140 -1 638
+Encoding: 1114140 -1 1114140
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -872 basechar 0
@@ -19303,9 +18660,8 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehMedi1
-Encoding: 1114141 -1 639
+Encoding: 1114141 -1 1114141
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -19329,9 +18685,8 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehMedi2
-Encoding: 1114142 -1 640
+Encoding: 1114142 -1 1114142
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -19355,9 +18710,8 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehMedi3
-Encoding: 1114143 -1 641
+Encoding: 1114143 -1 1114143
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -19381,9 +18735,8 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehMedi4
-Encoding: 1114144 -1 642
+Encoding: 1114144 -1 1114144
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -19407,9 +18760,8 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehMedi5
-Encoding: 1114145 -1 643
+Encoding: 1114145 -1 1114145
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -19433,9 +18785,8 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehMedi6
-Encoding: 1114146 -1 644
+Encoding: 1114146 -1 1114146
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -19459,9 +18810,8 @@ SplineSet
  322 189 l 1
 EndSplineSet
 EndChar
-
 StartChar: ThehMedi1
-Encoding: 1114147 -1 645
+Encoding: 1114147 -1 1114147
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -19488,9 +18838,8 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
-
 StartChar: ThehMedi2
-Encoding: 1114148 -1 646
+Encoding: 1114148 -1 1114148
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -19517,9 +18866,8 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: ThehMedi3
-Encoding: 1114149 -1 647
+Encoding: 1114149 -1 1114149
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -19546,9 +18894,8 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: ThehMedi4
-Encoding: 1114150 -1 648
+Encoding: 1114150 -1 1114150
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -19575,9 +18922,8 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: ThehMedi5
-Encoding: 1114151 -1 649
+Encoding: 1114151 -1 1114151
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -19604,9 +18950,8 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
-
 StartChar: ThehMedi6
-Encoding: 1114152 -1 650
+Encoding: 1114152 -1 1114152
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -19633,9 +18978,8 @@ SplineSet
  322 188 l 1
 EndSplineSet
 EndChar
-
 StartChar: JeemMedi1
-Encoding: 1114153 -1 651
+Encoding: 1114153 -1 1114153
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -454 basechar 0
@@ -19662,9 +19006,8 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
-
 StartChar: JeemMedi2
-Encoding: 1114154 -1 652
+Encoding: 1114154 -1 1114154
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -304 basechar 0
@@ -19690,9 +19033,8 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
-
 StartChar: JeemMedi3
-Encoding: 1114155 -1 653
+Encoding: 1114155 -1 1114155
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 163 144 basechar 0
@@ -19717,9 +19059,8 @@ SplineSet
  -164 1527 -47 1707 123 1821 c 1
 EndSplineSet
 EndChar
-
 StartChar: JeemMedi4
-Encoding: 1114156 -1 654
+Encoding: 1114156 -1 1114156
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 282 -618 basechar 0
@@ -19744,9 +19085,8 @@ SplineSet
  -167 1002 -49 1176 123 1293 c 1
 EndSplineSet
 EndChar
-
 StartChar: JeemMedi5
-Encoding: 1114157 -1 655
+Encoding: 1114157 -1 1114157
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -258 basechar 0
@@ -19771,9 +19111,8 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
-
 StartChar: TchehMedi1
-Encoding: 1114158 -1 656
+Encoding: 1114158 -1 1114158
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 238 -650 basechar 0
@@ -19805,9 +19144,8 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
-
 StartChar: TchehMedi2
-Encoding: 1114159 -1 657
+Encoding: 1114159 -1 1114159
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 277 -500 basechar 0
@@ -19838,9 +19176,8 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
-
 StartChar: TchehMedi3
-Encoding: 1114160 -1 658
+Encoding: 1114160 -1 1114160
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 180 -42 basechar 0
@@ -19870,9 +19207,8 @@ SplineSet
  -164 1527 -47 1707 123 1821 c 1
 EndSplineSet
 EndChar
-
 StartChar: TchehMedi4
-Encoding: 1114161 -1 659
+Encoding: 1114161 -1 1114161
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -832 basechar 0
@@ -19902,9 +19238,8 @@ SplineSet
  -167 1002 -49 1176 123 1293 c 1
 EndSplineSet
 EndChar
-
 StartChar: TchehMedi5
-Encoding: 1114162 -1 660
+Encoding: 1114162 -1 1114162
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -519 basechar 0
@@ -19934,9 +19269,8 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
-
 StartChar: HahMedi1
-Encoding: 1114163 -1 661
+Encoding: 1114163 -1 1114163
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 210 -240 basechar 0
@@ -19960,9 +19294,8 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
-
 StartChar: HahMedi2
-Encoding: 1114164 -1 662
+Encoding: 1114164 -1 1114164
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 266 58 basechar 0
@@ -19985,9 +19318,8 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
-
 StartChar: HahMedi3
-Encoding: 1114165 -1 663
+Encoding: 1114165 -1 1114165
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 163 438 basechar 0
@@ -20009,9 +19341,8 @@ SplineSet
  -164 1527 -47 1707 123 1821 c 1
 EndSplineSet
 EndChar
-
 StartChar: HahMedi4
-Encoding: 1114166 -1 664
+Encoding: 1114166 -1 1114166
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 282 -194 basechar 0
@@ -20033,9 +19364,8 @@ SplineSet
  -167 1002 -49 1176 123 1293 c 1
 EndSplineSet
 EndChar
-
 StartChar: HahMedi5
-Encoding: 1114167 -1 665
+Encoding: 1114167 -1 1114167
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -70 basechar 0
@@ -20057,9 +19387,8 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
-
 StartChar: KhehMedi1
-Encoding: 1114168 -1 666
+Encoding: 1114168 -1 1114168
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 210 -240 basechar 0
@@ -20086,9 +19415,8 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
-
 StartChar: KhehMedi2
-Encoding: 1114169 -1 667
+Encoding: 1114169 -1 1114169
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 266 58 basechar 0
@@ -20114,9 +19442,8 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
-
 StartChar: KhehMedi3
-Encoding: 1114170 -1 668
+Encoding: 1114170 -1 1114170
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 163 438 basechar 0
@@ -20141,9 +19468,8 @@ SplineSet
  -44 2327 37 2493 145 2447 c 0
 EndSplineSet
 EndChar
-
 StartChar: KhehMedi4
-Encoding: 1114171 -1 669
+Encoding: 1114171 -1 1114171
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 282 -194 basechar 0
@@ -20168,9 +19494,8 @@ SplineSet
  -87 1747 -6 1914 102 1868 c 0
 EndSplineSet
 EndChar
-
 StartChar: KhehMedi5
-Encoding: 1114172 -1 670
+Encoding: 1114172 -1 1114172
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -70 basechar 0
@@ -20195,9 +19520,8 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
-
 StartChar: SeenMedi1
-Encoding: 1114173 -1 671
+Encoding: 1114173 -1 1114173
 Width: 921
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20224,9 +19548,8 @@ SplineSet
  764 1058 752 1223 838 1220 c 0
 EndSplineSet
 EndChar
-
 StartChar: SeenMedi2
-Encoding: 1114174 -1 672
+Encoding: 1114174 -1 1114174
 Width: 838
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -20252,9 +19575,8 @@ SplineSet
  685 1540 673 1706 759 1706 c 0
 EndSplineSet
 EndChar
-
 StartChar: SeenMedi3
-Encoding: 1114175 -1 673
+Encoding: 1114175 -1 1114175
 Width: 918
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20281,9 +19603,8 @@ SplineSet
  764 1040 752 1206 838 1204 c 0
 EndSplineSet
 EndChar
-
 StartChar: SeenMedi4
-Encoding: 1114176 -1 674
+Encoding: 1114176 -1 1114176
 Width: 888
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20310,9 +19631,8 @@ SplineSet
  732 1002 716 1141 780 1161 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenMedi1
-Encoding: 1114177 -1 675
+Encoding: 1114177 -1 1114177
 Width: 921
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20347,9 +19667,8 @@ SplineSet
  764 1058 752 1223 838 1220 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenMedi2
-Encoding: 1114178 -1 676
+Encoding: 1114178 -1 1114178
 Width: 838
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2705 basechar 0
@@ -20383,9 +19702,8 @@ SplineSet
  685 1540 673 1706 759 1706 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenMedi3
-Encoding: 1114179 -1 677
+Encoding: 1114179 -1 1114179
 Width: 918
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2202 basechar 0
@@ -20420,9 +19738,8 @@ SplineSet
  764 1040 752 1206 838 1204 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenMedi4
-Encoding: 1114180 -1 678
+Encoding: 1114180 -1 1114180
 Width: 888
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2150 basechar 0
@@ -20457,9 +19774,8 @@ SplineSet
  732 1002 716 1141 780 1161 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenMedi5
-Encoding: 1114181 -1 679
+Encoding: 1114181 -1 1114181
 Width: 780
 Flags: W
 AnchorPoint: "HarakatAbove" 342 1678 basechar 0
@@ -20496,9 +19812,8 @@ SplineSet
  662 583 630 728 700 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: SadMedi1
-Encoding: 1114182 -1 680
+Encoding: 1114182 -1 1114182
 Width: 885
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20528,9 +19843,8 @@ SplineSet
  446 759 l 1
 EndSplineSet
 EndChar
-
 StartChar: SadMedi2
-Encoding: 1114183 -1 681
+Encoding: 1114183 -1 1114183
 Width: 876
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -20560,9 +19874,8 @@ SplineSet
  442 1275 l 1
 EndSplineSet
 EndChar
-
 StartChar: SadMedi3
-Encoding: 1114184 -1 682
+Encoding: 1114184 -1 1114184
 Width: 877
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20592,9 +19905,8 @@ SplineSet
  434 768 l 1
 EndSplineSet
 EndChar
-
 StartChar: SadMedi4
-Encoding: 1114185 -1 683
+Encoding: 1114185 -1 1114185
 Width: 867
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20625,9 +19937,8 @@ SplineSet
  434 801 l 1
 EndSplineSet
 EndChar
-
 StartChar: DadMedi1
-Encoding: 1114186 -1 684
+Encoding: 1114186 -1 1114186
 Width: 885
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20660,9 +19971,8 @@ SplineSet
  446 759 l 1
 EndSplineSet
 EndChar
-
 StartChar: DadMedi2
-Encoding: 1114187 -1 685
+Encoding: 1114187 -1 1114187
 Width: 876
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -20695,9 +20005,8 @@ SplineSet
  442 1275 l 1
 EndSplineSet
 EndChar
-
 StartChar: DadMedi3
-Encoding: 1114188 -1 686
+Encoding: 1114188 -1 1114188
 Width: 877
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20730,9 +20039,8 @@ SplineSet
  434 768 l 1
 EndSplineSet
 EndChar
-
 StartChar: DadMedi4
-Encoding: 1114189 -1 687
+Encoding: 1114189 -1 1114189
 Width: 867
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20766,9 +20074,8 @@ SplineSet
  434 801 l 1
 EndSplineSet
 EndChar
-
 StartChar: TahMedi1
-Encoding: 1114190 -1 688
+Encoding: 1114190 -1 1114190
 Width: 543
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -20799,9 +20106,8 @@ SplineSet
  372 1149 383 1244 363 1254 c 0
 EndSplineSet
 EndChar
-
 StartChar: TahMedi2
-Encoding: 1114191 -1 689
+Encoding: 1114191 -1 1114191
 Width: 510
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -20829,9 +20135,8 @@ SplineSet
  230 1454 358 1677 314 1692 c 0
 EndSplineSet
 EndChar
-
 StartChar: TahMedi3
-Encoding: 1114192 -1 690
+Encoding: 1114192 -1 1114192
 Width: 495
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -20862,9 +20167,8 @@ SplineSet
  307 1084 331 1185 310 1194 c 0
 EndSplineSet
 EndChar
-
 StartChar: ZahMedi1
-Encoding: 1114193 -1 691
+Encoding: 1114193 -1 1114193
 Width: 543
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -20898,9 +20202,8 @@ SplineSet
  571 2212 537 1974 405 2014 c 0
 EndSplineSet
 EndChar
-
 StartChar: ZahMedi2
-Encoding: 1114194 -1 692
+Encoding: 1114194 -1 1114194
 Width: 510
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -20931,9 +20234,8 @@ SplineSet
  571 2667 537 2428 405 2468 c 4
 EndSplineSet
 EndChar
-
 StartChar: ZahMedi3
-Encoding: 1114195 -1 693
+Encoding: 1114195 -1 1114195
 Width: 495
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -20967,9 +20269,8 @@ SplineSet
  307 1084 331 1185 310 1194 c 4
 EndSplineSet
 EndChar
-
 StartChar: AinMedi1
-Encoding: 1114196 -1 694
+Encoding: 1114196 -1 1114196
 Width: 418
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -20992,9 +20293,8 @@ SplineSet
  52 827 105 859 135 897 c 1
 EndSplineSet
 EndChar
-
 StartChar: AinMedi2
-Encoding: 1114197 -1 695
+Encoding: 1114197 -1 1114197
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -21017,9 +20317,8 @@ SplineSet
  252 1198 200 1235 166 1269 c 1
 EndSplineSet
 EndChar
-
 StartChar: AinMedi3
-Encoding: 1114198 -1 696
+Encoding: 1114198 -1 1114198
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -21042,9 +20341,8 @@ SplineSet
  252 676 200 713 166 747 c 1
 EndSplineSet
 EndChar
-
 StartChar: AinMedi4
-Encoding: 1114199 -1 697
+Encoding: 1114199 -1 1114199
 Width: 298
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -21067,9 +20365,8 @@ SplineSet
  9 734 12 741 21 765 c 1
 EndSplineSet
 EndChar
-
 StartChar: GhainMedi1
-Encoding: 1114200 -1 698
+Encoding: 1114200 -1 1114200
 Width: 418
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -21095,9 +20392,8 @@ SplineSet
  258 2019 224 1781 92 1821 c 4
 EndSplineSet
 EndChar
-
 StartChar: GhainMedi2
-Encoding: 1114201 -1 699
+Encoding: 1114201 -1 1114201
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -21123,9 +20419,8 @@ SplineSet
  252 1198 200 1235 166 1269 c 1
 EndSplineSet
 EndChar
-
 StartChar: GhainMedi3
-Encoding: 1114202 -1 700
+Encoding: 1114202 -1 1114202
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -21151,9 +20446,8 @@ SplineSet
  252 676 200 713 166 747 c 1
 EndSplineSet
 EndChar
-
 StartChar: GhainMedi4
-Encoding: 1114203 -1 701
+Encoding: 1114203 -1 1114203
 Width: 298
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -21179,9 +20473,8 @@ SplineSet
  9 734 12 741 21 765 c 1
 EndSplineSet
 EndChar
-
 StartChar: FehMedi1
-Encoding: 1114204 -1 702
+Encoding: 1114204 -1 1114204
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -21206,9 +20499,8 @@ SplineSet
  12 553 70 730 208 730 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehMedi2
-Encoding: 1114205 -1 703
+Encoding: 1114205 -1 1114205
 Width: 384
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -21233,9 +20525,8 @@ SplineSet
  140 1235 268 1254 350 1196 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehMedi3
-Encoding: 1114206 -1 704
+Encoding: 1114206 -1 1114206
 Width: 307
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -21260,9 +20551,8 @@ SplineSet
  55 1635 181 1674 261 1612 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehMedi4
-Encoding: 1114207 -1 705
+Encoding: 1114207 -1 1114207
 Width: 304
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -21287,9 +20577,8 @@ SplineSet
  55 1111 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehMedi5
-Encoding: 1114208 -1 706
+Encoding: 1114208 -1 1114208
 Width: 261
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -21315,9 +20604,8 @@ SplineSet
  -64 1078 0 1137 68 1137 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafMedi1
-Encoding: 1114209 -1 707
+Encoding: 1114209 -1 1114209
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -21342,9 +20630,8 @@ SplineSet
  12 612 70 789 208 789 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafMedi2
-Encoding: 1114210 -1 708
+Encoding: 1114210 -1 1114210
 Width: 384
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -21371,9 +20658,8 @@ SplineSet
  175 2108 326 2073 282 1971 c 4
 EndSplineSet
 EndChar
-
 StartChar: QafMedi3
-Encoding: 1114211 -1 709
+Encoding: 1114211 -1 1114211
 Width: 307
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -21400,9 +20686,8 @@ SplineSet
  55 1635 181 1674 261 1612 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafMedi4
-Encoding: 1114212 -1 710
+Encoding: 1114212 -1 1114212
 Width: 304
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -21429,9 +20714,8 @@ SplineSet
  55 1111 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafMedi5
-Encoding: 1114213 -1 711
+Encoding: 1114213 -1 1114213
 Width: 261
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -21459,9 +20743,8 @@ SplineSet
  -64 1078 0 1137 68 1137 c 0
 EndSplineSet
 EndChar
-
 StartChar: KehMedi1
-Encoding: 1114214 -1 712
+Encoding: 1114214 -1 1114214
 Width: 393
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -21489,9 +20772,8 @@ SplineSet
  -126 710 52 835 138 850 c 0
 EndSplineSet
 EndChar
-
 StartChar: KehMedi2
-Encoding: 1114215 -1 713
+Encoding: 1114215 -1 1114215
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -399 basechar 0
@@ -21515,9 +20797,8 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
-
 StartChar: KehMedi3
-Encoding: 1114216 -1 714
+Encoding: 1114216 -1 1114216
 Width: 375
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -21543,9 +20824,8 @@ SplineSet
  764 2790 1006 3251 1088 3152 c 0
 EndSplineSet
 EndChar
-
 StartChar: KehMedi4
-Encoding: 1114217 -1 715
+Encoding: 1114217 -1 1114217
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -21571,9 +20851,8 @@ SplineSet
  0 1281 l 1
 EndSplineSet
 EndChar
-
 StartChar: KehMedi5
-Encoding: 1114218 -1 716
+Encoding: 1114218 -1 1114218
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -21599,9 +20878,8 @@ SplineSet
  106 1050 3 1368 111 1380 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafMedi1
-Encoding: 1114219 -1 717
+Encoding: 1114219 -1 1114219
 Width: 393
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -21634,9 +20912,8 @@ SplineSet
  -126 710 52 835 138 850 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafMedi2
-Encoding: 1114220 -1 718
+Encoding: 1114220 -1 1114220
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -399 basechar 0
@@ -21665,9 +20942,8 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
-
 StartChar: GafMedi3
-Encoding: 1114221 -1 719
+Encoding: 1114221 -1 1114221
 Width: 375
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -21697,9 +20973,8 @@ SplineSet
  510 2366 696 2650 734 2712 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafMedi4
-Encoding: 1114222 -1 720
+Encoding: 1114222 -1 1114222
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -21729,9 +21004,8 @@ SplineSet
  510 2856 696 3142 734 3204 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafMedi5
-Encoding: 1114223 -1 721
+Encoding: 1114223 -1 1114223
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -21761,9 +21035,8 @@ SplineSet
  106 1050 3 1368 111 1380 c 0
 EndSplineSet
 EndChar
-
 StartChar: LamMedi1
-Encoding: 1114224 -1 722
+Encoding: 1114224 -1 1114224
 Width: 357
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -21786,9 +21059,8 @@ SplineSet
  114 1277 104 1604 206 1604 c 0
 EndSplineSet
 EndChar
-
 StartChar: LamMedi2
-Encoding: 1114225 -1 723
+Encoding: 1114225 -1 1114225
 Width: 295
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -21811,9 +21083,8 @@ SplineSet
  64 1747 54 2073 156 2073 c 0
 EndSplineSet
 EndChar
-
 StartChar: LamMedi3
-Encoding: 1114226 -1 724
+Encoding: 1114226 -1 1114226
 Width: 331
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -21835,9 +21106,8 @@ SplineSet
  0 716 l 1
 EndSplineSet
 EndChar
-
 StartChar: MeemMedi1
-Encoding: 1114227 -1 725
+Encoding: 1114227 -1 1114227
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -21861,9 +21131,8 @@ SplineSet
  208 1141 246 1209 314 1284 c 1
 EndSplineSet
 EndChar
-
 StartChar: MeemMedi2
-Encoding: 1114228 -1 726
+Encoding: 1114228 -1 1114228
 Width: 218
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -21885,9 +21154,8 @@ SplineSet
  92 1550 132 1630 218 1726 c 1
 EndSplineSet
 EndChar
-
 StartChar: MeemMedi3
-Encoding: 1114229 -1 727
+Encoding: 1114229 -1 1114229
 Width: 218
 Flags: W
 AnchorPoint: "HarakatBelow" 117 41 basechar 0
@@ -21910,9 +21178,8 @@ SplineSet
  118 1061 156 1122 218 1190 c 1
 EndSplineSet
 EndChar
-
 StartChar: MeemMedi4
-Encoding: 1114230 -1 728
+Encoding: 1114230 -1 1114230
 Width: 255
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -21936,9 +21203,8 @@ SplineSet
  180 1114 237 1178 255 1202 c 1
 EndSplineSet
 EndChar
-
 StartChar: NoonMedi1
-Encoding: 1114231 -1 729
+Encoding: 1114231 -1 1114231
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -21960,9 +21226,8 @@ SplineSet
  88 851 150 903 214 903 c 4
 EndSplineSet
 EndChar
-
 StartChar: NoonMedi2
-Encoding: 1114232 -1 730
+Encoding: 1114232 -1 1114232
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -21984,9 +21249,8 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: NoonMedi3
-Encoding: 1114233 -1 731
+Encoding: 1114233 -1 1114233
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -22008,9 +21272,8 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: NoonMedi4
-Encoding: 1114234 -1 732
+Encoding: 1114234 -1 1114234
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -22032,9 +21295,8 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: NoonMedi5
-Encoding: 1114235 -1 733
+Encoding: 1114235 -1 1114235
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -22056,9 +21318,8 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
-
 StartChar: HehMedi1
-Encoding: 1114236 -1 734
+Encoding: 1114236 -1 1114236
 Width: 686
 Flags: W
 AnchorPoint: "HarakatBelow" 570 108 basechar 0
@@ -22081,9 +21342,8 @@ SplineSet
  600 882 671 1038 686 1076 c 1
 EndSplineSet
 EndChar
-
 StartChar: HehMedi2
-Encoding: 1114237 -1 735
+Encoding: 1114237 -1 1114237
 Width: 489
 Flags: W
 AnchorPoint: "HarakatBelow" 315 512 basechar 0
@@ -22107,9 +21367,8 @@ SplineSet
  415 1294 474 1430 489 1468 c 1
 EndSplineSet
 EndChar
-
 StartChar: HehMedi3
-Encoding: 1114238 -1 736
+Encoding: 1114238 -1 1114238
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 459 -41 basechar 0
@@ -22133,9 +21392,8 @@ SplineSet
  0 630 l 1
 EndSplineSet
 EndChar
-
 StartChar: HehMedi4
-Encoding: 1114239 -1 737
+Encoding: 1114239 -1 1114239
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 459 49 basechar 0
@@ -22159,9 +21417,8 @@ SplineSet
  0 716 l 1
 EndSplineSet
 EndChar
-
 StartChar: HehMedi5
-Encoding: 1114240 -1 738
+Encoding: 1114240 -1 1114240
 Width: 466
 Flags: W
 AnchorPoint: "HarakatBelow" 351 -458 basechar 0
@@ -22186,9 +21443,8 @@ SplineSet
  397 347 451 472 466 510 c 1
 EndSplineSet
 EndChar
-
 StartChar: YehMedi1
-Encoding: 1114241 -1 739
+Encoding: 1114241 -1 1114241
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 147 -738 basechar 0
@@ -22212,9 +21468,8 @@ SplineSet
  88 394 150 448 214 448 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehMedi2
-Encoding: 1114242 -1 740
+Encoding: 1114242 -1 1114242
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 147 166 basechar 0
@@ -22238,9 +21493,8 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehMedi3
-Encoding: 1114243 -1 741
+Encoding: 1114243 -1 1114243
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 196 -884 basechar 0
@@ -22264,9 +21518,8 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehMedi4
-Encoding: 1114244 -1 742
+Encoding: 1114244 -1 1114244
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 252 -356 basechar 0
@@ -22290,9 +21543,8 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehMedi5
-Encoding: 1114245 -1 743
+Encoding: 1114245 -1 1114245
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 153 -802 basechar 0
@@ -22316,9 +21568,8 @@ SplineSet
  86 408 149 414 176 414 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaMedi1
-Encoding: 1114246 -1 744
+Encoding: 1114246 -1 1114246
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -22344,9 +21595,8 @@ SplineSet
  88 853 150 907 214 907 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaMedi2
-Encoding: 1114247 -1 745
+Encoding: 1114247 -1 1114247
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -22372,9 +21622,8 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaMedi3
-Encoding: 1114248 -1 746
+Encoding: 1114248 -1 1114248
 Width: 313
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -22400,9 +21649,8 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaMedi4
-Encoding: 1114249 -1 747
+Encoding: 1114249 -1 1114249
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -22428,9 +21676,8 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaMedi5
-Encoding: 1114250 -1 748
+Encoding: 1114250 -1 1114250
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -22456,9 +21703,8 @@ SplineSet
  86 408 149 414 176 414 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaMedi6
-Encoding: 1114251 -1 749
+Encoding: 1114251 -1 1114251
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22484,9 +21730,8 @@ SplineSet
  322 188 l 1
 EndSplineSet
 EndChar
-
 StartChar: BehInit1
-Encoding: 1114252 -1 750
+Encoding: 1114252 -1 1114252
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 109 -819 basechar 0
@@ -22507,9 +21752,8 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
-
 StartChar: BehInit2
-Encoding: 1114253 -1 751
+Encoding: 1114253 -1 1114253
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -333 basechar 0
@@ -22530,9 +21774,8 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
-
 StartChar: BehInit3
-Encoding: 1114254 -1 752
+Encoding: 1114254 -1 1114254
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -1036 basechar 0
@@ -22551,9 +21794,8 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
-
 StartChar: BehInit4
-Encoding: 1114255 -1 753
+Encoding: 1114255 -1 1114255
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -673 basechar 0
@@ -22574,9 +21816,8 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
-
 StartChar: PehInit1
-Encoding: 1114256 -1 754
+Encoding: 1114256 -1 1114256
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 154 -899 basechar 0
@@ -22602,9 +21843,8 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
-
 StartChar: PehInit2
-Encoding: 1114257 -1 755
+Encoding: 1114257 -1 1114257
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -462 basechar 0
@@ -22628,9 +21868,8 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
-
 StartChar: PehInit3
-Encoding: 1114258 -1 756
+Encoding: 1114258 -1 1114258
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -1166 basechar 0
@@ -22654,9 +21893,8 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
-
 StartChar: PehInit4
-Encoding: 1114259 -1 757
+Encoding: 1114259 -1 1114259
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -803 basechar 0
@@ -22682,9 +21920,8 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
-
 StartChar: TehInit1
-Encoding: 1114260 -1 758
+Encoding: 1114260 -1 1114260
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -22707,9 +21944,8 @@ SplineSet
  311 1457 209 1477 147 1462 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehInit2
-Encoding: 1114261 -1 759
+Encoding: 1114261 -1 1114261
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -22732,9 +21968,8 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
-
 StartChar: TehInit3
-Encoding: 1114262 -1 760
+Encoding: 1114262 -1 1114262
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -22755,9 +21990,8 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
-
 StartChar: TehInit4
-Encoding: 1114263 -1 761
+Encoding: 1114263 -1 1114263
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -22780,9 +22014,8 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
-
 StartChar: TehInit5
-Encoding: 1114264 -1 762
+Encoding: 1114264 -1 1114264
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22803,9 +22036,8 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
-
 StartChar: TehInit6
-Encoding: 1114265 -1 763
+Encoding: 1114265 -1 1114265
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22826,9 +22058,8 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
-
 StartChar: ThehInit1
-Encoding: 1114266 -1 764
+Encoding: 1114266 -1 1114266
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -22854,9 +22085,8 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
-
 StartChar: ThehInit2
-Encoding: 1114267 -1 765
+Encoding: 1114267 -1 1114267
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -22882,9 +22112,8 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
-
 StartChar: ThehInit3
-Encoding: 1114268 -1 766
+Encoding: 1114268 -1 1114268
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -22908,9 +22137,8 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
-
 StartChar: ThehInit4
-Encoding: 1114269 -1 767
+Encoding: 1114269 -1 1114269
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -22936,9 +22164,8 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
-
 StartChar: ThehInit5
-Encoding: 1114270 -1 768
+Encoding: 1114270 -1 1114270
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22962,9 +22189,8 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
-
 StartChar: ThehInit6
-Encoding: 1114271 -1 769
+Encoding: 1114271 -1 1114271
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22989,9 +22215,8 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
-
 StartChar: JeemInit1
-Encoding: 1114272 -1 770
+Encoding: 1114272 -1 1114272
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -746 basechar 0
@@ -23018,9 +22243,8 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
-
 StartChar: JeemInit2
-Encoding: 1114273 -1 771
+Encoding: 1114273 -1 1114273
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -300 basechar 0
@@ -23044,9 +22268,8 @@ SplineSet
  53 -122 132 40 234 -6 c 0
 EndSplineSet
 EndChar
-
 StartChar: JeemInit3
-Encoding: 1114274 -1 772
+Encoding: 1114274 -1 1114274
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 160 154 basechar 0
@@ -23070,9 +22293,8 @@ SplineSet
  -192 1579 -126 1638 12 1650 c 0
 EndSplineSet
 EndChar
-
 StartChar: JeemInit4
-Encoding: 1114275 -1 773
+Encoding: 1114275 -1 1114275
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -549 basechar 0
@@ -23095,9 +22317,8 @@ SplineSet
  -191 977 -44 1014 64 1020 c 0
 EndSplineSet
 EndChar
-
 StartChar: JeemInit5
-Encoding: 1114276 -1 774
+Encoding: 1114276 -1 1114276
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 55 -508 basechar 0
@@ -23121,9 +22342,8 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
-
 StartChar: TchehInit1
-Encoding: 1114277 -1 775
+Encoding: 1114277 -1 1114277
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 130 -617 basechar 0
@@ -23155,9 +22375,8 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
-
 StartChar: TchehInit2
-Encoding: 1114278 -1 776
+Encoding: 1114278 -1 1114278
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 130 -617 basechar 0
@@ -23186,9 +22405,8 @@ SplineSet
  -103 1142 18 1198 126 1198 c 0
 EndSplineSet
 EndChar
-
 StartChar: TchehInit3
-Encoding: 1114279 -1 777
+Encoding: 1114279 -1 1114279
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 141 -300 basechar 0
@@ -23217,9 +22435,8 @@ SplineSet
  -192 1579 -126 1638 12 1650 c 0
 EndSplineSet
 EndChar
-
 StartChar: TchehInit4
-Encoding: 1114280 -1 778
+Encoding: 1114280 -1 1114280
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 203 -758 basechar 0
@@ -23247,9 +22464,8 @@ SplineSet
  -191 977 -44 1014 64 1020 c 0
 EndSplineSet
 EndChar
-
 StartChar: TchehInit5
-Encoding: 1114281 -1 779
+Encoding: 1114281 -1 1114281
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 92 -714 basechar 0
@@ -23278,9 +22494,8 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
-
 StartChar: HahInit1
-Encoding: 1114282 -1 780
+Encoding: 1114282 -1 1114282
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 215 -75 basechar 0
@@ -23304,9 +22519,8 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
-
 StartChar: HahInit2
-Encoding: 1114283 -1 781
+Encoding: 1114283 -1 1114283
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -108 basechar 0
@@ -23327,9 +22541,8 @@ SplineSet
  -103 1142 18 1198 126 1198 c 0
 EndSplineSet
 EndChar
-
 StartChar: HahInit3
-Encoding: 1114284 -1 782
+Encoding: 1114284 -1 1114284
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 141 165 basechar 0
@@ -23350,9 +22563,8 @@ SplineSet
  -192 1579 -126 1638 12 1650 c 0
 EndSplineSet
 EndChar
-
 StartChar: HahInit4
-Encoding: 1114285 -1 783
+Encoding: 1114285 -1 1114285
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -319 basechar 0
@@ -23372,9 +22584,8 @@ SplineSet
  -191 977 -44 1014 64 1020 c 0
 EndSplineSet
 EndChar
-
 StartChar: HahInit5
-Encoding: 1114286 -1 784
+Encoding: 1114286 -1 1114286
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 55 -158 basechar 0
@@ -23395,9 +22606,8 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
-
 StartChar: KhehInit1
-Encoding: 1114287 -1 785
+Encoding: 1114287 -1 1114287
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 215 -75 basechar 0
@@ -23424,9 +22634,8 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
-
 StartChar: KhehInit2
-Encoding: 1114288 -1 786
+Encoding: 1114288 -1 1114288
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -108 basechar 0
@@ -23450,9 +22659,8 @@ SplineSet
  -114 1904 -34 2071 74 2025 c 0
 EndSplineSet
 EndChar
-
 StartChar: KhehInit3
-Encoding: 1114289 -1 787
+Encoding: 1114289 -1 1114289
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 141 165 basechar 0
@@ -23476,9 +22684,8 @@ SplineSet
  -129 2345 -50 2511 58 2465 c 4
 EndSplineSet
 EndChar
-
 StartChar: KhehInit4
-Encoding: 1114290 -1 788
+Encoding: 1114290 -1 1114290
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -319 basechar 0
@@ -23501,9 +22708,8 @@ SplineSet
  -149 1747 -68 1914 40 1868 c 0
 EndSplineSet
 EndChar
-
 StartChar: KhehInit5
-Encoding: 1114291 -1 789
+Encoding: 1114291 -1 1114291
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 55 -158 basechar 0
@@ -23527,9 +22733,8 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
-
 StartChar: SeenInit1
-Encoding: 1114292 -1 790
+Encoding: 1114292 -1 1114292
 Width: 822
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23552,9 +22757,8 @@ SplineSet
  680 1081 682 1237 734 1240 c 0
 EndSplineSet
 EndChar
-
 StartChar: SeenInit2
-Encoding: 1114293 -1 791
+Encoding: 1114293 -1 1114293
 Width: 822
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -23577,9 +22781,8 @@ SplineSet
  662 1600 660 1761 716 1761 c 0
 EndSplineSet
 EndChar
-
 StartChar: SeenInit3
-Encoding: 1114294 -1 792
+Encoding: 1114294 -1 1114294
 Width: 822
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -187 basechar 0
@@ -23602,9 +22805,8 @@ SplineSet
  689 722 688 885 744 885 c 0
 EndSplineSet
 EndChar
-
 StartChar: SeenInit4
-Encoding: 1114295 -1 793
+Encoding: 1114295 -1 1114295
 Width: 657
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23627,9 +22829,8 @@ SplineSet
  636 1054 636 1214 692 1214 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenInit1
-Encoding: 1114296 -1 794
+Encoding: 1114296 -1 1114296
 Width: 822
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2221 basechar 0
@@ -23660,9 +22861,8 @@ SplineSet
  680 1081 682 1237 734 1240 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenInit2
-Encoding: 1114297 -1 795
+Encoding: 1114297 -1 1114297
 Width: 822
 Flags: W
 AnchorPoint: "HarakatAbove" 211 2669 basechar 0
@@ -23693,9 +22893,8 @@ SplineSet
  662 1600 660 1761 716 1761 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenInit3
-Encoding: 1114298 -1 796
+Encoding: 1114298 -1 1114298
 Width: 822
 Flags: W
 AnchorPoint: "HarakatAbove" 211 1799 basechar 0
@@ -23726,9 +22925,8 @@ SplineSet
  689 722 688 885 744 885 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenInit4
-Encoding: 1114299 -1 797
+Encoding: 1114299 -1 1114299
 Width: 657
 Flags: W
 AnchorPoint: "HarakatAbove" 208 2121 basechar 0
@@ -23759,9 +22957,8 @@ SplineSet
  636 1054 636 1214 692 1214 c 0
 EndSplineSet
 EndChar
-
 StartChar: SheenInit5
-Encoding: 1114300 -1 798
+Encoding: 1114300 -1 1114300
 Width: 763
 Flags: W
 AnchorPoint: "HarakatAbove" 344 1685 basechar 0
@@ -23792,9 +22989,8 @@ SplineSet
  781 606 752 731 700 728 c 0
 EndSplineSet
 EndChar
-
 StartChar: SadInit1
-Encoding: 1114301 -1 799
+Encoding: 1114301 -1 1114301
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23819,9 +23015,8 @@ SplineSet
  446 759 l 1
 EndSplineSet
 EndChar
-
 StartChar: SadInit2
-Encoding: 1114302 -1 800
+Encoding: 1114302 -1 1114302
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -23847,9 +23042,8 @@ SplineSet
  442 1275 l 1
 EndSplineSet
 EndChar
-
 StartChar: SadInit3
-Encoding: 1114303 -1 801
+Encoding: 1114303 -1 1114303
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -187 basechar 0
@@ -23875,9 +23069,8 @@ SplineSet
  442 765 l 1
 EndSplineSet
 EndChar
-
 StartChar: SadInit4
-Encoding: 1114304 -1 802
+Encoding: 1114304 -1 1114304
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23902,9 +23095,8 @@ SplineSet
  440 795 l 1
 EndSplineSet
 EndChar
-
 StartChar: DadInit1
-Encoding: 1114305 -1 803
+Encoding: 1114305 -1 1114305
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23932,9 +23124,8 @@ SplineSet
  496 2354 464 2114 332 2154 c 0
 EndSplineSet
 EndChar
-
 StartChar: DadInit2
-Encoding: 1114306 -1 804
+Encoding: 1114306 -1 1114306
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -23963,9 +23154,8 @@ SplineSet
  496 2805 464 2568 332 2608 c 0
 EndSplineSet
 EndChar
-
 StartChar: DadInit3
-Encoding: 1114307 -1 805
+Encoding: 1114307 -1 1114307
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -187 basechar 0
@@ -23994,9 +23184,8 @@ SplineSet
  496 2283 464 2044 332 2084 c 0
 EndSplineSet
 EndChar
-
 StartChar: DadInit4
-Encoding: 1114308 -1 806
+Encoding: 1114308 -1 1114308
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -24024,9 +23213,8 @@ SplineSet
  506 2228 472 1991 340 2031 c 0
 EndSplineSet
 EndChar
-
 StartChar: TahInit1
-Encoding: 1114309 -1 807
+Encoding: 1114309 -1 1114309
 Width: 567
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -24050,9 +23238,8 @@ SplineSet
  296 936 384 1212 346 1227 c 0
 EndSplineSet
 EndChar
-
 StartChar: TahInit2
-Encoding: 1114310 -1 808
+Encoding: 1114310 -1 1114310
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -24075,9 +23262,8 @@ SplineSet
  230 1454 358 1677 314 1692 c 0
 EndSplineSet
 EndChar
-
 StartChar: TahInit3
-Encoding: 1114311 -1 809
+Encoding: 1114311 -1 1114311
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -24101,9 +23287,8 @@ SplineSet
  211 895 356 1161 310 1179 c 0
 EndSplineSet
 EndChar
-
 StartChar: ZahInit1
-Encoding: 1114312 -1 810
+Encoding: 1114312 -1 1114312
 Width: 567
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -24130,9 +23315,8 @@ SplineSet
  296 936 384 1212 346 1227 c 0
 EndSplineSet
 EndChar
-
 StartChar: ZahInit2
-Encoding: 1114313 -1 811
+Encoding: 1114313 -1 1114313
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -24158,9 +23342,8 @@ SplineSet
  230 1454 358 1677 314 1692 c 0
 EndSplineSet
 EndChar
-
 StartChar: ZahInit3
-Encoding: 1114314 -1 812
+Encoding: 1114314 -1 1114314
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -24187,9 +23370,8 @@ SplineSet
  211 895 356 1161 310 1179 c 0
 EndSplineSet
 EndChar
-
 StartChar: AinInit1
-Encoding: 1114315 -1 813
+Encoding: 1114315 -1 1114315
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 307 -136 basechar 0
@@ -24213,9 +23395,8 @@ SplineSet
  76 718 286 1047 424 1050 c 0
 EndSplineSet
 EndChar
-
 StartChar: AinInit2
-Encoding: 1114316 -1 814
+Encoding: 1114316 -1 1114316
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 239 145 basechar 0
@@ -24239,9 +23420,8 @@ SplineSet
  -106 1091 -24 1266 126 1342 c 0
 EndSplineSet
 EndChar
-
 StartChar: AinInit3
-Encoding: 1114317 -1 815
+Encoding: 1114317 -1 1114317
 Width: 460
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -24265,9 +23445,8 @@ SplineSet
  -129 1624 16 1773 34 1788 c 0
 EndSplineSet
 EndChar
-
 StartChar: AinInit4
-Encoding: 1114318 -1 816
+Encoding: 1114318 -1 1114318
 Width: 441
 Flags: W
 AnchorPoint: "HarakatBelow" 232 177 basechar 0
@@ -24291,9 +23470,8 @@ SplineSet
  -129 1102 16 1251 34 1266 c 0
 EndSplineSet
 EndChar
-
 StartChar: AinInit5
-Encoding: 1114319 -1 817
+Encoding: 1114319 -1 1114319
 Width: 331
 Flags: W
 AnchorPoint: "HarakatBelow" 104 67 basechar 0
@@ -24316,9 +23494,8 @@ SplineSet
  -202 920 -185 1001 -164 1047 c 0
 EndSplineSet
 EndChar
-
 StartChar: GhainInit1
-Encoding: 1114320 -1 818
+Encoding: 1114320 -1 1114320
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 307 -136 basechar 0
@@ -24345,9 +23522,8 @@ SplineSet
  76 718 286 1047 424 1050 c 0
 EndSplineSet
 EndChar
-
 StartChar: GhainInit2
-Encoding: 1114321 -1 819
+Encoding: 1114321 -1 1114321
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 239 145 basechar 0
@@ -24374,9 +23550,8 @@ SplineSet
  -106 1091 -24 1266 126 1342 c 0
 EndSplineSet
 EndChar
-
 StartChar: GhainInit3
-Encoding: 1114322 -1 820
+Encoding: 1114322 -1 1114322
 Width: 460
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -24403,9 +23578,8 @@ SplineSet
  -129 1624 16 1773 34 1788 c 0
 EndSplineSet
 EndChar
-
 StartChar: GhainInit4
-Encoding: 1114323 -1 821
+Encoding: 1114323 -1 1114323
 Width: 441
 Flags: W
 AnchorPoint: "HarakatBelow" 232 177 basechar 0
@@ -24432,9 +23606,8 @@ SplineSet
  -129 1102 16 1251 34 1266 c 0
 EndSplineSet
 EndChar
-
 StartChar: GhainInit5
-Encoding: 1114324 -1 822
+Encoding: 1114324 -1 1114324
 Width: 331
 Flags: W
 AnchorPoint: "HarakatBelow" 104 67 basechar 0
@@ -24460,9 +23633,8 @@ SplineSet
  -202 920 -185 1001 -164 1047 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehInit1
-Encoding: 1114325 -1 823
+Encoding: 1114325 -1 1114325
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -24483,9 +23655,8 @@ SplineSet
  12 553 70 730 208 730 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehInit2
-Encoding: 1114326 -1 824
+Encoding: 1114326 -1 1114326
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -24506,9 +23677,8 @@ SplineSet
  73 1176 187 1254 316 1202 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehInit3
-Encoding: 1114327 -1 825
+Encoding: 1114327 -1 1114327
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -24529,9 +23699,8 @@ SplineSet
  25 1683 143 1717 225 1677 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehInit4
-Encoding: 1114328 -1 826
+Encoding: 1114328 -1 1114328
 Width: 340
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -24552,9 +23721,8 @@ SplineSet
  39 1074 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
-
 StartChar: FehInit5
-Encoding: 1114329 -1 827
+Encoding: 1114329 -1 1114329
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -24574,9 +23742,8 @@ SplineSet
  3 722 9 741 9 741 c 1
 EndSplineSet
 EndChar
-
 StartChar: QafInit1
-Encoding: 1114330 -1 828
+Encoding: 1114330 -1 1114330
 Width: 378
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -24599,9 +23766,8 @@ SplineSet
  12 612 70 789 208 789 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafInit2
-Encoding: 1114331 -1 829
+Encoding: 1114331 -1 1114331
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -24624,9 +23790,8 @@ SplineSet
  73 1176 187 1254 316 1202 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafInit3
-Encoding: 1114332 -1 830
+Encoding: 1114332 -1 1114332
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -24649,9 +23814,8 @@ SplineSet
  25 1683 143 1717 225 1677 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafInit4
-Encoding: 1114333 -1 831
+Encoding: 1114333 -1 1114333
 Width: 340
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -24674,9 +23838,8 @@ SplineSet
  39 1074 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
-
 StartChar: QafInit5
-Encoding: 1114334 -1 832
+Encoding: 1114334 -1 1114334
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -24698,9 +23861,8 @@ SplineSet
  3 722 9 741 9 741 c 1
 EndSplineSet
 EndChar
-
 StartChar: KehInit1
-Encoding: 1114335 -1 833
+Encoding: 1114335 -1 1114335
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -24723,9 +23885,8 @@ SplineSet
  -132 420 -156 490 -147 540 c 0
 EndSplineSet
 EndChar
-
 StartChar: KehInit2
-Encoding: 1114336 -1 834
+Encoding: 1114336 -1 1114336
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -24747,9 +23908,8 @@ SplineSet
  764 2790 1006 3251 1088 3152 c 0
 EndSplineSet
 EndChar
-
 StartChar: KehInit3
-Encoding: 1114337 -1 835
+Encoding: 1114337 -1 1114337
 Width: 306
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -24771,9 +23931,8 @@ SplineSet
  706 3283 947 3749 1029 3650 c 0
 EndSplineSet
 EndChar
-
 StartChar: KehInit4
-Encoding: 1114338 -1 836
+Encoding: 1114338 -1 1114338
 Width: 258
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -24795,9 +23954,8 @@ SplineSet
  670 2653 911 3115 993 3016 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafInit1
-Encoding: 1114339 -1 837
+Encoding: 1114339 -1 1114339
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -24825,9 +23983,8 @@ SplineSet
  144 1500 193 1710 273 1692 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafInit2
-Encoding: 1114340 -1 838
+Encoding: 1114340 -1 1114340
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -24853,9 +24010,8 @@ SplineSet
  510 2366 696 2650 734 2712 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafInit3
-Encoding: 1114341 -1 839
+Encoding: 1114341 -1 1114341
 Width: 306
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -24881,9 +24037,8 @@ SplineSet
  510 2856 696 3142 734 3204 c 0
 EndSplineSet
 EndChar
-
 StartChar: GafInit4
-Encoding: 1114342 -1 840
+Encoding: 1114342 -1 1114342
 Width: 258
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -24909,9 +24064,8 @@ SplineSet
  470 2225 656 2509 694 2571 c 0
 EndSplineSet
 EndChar
-
 StartChar: LamInit1
-Encoding: 1114343 -1 841
+Encoding: 1114343 -1 1114343
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -24929,9 +24083,8 @@ SplineSet
  135 1450 101 1628 200 1628 c 0
 EndSplineSet
 EndChar
-
 StartChar: LamInit2
-Encoding: 1114344 -1 842
+Encoding: 1114344 -1 1114344
 Width: 244
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -24949,9 +24102,8 @@ SplineSet
  99 1896 65 2073 164 2073 c 0
 EndSplineSet
 EndChar
-
 StartChar: LamInit3
-Encoding: 1114345 -1 843
+Encoding: 1114345 -1 1114345
 Width: 199
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -24969,9 +24121,8 @@ SplineSet
  0 716 l 1
 EndSplineSet
 EndChar
-
 StartChar: MeemInit1
-Encoding: 1114346 -1 844
+Encoding: 1114346 -1 1114346
 Width: 516
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -237 basechar 0
@@ -24992,9 +24143,8 @@ SplineSet
  337 692 348 692 357 692 c 0
 EndSplineSet
 EndChar
-
 StartChar: MeemInit2
-Encoding: 1114347 -1 845
+Encoding: 1114347 -1 1114347
 Width: 460
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -69 basechar 0
@@ -25013,9 +24163,8 @@ SplineSet
  162 1083 204 1112 292 1112 c 0
 EndSplineSet
 EndChar
-
 StartChar: MeemInit3
-Encoding: 1114348 -1 846
+Encoding: 1114348 -1 1114348
 Width: 367
 Flags: W
 AnchorPoint: "HarakatBelow" 142 369 basechar 0
@@ -25034,9 +24183,8 @@ SplineSet
  64 1340 41 1387 62 1437 c 0
 EndSplineSet
 EndChar
-
 StartChar: MeemInit4
-Encoding: 1114349 -1 847
+Encoding: 1114349 -1 1114349
 Width: 463
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -237 basechar 0
@@ -25054,9 +24202,8 @@ SplineSet
  89 956 101 1108 267 1108 c 0
 EndSplineSet
 EndChar
-
 StartChar: MeemInit5
-Encoding: 1114350 -1 848
+Encoding: 1114350 -1 1114350
 Width: 273
 Flags: W
 AnchorPoint: "HarakatBelow" 140 -75 basechar 0
@@ -25075,9 +24222,8 @@ SplineSet
  38 812 -30 858 -15 932 c 0
 EndSplineSet
 EndChar
-
 StartChar: NoonInit1
-Encoding: 1114351 -1 849
+Encoding: 1114351 -1 1114351
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -25098,9 +24244,8 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
-
 StartChar: NoonInit2
-Encoding: 1114352 -1 850
+Encoding: 1114352 -1 1114352
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -25121,9 +24266,8 @@ SplineSet
  0 936 l 2
 EndSplineSet
 EndChar
-
 StartChar: NoonInit3
-Encoding: 1114353 -1 851
+Encoding: 1114353 -1 1114353
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -25142,9 +24286,8 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
-
 StartChar: NoonInit4
-Encoding: 1114354 -1 852
+Encoding: 1114354 -1 1114354
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -25165,9 +24308,8 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
-
 StartChar: HehInit1
-Encoding: 1114355 -1 853
+Encoding: 1114355 -1 1114355
 Width: 706
 Flags: W
 AnchorPoint: "HarakatBelow" 219 66 basechar 0
@@ -25195,9 +24337,8 @@ SplineSet
  534 1084 378 1137 378 1137 c 1
 EndSplineSet
 EndChar
-
 StartChar: HehInit2
-Encoding: 1114356 -1 854
+Encoding: 1114356 -1 1114356
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 219 453 basechar 0
@@ -25225,9 +24366,8 @@ SplineSet
  484 1544 328 1598 328 1598 c 1
 EndSplineSet
 EndChar
-
 StartChar: HehInit3
-Encoding: 1114357 -1 855
+Encoding: 1114357 -1 1114357
 Width: 681
 Flags: W
 AnchorPoint: "HarakatBelow" 219 -42 basechar 0
@@ -25256,9 +24396,8 @@ SplineSet
  495 967 308 1026 308 1026 c 1
 EndSplineSet
 EndChar
-
 StartChar: HehInit4
-Encoding: 1114358 -1 856
+Encoding: 1114358 -1 1114358
 Width: 607
 Flags: W
 AnchorPoint: "HarakatBelow" 219 -42 basechar 0
@@ -25286,9 +24425,8 @@ SplineSet
  454 955 279 1035 279 1035 c 1
 EndSplineSet
 EndChar
-
 StartChar: YehInit1
-Encoding: 1114359 -1 857
+Encoding: 1114359 -1 1114359
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 135 -660 basechar 0
@@ -25311,9 +24449,8 @@ SplineSet
  102 -537 -23 -608 -38 -528 c 4
 EndSplineSet
 EndChar
-
 StartChar: YehInit2
-Encoding: 1114360 -1 858
+Encoding: 1114360 -1 1114360
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 5 -567 basechar 0
@@ -25336,9 +24473,8 @@ SplineSet
  0 1041 l 2
 EndSplineSet
 EndChar
-
 StartChar: YehInit3
-Encoding: 1114361 -1 859
+Encoding: 1114361 -1 1114361
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 5 -930 basechar 0
@@ -25359,9 +24495,8 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehInit4
-Encoding: 1114362 -1 860
+Encoding: 1114362 -1 1114362
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 3 -567 basechar 0
@@ -25384,9 +24519,8 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaInit1
-Encoding: 1114363 -1 861
+Encoding: 1114363 -1 1114363
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -25411,9 +24545,8 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaInit2
-Encoding: 1114364 -1 862
+Encoding: 1114364 -1 1114364
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -25438,9 +24571,8 @@ SplineSet
  0 981 l 2
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaInit3
-Encoding: 1114365 -1 863
+Encoding: 1114365 -1 1114365
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -25463,9 +24595,8 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaInit4
-Encoding: 1114366 -1 864
+Encoding: 1114366 -1 1114366
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -25490,9 +24621,8 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaInit5
-Encoding: 1114367 -1 865
+Encoding: 1114367 -1 1114367
 Width: 376
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -25515,9 +24645,8 @@ SplineSet
  0 327 l 1
 EndSplineSet
 EndChar
-
 StartChar: YehHamzaInit6
-Encoding: 1114368 -1 866
+Encoding: 1114368 -1 1114368
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -25540,9 +24669,8 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
-
 StartChar: TashdidFathatanLig
-Encoding: 1114369 -1 867
+Encoding: 1114369 -1 1114369
 Width: 877
 Flags: W
 AnchorPoint: "HarakatAboveLig" 442 478 mark 0
