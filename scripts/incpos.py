@@ -31,8 +31,8 @@ def main():
     with open(args.input_file, "r") as file:
         sfddata = file.read()
 
-    i = args.start_pos
-    ie = args.end_pos
+    i = int(args.start_pos)
+    ie = int(args.end_pos)
 
     while i-1 != ie:
         sfddata = sfddata.replace("Encoding: "+str(ie), "Encoding: "+str(ie+1))
