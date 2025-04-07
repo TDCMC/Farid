@@ -5,7 +5,7 @@ FamilyName: Farid
 Weight: Regular
 Copyright: Copyright (c) 2024, TDC
 UComments: "2024-7-12: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 001.200
 ItalicAngle: 0
 UnderlinePosition: -204
 UnderlineWidth: 102
@@ -253,7 +253,6 @@ Encoding: 0 32 0
 Width: 400
 Flags: W
 LayerCount: 2
-Fore
 EndChar
 StartChar: exclam
 Encoding: 1 33 1
@@ -2603,7 +2602,6 @@ Encoding: 95 160 95
 Width: 400
 Flags: W
 LayerCount: 2
-Fore
 EndChar
 StartChar: exclamdown
 Encoding: 96 161 96
