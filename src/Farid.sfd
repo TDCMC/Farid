@@ -17530,14 +17530,14 @@ Encoding: 594 65255 594
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
-AnchorPoint: "HarakatAbove" 4 1392 basechar 0
+AnchorPoint: "HarakatAbove" 3 1267 basechar 0
 AnchorPoint: "Curs" 0 74 exit 0
 LayerCount: 2
 Fore
 SplineSet
--21 1122 m 0
- -132 1166 -14 1376 74 1346 c 0
- 166 1316 90 1078 -21 1122 c 0
+-22 997 m 4
+ -133 1041 -15 1251 73 1221 c 4
+ 165 1191 89 953 -22 997 c 4
 0 231 m 1
  123 231 53 478 147 478 c 0
  223 478 218 292 184 212 c 0
