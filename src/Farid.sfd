@@ -10239,13 +10239,13 @@ Encoding: 342 1586 342
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
-AnchorPoint: "HarakatAbove" 361 1623 basechar 0
+AnchorPoint: "HarakatAbove" 229 1562 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-304 1281 m 0
- 222 1349 342 1566 450 1484 c 0
- 544 1414 398 1201 304 1281 c 0
+172 1220 m 4
+ 90 1288 210 1505 318 1423 c 4
+ 412 1353 266 1140 172 1220 c 4
 486 470 m 0
  568 434 433 123 286 0 c 0
  166 -102 -113 -278 -159 -184 c 0
@@ -13884,18 +13884,18 @@ Encoding: 469 64394 469
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
-AnchorPoint: "HarakatAbove" 323 1679 basechar 0
+AnchorPoint: "HarakatAbove" 234 1602 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-386 1132 m 4
- 298 1092 204 904 136 974 c 4
- 50 1066 238 1240 358 1280 c 4
- 450 1310 638 1299 638 1200 c 4
- 638 1114 466 1170 386 1132 c 4
-286 1470 m 4
- 184 1556 306 1696 394 1622 c 4
- 499 1536 378 1390 286 1470 c 4
+297 1055 m 4
+ 209 1015 115 827 47 897 c 4
+ -39 989 149 1163 269 1203 c 4
+ 361 1233 549 1222 549 1123 c 4
+ 549 1037 377 1093 297 1055 c 4
+197 1393 m 4
+ 95 1479 217 1619 305 1545 c 4
+ 410 1459 289 1313 197 1393 c 4
 486 470 m 0
  568 434 433 123 286 0 c 0
  166 -102 -113 -278 -159 -184 c 0
@@ -15799,13 +15799,13 @@ Encoding: 538 65199 538
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
-AnchorPoint: "HarakatAbove" 361 1623 basechar 0
+AnchorPoint: "HarakatAbove" 229 1562 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-304 1281 m 0
- 222 1349 342 1566 450 1484 c 0
- 544 1414 398 1201 304 1281 c 0
+172 1220 m 4
+ 90 1288 210 1505 318 1423 c 4
+ 412 1353 266 1140 172 1220 c 4
 486 470 m 0
  568 434 433 123 286 0 c 0
  166 -102 -113 -278 -159 -184 c 0
