@@ -152,56 +152,56 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 34-1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 35-1" 0 0 0 1
  1 1 0
-  Coverage: 15 uniFBFD uniFE8A
+  Coverage: 31 uniFBFD uniFE8A uniFEF0 uniFEF2
   BCoverage: 63 uniFEB3 uniFEB4 uniFEB7 uniFEB8 uniFEBB uniFEBC uniFEBF uniFEC0
  1
   SeqLookup: 0 "Final Form Yeh 1"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 36-1" 0 0 0 1
  1 1 0
-  Coverage: 15 uniFBFD uniFE8A
+  Coverage: 31 uniFBFD uniFE8A uniFEF0 uniFEF2
   BCoverage: 611 uniFB58 uniFB90 uniFB91 uniFB94 uniFB95 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFEC3 uniFEC4 uniFEC7 uniFEC8 uniFEDB uniFEDC uniFEDF uniFEE0 uniFEE7 KehMedi2 KehMedi3 KehMedi4 KehMedi5 GafMedi2 GafMedi3 GafMedi4 GafMedi5 LamMedi1 LamMedi2 LamMedi3 BehInit1 BehInit2 BehInit3 BehInit4 PehInit1 PehInit2 PehInit3 PehInit4 TehInit1 TehInit2 TehInit3 TehInit4 ThehInit1 ThehInit2 ThehInit3 ThehInit4 KehInit2 KehInit3 KehInit4 GafInit2 GafInit3 GafInit4 LamInit1 LamInit2 LamInit3 NoonInit1 NoonInit2 NoonInit3 NoonInit4 YehInit1 YehInit2 YehInit3 YehInit4 YehHamzaInit1 YehHamzaInit2 YehHamzaInit3 YehHamzaInit4
  1
   SeqLookup: 0 "Final Form Yeh 2"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 31-1" 0 0 0 1
  1 0 1
-  Coverage: 215 uniFB59 uniFB7D uniFB91 uniFB95 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC4 uniFEC8 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC
+  Coverage: 231 uniFB59 uniFB7D uniFB91 uniFB95 uniFBE9 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC4 uniFEC8 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC uniFEF4
   FCoverage: 15 uniFBFD uniFE8A
  1
   SeqLookup: 0 "Medial Forms Preceding Yeh"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 30-1" 0 0 0 1
  1 0 1
-  Coverage: 95 uniFB59 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEE8 uniFEEC
+  Coverage: 111 uniFB59 uniFBE9 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEE8 uniFEEC uniFEF4
   FCoverage: 23 uniFB8B uniFEAE uniFEB0
  1
   SeqLookup: 0 "Medial Forms Preceding Reh"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 29-1" 0 0 0 1
  1 0 1
-  Coverage: 207 uniFB59 uniFB7D uniFB91 uniFB95 uniFBFF uniFE8C uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC4 uniFEC8 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC
+  Coverage: 223 uniFB59 uniFB7D uniFB91 uniFB95 uniFBE9 uniFBFF uniFE8C uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC4 uniFEC8 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC uniFEF4
   FCoverage: 52 uniFEEC HehMedi1 HehMedi2 HehMedi3 HehMedi4 HehMedi5
  1
   SeqLookup: 0 "Medial Forms Preceding Heh"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 28-1" 0 0 0 1
  1 0 1
-  Coverage: 215 uniFB59 uniFB7D uniFB91 uniFB95 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC2 uniFEC6 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC
+  Coverage: 231 uniFB59 uniFB7D uniFB91 uniFB95 uniFBE9 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC2 uniFEC6 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC uniFEF4
   FCoverage: 55 uniFEE2 uniFEE4 MeemMedi1 MeemMedi2 MeemMedi3 MeemMedi4
  1
   SeqLookup: 0 "Medial Forms Preceding Meem"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 27-1" 0 0 0 1
  1 0 1
-  Coverage: 215 uniFB59 uniFB7D uniFB91 uniFB95 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC2 uniFEC6 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC
+  Coverage: 231 uniFB59 uniFB7D uniFB91 uniFB95 uniFBE9 uniFBFF uniFE8C uniFE92 uniFE98 uniFE9C uniFEA0 uniFEA4 uniFEA8 uniFEB4 uniFEB8 uniFEBC uniFEC0 uniFEC2 uniFEC6 uniFECC uniFED0 uniFED4 uniFED8 uniFEDC uniFEE0 uniFEE4 uniFEE8 uniFEEC uniFEF4
   FCoverage: 263 uniFB7B uniFB7D uniFE9E uniFEA0 uniFEA2 uniFEA4 uniFEA6 uniFEA8 JeemMedi1 JeemMedi2 JeemMedi3 JeemMedi4 JeemMedi5 TchehMedi1 TchehMedi2 TchehMedi3 TchehMedi4 TchehMedi5 HahMedi1 HahMedi2 HahMedi3 HahMedi4 HahMedi5 KhehMedi1 KhehMedi2 KhehMedi3 KhehMedi4 KhehMedi5
  1
   SeqLookup: 0 "Medial Forms Preceding Jeem"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 24-1" 0 0 0 1
  1 0 1
-  Coverage: 215 uniFB58 uniFB7C uniFB90 uniFB94 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB
+  Coverage: 231 uniFB58 uniFB7C uniFB90 uniFB94 uniFBE8 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF3
   FCoverage: 15 uniFBFD uniFE8A
  1
   SeqLookup: 0 "Initial Forms Preceding Yeh"
@@ -215,21 +215,21 @@ ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 23-1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 22-1" 0 0 0 1
  1 0 1
-  Coverage: 207 uniFB58 uniFB7C uniFB90 uniFB94 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7
+  Coverage: 223 uniFB58 uniFB7C uniFB90 uniFB94 uniFBE8 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEF3
   FCoverage: 52 uniFEEC HehMedi1 HehMedi2 HehMedi3 HehMedi4 HehMedi5
  1
   SeqLookup: 0 "Initial Forms Preceding Heh"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 21-1" 0 0 0 1
  1 0 1
-  Coverage: 215 uniFB58 uniFB7C uniFB90 uniFB94 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB
+  Coverage: 231 uniFB58 uniFB7C uniFB90 uniFB94 uniFBE8 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF3
   FCoverage: 55 uniFEE2 uniFEE4 MeemMedi1 MeemMedi2 MeemMedi3 MeemMedi4
  1
   SeqLookup: 0 "Initial Forms Preceding Meem"
 EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 20-1" 0 0 0 1
  1 0 1
-  Coverage: 215 uniFB58 uniFB7C uniFB90 uniFB94 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB
+  Coverage: 231 uniFB58 uniFB7C uniFB90 uniFB94 uniFBE8 uniFBFE uniFE8B uniFE91 uniFE97 uniFE9B uniFE9F uniFEA3 uniFEA7 uniFEB3 uniFEB7 uniFEBB uniFEBF uniFEC3 uniFEC7 uniFECB uniFECF uniFED3 uniFED7 uniFEDB uniFEDF uniFEE3 uniFEE7 uniFEEB uniFEF3
   FCoverage: 263 uniFB7B uniFB7D uniFE9E uniFEA0 uniFEA2 uniFEA4 uniFEA6 uniFEA8 JeemMedi1 JeemMedi2 JeemMedi3 JeemMedi4 JeemMedi5 TchehMedi1 TchehMedi2 TchehMedi3 TchehMedi4 TchehMedi5 HahMedi1 HahMedi2 HahMedi3 HahMedi4 HahMedi5 KhehMedi1 KhehMedi2 KhehMedi3 KhehMedi4 KhehMedi5
  1
   SeqLookup: 0 "Initial Forms Preceding Jeem"
@@ -247,7 +247,7 @@ Grid
  4096 33548.8798828 l 1024
 EndSplineSet
 AnchorClass2: "HarakatBelowLig" "'blwm' Below Base Mark lookup 4-1" "HarakatBelow" "'blwm' Below Base Mark lookup 3-1" "HarakatAboveLig" "'abvm' Above Base Mark lookup 2-1" "HarakatAbove" "'abvm' Above Base Mark lookup 1-1" "Curs" "'curs' Cursive Attachment in Arabic lookup 0-1"
-BeginChars: 870 0
+BeginChars: 891 0
 StartChar: space
 Encoding: 0 32 0
 Width: 400
@@ -10744,8 +10744,71 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEEE
 EndChar
+StartChar: uni0649
+Encoding: 359 1609 359
+Width: 1525
+Flags: W
+AnchorPoint: "HarakatBelow" 710 -665 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1496 1108 m 0
+ 1540 1044 1413 931 1302 825 c 0
+ 1184 713 1046 505 1065 397 c 0
+ 1079 315 1286 360 1302 243 c 0
+ 1340 -30 1081 -311 820 -405 c 0
+ 580 -491 206 -395 86 -170 c 0
+ -6 2 40 256 86 476 c 0
+ 116 617 207 862 285 820 c 0
+ 330 796 266 629 218 440 c 0
+ 166 236 132 8 228 -114 c 0
+ 322 -234 581 -315 728 -276 c 0
+ 904 -230 1132 -38 1152 144 c 0
+ 1164 255 882 162 891 334 c 0
+ 897 478 979 639 1053 765 c 0
+ 1115 867 1437 1193 1496 1108 c 0
+EndSplineSet
+Substitution2: "'medi' Medial Forms lookup 43-1" uniFBE9
+Substitution2: "'init' Initial Forms lookup 42-1" uniFBE8
+Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEF0
+EndChar
+StartChar: uni064A
+Encoding: 360 1610 360
+Width: 1525
+Flags: W
+AnchorPoint: "HarakatBelow" 680 -1116 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+653 -840 m 0
+ 545 -858 478 -1048 404 -972 c 0
+ 324 -890 524 -688 674 -667 c 0
+ 806 -655 957 -730 893 -824 c 0
+ 855 -876 715 -831 653 -840 c 0
+1496 1108 m 0
+ 1540 1044 1413 931 1302 825 c 0
+ 1184 713 1046 505 1065 397 c 0
+ 1079 315 1286 360 1302 243 c 0
+ 1340 -30 1081 -311 820 -405 c 0
+ 580 -491 206 -395 86 -170 c 0
+ -6 2 40 256 86 476 c 0
+ 116 617 207 862 285 820 c 0
+ 330 796 266 629 218 440 c 0
+ 166 236 132 8 228 -114 c 0
+ 322 -234 581 -315 728 -276 c 0
+ 904 -230 1132 -38 1152 144 c 0
+ 1164 255 882 162 891 334 c 0
+ 897 478 979 639 1053 765 c 0
+ 1115 867 1437 1193 1496 1108 c 0
+EndSplineSet
+Substitution2: "'medi' Medial Forms lookup 43-1" uniFEF4
+Substitution2: "'init' Initial Forms lookup 42-1" uniFEF3
+Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEF2
+EndChar
 StartChar: uni064B
-Encoding: 359 1611 359
+Encoding: 361 1611 361
 Width: 515
 Flags: W
 AnchorPoint: "HarakatAbove" 270 478 mark 0
@@ -10765,7 +10828,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni064C
-Encoding: 360 1612 360
+Encoding: 362 1612 362
 Width: 473
 Flags: W
 AnchorPoint: "HarakatAbove" 240 478 mark 0
@@ -10790,7 +10853,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni064D
-Encoding: 361 1613 361
+Encoding: 363 1613 363
 Width: 515
 Flags: W
 AnchorPoint: "HarakatBelowLig" 270 2 mark 0
@@ -10811,7 +10874,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni064E
-Encoding: 362 1614 362
+Encoding: 364 1614 364
 Width: 515
 Flags: W
 AnchorPoint: "HarakatAboveLig" 270 478 mark 0
@@ -10827,7 +10890,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni064F
-Encoding: 363 1615 363
+Encoding: 365 1615 365
 Width: 435
 Flags: W
 AnchorPoint: "HarakatAboveLig" 204 478 mark 0
@@ -10844,7 +10907,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0650
-Encoding: 364 1616 364
+Encoding: 366 1616 366
 Width: 515
 Flags: W
 AnchorPoint: "HarakatBelowLig" 270 2 mark 0
@@ -10860,7 +10923,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0651
-Encoding: 365 1617 365
+Encoding: 367 1617 367
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -10881,7 +10944,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0652
-Encoding: 366 1618 366
+Encoding: 368 1618 368
 Width: 405
 Flags: W
 AnchorPoint: "HarakatAboveLig" 212 478 mark 0
@@ -10900,7 +10963,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0653
-Encoding: 367 1619 367
+Encoding: 369 1619 369
 Width: 959
 Flags: W
 AnchorPoint: "HarakatAboveLig" 442 478 mark 0
@@ -10920,7 +10983,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0654
-Encoding: 368 1620 368
+Encoding: 370 1620 370
 Width: 403
 Flags: W
 AnchorPoint: "HarakatAboveLig" 182 478 mark 0
@@ -10938,7 +11001,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0655
-Encoding: 369 1621 369
+Encoding: 371 1621 371
 Width: 403
 Flags: W
 AnchorPoint: "HarakatBelowLig" 182 0 mark 0
@@ -10956,7 +11019,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0656
-Encoding: 370 1622 370
+Encoding: 372 1622 372
 Width: 211
 Flags: W
 AnchorPoint: "HarakatBelowLig" 134 0 mark 0
@@ -10972,7 +11035,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni066A
-Encoding: 371 1642 371
+Encoding: 373 1642 373
 Width: 790
 Flags: W
 LayerCount: 2
@@ -11000,7 +11063,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni066D
-Encoding: 372 1645 372
+Encoding: 374 1645 374
 Width: 839
 Flags: W
 LayerCount: 2
@@ -11024,7 +11087,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0670
-Encoding: 373 1648 373
+Encoding: 375 1648 375
 Width: 211
 Flags: W
 AnchorPoint: "HarakatAboveLig" 134 593 mark 0
@@ -11040,7 +11103,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni0674
-Encoding: 374 1652 374
+Encoding: 376 1652 376
 Width: 427
 Flags: W
 LayerCount: 2
@@ -11056,7 +11119,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni067E
-Encoding: 375 1662 375
+Encoding: 377 1662 377
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 782 -935 basechar 0
@@ -11087,7 +11150,7 @@ Substitution2: "'init' Initial Forms lookup 42-1" uniFB58
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB57
 EndChar
 StartChar: uni0686
-Encoding: 376 1670 376
+Encoding: 378 1670 378
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -11124,7 +11187,7 @@ Substitution2: "'init' Initial Forms lookup 42-1" uniFB7C
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB7B
 EndChar
 StartChar: uni0698
-Encoding: 377 1688 377
+Encoding: 379 1688 379
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -11149,7 +11212,7 @@ EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB8B
 EndChar
 StartChar: uni06A9
-Encoding: 378 1705 378
+Encoding: 380 1705 380
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -11178,7 +11241,7 @@ Substitution2: "'init' Initial Forms lookup 42-1" uniFB90
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB8F
 EndChar
 StartChar: uni06AF
-Encoding: 379 1711 379
+Encoding: 381 1711 381
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -11214,7 +11277,7 @@ Substitution2: "'init' Initial Forms lookup 42-1" uniFB94
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB93
 EndChar
 StartChar: uni06C0
-Encoding: 380 1728 380
+Encoding: 382 1728 382
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -11243,7 +11306,7 @@ EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFBA5
 EndChar
 StartChar: uni06CC
-Encoding: 381 1740 381
+Encoding: 383 1740 383
 Width: 1525
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -11272,7 +11335,7 @@ Substitution2: "'init' Initial Forms lookup 42-1" uniFBFE
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFBFD
 EndChar
 StartChar: uni06F0
-Encoding: 382 1776 382
+Encoding: 384 1776 384
 Width: 512
 Flags: W
 LayerCount: 2
@@ -11291,7 +11354,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F1
-Encoding: 383 1777 383
+Encoding: 385 1777 385
 Width: 363
 Flags: W
 LayerCount: 2
@@ -11305,7 +11368,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F2
-Encoding: 384 1778 384
+Encoding: 386 1778 386
 Width: 865
 Flags: W
 LayerCount: 2
@@ -11323,7 +11386,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F3
-Encoding: 385 1779 385
+Encoding: 387 1779 387
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11344,7 +11407,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F4
-Encoding: 386 1780 386
+Encoding: 388 1780 388
 Width: 746
 Flags: W
 LayerCount: 2
@@ -11366,7 +11429,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F5
-Encoding: 387 1781 387
+Encoding: 389 1781 389
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11392,7 +11455,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F6
-Encoding: 388 1782 388
+Encoding: 390 1782 390
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11412,7 +11475,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F7
-Encoding: 389 1783 389
+Encoding: 391 1783 391
 Width: 925
 Flags: W
 LayerCount: 2
@@ -11432,7 +11495,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F8
-Encoding: 390 1784 390
+Encoding: 392 1784 392
 Width: 1063
 Flags: W
 LayerCount: 2
@@ -11451,7 +11514,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni06F9
-Encoding: 391 1785 391
+Encoding: 393 1785 393
 Width: 703
 Flags: W
 LayerCount: 2
@@ -11471,7 +11534,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E02
-Encoding: 392 7682 392
+Encoding: 394 7682 394
 Width: 1272
 Flags: W
 LayerCount: 2
@@ -11508,7 +11571,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E03
-Encoding: 393 7683 393
+Encoding: 395 7683 395
 Width: 751
 Flags: W
 LayerCount: 2
@@ -11541,7 +11604,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E0A
-Encoding: 394 7690 394
+Encoding: 396 7690 396
 Width: 1362
 Flags: W
 LayerCount: 2
@@ -11578,7 +11641,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E0B
-Encoding: 395 7691 395
+Encoding: 397 7691 397
 Width: 789
 Flags: W
 LayerCount: 2
@@ -11614,7 +11677,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E1E
-Encoding: 396 7710 396
+Encoding: 398 7710 398
 Width: 1069
 Flags: W
 LayerCount: 2
@@ -11643,7 +11706,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E1F
-Encoding: 397 7711 397
+Encoding: 399 7711 399
 Width: 915
 Flags: W
 LayerCount: 2
@@ -11674,7 +11737,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E40
-Encoding: 398 7744 398
+Encoding: 400 7744 400
 Width: 1480
 Flags: W
 LayerCount: 2
@@ -11708,7 +11771,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E41
-Encoding: 399 7745 399
+Encoding: 401 7745 401
 Width: 947
 Flags: W
 LayerCount: 2
@@ -11745,7 +11808,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E56
-Encoding: 400 7766 400
+Encoding: 402 7766 402
 Width: 1081
 Flags: W
 LayerCount: 2
@@ -11778,7 +11841,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E57
-Encoding: 401 7767 401
+Encoding: 403 7767 403
 Width: 847
 Flags: W
 LayerCount: 2
@@ -11816,7 +11879,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E60
-Encoding: 402 7776 402
+Encoding: 404 7776 404
 Width: 1182
 Flags: W
 LayerCount: 2
@@ -11849,7 +11912,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E61
-Encoding: 403 7777 403
+Encoding: 405 7777 405
 Width: 654
 Flags: W
 LayerCount: 2
@@ -11879,7 +11942,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E6A
-Encoding: 404 7786 404
+Encoding: 406 7786 406
 Width: 1413
 Flags: W
 LayerCount: 2
@@ -11903,7 +11966,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni1E6B
-Encoding: 405 7787 405
+Encoding: 407 7787 407
 Width: 928
 Flags: W
 LayerCount: 2
@@ -11936,7 +11999,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: Wgrave
-Encoding: 406 7808 406
+Encoding: 408 7808 408
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -11967,7 +12030,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: wgrave
-Encoding: 407 7809 407
+Encoding: 409 7809 409
 Width: 892
 Flags: W
 LayerCount: 2
@@ -11999,7 +12062,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: Wacute
-Encoding: 408 7810 408
+Encoding: 410 7810 410
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -12030,7 +12093,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: wacute
-Encoding: 409 7811 409
+Encoding: 411 7811 411
 Width: 892
 Flags: W
 LayerCount: 2
@@ -12062,7 +12125,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: Wdieresis
-Encoding: 410 7812 410
+Encoding: 412 7812 412
 Width: 1614
 Flags: W
 LayerCount: 2
@@ -12098,7 +12161,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: wdieresis
-Encoding: 411 7813 411
+Encoding: 413 7813 413
 Width: 892
 Flags: W
 LayerCount: 2
@@ -12135,7 +12198,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: Ygrave
-Encoding: 412 7922 412
+Encoding: 414 7922 414
 Width: 851
 Flags: W
 LayerCount: 2
@@ -12165,7 +12228,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ygrave
-Encoding: 413 7923 413
+Encoding: 415 7923 415
 Width: 607
 Flags: W
 LayerCount: 2
@@ -12195,7 +12258,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: endash
-Encoding: 414 8211 414
+Encoding: 416 8211 416
 Width: 707
 Flags: W
 LayerCount: 2
@@ -12209,7 +12272,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: emdash
-Encoding: 415 8212 415
+Encoding: 417 8212 417
 Width: 1092
 Flags: W
 LayerCount: 2
@@ -12225,7 +12288,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2015
-Encoding: 416 8213 416
+Encoding: 418 8213 418
 Width: 1423
 Flags: W
 LayerCount: 2
@@ -12241,7 +12304,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: quoteleft
-Encoding: 417 8216 417
+Encoding: 419 8216 419
 Width: 415
 Flags: W
 LayerCount: 2
@@ -12255,7 +12318,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: quoteright
-Encoding: 418 8217 418
+Encoding: 420 8217 420
 Width: 406
 Flags: W
 LayerCount: 2
@@ -12269,7 +12332,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: quotesinglbase
-Encoding: 419 8218 419
+Encoding: 421 8218 421
 Width: 406
 Flags: W
 LayerCount: 2
@@ -12283,7 +12346,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: quotedblleft
-Encoding: 420 8220 420
+Encoding: 422 8220 422
 Width: 673
 Flags: W
 LayerCount: 2
@@ -12302,7 +12365,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: quotedblright
-Encoding: 421 8221 421
+Encoding: 423 8221 423
 Width: 649
 Flags: W
 LayerCount: 2
@@ -12321,7 +12384,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: quotedblbase
-Encoding: 422 8222 422
+Encoding: 424 8222 424
 Width: 649
 Flags: W
 LayerCount: 2
@@ -12340,7 +12403,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: dagger
-Encoding: 423 8224 423
+Encoding: 425 8224 425
 Width: 854
 Flags: W
 LayerCount: 2
@@ -12363,7 +12426,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: daggerdbl
-Encoding: 424 8225 424
+Encoding: 426 8225 426
 Width: 854
 Flags: W
 LayerCount: 2
@@ -12393,7 +12456,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: bullet
-Encoding: 425 8226 425
+Encoding: 427 8226 427
 Width: 386
 Flags: W
 LayerCount: 2
@@ -12407,7 +12470,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ellipsis
-Encoding: 426 8230 426
+Encoding: 428 8230 428
 Width: 787
 Flags: W
 LayerCount: 2
@@ -12431,7 +12494,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: perthousand
-Encoding: 427 8240 427
+Encoding: 429 8240 429
 Width: 1579
 Flags: W
 LayerCount: 2
@@ -12480,7 +12543,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2031
-Encoding: 428 8241 428
+Encoding: 430 8241 430
 Width: 2086
 Flags: W
 LayerCount: 2
@@ -12539,7 +12602,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: guilsinglleft
-Encoding: 429 8249 429
+Encoding: 431 8249 431
 Width: 613
 Flags: W
 LayerCount: 2
@@ -12557,7 +12620,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: guilsinglright
-Encoding: 430 8250 430
+Encoding: 432 8250 432
 Width: 611
 Flags: W
 LayerCount: 2
@@ -12575,7 +12638,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni203B
-Encoding: 431 8251 431
+Encoding: 433 8251 433
 Width: 1325
 Flags: W
 LayerCount: 2
@@ -12618,7 +12681,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2070
-Encoding: 432 8304 432
+Encoding: 434 8304 434
 Width: 639
 Flags: W
 LayerCount: 2
@@ -12637,7 +12700,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2074
-Encoding: 433 8308 433
+Encoding: 435 8308 435
 Width: 568
 Flags: W
 LayerCount: 2
@@ -12660,7 +12723,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2075
-Encoding: 434 8309 434
+Encoding: 436 8309 436
 Width: 561
 Flags: W
 LayerCount: 2
@@ -12684,7 +12747,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2076
-Encoding: 435 8310 435
+Encoding: 437 8310 437
 Width: 503
 Flags: W
 LayerCount: 2
@@ -12706,7 +12769,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2077
-Encoding: 436 8311 436
+Encoding: 438 8311 438
 Width: 648
 Flags: W
 LayerCount: 2
@@ -12730,7 +12793,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2078
-Encoding: 437 8312 437
+Encoding: 439 8312 439
 Width: 499
 Flags: W
 LayerCount: 2
@@ -12757,7 +12820,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2079
-Encoding: 438 8313 438
+Encoding: 440 8313 440
 Width: 513
 Flags: W
 LayerCount: 2
@@ -12782,7 +12845,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: Euro
-Encoding: 439 8364 439
+Encoding: 441 8364 441
 Width: 1083
 Flags: W
 LayerCount: 2
@@ -12814,7 +12877,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: trademark
-Encoding: 440 8482 440
+Encoding: 442 8482 442
 Width: 1020
 Flags: W
 LayerCount: 2
@@ -12853,7 +12916,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2150
-Encoding: 441 8528 441
+Encoding: 443 8528 443
 Width: 1335
 Flags: W
 LayerCount: 2
@@ -12889,7 +12952,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2151
-Encoding: 442 8529 442
+Encoding: 444 8529 444
 Width: 1183
 Flags: W
 LayerCount: 2
@@ -12926,7 +12989,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2152
-Encoding: 443 8530 443
+Encoding: 445 8530 445
 Width: 1589
 Flags: W
 LayerCount: 2
@@ -12962,7 +13025,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: onethird
-Encoding: 444 8531 444
+Encoding: 446 8531 446
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13000,7 +13063,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: twothirds
-Encoding: 445 8532 445
+Encoding: 447 8532 447
 Width: 1526
 Flags: W
 LayerCount: 2
@@ -13047,7 +13110,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2155
-Encoding: 446 8533 446
+Encoding: 448 8533 448
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13083,7 +13146,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2156
-Encoding: 447 8534 447
+Encoding: 449 8534 449
 Width: 1456
 Flags: W
 LayerCount: 2
@@ -13128,7 +13191,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2157
-Encoding: 448 8535 448
+Encoding: 450 8535 450
 Width: 1336
 Flags: W
 LayerCount: 2
@@ -13176,7 +13239,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2158
-Encoding: 449 8536 449
+Encoding: 451 8536 451
 Width: 1462
 Flags: W
 LayerCount: 2
@@ -13221,7 +13284,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni2159
-Encoding: 450 8537 450
+Encoding: 452 8537 452
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13255,7 +13318,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni215A
-Encoding: 451 8538 451
+Encoding: 453 8538 453
 Width: 1391
 Flags: W
 LayerCount: 2
@@ -13299,7 +13362,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: oneeighth
-Encoding: 452 8539 452
+Encoding: 454 8539 454
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13338,7 +13401,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: threeeighths
-Encoding: 453 8540 453
+Encoding: 455 8540 455
 Width: 1333
 Flags: W
 LayerCount: 2
@@ -13389,7 +13452,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: fiveeighths
-Encoding: 454 8541 454
+Encoding: 456 8541 456
 Width: 1336
 Flags: W
 LayerCount: 2
@@ -13438,7 +13501,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: seveneighths
-Encoding: 455 8542 455
+Encoding: 457 8542 457
 Width: 1438
 Flags: W
 LayerCount: 2
@@ -13487,7 +13550,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uni215F
-Encoding: 456 8543 456
+Encoding: 458 8543 458
 Width: 1301
 Flags: W
 LayerCount: 2
@@ -13508,7 +13571,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: infinity
-Encoding: 457 8734 457
+Encoding: 459 8734 459
 Width: 1293
 Flags: W
 LayerCount: 2
@@ -13538,7 +13601,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: notequal
-Encoding: 458 8800 458
+Encoding: 460 8800 460
 Width: 685
 Flags: W
 LayerCount: 2
@@ -13564,7 +13627,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: lessequal
-Encoding: 459 8804 459
+Encoding: 461 8804 461
 Width: 679
 Flags: W
 LayerCount: 2
@@ -13588,7 +13651,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: greaterequal
-Encoding: 460 8805 460
+Encoding: 462 8805 462
 Width: 679
 Flags: W
 LayerCount: 2
@@ -13612,7 +13675,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB56
-Encoding: 461 64342 461
+Encoding: 463 64342 463
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 782 -935 basechar 0
@@ -13640,7 +13703,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB57
-Encoding: 462 64343 462
+Encoding: 464 64343 464
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 835 -1117 basechar 0
@@ -13671,7 +13734,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB58
-Encoding: 463 64344 463
+Encoding: 465 64344 465
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -893 basechar 0
@@ -13700,7 +13763,7 @@ Substitution2: "Initial Forms Preceding Meem-1" PehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" PehInit1
 EndChar
 StartChar: uniFB59
-Encoding: 464 64345 464
+Encoding: 466 64345 466
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -884 basechar 0
@@ -13733,7 +13796,7 @@ Substitution2: "Medial Forms Preceding Meem-1" PehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" PehMedi1
 EndChar
 StartChar: uniFB7A
-Encoding: 465 64378 465
+Encoding: 467 64378 467
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -13767,7 +13830,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB7B
-Encoding: 466 64379 466
+Encoding: 468 64379 468
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -13803,7 +13866,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB7C
-Encoding: 467 64380 467
+Encoding: 469 64380 469
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 126 -863 basechar 0
@@ -13842,7 +13905,7 @@ Substitution2: "Initial Forms Preceding Meem-1" TchehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" TchehInit2
 EndChar
 StartChar: uniFB7D
-Encoding: 468 64381 468
+Encoding: 470 64381 470
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 135 -708 basechar 0
@@ -13880,7 +13943,7 @@ Substitution2: "Medial Forms Preceding Meem-1" TchehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" TchehMedi2
 EndChar
 StartChar: uniFB8A
-Encoding: 469 64394 469
+Encoding: 471 64394 471
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -13904,7 +13967,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB8B
-Encoding: 470 64395 470
+Encoding: 472 64395 472
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 299 -440 basechar 0
@@ -13933,7 +13996,7 @@ EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" JehFina1
 EndChar
 StartChar: uniFB8E
-Encoding: 471 64398 471
+Encoding: 473 64398 473
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -13959,7 +14022,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB8F
-Encoding: 472 64399 472
+Encoding: 474 64399 474
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -13988,7 +14051,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB90
-Encoding: 473 64400 473
+Encoding: 475 64400 475
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -14016,7 +14079,7 @@ Substitution2: "Initial Forms Preceding Meem-1" KehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KehInit2
 EndChar
 StartChar: uniFB91
-Encoding: 474 64401 474
+Encoding: 476 64401 476
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -133 basechar 0
@@ -14048,7 +14111,7 @@ Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
 EndChar
 StartChar: uniFB92
-Encoding: 475 64402 475
+Encoding: 477 64402 477
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -14081,7 +14144,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB93
-Encoding: 476 64403 476
+Encoding: 478 64403 478
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -14116,7 +14179,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFB94
-Encoding: 477 64404 477
+Encoding: 479 64404 479
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -14149,7 +14212,7 @@ Substitution2: "Initial Forms Preceding Meem-1" GafInit3
 Substitution2: "Initial Forms Preceding Jeem-1" GafInit2
 EndChar
 StartChar: uniFB95
-Encoding: 478 64405 478
+Encoding: 480 64405 480
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -133 basechar 0
@@ -14185,7 +14248,7 @@ Substitution2: "Medial Forms Preceding Meem-1" GafMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" GafMedi3
 EndChar
 StartChar: uniFBA4
-Encoding: 479 64420 479
+Encoding: 481 64420 481
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -14213,7 +14276,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFBA5
-Encoding: 480 64421 480
+Encoding: 482 64421 482
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 435 -328 basechar 0
@@ -14238,8 +14301,54 @@ SplineSet
  219 1272 425 1510 489 1442 c 0
 EndSplineSet
 EndChar
+StartChar: uniFBE8
+Encoding: 483 64488 483
+Width: 232
+Flags: W
+AnchorPoint: "HarakatBelow" -2 -422 basechar 0
+AnchorPoint: "HarakatAbove" 12 896 basechar 0
+AnchorPoint: "Curs" 0 74 exit 0
+LayerCount: 2
+Fore
+SplineSet
+0 231 m 1
+ 123 231 53 478 147 478 c 0
+ 223 478 218 292 184 212 c 0
+ 160 154 108 74 0 74 c 1
+ 0 231 l 1
+EndSplineSet
+Substitution2: "Initial Forms Preceding Yeh-1" AlefMaksuraInit4
+Substitution2: "Initial Forms Preceding Heh-1" AlefMaksuraInit3
+Substitution2: "Initial Forms Preceding Meem-1" AlefMaksuraInit2
+Substitution2: "Initial Forms Preceding Jeem-1" AlefMaksuraInit1
+EndChar
+StartChar: uniFBE9
+Encoding: 484 64489 484
+Width: 322
+Flags: W
+AnchorPoint: "HarakatBelow" -2 -422 basechar 0
+AnchorPoint: "HarakatAbove" 12 896 basechar 0
+AnchorPoint: "Curs" 0 74 exit 0
+AnchorPoint: "Curs" 322 188 entry 0
+LayerCount: 2
+Fore
+SplineSet
+322 188 m 1
+ 264 188 229 207 208 231 c 1
+ 193 187 147 74 0 74 c 1
+ 0 231 l 1
+ 129 231 98 491 190 483 c 0
+ 266 477 228 345 322 345 c 1
+ 322 188 l 1
+EndSplineSet
+Substitution2: "Medial Forms Preceding Yeh-1" AlefMaksuraMedi3
+Substitution2: "Medial Forms Preceding Reh-1" AlefMaksuraMedi5
+Substitution2: "Medial Forms Preceding Heh-1" AlefMaksuraMedi4
+Substitution2: "Medial Forms Preceding Meem-1" AlefMaksuraMedi2
+Substitution2: "Medial Forms Preceding Jeem-1" AlefMaksuraMedi1
+EndChar
 StartChar: uniFBFC
-Encoding: 481 64508 481
+Encoding: 485 64508 485
 Width: 1525
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -14265,7 +14374,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFBFD
-Encoding: 482 64509 482
+Encoding: 486 64509 486
 Width: 1090
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -14293,7 +14402,7 @@ Substitution2: "Final Form Yeh 2-1" YehFina2
 Substitution2: "Final Form Yeh 1-1" YehFina1
 EndChar
 StartChar: uniFBFE
-Encoding: 483 64510 483
+Encoding: 487 64510 487
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 56 -815 basechar 0
@@ -14319,7 +14428,7 @@ Substitution2: "Initial Forms Preceding Meem-1" YehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" YehInit1
 EndChar
 StartChar: uniFBFF
-Encoding: 484 64511 484
+Encoding: 488 64511 488
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 58 -830 basechar 0
@@ -14349,7 +14458,7 @@ Substitution2: "Medial Forms Preceding Meem-1" YehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehMedi1
 EndChar
 StartChar: uniFC5E
-Encoding: 485 64606 485
+Encoding: 489 64606 489
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14385,7 +14494,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFC5F
-Encoding: 486 64607 486
+Encoding: 490 64607 490
 Width: 551
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14416,7 +14525,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFC60
-Encoding: 487 64608 487
+Encoding: 491 64608 491
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14442,7 +14551,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFC61
-Encoding: 488 64609 488
+Encoding: 492 64609 492
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14469,7 +14578,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFC62
-Encoding: 489 64610 489
+Encoding: 493 64610 493
 Width: 551
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14495,7 +14604,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFC63
-Encoding: 490 64611 490
+Encoding: 494 64611 494
 Width: 525
 Flags: W
 AnchorPoint: "HarakatAboveLig" 275 478 mark 0
@@ -14521,7 +14630,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE80
-Encoding: 491 65152 491
+Encoding: 495 65152 495
 Width: 537
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -181 basechar 0
@@ -14540,7 +14649,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE81
-Encoding: 492 65153 492
+Encoding: 496 65153 496
 Width: 669
 Flags: W
 LayerCount: 2
@@ -14565,7 +14674,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE82
-Encoding: 493 65154 493
+Encoding: 497 65154 497
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 207 -208 basechar 0
@@ -14594,7 +14703,7 @@ EndSplineSet
 Substitution2: "Long Final Forms-1" AlefMaddaFina1
 EndChar
 StartChar: uniFE83
-Encoding: 494 65155 494
+Encoding: 498 65155 498
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -23 basechar 0
@@ -14617,7 +14726,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE84
-Encoding: 495 65156 495
+Encoding: 499 65156 499
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 207 -208 basechar 0
@@ -14645,7 +14754,7 @@ EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaAboveFina1
 EndChar
 StartChar: uniFE85
-Encoding: 496 65157 496
+Encoding: 500 65157 500
 Width: 550
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -14671,7 +14780,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE86
-Encoding: 497 65158 497
+Encoding: 501 65158 501
 Width: 570
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -14702,7 +14811,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE87
-Encoding: 498 65159 498
+Encoding: 502 65159 502
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -806 basechar 0
@@ -14725,7 +14834,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE88
-Encoding: 499 65160 499
+Encoding: 503 65160 503
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 138 -841 basechar 0
@@ -14753,7 +14862,7 @@ EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaBelowFina1
 EndChar
 StartChar: uniFE89
-Encoding: 500 65161 500
+Encoding: 504 65161 504
 Width: 1525
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -14786,7 +14895,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE8A
-Encoding: 501 65162 501
+Encoding: 505 65162 505
 Width: 1090
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -14820,7 +14929,7 @@ Substitution2: "Final Form Yeh 2-1" YehHamzaFina2
 Substitution2: "Final Form Yeh 1-1" YehHamzaFina1
 EndChar
 StartChar: uniFE8B
-Encoding: 502 65163 502
+Encoding: 506 65163 506
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 17 -494 basechar 0
@@ -14850,7 +14959,7 @@ Substitution2: "Initial Forms Preceding Meem-1" YehHamzaInit2
 Substitution2: "Initial Forms Preceding Jeem-1" YehHamzaInit1
 EndChar
 StartChar: uniFE8C
-Encoding: 503 65164 503
+Encoding: 507 65164 507
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 17 -494 basechar 0
@@ -14883,7 +14992,7 @@ Substitution2: "Medial Forms Preceding Meem-1" YehHamzaMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehHamzaMedi1
 EndChar
 StartChar: uniFE8D
-Encoding: 504 65165 504
+Encoding: 508 65165 508
 Width: 279
 Flags: W
 AnchorPoint: "HarakatBelow" 104 -23 basechar 0
@@ -14899,7 +15008,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE8E
-Encoding: 505 65166 505
+Encoding: 509 65166 509
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 207 -208 basechar 0
@@ -14920,7 +15029,7 @@ EndSplineSet
 Substitution2: "Long Final Forms-1" AlefFina1
 EndChar
 StartChar: uniFE8F
-Encoding: 506 65167 506
+Encoding: 510 65167 510
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 785 -705 basechar 0
@@ -14943,7 +15052,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE90
-Encoding: 507 65168 507
+Encoding: 511 65168 511
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 841 -886 basechar 0
@@ -14969,7 +15078,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE91
-Encoding: 508 65169 508
+Encoding: 512 65169 512
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -47 -863 basechar 0
@@ -14993,7 +15102,7 @@ Substitution2: "Initial Forms Preceding Meem-1" BehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" BehInit1
 EndChar
 StartChar: uniFE92
-Encoding: 509 65170 509
+Encoding: 513 65170 513
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -9 -811 basechar 0
@@ -15021,7 +15130,7 @@ Substitution2: "Medial Forms Preceding Meem-1" BehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" BehMedi1
 EndChar
 StartChar: uniFE93
-Encoding: 510 65171 510
+Encoding: 514 65171 514
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -15047,7 +15156,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE94
-Encoding: 511 65172 511
+Encoding: 515 65172 515
 Width: 744
 Flags: W
 AnchorPoint: "HarakatAbove" 413 1149 basechar 0
@@ -15071,7 +15180,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE95
-Encoding: 512 65173 512
+Encoding: 516 65173 516
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 872 -192 basechar 0
@@ -15096,7 +15205,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE96
-Encoding: 513 65174 513
+Encoding: 517 65174 517
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 841 -456 basechar 0
@@ -15124,7 +15233,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE97
-Encoding: 514 65175 514
+Encoding: 518 65175 518
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15152,7 +15261,7 @@ Substitution2: "Initial Forms Preceding Meem-1" TehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" TehInit1
 EndChar
 StartChar: uniFE98
-Encoding: 515 65176 515
+Encoding: 519 65176 519
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15183,7 +15292,7 @@ Substitution2: "Medial Forms Preceding Meem-1" TehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TehMedi1
 EndChar
 StartChar: uniFE99
-Encoding: 516 65177 516
+Encoding: 520 65177 520
 Width: 1926
 Flags: W
 AnchorPoint: "HarakatBelow" 872 -192 basechar 0
@@ -15211,7 +15320,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE9A
-Encoding: 517 65178 517
+Encoding: 521 65178 521
 Width: 2028
 Flags: W
 AnchorPoint: "HarakatBelow" 841 -456 basechar 0
@@ -15242,7 +15351,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE9B
-Encoding: 518 65179 518
+Encoding: 522 65179 522
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15273,7 +15382,7 @@ Substitution2: "Initial Forms Preceding Meem-1" ThehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" ThehInit1
 EndChar
 StartChar: uniFE9C
-Encoding: 519 65180 519
+Encoding: 523 65180 523
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -15307,7 +15416,7 @@ Substitution2: "Medial Forms Preceding Meem-1" ThehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ThehMedi1
 EndChar
 StartChar: uniFE9D
-Encoding: 520 65181 520
+Encoding: 524 65181 524
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -15336,7 +15445,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE9E
-Encoding: 521 65182 521
+Encoding: 525 65182 525
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -15367,7 +15476,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFE9F
-Encoding: 522 65183 522
+Encoding: 526 65183 526
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -992 basechar 0
@@ -15401,7 +15510,7 @@ Substitution2: "Initial Forms Preceding Meem-1" JeemInit3
 Substitution2: "Initial Forms Preceding Jeem-1" JeemInit2
 EndChar
 StartChar: uniFEA0
-Encoding: 523 65184 523
+Encoding: 527 65184 527
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -512 basechar 0
@@ -15434,7 +15543,7 @@ Substitution2: "Medial Forms Preceding Meem-1" JeemMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" JeemMedi2
 EndChar
 StartChar: uniFEA1
-Encoding: 524 65185 524
+Encoding: 528 65185 528
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -15460,7 +15569,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEA2
-Encoding: 525 65186 525
+Encoding: 529 65186 529
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -15488,7 +15597,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEA3
-Encoding: 526 65187 526
+Encoding: 530 65187 530
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -353 basechar 0
@@ -15519,7 +15628,7 @@ Substitution2: "Initial Forms Preceding Meem-1" HahInit3
 Substitution2: "Initial Forms Preceding Jeem-1" HahInit2
 EndChar
 StartChar: uniFEA4
-Encoding: 527 65188 527
+Encoding: 531 65188 531
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -15549,7 +15658,7 @@ Substitution2: "Medial Forms Preceding Meem-1" HahMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" HahMedi2
 EndChar
 StartChar: uniFEA5
-Encoding: 528 65189 528
+Encoding: 532 65189 532
 Width: 1234
 Flags: W
 AnchorPoint: "HarakatBelow" 836 -1548 basechar 0
@@ -15578,7 +15687,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEA6
-Encoding: 529 65190 529
+Encoding: 533 65190 533
 Width: 522
 Flags: W
 AnchorPoint: "HarakatBelow" 726 -1400 basechar 0
@@ -15609,7 +15718,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEA7
-Encoding: 530 65191 530
+Encoding: 534 65191 534
 Width: 586
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -353 basechar 0
@@ -15643,7 +15752,7 @@ Substitution2: "Initial Forms Preceding Meem-1" KhehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KhehInit2
 EndChar
 StartChar: uniFEA8
-Encoding: 531 65192 531
+Encoding: 535 65192 535
 Width: 194
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -15676,7 +15785,7 @@ Substitution2: "Medial Forms Preceding Meem-1" KhehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" KhehMedi2
 EndChar
 StartChar: uniFEA9
-Encoding: 532 65193 532
+Encoding: 536 65193 536
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 221 -80 basechar 0
@@ -15692,7 +15801,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEAA
-Encoding: 533 65194 533
+Encoding: 537 65194 537
 Width: 487
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -15714,7 +15823,7 @@ EndSplineSet
 Substitution2: "Long Final Forms-1" DalFina1
 EndChar
 StartChar: uniFEAB
-Encoding: 534 65195 534
+Encoding: 538 65195 538
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 221 -80 basechar 0
@@ -15733,7 +15842,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEAC
-Encoding: 535 65196 535
+Encoding: 539 65196 539
 Width: 487
 Flags: W
 AnchorPoint: "HarakatBelow" 102 -298 basechar 0
@@ -15758,7 +15867,7 @@ EndSplineSet
 Substitution2: "Long Final Forms-1" ThalFina1
 EndChar
 StartChar: uniFEAD
-Encoding: 536 65197 536
+Encoding: 540 65197 540
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -15774,7 +15883,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEAE
-Encoding: 537 65198 537
+Encoding: 541 65198 541
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 330 -438 basechar 0
@@ -15795,7 +15904,7 @@ EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" RehFina1
 EndChar
 StartChar: uniFEAF
-Encoding: 538 65199 538
+Encoding: 542 65199 542
 Width: 532
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -359 basechar 0
@@ -15814,7 +15923,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEB0
-Encoding: 539 65200 539
+Encoding: 543 65200 543
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 330 -438 basechar 0
@@ -15838,7 +15947,7 @@ EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" ZehFina1
 EndChar
 StartChar: uniFEB1
-Encoding: 540 65201 540
+Encoding: 544 65201 544
 Width: 2091
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -15866,7 +15975,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEB2
-Encoding: 541 65202 541
+Encoding: 545 65202 545
 Width: 2046
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -15898,7 +16007,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEB3
-Encoding: 542 65203 542
+Encoding: 546 65203 546
 Width: 763
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -15927,7 +16036,7 @@ Substitution2: "Initial Forms Preceding Meem-1" SeenInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SeenInit1
 EndChar
 StartChar: uniFEB4
-Encoding: 543 65204 543
+Encoding: 547 65204 547
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -15962,7 +16071,7 @@ Substitution2: "Medial Forms Preceding Meem-1" SeenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SeenMedi1
 EndChar
 StartChar: uniFEB5
-Encoding: 544 65205 544
+Encoding: 548 65205 548
 Width: 2091
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -15998,7 +16107,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEB6
-Encoding: 545 65206 545
+Encoding: 549 65206 549
 Width: 2046
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16038,7 +16147,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEB7
-Encoding: 546 65207 546
+Encoding: 550 65207 550
 Width: 763
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16076,7 +16185,7 @@ Substitution2: "Initial Forms Preceding Meem-1" SheenInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SheenInit1
 EndChar
 StartChar: uniFEB8
-Encoding: 547 65208 547
+Encoding: 551 65208 551
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16120,7 +16229,7 @@ Substitution2: "Medial Forms Preceding Meem-1" SheenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SheenMedi1
 EndChar
 StartChar: uniFEB9
-Encoding: 548 65209 548
+Encoding: 552 65209 552
 Width: 2254
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16152,7 +16261,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEBA
-Encoding: 549 65210 549
+Encoding: 553 65210 553
 Width: 2131
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16187,7 +16296,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEBB
-Encoding: 550 65211 550
+Encoding: 554 65211 554
 Width: 862
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16219,7 +16328,7 @@ Substitution2: "Initial Forms Preceding Meem-1" SadInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SadInit1
 EndChar
 StartChar: uniFEBC
-Encoding: 551 65212 551
+Encoding: 555 65212 555
 Width: 847
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16256,7 +16365,7 @@ Substitution2: "Medial Forms Preceding Meem-1" SadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SadMedi1
 EndChar
 StartChar: uniFEBD
-Encoding: 552 65213 552
+Encoding: 556 65213 556
 Width: 2254
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16291,7 +16400,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEBE
-Encoding: 553 65214 553
+Encoding: 557 65214 557
 Width: 2131
 Flags: W
 AnchorPoint: "HarakatBelow" 1343 -524 basechar 0
@@ -16329,7 +16438,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEBF
-Encoding: 554 65215 554
+Encoding: 558 65215 558
 Width: 862
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16364,7 +16473,7 @@ Substitution2: "Initial Forms Preceding Meem-1" DadInit2
 Substitution2: "Initial Forms Preceding Jeem-1" DadInit1
 EndChar
 StartChar: uniFEC0
-Encoding: 555 65216 555
+Encoding: 559 65216 559
 Width: 847
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -128 basechar 0
@@ -16404,7 +16513,7 @@ Substitution2: "Medial Forms Preceding Meem-1" DadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" DadMedi1
 EndChar
 StartChar: uniFEC1
-Encoding: 556 65217 556
+Encoding: 560 65217 560
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -16431,7 +16540,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEC2
-Encoding: 557 65218 557
+Encoding: 561 65218 561
 Width: 888
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -16462,7 +16571,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEC3
-Encoding: 558 65219 558
+Encoding: 562 65219 562
 Width: 666
 Flags: W
 AnchorPoint: "HarakatBelow" 341 -146 basechar 0
@@ -16491,7 +16600,7 @@ Substitution2: "Initial Forms Preceding Meem-1" TahInit2
 Substitution2: "Initial Forms Preceding Jeem-1" TahInit1
 EndChar
 StartChar: uniFEC4
-Encoding: 559 65220 559
+Encoding: 563 65220 563
 Width: 645
 Flags: W
 AnchorPoint: "HarakatBelow" 350 -38 basechar 0
@@ -16524,7 +16633,7 @@ Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TahMedi1
 EndChar
 StartChar: uniFEC5
-Encoding: 560 65221 560
+Encoding: 564 65221 564
 Width: 780
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -16554,7 +16663,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEC6
-Encoding: 561 65222 561
+Encoding: 565 65222 565
 Width: 888
 Flags: W
 AnchorPoint: "HarakatBelow" 452 -104 basechar 0
@@ -16588,7 +16697,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEC7
-Encoding: 562 65223 562
+Encoding: 566 65223 566
 Width: 666
 Flags: W
 AnchorPoint: "HarakatBelow" 341 -146 basechar 0
@@ -16620,7 +16729,7 @@ Substitution2: "Initial Forms Preceding Meem-1" ZahInit2
 Substitution2: "Initial Forms Preceding Jeem-1" ZahInit1
 EndChar
 StartChar: uniFEC8
-Encoding: 563 65224 563
+Encoding: 567 65224 567
 Width: 645
 Flags: W
 AnchorPoint: "HarakatBelow" 350 -38 basechar 0
@@ -16656,7 +16765,7 @@ Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ZahMedi1
 EndChar
 StartChar: uniFEC9
-Encoding: 564 65225 564
+Encoding: 568 65225 568
 Width: 777
 Flags: W
 AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
@@ -16685,7 +16794,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFECA
-Encoding: 565 65226 565
+Encoding: 569 65226 569
 Width: 860
 Flags: W
 AnchorPoint: "HarakatBelow" 751 -1378 basechar 0
@@ -16715,7 +16824,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFECB
-Encoding: 566 65227 566
+Encoding: 570 65227 570
 Width: 607
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -16744,7 +16853,7 @@ Substitution2: "Initial Forms Preceding Meem-1" AinInit3
 Substitution2: "Initial Forms Preceding Jeem-1" AinInit2
 EndChar
 StartChar: uniFECC
-Encoding: 567 65228 567
+Encoding: 571 65228 571
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -16773,7 +16882,7 @@ Substitution2: "Medial Forms Preceding Meem-1" AinMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" AinMedi1
 EndChar
 StartChar: uniFECD
-Encoding: 568 65229 568
+Encoding: 572 65229 572
 Width: 777
 Flags: W
 AnchorPoint: "HarakatBelow" 826 -1492 basechar 0
@@ -16805,7 +16914,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFECE
-Encoding: 569 65230 569
+Encoding: 573 65230 573
 Width: 860
 Flags: W
 AnchorPoint: "HarakatBelow" 751 -1378 basechar 0
@@ -16838,7 +16947,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFECF
-Encoding: 570 65231 570
+Encoding: 574 65231 574
 Width: 607
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -16870,7 +16979,7 @@ Substitution2: "Initial Forms Preceding Meem-1" GhainInit3
 Substitution2: "Initial Forms Preceding Jeem-1" GhainInit2
 EndChar
 StartChar: uniFED0
-Encoding: 571 65232 571
+Encoding: 575 65232 575
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -154 basechar 0
@@ -16902,7 +17011,7 @@ Substitution2: "Medial Forms Preceding Meem-1" GhainMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" GhainMedi1
 EndChar
 StartChar: uniFED1
-Encoding: 572 65233 572
+Encoding: 576 65233 576
 Width: 1777
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -16926,7 +17035,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFED2
-Encoding: 573 65234 573
+Encoding: 577 65234 577
 Width: 1750
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -16957,7 +17066,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFED3
-Encoding: 574 65235 574
+Encoding: 578 65235 578
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -16984,7 +17093,7 @@ Substitution2: "Initial Forms Preceding Meem-1" FehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" FehInit2
 EndChar
 StartChar: uniFED4
-Encoding: 575 65236 575
+Encoding: 579 65236 579
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -17015,7 +17124,7 @@ Substitution2: "Medial Forms Preceding Meem-1" FehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" FehMedi2
 EndChar
 StartChar: uniFED5
-Encoding: 576 65237 576
+Encoding: 580 65237 580
 Width: 1641
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -877 basechar 0
@@ -17043,7 +17152,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFED6
-Encoding: 577 65238 577
+Encoding: 581 65238 581
 Width: 1590
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -877 basechar 0
@@ -17075,7 +17184,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFED7
-Encoding: 578 65239 578
+Encoding: 582 65239 582
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -17104,7 +17213,7 @@ Substitution2: "Initial Forms Preceding Meem-1" QafInit3
 Substitution2: "Initial Forms Preceding Jeem-1" QafInit2
 EndChar
 StartChar: uniFED8
-Encoding: 579 65240 579
+Encoding: 583 65240 583
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -17137,7 +17246,7 @@ Substitution2: "Medial Forms Preceding Meem-1" QafMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" QafMedi2
 EndChar
 StartChar: uniFED9
-Encoding: 580 65241 580
+Encoding: 584 65241 584
 Width: 1695
 Flags: W
 AnchorPoint: "HarakatBelow" 862 -193 basechar 0
@@ -17170,7 +17279,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEDA
-Encoding: 581 65242 581
+Encoding: 585 65242 585
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -17206,7 +17315,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEDB
-Encoding: 582 65243 582
+Encoding: 586 65243 586
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -17234,7 +17343,7 @@ Substitution2: "Initial Forms Preceding Meem-1" KehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KehInit2
 EndChar
 StartChar: uniFEDC
-Encoding: 583 65244 583
+Encoding: 587 65244 587
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -133 basechar 0
@@ -17266,7 +17375,7 @@ Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
 EndChar
 StartChar: uniFEDD
-Encoding: 584 65245 584
+Encoding: 588 65245 588
 Width: 1606
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -1123 basechar 0
@@ -17290,7 +17399,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEDE
-Encoding: 585 65246 585
+Encoding: 589 65246 589
 Width: 1653
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -1123 basechar 0
@@ -17317,7 +17426,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEDF
-Encoding: 586 65247 586
+Encoding: 590 65247 590
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 61 -184 basechar 0
@@ -17341,7 +17450,7 @@ Substitution2: "Initial Forms Preceding Meem-1" LamInit2
 Substitution2: "Initial Forms Preceding Jeem-1" LamInit1
 EndChar
 StartChar: uniFEE0
-Encoding: 587 65248 587
+Encoding: 591 65248 591
 Width: 357
 Flags: W
 AnchorPoint: "HarakatBelow" 61 -184 basechar 0
@@ -17369,7 +17478,7 @@ Substitution2: "Medial Forms Preceding Meem-1" LamMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" LamMedi1
 EndChar
 StartChar: uniFEE1
-Encoding: 588 65249 588
+Encoding: 592 65249 592
 Width: 828
 Flags: W
 AnchorPoint: "HarakatBelow" 787 842 basechar 0
@@ -17390,7 +17499,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEE2
-Encoding: 589 65250 589
+Encoding: 593 65250 593
 Width: 637
 Flags: W
 AnchorPoint: "HarakatBelow" 499 -241 basechar 0
@@ -17414,7 +17523,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEE3
-Encoding: 590 65251 590
+Encoding: 594 65251 594
 Width: 472
 Flags: W
 AnchorPoint: "HarakatBelow" 112 -264 basechar 0
@@ -17439,7 +17548,7 @@ Substitution2: "Initial Forms Preceding Meem-1" MeemInit3
 Substitution2: "Initial Forms Preceding Jeem-1" MeemInit2
 EndChar
 StartChar: uniFEE4
-Encoding: 591 65252 591
+Encoding: 595 65252 595
 Width: 282
 Flags: W
 AnchorPoint: "HarakatBelow" 188 -158 basechar 0
@@ -17467,7 +17576,7 @@ Substitution2: "Medial Forms Preceding Meem-1" MeemMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" MeemMedi1
 EndChar
 StartChar: uniFEE5
-Encoding: 592 65253 592
+Encoding: 596 65253 596
 Width: 1707
 Flags: W
 AnchorPoint: "HarakatBelow" 808 -745 basechar 0
@@ -17492,7 +17601,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEE6
-Encoding: 593 65254 593
+Encoding: 597 65254 597
 Width: 1683
 Flags: W
 AnchorPoint: "HarakatBelow" 679 -769 basechar 0
@@ -17526,7 +17635,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEE7
-Encoding: 594 65255 594
+Encoding: 598 65255 598
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -17535,9 +17644,9 @@ AnchorPoint: "Curs" 0 74 exit 0
 LayerCount: 2
 Fore
 SplineSet
--22 997 m 4
- -133 1041 -15 1251 73 1221 c 4
- 165 1191 89 953 -22 997 c 4
+-22 997 m 0
+ -133 1041 -15 1251 73 1221 c 0
+ 165 1191 89 953 -22 997 c 0
 0 231 m 1
  123 231 53 478 147 478 c 0
  223 478 218 292 184 212 c 0
@@ -17551,7 +17660,7 @@ Substitution2: "Initial Forms Preceding Meem-1" NoonInit2
 Substitution2: "Initial Forms Preceding Jeem-1" NoonInit1
 EndChar
 StartChar: uniFEE8
-Encoding: 595 65256 595
+Encoding: 599 65256 599
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" -2 -422 basechar 0
@@ -17580,7 +17689,7 @@ Substitution2: "Medial Forms Preceding Meem-1" NoonMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" NoonMedi1
 EndChar
 StartChar: uniFEE9
-Encoding: 596 65257 596
+Encoding: 600 65257 600
 Width: 528
 Flags: W
 AnchorPoint: "HarakatBelow" 280 89 basechar 0
@@ -17601,7 +17710,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEEA
-Encoding: 597 65258 597
+Encoding: 601 65258 601
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 435 -328 basechar 0
@@ -17620,7 +17729,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEEB
-Encoding: 598 65259 598
+Encoding: 602 65259 602
 Width: 625
 Flags: W
 AnchorPoint: "HarakatBelow" 219 -42 basechar 0
@@ -17652,7 +17761,7 @@ Substitution2: "Initial Forms Preceding Meem-1" HehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" HehInit1
 EndChar
 StartChar: uniFEEC
-Encoding: 599 65260 599
+Encoding: 603 65260 603
 Width: 525
 Flags: W
 AnchorPoint: "HarakatBelow" 360 -240 basechar 0
@@ -17681,7 +17790,7 @@ Substitution2: "Medial Forms Preceding Meem-1" HehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" HehMedi1
 EndChar
 StartChar: uniFEED
-Encoding: 600 65261 600
+Encoding: 604 65261 604
 Width: 550
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -17700,7 +17809,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: uniFEEE
-Encoding: 601 65262 601
+Encoding: 605 65262 605
 Width: 570
 Flags: W
 AnchorPoint: "HarakatBelow" 246 -383 basechar 0
@@ -17723,8 +17832,182 @@ SplineSet
  243 -35 304 -9 336 105 c 1
 EndSplineSet
 EndChar
+StartChar: uniFEEF
+Encoding: 606 65263 606
+Width: 1525
+Flags: W
+AnchorPoint: "HarakatBelow" 710 -665 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1496 1108 m 0
+ 1540 1044 1413 931 1302 825 c 0
+ 1184 713 1046 505 1065 397 c 0
+ 1079 315 1286 360 1302 243 c 0
+ 1340 -30 1081 -311 820 -405 c 0
+ 580 -491 206 -395 86 -170 c 0
+ -6 2 40 256 86 476 c 0
+ 116 617 207 862 285 820 c 0
+ 330 796 266 629 218 440 c 0
+ 166 236 132 8 228 -114 c 0
+ 322 -234 581 -315 728 -276 c 0
+ 904 -230 1132 -38 1152 144 c 0
+ 1164 255 882 162 891 334 c 0
+ 897 478 979 639 1053 765 c 0
+ 1115 867 1437 1193 1496 1108 c 0
+EndSplineSet
+EndChar
+StartChar: uniFEF0
+Encoding: 607 65264 607
+Width: 1090
+Flags: W
+AnchorPoint: "HarakatBelow" 710 -665 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+AnchorPoint: "Curs" 1090 525 entry 0
+LayerCount: 2
+Fore
+SplineSet
+1090 759 m 1
+ 1090 525 l 1
+ 1052 461 1055 408 1058 390 c 0
+ 1067 334 1275 317 1290 200 c 0
+ 1328 -73 1103 -299 842 -393 c 0
+ 602 -479 231 -381 111 -156 c 0
+ 19 16 42 134 88 354 c 0
+ 118 495 208 728 290 698 c 0
+ 364 671 248 473 207 297 c 0
+ 173 150 159 2 246 -110 c 0
+ 340 -230 592 -310 753 -268 c 0
+ 929 -222 1133 -85 1156 96 c 0
+ 1174 240 912 200 916 366 c 0
+ 920 539 1016 671 1090 759 c 1
+EndSplineSet
+Substitution2: "Final Form Yeh 2-1" YehFina2
+Substitution2: "Final Form Yeh 1-1" YehFina1
+EndChar
+StartChar: uniFEF1
+Encoding: 608 65265 608
+Width: 1525
+Flags: W
+AnchorPoint: "HarakatBelow" 680 -1116 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+653 -840 m 4
+ 545 -858 478 -1048 404 -972 c 4
+ 324 -890 524 -688 674 -667 c 4
+ 806 -655 957 -730 893 -824 c 4
+ 855 -876 715 -831 653 -840 c 4
+1496 1108 m 0
+ 1540 1044 1413 931 1302 825 c 0
+ 1184 713 1046 505 1065 397 c 0
+ 1079 315 1286 360 1302 243 c 0
+ 1340 -30 1081 -311 820 -405 c 0
+ 580 -491 206 -395 86 -170 c 0
+ -6 2 40 256 86 476 c 0
+ 116 617 207 862 285 820 c 0
+ 330 796 266 629 218 440 c 0
+ 166 236 132 8 228 -114 c 0
+ 322 -234 581 -315 728 -276 c 0
+ 904 -230 1132 -38 1152 144 c 0
+ 1164 255 882 162 891 334 c 0
+ 897 478 979 639 1053 765 c 0
+ 1115 867 1437 1193 1496 1108 c 0
+EndSplineSet
+EndChar
+StartChar: uniFEF2
+Encoding: 609 65266 609
+Width: 1090
+Flags: W
+AnchorPoint: "HarakatBelow" 680 -1116 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+AnchorPoint: "Curs" 1090 525 entry 0
+LayerCount: 2
+Fore
+SplineSet
+653 -840 m 4
+ 545 -858 478 -1048 404 -972 c 4
+ 324 -890 524 -688 674 -667 c 4
+ 806 -655 957 -730 893 -824 c 4
+ 855 -876 715 -831 653 -840 c 4
+1090 759 m 1
+ 1090 525 l 1
+ 1052 461 1055 408 1058 390 c 0
+ 1067 334 1275 317 1290 200 c 0
+ 1328 -73 1103 -299 842 -393 c 0
+ 602 -479 231 -381 111 -156 c 0
+ 19 16 42 134 88 354 c 0
+ 118 495 208 728 290 698 c 0
+ 364 671 248 473 207 297 c 0
+ 173 150 159 2 246 -110 c 0
+ 340 -230 592 -310 753 -268 c 0
+ 929 -222 1133 -85 1156 96 c 0
+ 1174 240 912 200 916 366 c 0
+ 920 539 1016 671 1090 759 c 1
+EndSplineSet
+Substitution2: "Final Form Yeh 2-1" YehArabicFina2
+Substitution2: "Final Form Yeh 1-1" YehArabicFina1
+EndChar
+StartChar: uniFEF3
+Encoding: 610 65267 610
+Width: 232
+Flags: W
+AnchorPoint: "HarakatBelow" 56 -815 basechar 0
+AnchorPoint: "HarakatAbove" 12 896 basechar 0
+AnchorPoint: "Curs" 0 74 exit 0
+LayerCount: 2
+Fore
+SplineSet
+-153 -651 m 4
+ -171 -552 -28 -501 52 -495 c 4
+ 120 -492 220 -480 214 -562 c 4
+ 208 -632 126 -642 56 -651 c 4
+ -14 -663 -138 -731 -153 -651 c 4
+0 231 m 1
+ 123 231 53 478 147 478 c 0
+ 223 478 218 292 184 212 c 0
+ 160 154 108 74 0 74 c 1
+ 0 231 l 1
+EndSplineSet
+Substitution2: "Initial Forms Preceding Yeh-1" YehInit4
+Substitution2: "Initial Forms Preceding Heh-1" YehInit3
+Substitution2: "Initial Forms Preceding Meem-1" YehInit2
+Substitution2: "Initial Forms Preceding Jeem-1" YehInit1
+EndChar
+StartChar: uniFEF4
+Encoding: 611 65268 611
+Width: 322
+Flags: W
+AnchorPoint: "HarakatBelow" 58 -830 basechar 0
+AnchorPoint: "HarakatAbove" 12 896 basechar 0
+AnchorPoint: "Curs" 0 74 exit 0
+AnchorPoint: "Curs" 322 188 entry 0
+LayerCount: 2
+Fore
+SplineSet
+-151 -666 m 0
+ -169 -567 -26 -516 54 -510 c 0
+ 122 -507 222 -495 216 -577 c 0
+ 210 -647 128 -657 58 -666 c 0
+ -12 -678 -136 -746 -151 -666 c 0
+322 188 m 1
+ 264 188 229 207 208 231 c 1
+ 193 187 147 74 0 74 c 1
+ 0 231 l 1
+ 129 231 98 491 190 483 c 0
+ 266 477 228 345 322 345 c 1
+ 322 188 l 1
+EndSplineSet
+Substitution2: "Medial Forms Preceding Yeh-1" YehMedi3
+Substitution2: "Medial Forms Preceding Reh-1" YehMedi5
+Substitution2: "Medial Forms Preceding Heh-1" YehMedi4
+Substitution2: "Medial Forms Preceding Meem-1" YehMedi2
+Substitution2: "Medial Forms Preceding Jeem-1" YehMedi1
+EndChar
 StartChar: uniFEF5
-Encoding: 602 65269 602
+Encoding: 612 65269 612
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -17761,7 +18044,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE82
 EndChar
 StartChar: uniFEF6
-Encoding: 603 65270 603
+Encoding: 613 65270 613
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -17801,7 +18084,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE82
 EndChar
 StartChar: uniFEF7
-Encoding: 604 65271 604
+Encoding: 614 65271 614
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -17835,7 +18118,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE84
 EndChar
 StartChar: uniFEF8
-Encoding: 605 65272 605
+Encoding: 615 65272 615
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -17873,7 +18156,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE84
 EndChar
 StartChar: uniFEF9
-Encoding: 606 65273 606
+Encoding: 616 65273 616
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -17907,7 +18190,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE88
 EndChar
 StartChar: uniFEFA
-Encoding: 607 65274 607
+Encoding: 617 65274 617
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -17945,7 +18228,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE88
 EndChar
 StartChar: uniFEFB
-Encoding: 608 65275 608
+Encoding: 618 65275 618
 Width: 657
 GlyphClass: 3
 Flags: W
@@ -17972,7 +18255,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE8E
 EndChar
 StartChar: uniFEFC
-Encoding: 609 65276 609
+Encoding: 619 65276 619
 Width: 710
 GlyphClass: 3
 Flags: W
@@ -18003,7 +18286,7 @@ EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE8E
 EndChar
 StartChar: AlefFina1
-Encoding: 610 -1 610
+Encoding: 620 -1 620
 Width: 488
 Flags: W
 AnchorPoint: "Curs" 488 74 entry 0
@@ -18024,7 +18307,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DalFina1
-Encoding: 611 -1 611
+Encoding: 621 -1 621
 Width: 771
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -298 basechar 0
@@ -18045,7 +18328,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThalFina1
-Encoding: 612 -1 612
+Encoding: 622 -1 622
 Width: 771
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -298 basechar 0
@@ -18069,7 +18352,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: RehFina1
-Encoding: 613 -1 613
+Encoding: 623 -1 623
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -448 basechar 0
@@ -18088,7 +18371,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ZehFina1
-Encoding: 614 -1 614
+Encoding: 624 -1 624
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -448 basechar 0
@@ -18110,7 +18393,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JehFina1
-Encoding: 615 -1 615
+Encoding: 625 -1 625
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -448 basechar 0
@@ -18137,7 +18420,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehFina1
-Encoding: 616 -1 616
+Encoding: 626 -1 626
 Width: 1699
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18166,7 +18449,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehFina2
-Encoding: 617 -1 617
+Encoding: 627 -1 627
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18195,7 +18478,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafFina1
-Encoding: 618 -1 618
+Encoding: 628 -1 628
 Width: 1699
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18230,7 +18513,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafFina2
-Encoding: 619 -1 619
+Encoding: 629 -1 629
 Width: 1650
 Flags: W
 AnchorPoint: "HarakatBelow" 814 -485 basechar 0
@@ -18265,7 +18548,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehFina1
-Encoding: 620 -1 620
+Encoding: 630 -1 630
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 501 -130 basechar 0
@@ -18283,8 +18566,70 @@ SplineSet
  152 30 172 86 234 206 c 0
 EndSplineSet
 EndChar
+StartChar: YehArabicFina1
+Encoding: 631 -1 631
+Width: 1002
+Flags: W
+AnchorPoint: "HarakatBelow" 680 -1116 basechar 0
+AnchorPoint: "HarakatAbove" 722 1171 basechar 0
+AnchorPoint: "Curs" 1002 540 entry 0
+LayerCount: 2
+Fore
+SplineSet
+653 -840 m 4
+ 545 -858 478 -1048 404 -972 c 4
+ 324 -890 524 -688 674 -667 c 4
+ 806 -655 957 -730 893 -824 c 4
+ 855 -876 715 -831 653 -840 c 4
+1002 774 m 1
+ 1002 540 l 1
+ 981 500 987 458 1002 446 c 0
+ 1029 425 1284 455 1299 338 c 0
+ 1337 65 1111 -161 850 -255 c 0
+ 610 -341 237 -243 117 -18 c 0
+ 25 154 48 269 94 489 c 0
+ 124 630 220 880 296 836 c 0
+ 356 803 261 616 214 416 c 0
+ 181 276 172 129 255 24 c 0
+ 349 -96 612 -179 759 -141 c 0
+ 935 -95 1137 70 1155 252 c 0
+ 1164 344 890 258 850 387 c 0
+ 832 449 808 534 1002 774 c 1
+EndSplineSet
+EndChar
+StartChar: YehArabicFina2
+Encoding: 632 -1 632
+Width: 1065
+Flags: W
+AnchorPoint: "HarakatBelow" 680 -1116 basechar 0
+AnchorPoint: "HarakatAbove" 653 961 basechar 0
+AnchorPoint: "Curs" 1065 440 entry 0
+LayerCount: 2
+Fore
+SplineSet
+653 -840 m 4
+ 545 -858 478 -1048 404 -972 c 4
+ 324 -890 524 -688 674 -667 c 4
+ 806 -655 957 -730 893 -824 c 4
+ 855 -876 715 -831 653 -840 c 4
+65 296 m 0
+ 121 502 209 706 291 654 c 0
+ 353 614 259 516 183 255 c 0
+ 119 27 257 -244 561 -220 c 0
+ 672 -211 783 -200 939 -86 c 0
+ 1047 -6 1109 92 1133 166 c 0
+ 1157 242 909 213 909 363 c 0
+ 909 498 1035 588 1065 618 c 1
+ 1065 440 l 1
+ 1044 419 1026 396 1047 387 c 0
+ 1081 372 1268 319 1277 231 c 0
+ 1295 53 1080 -164 941 -245 c 0
+ 769 -345 436 -427 241 -273 c 0
+ 85 -150 -15 -8 65 296 c 0
+EndSplineSet
+EndChar
 StartChar: YehFina1
-Encoding: 621 -1 621
+Encoding: 633 -1 633
 Width: 1002
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -18310,7 +18655,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehFina2
-Encoding: 622 -1 622
+Encoding: 634 -1 634
 Width: 1065
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -18336,7 +18681,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AlefMaddaFina1
-Encoding: 623 -1 623
+Encoding: 635 -1 635
 Width: 488
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -208 basechar 0
@@ -18366,7 +18711,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AlefHamzaAboveFina1
-Encoding: 624 -1 624
+Encoding: 636 -1 636
 Width: 488
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -208 basechar 0
@@ -18394,7 +18739,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AlefHamzaBelowFina1
-Encoding: 625 -1 625
+Encoding: 637 -1 637
 Width: 488
 Flags: W
 AnchorPoint: "Curs" 488 74 entry 0
@@ -18422,7 +18767,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaFina1
-Encoding: 626 -1 626
+Encoding: 638 -1 638
 Width: 1002
 Flags: W
 AnchorPoint: "Curs" 1002 540 entry 0
@@ -18455,7 +18800,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaFina2
-Encoding: 627 -1 627
+Encoding: 639 -1 639
 Width: 1065
 Flags: W
 AnchorPoint: "HarakatBelow" 710 -665 basechar 0
@@ -18487,7 +18832,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehYehFina1
-Encoding: 628 -1 628
+Encoding: 640 -1 640
 Width: 744
 Flags: W
 AnchorPoint: "HarakatBelow" 501 -130 basechar 0
@@ -18513,7 +18858,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehMedi1
-Encoding: 629 -1 629
+Encoding: 641 -1 641
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -427 basechar 0
@@ -18536,7 +18881,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehMedi2
-Encoding: 630 -1 630
+Encoding: 642 -1 642
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 143 basechar 0
@@ -18559,7 +18904,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehMedi3
-Encoding: 631 -1 631
+Encoding: 643 -1 643
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -808 basechar 0
@@ -18582,7 +18927,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehMedi4
-Encoding: 632 -1 632
+Encoding: 644 -1 644
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 69 -385 basechar 0
@@ -18605,7 +18950,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehMedi5
-Encoding: 633 -1 633
+Encoding: 645 -1 645
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -802 basechar 0
@@ -18628,7 +18973,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehMedi1
-Encoding: 634 -1 634
+Encoding: 646 -1 646
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 232 -518 basechar 0
@@ -18656,7 +19001,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehMedi2
-Encoding: 635 -1 635
+Encoding: 647 -1 647
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 143 basechar 0
@@ -18684,7 +19029,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehMedi3
-Encoding: 636 -1 636
+Encoding: 648 -1 648
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 168 -946 basechar 0
@@ -18712,7 +19057,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehMedi4
-Encoding: 637 -1 637
+Encoding: 649 -1 649
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 216 -474 basechar 0
@@ -18740,7 +19085,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehMedi5
-Encoding: 638 -1 638
+Encoding: 650 -1 650
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -872 basechar 0
@@ -18768,7 +19113,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehMedi1
-Encoding: 639 -1 639
+Encoding: 651 -1 651
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -18793,7 +19138,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehMedi2
-Encoding: 640 -1 640
+Encoding: 652 -1 652
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -18818,7 +19163,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehMedi3
-Encoding: 641 -1 641
+Encoding: 653 -1 653
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -18843,7 +19188,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehMedi4
-Encoding: 642 -1 642
+Encoding: 654 -1 654
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -18868,7 +19213,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehMedi5
-Encoding: 643 -1 643
+Encoding: 655 -1 655
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -18893,7 +19238,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehMedi6
-Encoding: 644 -1 644
+Encoding: 656 -1 656
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -18918,7 +19263,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehMedi1
-Encoding: 645 -1 645
+Encoding: 657 -1 657
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -18946,7 +19291,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehMedi2
-Encoding: 646 -1 646
+Encoding: 658 -1 658
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -18974,7 +19319,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehMedi3
-Encoding: 647 -1 647
+Encoding: 659 -1 659
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -19002,7 +19347,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehMedi4
-Encoding: 648 -1 648
+Encoding: 660 -1 660
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -19030,7 +19375,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehMedi5
-Encoding: 649 -1 649
+Encoding: 661 -1 661
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -19058,7 +19403,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehMedi6
-Encoding: 650 -1 650
+Encoding: 662 -1 662
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -19086,7 +19431,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemMedi1
-Encoding: 651 -1 651
+Encoding: 663 -1 663
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -454 basechar 0
@@ -19114,7 +19459,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemMedi2
-Encoding: 652 -1 652
+Encoding: 664 -1 664
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 266 -304 basechar 0
@@ -19141,7 +19486,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemMedi3
-Encoding: 653 -1 653
+Encoding: 665 -1 665
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 163 144 basechar 0
@@ -19167,7 +19512,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemMedi4
-Encoding: 654 -1 654
+Encoding: 666 -1 666
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 282 -618 basechar 0
@@ -19193,7 +19538,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemMedi5
-Encoding: 655 -1 655
+Encoding: 667 -1 667
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -258 basechar 0
@@ -19219,7 +19564,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehMedi1
-Encoding: 656 -1 656
+Encoding: 668 -1 668
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 238 -650 basechar 0
@@ -19252,7 +19597,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehMedi2
-Encoding: 657 -1 657
+Encoding: 669 -1 669
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 277 -500 basechar 0
@@ -19284,7 +19629,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehMedi3
-Encoding: 658 -1 658
+Encoding: 670 -1 670
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 180 -42 basechar 0
@@ -19315,7 +19660,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehMedi4
-Encoding: 659 -1 659
+Encoding: 671 -1 671
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 318 -832 basechar 0
@@ -19346,7 +19691,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehMedi5
-Encoding: 660 -1 660
+Encoding: 672 -1 672
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -519 basechar 0
@@ -19377,7 +19722,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahMedi1
-Encoding: 661 -1 661
+Encoding: 673 -1 673
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 210 -240 basechar 0
@@ -19402,7 +19747,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahMedi2
-Encoding: 662 -1 662
+Encoding: 674 -1 674
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 266 58 basechar 0
@@ -19426,7 +19771,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahMedi3
-Encoding: 663 -1 663
+Encoding: 675 -1 675
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 163 438 basechar 0
@@ -19449,7 +19794,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahMedi4
-Encoding: 664 -1 664
+Encoding: 676 -1 676
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 282 -194 basechar 0
@@ -19472,7 +19817,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahMedi5
-Encoding: 665 -1 665
+Encoding: 677 -1 677
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -70 basechar 0
@@ -19495,7 +19840,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehMedi1
-Encoding: 666 -1 666
+Encoding: 678 -1 678
 Width: 302
 Flags: W
 AnchorPoint: "HarakatBelow" 210 -240 basechar 0
@@ -19523,7 +19868,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehMedi2
-Encoding: 667 -1 667
+Encoding: 679 -1 679
 Width: 228
 Flags: W
 AnchorPoint: "HarakatBelow" 266 58 basechar 0
@@ -19550,7 +19895,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehMedi3
-Encoding: 668 -1 668
+Encoding: 680 -1 680
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 163 438 basechar 0
@@ -19576,7 +19921,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehMedi4
-Encoding: 669 -1 669
+Encoding: 681 -1 681
 Width: 123
 Flags: W
 AnchorPoint: "HarakatBelow" 282 -194 basechar 0
@@ -19602,7 +19947,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehMedi5
-Encoding: 670 -1 670
+Encoding: 682 -1 682
 Width: 3
 Flags: W
 AnchorPoint: "HarakatBelow" 97 -70 basechar 0
@@ -19628,7 +19973,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenMedi1
-Encoding: 671 -1 671
+Encoding: 683 -1 683
 Width: 921
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -19656,7 +20001,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenMedi2
-Encoding: 672 -1 672
+Encoding: 684 -1 684
 Width: 838
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -19683,7 +20028,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenMedi3
-Encoding: 673 -1 673
+Encoding: 685 -1 685
 Width: 918
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -19711,7 +20056,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenMedi4
-Encoding: 674 -1 674
+Encoding: 686 -1 686
 Width: 888
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -19739,7 +20084,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenMedi1
-Encoding: 675 -1 675
+Encoding: 687 -1 687
 Width: 921
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -19775,7 +20120,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenMedi2
-Encoding: 676 -1 676
+Encoding: 688 -1 688
 Width: 838
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2705 basechar 0
@@ -19810,7 +20155,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenMedi3
-Encoding: 677 -1 677
+Encoding: 689 -1 689
 Width: 918
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2202 basechar 0
@@ -19846,7 +20191,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenMedi4
-Encoding: 678 -1 678
+Encoding: 690 -1 690
 Width: 888
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2150 basechar 0
@@ -19882,7 +20227,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenMedi5
-Encoding: 679 -1 679
+Encoding: 691 -1 691
 Width: 780
 Flags: W
 AnchorPoint: "HarakatAbove" 342 1678 basechar 0
@@ -19920,7 +20265,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadMedi1
-Encoding: 680 -1 680
+Encoding: 692 -1 692
 Width: 885
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -19951,7 +20296,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadMedi2
-Encoding: 681 -1 681
+Encoding: 693 -1 693
 Width: 876
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -19982,7 +20327,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadMedi3
-Encoding: 682 -1 682
+Encoding: 694 -1 694
 Width: 877
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20013,7 +20358,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadMedi4
-Encoding: 683 -1 683
+Encoding: 695 -1 695
 Width: 867
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20045,7 +20390,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadMedi1
-Encoding: 684 -1 684
+Encoding: 696 -1 696
 Width: 885
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20079,7 +20424,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadMedi2
-Encoding: 685 -1 685
+Encoding: 697 -1 697
 Width: 876
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -20113,7 +20458,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadMedi3
-Encoding: 686 -1 686
+Encoding: 698 -1 698
 Width: 877
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20147,7 +20492,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadMedi4
-Encoding: 687 -1 687
+Encoding: 699 -1 699
 Width: 867
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -20182,7 +20527,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TahMedi1
-Encoding: 688 -1 688
+Encoding: 700 -1 700
 Width: 543
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -20214,7 +20559,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TahMedi2
-Encoding: 689 -1 689
+Encoding: 701 -1 701
 Width: 510
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -20243,7 +20588,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TahMedi3
-Encoding: 690 -1 690
+Encoding: 702 -1 702
 Width: 495
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -20275,7 +20620,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ZahMedi1
-Encoding: 691 -1 691
+Encoding: 703 -1 703
 Width: 543
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -20310,7 +20655,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ZahMedi2
-Encoding: 692 -1 692
+Encoding: 704 -1 704
 Width: 510
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -20342,7 +20687,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ZahMedi3
-Encoding: 693 -1 693
+Encoding: 705 -1 705
 Width: 495
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -20377,7 +20722,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinMedi1
-Encoding: 694 -1 694
+Encoding: 706 -1 706
 Width: 418
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -20401,7 +20746,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinMedi2
-Encoding: 695 -1 695
+Encoding: 707 -1 707
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -20425,7 +20770,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinMedi3
-Encoding: 696 -1 696
+Encoding: 708 -1 708
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -20449,7 +20794,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinMedi4
-Encoding: 697 -1 697
+Encoding: 709 -1 709
 Width: 298
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -20473,7 +20818,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainMedi1
-Encoding: 698 -1 698
+Encoding: 710 -1 710
 Width: 418
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -20500,7 +20845,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainMedi2
-Encoding: 699 -1 699
+Encoding: 711 -1 711
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -20527,7 +20872,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainMedi3
-Encoding: 700 -1 700
+Encoding: 712 -1 712
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -20554,7 +20899,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainMedi4
-Encoding: 701 -1 701
+Encoding: 713 -1 713
 Width: 298
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -20581,7 +20926,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehMedi1
-Encoding: 702 -1 702
+Encoding: 714 -1 714
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -20607,7 +20952,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehMedi2
-Encoding: 703 -1 703
+Encoding: 715 -1 715
 Width: 384
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -20633,7 +20978,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehMedi3
-Encoding: 704 -1 704
+Encoding: 716 -1 716
 Width: 307
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -20659,7 +21004,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehMedi4
-Encoding: 705 -1 705
+Encoding: 717 -1 717
 Width: 304
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -20685,7 +21030,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehMedi5
-Encoding: 706 -1 706
+Encoding: 718 -1 718
 Width: 261
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -20712,7 +21057,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafMedi1
-Encoding: 707 -1 707
+Encoding: 719 -1 719
 Width: 372
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -20738,7 +21083,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafMedi2
-Encoding: 708 -1 708
+Encoding: 720 -1 720
 Width: 384
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -20766,7 +21111,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafMedi3
-Encoding: 709 -1 709
+Encoding: 721 -1 721
 Width: 307
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -20794,7 +21139,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafMedi4
-Encoding: 710 -1 710
+Encoding: 722 -1 722
 Width: 304
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -20822,7 +21167,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafMedi5
-Encoding: 711 -1 711
+Encoding: 723 -1 723
 Width: 261
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -20851,7 +21196,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehMedi1
-Encoding: 712 -1 712
+Encoding: 724 -1 724
 Width: 393
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -20880,7 +21225,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehMedi2
-Encoding: 713 -1 713
+Encoding: 725 -1 725
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -399 basechar 0
@@ -20905,7 +21250,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehMedi3
-Encoding: 714 -1 714
+Encoding: 726 -1 726
 Width: 375
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -20932,7 +21277,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehMedi4
-Encoding: 715 -1 715
+Encoding: 727 -1 727
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -20959,7 +21304,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehMedi5
-Encoding: 716 -1 716
+Encoding: 728 -1 728
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -20986,7 +21331,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafMedi1
-Encoding: 717 -1 717
+Encoding: 729 -1 729
 Width: 393
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -21020,7 +21365,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafMedi2
-Encoding: 718 -1 718
+Encoding: 730 -1 730
 Width: 414
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -399 basechar 0
@@ -21050,7 +21395,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafMedi3
-Encoding: 719 -1 719
+Encoding: 731 -1 731
 Width: 375
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -21081,7 +21426,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafMedi4
-Encoding: 720 -1 720
+Encoding: 732 -1 732
 Width: 310
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -21112,7 +21457,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafMedi5
-Encoding: 721 -1 721
+Encoding: 733 -1 733
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -21143,7 +21488,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: LamMedi1
-Encoding: 722 -1 722
+Encoding: 734 -1 734
 Width: 357
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -21167,7 +21512,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: LamMedi2
-Encoding: 723 -1 723
+Encoding: 735 -1 735
 Width: 295
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -21191,7 +21536,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: LamMedi3
-Encoding: 724 -1 724
+Encoding: 736 -1 736
 Width: 331
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -21214,7 +21559,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemMedi1
-Encoding: 725 -1 725
+Encoding: 737 -1 737
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -21239,7 +21584,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemMedi2
-Encoding: 726 -1 726
+Encoding: 738 -1 738
 Width: 218
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -21262,7 +21607,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemMedi3
-Encoding: 727 -1 727
+Encoding: 739 -1 739
 Width: 218
 Flags: W
 AnchorPoint: "HarakatBelow" 117 41 basechar 0
@@ -21286,7 +21631,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemMedi4
-Encoding: 728 -1 728
+Encoding: 740 -1 740
 Width: 255
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -21311,7 +21656,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonMedi1
-Encoding: 729 -1 729
+Encoding: 741 -1 741
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -21334,7 +21679,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonMedi2
-Encoding: 730 -1 730
+Encoding: 742 -1 742
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -21357,7 +21702,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonMedi3
-Encoding: 731 -1 731
+Encoding: 743 -1 743
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -21380,7 +21725,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonMedi4
-Encoding: 732 -1 732
+Encoding: 744 -1 744
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -21403,7 +21748,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonMedi5
-Encoding: 733 -1 733
+Encoding: 745 -1 745
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -21426,7 +21771,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonMedi6
-Encoding: 734 -1 734
+Encoding: 746 -1 746
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -21449,7 +21794,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehMedi1
-Encoding: 735 -1 735
+Encoding: 747 -1 747
 Width: 686
 Flags: W
 AnchorPoint: "HarakatBelow" 570 108 basechar 0
@@ -21473,7 +21818,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehMedi2
-Encoding: 736 -1 736
+Encoding: 748 -1 748
 Width: 489
 Flags: W
 AnchorPoint: "HarakatBelow" 315 512 basechar 0
@@ -21498,7 +21843,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehMedi3
-Encoding: 737 -1 737
+Encoding: 749 -1 749
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 459 -41 basechar 0
@@ -21523,7 +21868,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehMedi4
-Encoding: 738 -1 738
+Encoding: 750 -1 750
 Width: 568
 Flags: W
 AnchorPoint: "HarakatBelow" 459 49 basechar 0
@@ -21548,7 +21893,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehMedi5
-Encoding: 739 -1 739
+Encoding: 751 -1 751
 Width: 466
 Flags: W
 AnchorPoint: "HarakatBelow" 351 -458 basechar 0
@@ -21574,7 +21919,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehMedi1
-Encoding: 740 -1 740
+Encoding: 752 -1 752
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 147 -738 basechar 0
@@ -21584,11 +21929,11 @@ AnchorPoint: "Curs" 346 220 entry 0
 LayerCount: 2
 Fore
 SplineSet
--52 -584 m 4
- -70 -485 73 -434 153 -428 c 4
- 221 -425 326 -413 320 -495 c 4
- 314 -565 226 -575 156 -584 c 4
- 86 -596 -37 -664 -52 -584 c 4
+-52 -584 m 0
+ -70 -485 73 -434 153 -428 c 0
+ 221 -425 326 -413 320 -495 c 0
+ 314 -565 226 -575 156 -584 c 0
+ 86 -596 -37 -664 -52 -584 c 0
 214 448 m 0
  288 448 300 378 346 378 c 1
  346 220 l 1
@@ -21599,7 +21944,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehMedi2
-Encoding: 741 -1 741
+Encoding: 753 -1 753
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 147 166 basechar 0
@@ -21624,7 +21969,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehMedi3
-Encoding: 742 -1 742
+Encoding: 754 -1 754
 Width: 314
 Flags: W
 AnchorPoint: "HarakatBelow" 196 -884 basechar 0
@@ -21649,7 +21994,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehMedi4
-Encoding: 743 -1 743
+Encoding: 755 -1 755
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 252 -356 basechar 0
@@ -21674,7 +22019,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehMedi5
-Encoding: 744 -1 744
+Encoding: 756 -1 756
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 153 -802 basechar 0
@@ -21699,7 +22044,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaMedi1
-Encoding: 745 -1 745
+Encoding: 757 -1 757
 Width: 346
 Flags: W
 AnchorPoint: "HarakatBelow" 152 -163 basechar 0
@@ -21726,7 +22071,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaMedi2
-Encoding: 746 -1 746
+Encoding: 758 -1 758
 Width: 316
 Flags: W
 AnchorPoint: "HarakatBelow" 153 413 basechar 0
@@ -21753,7 +22098,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaMedi3
-Encoding: 747 -1 747
+Encoding: 759 -1 759
 Width: 313
 Flags: W
 AnchorPoint: "HarakatBelow" 91 -130 basechar 0
@@ -21780,7 +22125,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaMedi4
-Encoding: 748 -1 748
+Encoding: 760 -1 760
 Width: 402
 Flags: W
 AnchorPoint: "HarakatBelow" 189 -298 basechar 0
@@ -21807,7 +22152,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaMedi5
-Encoding: 749 -1 749
+Encoding: 761 -1 761
 Width: 354
 Flags: W
 AnchorPoint: "HarakatBelow" 148 -524 basechar 0
@@ -21834,7 +22179,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaMedi6
-Encoding: 750 -1 750
+Encoding: 762 -1 762
 Width: 322
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -21860,8 +22205,108 @@ SplineSet
  322 188 l 1
 EndSplineSet
 EndChar
+StartChar: AlefMaksuraMedi1
+Encoding: 763 -1 763
+Width: 346
+Flags: W
+AnchorPoint: "HarakatAbove" 162 1617 basechar 0
+AnchorPoint: "HarakatBelow" 152 -163 basechar 0
+AnchorPoint: "Curs" 0 612 exit 0
+AnchorPoint: "Curs" 346 679 entry 0
+LayerCount: 2
+Fore
+SplineSet
+214 907 m 0
+ 288 907 300 837 346 837 c 1
+ 346 679 l 1
+ 235 679 239 753 159 726 c 0
+ 103 705 30 642 0 612 c 1
+ 0 791 l 1
+ 88 853 150 907 214 907 c 0
+EndSplineSet
+EndChar
+StartChar: AlefMaksuraMedi2
+Encoding: 764 -1 764
+Width: 316
+Flags: W
+AnchorPoint: "HarakatAbove" 162 1981 basechar 0
+AnchorPoint: "HarakatBelow" 153 413 basechar 0
+AnchorPoint: "Curs" 316 1143 entry 0
+AnchorPoint: "Curs" 0 1066 exit 0
+LayerCount: 2
+Fore
+SplineSet
+164 1383 m 0
+ 263 1383 252 1300 316 1300 c 1
+ 316 1143 l 1
+ 246 1143 212 1222 156 1222 c 0
+ 116 1222 68 1186 0 1066 c 1
+ 0 1284 l 1
+ 68 1358 106 1383 164 1383 c 0
+EndSplineSet
+EndChar
+StartChar: AlefMaksuraMedi3
+Encoding: 765 -1 765
+Width: 313
+Flags: W
+AnchorPoint: "HarakatAbove" 120 1435 basechar 0
+AnchorPoint: "HarakatBelow" 91 -130 basechar 0
+AnchorPoint: "Curs" 0 525 exit 0
+AnchorPoint: "Curs" 314 621 entry 0
+LayerCount: 2
+Fore
+SplineSet
+153 860 m 0
+ 205 860 250 778 314 778 c 1
+ 314 621 l 1
+ 244 621 197 682 153 682 c 0
+ 107 682 70 639 0 525 c 1
+ 0 759 l 17
+ 40 805 103 860 153 860 c 0
+EndSplineSet
+EndChar
+StartChar: AlefMaksuraMedi4
+Encoding: 766 -1 766
+Width: 402
+Flags: W
+AnchorPoint: "HarakatAbove" 162 1389 basechar 0
+AnchorPoint: "HarakatBelow" 189 -298 basechar 0
+AnchorPoint: "Curs" 0 363 exit 0
+AnchorPoint: "Curs" 402 618 entry 0
+LayerCount: 2
+Fore
+SplineSet
+176 860 m 0
+ 287 875 320 776 402 776 c 1
+ 402 618 l 1
+ 288 618 270 701 208 686 c 0
+ 114 662 24 419 0 363 c 1
+ 0 716 l 17
+ 18 756 82 846 176 860 c 0
+EndSplineSet
+EndChar
+StartChar: AlefMaksuraMedi5
+Encoding: 767 -1 767
+Width: 354
+Flags: W
+AnchorPoint: "HarakatAbove" 162 1025 basechar 0
+AnchorPoint: "HarakatBelow" 148 -524 basechar 0
+AnchorPoint: "Curs" 0 164 exit 0
+AnchorPoint: "Curs" 354 202 entry 0
+LayerCount: 2
+Fore
+SplineSet
+176 414 m 0
+ 264 417 308 360 354 360 c 1
+ 354 202 l 1
+ 284 202 244 243 188 246 c 0
+ 130 249 56 210 0 164 c 1
+ 0 340 l 1
+ 86 408 149 414 176 414 c 0
+EndSplineSet
+EndChar
 StartChar: BehInit1
-Encoding: 751 -1 751
+Encoding: 768 -1 768
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 109 -819 basechar 0
@@ -21883,7 +22328,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehInit2
-Encoding: 752 -1 752
+Encoding: 769 -1 769
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -333 basechar 0
@@ -21905,7 +22350,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehInit3
-Encoding: 753 -1 753
+Encoding: 770 -1 770
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -1036 basechar 0
@@ -21925,7 +22370,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: BehInit4
-Encoding: 754 -1 754
+Encoding: 771 -1 771
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 20 -673 basechar 0
@@ -21947,7 +22392,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehInit1
-Encoding: 755 -1 755
+Encoding: 772 -1 772
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 154 -899 basechar 0
@@ -21974,7 +22419,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehInit2
-Encoding: 756 -1 756
+Encoding: 773 -1 773
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -462 basechar 0
@@ -21999,7 +22444,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehInit3
-Encoding: 757 -1 757
+Encoding: 774 -1 774
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -1166 basechar 0
@@ -22024,7 +22469,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: PehInit4
-Encoding: 758 -1 758
+Encoding: 775 -1 775
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 34 -803 basechar 0
@@ -22051,7 +22496,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehInit1
-Encoding: 759 -1 759
+Encoding: 776 -1 776
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -22075,7 +22520,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehInit2
-Encoding: 760 -1 760
+Encoding: 777 -1 777
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -22099,7 +22544,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehInit3
-Encoding: 761 -1 761
+Encoding: 778 -1 778
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -22121,7 +22566,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehInit4
-Encoding: 762 -1 762
+Encoding: 779 -1 779
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -22145,7 +22590,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehInit5
-Encoding: 763 -1 763
+Encoding: 780 -1 780
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22167,7 +22612,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TehInit6
-Encoding: 764 -1 764
+Encoding: 781 -1 781
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22189,7 +22634,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehInit1
-Encoding: 765 -1 765
+Encoding: 782 -1 782
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -22216,7 +22661,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehInit2
-Encoding: 766 -1 766
+Encoding: 783 -1 783
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -22243,7 +22688,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehInit3
-Encoding: 767 -1 767
+Encoding: 784 -1 784
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -22268,7 +22713,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehInit4
-Encoding: 768 -1 768
+Encoding: 785 -1 785
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -22295,7 +22740,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehInit5
-Encoding: 769 -1 769
+Encoding: 786 -1 786
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22320,7 +22765,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ThehInit6
-Encoding: 770 -1 770
+Encoding: 787 -1 787
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -22346,7 +22791,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemInit1
-Encoding: 771 -1 771
+Encoding: 788 -1 788
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 128 -746 basechar 0
@@ -22374,7 +22819,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemInit2
-Encoding: 772 -1 772
+Encoding: 789 -1 789
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -300 basechar 0
@@ -22399,7 +22844,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemInit3
-Encoding: 773 -1 773
+Encoding: 790 -1 790
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 160 154 basechar 0
@@ -22424,7 +22869,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemInit4
-Encoding: 774 -1 774
+Encoding: 791 -1 791
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -549 basechar 0
@@ -22448,7 +22893,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: JeemInit5
-Encoding: 775 -1 775
+Encoding: 792 -1 792
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 55 -508 basechar 0
@@ -22473,7 +22918,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehInit1
-Encoding: 776 -1 776
+Encoding: 793 -1 793
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 130 -617 basechar 0
@@ -22506,7 +22951,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehInit2
-Encoding: 777 -1 777
+Encoding: 794 -1 794
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 130 -617 basechar 0
@@ -22536,7 +22981,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehInit3
-Encoding: 778 -1 778
+Encoding: 795 -1 795
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 141 -300 basechar 0
@@ -22566,7 +23011,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehInit4
-Encoding: 779 -1 779
+Encoding: 796 -1 796
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 203 -758 basechar 0
@@ -22595,7 +23040,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TchehInit5
-Encoding: 780 -1 780
+Encoding: 797 -1 797
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 92 -714 basechar 0
@@ -22625,7 +23070,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahInit1
-Encoding: 781 -1 781
+Encoding: 798 -1 798
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 215 -75 basechar 0
@@ -22650,7 +23095,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahInit2
-Encoding: 782 -1 782
+Encoding: 799 -1 799
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -108 basechar 0
@@ -22672,7 +23117,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahInit3
-Encoding: 783 -1 783
+Encoding: 800 -1 800
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 141 165 basechar 0
@@ -22694,7 +23139,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahInit4
-Encoding: 784 -1 784
+Encoding: 801 -1 801
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -319 basechar 0
@@ -22715,7 +23160,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HahInit5
-Encoding: 785 -1 785
+Encoding: 802 -1 802
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 55 -158 basechar 0
@@ -22737,7 +23182,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehInit1
-Encoding: 786 -1 786
+Encoding: 803 -1 803
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 215 -75 basechar 0
@@ -22765,7 +23210,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehInit2
-Encoding: 787 -1 787
+Encoding: 804 -1 804
 Width: 396
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -108 basechar 0
@@ -22790,7 +23235,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehInit3
-Encoding: 788 -1 788
+Encoding: 805 -1 805
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 141 165 basechar 0
@@ -22815,7 +23260,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehInit4
-Encoding: 789 -1 789
+Encoding: 806 -1 806
 Width: 352
 Flags: W
 AnchorPoint: "HarakatBelow" 160 -319 basechar 0
@@ -22839,7 +23284,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KhehInit5
-Encoding: 790 -1 790
+Encoding: 807 -1 807
 Width: 300
 Flags: W
 AnchorPoint: "HarakatBelow" 55 -158 basechar 0
@@ -22864,7 +23309,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenInit1
-Encoding: 791 -1 791
+Encoding: 808 -1 808
 Width: 822
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -22888,7 +23333,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenInit2
-Encoding: 792 -1 792
+Encoding: 809 -1 809
 Width: 822
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -22912,7 +23357,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenInit3
-Encoding: 793 -1 793
+Encoding: 810 -1 810
 Width: 822
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -187 basechar 0
@@ -22936,7 +23381,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SeenInit4
-Encoding: 794 -1 794
+Encoding: 811 -1 811
 Width: 657
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -22960,7 +23405,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenInit1
-Encoding: 795 -1 795
+Encoding: 812 -1 812
 Width: 822
 Flags: W
 AnchorPoint: "HarakatAbove" 288 2221 basechar 0
@@ -22992,7 +23437,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenInit2
-Encoding: 796 -1 796
+Encoding: 813 -1 813
 Width: 822
 Flags: W
 AnchorPoint: "HarakatAbove" 211 2669 basechar 0
@@ -23024,7 +23469,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenInit3
-Encoding: 797 -1 797
+Encoding: 814 -1 814
 Width: 822
 Flags: W
 AnchorPoint: "HarakatAbove" 211 1799 basechar 0
@@ -23056,7 +23501,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenInit4
-Encoding: 798 -1 798
+Encoding: 815 -1 815
 Width: 657
 Flags: W
 AnchorPoint: "HarakatAbove" 208 2121 basechar 0
@@ -23088,7 +23533,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SheenInit5
-Encoding: 799 -1 799
+Encoding: 816 -1 816
 Width: 763
 Flags: W
 AnchorPoint: "HarakatAbove" 344 1685 basechar 0
@@ -23120,7 +23565,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadInit1
-Encoding: 800 -1 800
+Encoding: 817 -1 817
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23146,7 +23591,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadInit2
-Encoding: 801 -1 801
+Encoding: 818 -1 818
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -23173,7 +23618,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadInit3
-Encoding: 802 -1 802
+Encoding: 819 -1 819
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -187 basechar 0
@@ -23200,7 +23645,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: SadInit4
-Encoding: 803 -1 803
+Encoding: 820 -1 820
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23226,7 +23671,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadInit1
-Encoding: 804 -1 804
+Encoding: 821 -1 821
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23255,7 +23700,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadInit2
-Encoding: 805 -1 805
+Encoding: 822 -1 822
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 523 basechar 0
@@ -23285,7 +23730,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadInit3
-Encoding: 806 -1 806
+Encoding: 823 -1 823
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 -187 basechar 0
@@ -23315,7 +23760,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: DadInit4
-Encoding: 807 -1 807
+Encoding: 824 -1 824
 Width: 900
 Flags: W
 AnchorPoint: "HarakatBelow" 392 103 basechar 0
@@ -23344,7 +23789,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TahInit1
-Encoding: 808 -1 808
+Encoding: 825 -1 825
 Width: 567
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -23369,7 +23814,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TahInit2
-Encoding: 809 -1 809
+Encoding: 826 -1 826
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -23393,7 +23838,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: TahInit3
-Encoding: 810 -1 810
+Encoding: 827 -1 827
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -23418,7 +23863,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ZahInit1
-Encoding: 811 -1 811
+Encoding: 828 -1 828
 Width: 567
 Flags: W
 AnchorPoint: "HarakatBelow" 239 346 basechar 0
@@ -23446,7 +23891,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ZahInit2
-Encoding: 812 -1 812
+Encoding: 829 -1 829
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -23473,7 +23918,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ZahInit3
-Encoding: 813 -1 813
+Encoding: 830 -1 830
 Width: 513
 Flags: W
 AnchorPoint: "HarakatBelow" 242 118 basechar 0
@@ -23501,7 +23946,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinInit1
-Encoding: 814 -1 814
+Encoding: 831 -1 831
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 307 -136 basechar 0
@@ -23526,7 +23971,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinInit2
-Encoding: 815 -1 815
+Encoding: 832 -1 832
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 239 145 basechar 0
@@ -23551,7 +23996,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinInit3
-Encoding: 816 -1 816
+Encoding: 833 -1 833
 Width: 460
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -23576,7 +24021,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinInit4
-Encoding: 817 -1 817
+Encoding: 834 -1 834
 Width: 441
 Flags: W
 AnchorPoint: "HarakatBelow" 232 177 basechar 0
@@ -23601,7 +24046,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: AinInit5
-Encoding: 818 -1 818
+Encoding: 835 -1 835
 Width: 331
 Flags: W
 AnchorPoint: "HarakatBelow" 104 67 basechar 0
@@ -23625,7 +24070,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainInit1
-Encoding: 819 -1 819
+Encoding: 836 -1 836
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 307 -136 basechar 0
@@ -23653,7 +24098,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainInit2
-Encoding: 820 -1 820
+Encoding: 837 -1 837
 Width: 469
 Flags: W
 AnchorPoint: "HarakatBelow" 239 145 basechar 0
@@ -23681,7 +24126,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainInit3
-Encoding: 821 -1 821
+Encoding: 838 -1 838
 Width: 460
 Flags: W
 AnchorPoint: "HarakatBelow" 232 575 basechar 0
@@ -23709,7 +24154,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainInit4
-Encoding: 822 -1 822
+Encoding: 839 -1 839
 Width: 441
 Flags: W
 AnchorPoint: "HarakatBelow" 232 177 basechar 0
@@ -23737,7 +24182,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GhainInit5
-Encoding: 823 -1 823
+Encoding: 840 -1 840
 Width: 331
 Flags: W
 AnchorPoint: "HarakatBelow" 104 67 basechar 0
@@ -23764,7 +24209,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehInit1
-Encoding: 824 -1 824
+Encoding: 841 -1 841
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -23786,7 +24231,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehInit2
-Encoding: 825 -1 825
+Encoding: 842 -1 842
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -23808,7 +24253,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehInit3
-Encoding: 826 -1 826
+Encoding: 843 -1 843
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -23830,7 +24275,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehInit4
-Encoding: 827 -1 827
+Encoding: 844 -1 844
 Width: 340
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -23852,7 +24297,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: FehInit5
-Encoding: 828 -1 828
+Encoding: 845 -1 845
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -23873,7 +24318,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafInit1
-Encoding: 829 -1 829
+Encoding: 846 -1 846
 Width: 378
 Flags: W
 AnchorPoint: "HarakatBelow" 103 -196 basechar 0
@@ -23897,7 +24342,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafInit2
-Encoding: 830 -1 830
+Encoding: 847 -1 847
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 217 278 basechar 0
@@ -23921,7 +24366,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafInit3
-Encoding: 831 -1 831
+Encoding: 848 -1 848
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 166 578 basechar 0
@@ -23945,7 +24390,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafInit4
-Encoding: 832 -1 832
+Encoding: 849 -1 849
 Width: 340
 Flags: W
 AnchorPoint: "HarakatBelow" 173 2 basechar 0
@@ -23969,7 +24414,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: QafInit5
-Encoding: 833 -1 833
+Encoding: 850 -1 850
 Width: 390
 Flags: W
 AnchorPoint: "HarakatBelow" 191 222 basechar 0
@@ -23992,7 +24437,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehInit1
-Encoding: 834 -1 834
+Encoding: 851 -1 851
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -24016,7 +24461,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehInit2
-Encoding: 835 -1 835
+Encoding: 852 -1 852
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -24039,7 +24484,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehInit3
-Encoding: 836 -1 836
+Encoding: 853 -1 853
 Width: 306
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -24062,7 +24507,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: KehInit4
-Encoding: 837 -1 837
+Encoding: 854 -1 854
 Width: 258
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -24085,7 +24530,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafInit1
-Encoding: 838 -1 838
+Encoding: 855 -1 855
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 157 -200 basechar 0
@@ -24114,7 +24559,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafInit2
-Encoding: 839 -1 839
+Encoding: 856 -1 856
 Width: 379
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -24141,7 +24586,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafInit3
-Encoding: 840 -1 840
+Encoding: 857 -1 857
 Width: 306
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -24168,7 +24613,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: GafInit4
-Encoding: 841 -1 841
+Encoding: 858 -1 858
 Width: 258
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -24195,7 +24640,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: LamInit1
-Encoding: 842 -1 842
+Encoding: 859 -1 859
 Width: 312
 Flags: W
 AnchorPoint: "HarakatBelow" 222 -34 basechar 0
@@ -24214,7 +24659,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: LamInit2
-Encoding: 843 -1 843
+Encoding: 860 -1 860
 Width: 244
 Flags: W
 AnchorPoint: "HarakatBelow" 117 321 basechar 0
@@ -24233,7 +24678,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: LamInit3
-Encoding: 844 -1 844
+Encoding: 861 -1 861
 Width: 199
 Flags: W
 AnchorPoint: "HarakatBelow" 117 -147 basechar 0
@@ -24252,7 +24697,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemInit1
-Encoding: 845 -1 845
+Encoding: 862 -1 862
 Width: 516
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -237 basechar 0
@@ -24274,7 +24719,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemInit2
-Encoding: 846 -1 846
+Encoding: 863 -1 863
 Width: 460
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -69 basechar 0
@@ -24294,7 +24739,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemInit3
-Encoding: 847 -1 847
+Encoding: 864 -1 864
 Width: 367
 Flags: W
 AnchorPoint: "HarakatBelow" 142 369 basechar 0
@@ -24314,7 +24759,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemInit4
-Encoding: 848 -1 848
+Encoding: 865 -1 865
 Width: 463
 Flags: W
 AnchorPoint: "HarakatBelow" 208 -237 basechar 0
@@ -24333,7 +24778,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: MeemInit5
-Encoding: 849 -1 849
+Encoding: 866 -1 866
 Width: 273
 Flags: W
 AnchorPoint: "HarakatBelow" 140 -75 basechar 0
@@ -24353,7 +24798,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonInit1
-Encoding: 850 -1 850
+Encoding: 867 -1 867
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -24375,7 +24820,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonInit2
-Encoding: 851 -1 851
+Encoding: 868 -1 868
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -24397,7 +24842,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonInit3
-Encoding: 852 -1 852
+Encoding: 869 -1 869
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -24417,7 +24862,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonInit4
-Encoding: 853 -1 853
+Encoding: 870 -1 870
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -24439,7 +24884,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: NoonInit5
-Encoding: 854 -1 854
+Encoding: 871 -1 871
 Width: 376
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -24459,7 +24904,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehInit1
-Encoding: 855 -1 855
+Encoding: 872 -1 872
 Width: 706
 Flags: W
 AnchorPoint: "HarakatBelow" 219 66 basechar 0
@@ -24488,7 +24933,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehInit2
-Encoding: 856 -1 856
+Encoding: 873 -1 873
 Width: 687
 Flags: W
 AnchorPoint: "HarakatBelow" 219 453 basechar 0
@@ -24517,7 +24962,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehInit3
-Encoding: 857 -1 857
+Encoding: 874 -1 874
 Width: 681
 Flags: W
 AnchorPoint: "HarakatBelow" 219 -42 basechar 0
@@ -24547,7 +24992,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: HehInit4
-Encoding: 858 -1 858
+Encoding: 875 -1 875
 Width: 607
 Flags: W
 AnchorPoint: "HarakatBelow" 219 -42 basechar 0
@@ -24576,7 +25021,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehInit1
-Encoding: 859 -1 859
+Encoding: 876 -1 876
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 135 -660 basechar 0
@@ -24592,15 +25037,15 @@ SplineSet
  460 884 393 851 276 789 c 0
  147 719 18 630 0 612 c 1
  0 789 l 1
--38 -528 m 4
- -56 -429 90 -375 170 -369 c 4
- 238 -366 338 -354 332 -436 c 4
- 326 -506 242 -516 172 -525 c 4
- 102 -537 -23 -608 -38 -528 c 4
+-38 -528 m 0
+ -56 -429 90 -375 170 -369 c 0
+ 238 -366 338 -354 332 -436 c 0
+ 326 -506 242 -516 172 -525 c 0
+ 102 -537 -23 -608 -38 -528 c 0
 EndSplineSet
 EndChar
 StartChar: YehInit2
-Encoding: 860 -1 860
+Encoding: 877 -1 877
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 5 -567 basechar 0
@@ -24624,7 +25069,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehInit3
-Encoding: 861 -1 861
+Encoding: 878 -1 878
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 5 -930 basechar 0
@@ -24646,7 +25091,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehInit4
-Encoding: 862 -1 862
+Encoding: 879 -1 879
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 3 -567 basechar 0
@@ -24670,7 +25115,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaInit1
-Encoding: 863 -1 863
+Encoding: 880 -1 880
 Width: 493
 Flags: W
 AnchorPoint: "HarakatBelow" 217 -218 basechar 0
@@ -24696,7 +25141,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaInit2
-Encoding: 864 -1 864
+Encoding: 881 -1 881
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 100 283 basechar 0
@@ -24722,7 +25167,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaInit3
-Encoding: 865 -1 865
+Encoding: 882 -1 882
 Width: 270
 Flags: W
 AnchorPoint: "HarakatBelow" 67 -188 basechar 0
@@ -24746,7 +25191,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaInit4
-Encoding: 866 -1 866
+Encoding: 883 -1 883
 Width: 318
 Flags: W
 AnchorPoint: "HarakatBelow" 100 -341 basechar 0
@@ -24772,7 +25217,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaInit5
-Encoding: 867 -1 867
+Encoding: 884 -1 884
 Width: 376
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -24796,7 +25241,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: YehHamzaInit6
-Encoding: 868 -1 868
+Encoding: 885 -1 885
 Width: 232
 Flags: W
 AnchorPoint: "HarakatBelow" 50 -422 basechar 0
@@ -24819,8 +25264,82 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+StartChar: AlefMaksuraInit1
+Encoding: 886 -1 886
+Width: 493
+Flags: W
+AnchorPoint: "HarakatAbove" 179 1498 basechar 0
+AnchorPoint: "HarakatBelow" 217 -218 basechar 0
+AnchorPoint: "Curs" 0 612 exit 0
+LayerCount: 2
+Fore
+SplineSet
+0 789 m 1
+ 2 791 78 849 168 903 c 0
+ 246 949 336 991 399 988 c 0
+ 417 988 436 967 442 946 c 0
+ 460 884 393 851 276 789 c 0
+ 147 719 18 630 0 612 c 1
+ 0 789 l 1
+EndSplineSet
+EndChar
+StartChar: AlefMaksuraInit2
+Encoding: 887 -1 887
+Width: 270
+Flags: W
+AnchorPoint: "HarakatAbove" 88 1834 basechar 0
+AnchorPoint: "HarakatBelow" 100 283 basechar 0
+AnchorPoint: "Curs" 0 764 exit 0
+LayerCount: 2
+Fore
+SplineSet
+0 981 m 2
+ 2 983 44 1034 92 1076 c 0
+ 128 1108 166 1134 196 1134 c 0
+ 220 1134 246 1113 249 1092 c 0
+ 257 1041 208 996 144 930 c 0
+ 100 886 48 833 0 764 c 1
+ 0 981 l 2
+EndSplineSet
+EndChar
+StartChar: AlefMaksuraInit3
+Encoding: 888 -1 888
+Width: 270
+Flags: W
+AnchorPoint: "HarakatAbove" 38 1396 basechar 0
+AnchorPoint: "HarakatBelow" 67 -188 basechar 0
+AnchorPoint: "Curs" 0 363 exit 0
+LayerCount: 2
+Fore
+SplineSet
+153 900 m 0
+ 221 870 144 678 76 537 c 0
+ 42 469 50 480 0 363 c 1
+ 0 716 l 1
+ 34 804 77 938 153 900 c 0
+EndSplineSet
+EndChar
+StartChar: AlefMaksuraInit4
+Encoding: 889 -1 889
+Width: 318
+Flags: W
+AnchorPoint: "HarakatAbove" 71 1441 basechar 0
+AnchorPoint: "HarakatBelow" 100 -341 basechar 0
+AnchorPoint: "Curs" 0 460 exit 0
+LayerCount: 2
+Fore
+SplineSet
+0 460 m 1
+ 0 639 l 1
+ 46 683 120 758 126 792 c 0
+ 141 894 65 1067 141 1082 c 0
+ 227 1100 258 890 258 802 c 0
+ 258 750 230 667 178 621 c 0
+ 140 587 50 504 0 460 c 1
+EndSplineSet
+EndChar
 StartChar: TashdidFathatanLig
-Encoding: 869 -1 869
+Encoding: 890 -1 890
 Width: 877
 Flags: W
 AnchorPoint: "HarakatAboveLig" 442 478 mark 0
