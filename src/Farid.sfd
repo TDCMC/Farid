@@ -21,6 +21,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
+CreationTime: 1747387216
+ModificationTime: 1747418705
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -238,8 +240,10 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is lic
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL without afii
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
+WinInfo: 228 38 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -247,13 +251,15 @@ Grid
  4096 33548.8798828 l 1024
 EndSplineSet
 AnchorClass2: "HarakatBelowLig" "'blwm' Below Base Mark lookup 4-1" "HarakatBelow" "'blwm' Below Base Mark lookup 3-1" "HarakatAboveLig" "'abvm' Above Base Mark lookup 2-1" "HarakatAbove" "'abvm' Above Base Mark lookup 1-1" "Curs" "'curs' Cursive Attachment in Arabic lookup 0-1"
-BeginChars: 891 0
+BeginChars: 891 891
+
 StartChar: space
 Encoding: 0 32 0
 Width: 400
 Flags: W
 LayerCount: 2
 EndChar
+
 StartChar: exclam
 Encoding: 1 33 1
 Width: 276
@@ -273,6 +279,7 @@ SplineSet
  319 137 177 -4 107 60 c 4
 EndSplineSet
 EndChar
+
 StartChar: quotedbl
 Encoding: 2 34 2
 Width: 503
@@ -292,6 +299,7 @@ SplineSet
  317 1414 320 1567 411 1558 c 0
 EndSplineSet
 EndChar
+
 StartChar: numbersign
 Encoding: 3 35 3
 Width: 1351
@@ -329,6 +337,7 @@ SplineSet
  1078 613 1300 563 1261 471 c 0
 EndSplineSet
 EndChar
+
 StartChar: dollar
 Encoding: 4 36 4
 Width: 978
@@ -363,6 +372,7 @@ SplineSet
  403 1244 325 1615 438 1628 c 4
 EndSplineSet
 EndChar
+
 StartChar: percent
 Encoding: 5 37 5
 Width: 1096
@@ -402,6 +412,7 @@ SplineSet
  921 528 916 590 887 605 c 0
 EndSplineSet
 EndChar
+
 StartChar: ampersand
 Encoding: 6 38 6
 Width: 1095
@@ -436,6 +447,7 @@ SplineSet
  955 324 1094 251 1065 193 c 4
 EndSplineSet
 EndChar
+
 StartChar: quotesingle
 Encoding: 7 39 7
 Width: 309
@@ -450,6 +462,7 @@ SplineSet
  131 1317 139 1464 212 1453 c 4
 EndSplineSet
 EndChar
+
 StartChar: parenleft
 Encoding: 8 40 8
 Width: 442
@@ -468,6 +481,7 @@ SplineSet
  213 1487 321 1655 395 1585 c 0
 EndSplineSet
 EndChar
+
 StartChar: parenright
 Encoding: 9 41 9
 Width: 454
@@ -486,6 +500,7 @@ SplineSet
  232 1487 124 1655 50 1585 c 0
 EndSplineSet
 EndChar
+
 StartChar: asterisk
 Encoding: 10 42 10
 Width: 839
@@ -510,6 +525,7 @@ SplineSet
  277 448 29 386 11 499 c 0
 EndSplineSet
 EndChar
+
 StartChar: plus
 Encoding: 11 43 11
 Width: 836
@@ -529,6 +545,7 @@ SplineSet
  343 609 331 895 427 891 c 0
 EndSplineSet
 EndChar
+
 StartChar: comma
 Encoding: 12 44 12
 Width: 272
@@ -546,6 +563,7 @@ SplineSet
  44 51 96 93 158 78 c 4
 EndSplineSet
 EndChar
+
 StartChar: hyphen
 Encoding: 13 45 13
 Width: 707
@@ -560,6 +578,7 @@ SplineSet
  242 382 23 334 17 450 c 0
 EndSplineSet
 EndChar
+
 StartChar: period
 Encoding: 14 46 14
 Width: 177
@@ -574,6 +593,7 @@ SplineSet
  149 199 112 160 48 182 c 4
 EndSplineSet
 EndChar
+
 StartChar: slash
 Encoding: 15 47 15
 Width: 599
@@ -590,6 +610,7 @@ SplineSet
  216 255 145 12 54 42 c 4
 EndSplineSet
 EndChar
+
 StartChar: zero
 Encoding: 16 48 16
 Width: 938
@@ -615,6 +636,7 @@ SplineSet
  657 1131 600 1193 508 1195 c 0
 EndSplineSet
 EndChar
+
 StartChar: one
 Encoding: 17 49 17
 Width: 320
@@ -631,6 +653,7 @@ SplineSet
  96 1072 127 1359 256 1335 c 0
 EndSplineSet
 EndChar
+
 StartChar: two
 Encoding: 18 50 18
 Width: 954
@@ -657,6 +680,7 @@ SplineSet
  110 1038 35 1052 30 1125 c 0
 EndSplineSet
 EndChar
+
 StartChar: three
 Encoding: 19 51 19
 Width: 819
@@ -687,6 +711,7 @@ SplineSet
  174 1045 152 927 107 910 c 0
 EndSplineSet
 EndChar
+
 StartChar: four
 Encoding: 20 52 20
 Width: 789
@@ -714,6 +739,7 @@ SplineSet
  394 701 444 952 543 923 c 0
 EndSplineSet
 EndChar
+
 StartChar: five
 Encoding: 21 53 21
 Width: 859
@@ -741,6 +767,7 @@ SplineSet
  354 1070 170 912 104 1010 c 0
 EndSplineSet
 EndChar
+
 StartChar: six
 Encoding: 22 54 22
 Width: 834
@@ -766,6 +793,7 @@ SplineSet
  157 876 273 1218 383 1172 c 0
 EndSplineSet
 EndChar
+
 StartChar: seven
 Encoding: 23 55 23
 Width: 1049
@@ -797,6 +825,7 @@ SplineSet
  430 425 234 345 222 465 c 0
 EndSplineSet
 EndChar
+
 StartChar: eight
 Encoding: 24 56 24
 Width: 819
@@ -829,6 +858,7 @@ SplineSet
  151 690 1 700 48 799 c 0
 EndSplineSet
 EndChar
+
 StartChar: nine
 Encoding: 25 57 25
 Width: 825
@@ -857,6 +887,7 @@ SplineSet
  686 1226 752 1132 673 1067 c 0
 EndSplineSet
 EndChar
+
 StartChar: colon
 Encoding: 26 58 26
 Width: 177
@@ -872,6 +903,7 @@ SplineSet
  197 407 178 193 46 238 c 4
 EndSplineSet
 EndChar
+
 StartChar: semicolon
 Encoding: 27 59 27
 Width: 272
@@ -892,6 +924,7 @@ SplineSet
  240 957 221 743 89 788 c 0
 EndSplineSet
 EndChar
+
 StartChar: less
 Encoding: 28 60 28
 Width: 652
@@ -910,6 +943,7 @@ SplineSet
  441 899 555 1035 611 973 c 4
 EndSplineSet
 EndChar
+
 StartChar: equal
 Encoding: 29 61 29
 Width: 685
@@ -929,6 +963,7 @@ SplineSet
  236 629 83 558 67 647 c 0
 EndSplineSet
 EndChar
+
 StartChar: greater
 Encoding: 30 62 30
 Width: 625
@@ -947,6 +982,7 @@ SplineSet
  199 899 85 1035 29 973 c 4
 EndSplineSet
 EndChar
+
 StartChar: question
 Encoding: 31 63 31
 Width: 751
@@ -968,6 +1004,7 @@ SplineSet
  414 273 540 96 405 58 c 0
 EndSplineSet
 EndChar
+
 StartChar: at
 Encoding: 32 64 32
 Width: 1291
@@ -1006,6 +1043,7 @@ SplineSet
  872 1024 910 964 888 936 c 4
 EndSplineSet
 EndChar
+
 StartChar: A
 Encoding: 33 65 33
 Width: 1011
@@ -1034,6 +1072,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: B
 Encoding: 34 66 34
 Width: 1272
@@ -1066,6 +1105,7 @@ SplineSet
  286 877 267 311 109 337 c 0
 EndSplineSet
 EndChar
+
 StartChar: C
 Encoding: 35 67 35
 Width: 1080
@@ -1088,6 +1128,7 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
+
 StartChar: D
 Encoding: 36 68 36
 Width: 1362
@@ -1120,6 +1161,7 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
+
 StartChar: E
 Encoding: 37 69 37
 Width: 1008
@@ -1152,6 +1194,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: F
 Encoding: 38 70 38
 Width: 1069
@@ -1176,6 +1219,7 @@ SplineSet
  350 542 138 496 134 584 c 0
 EndSplineSet
 EndChar
+
 StartChar: G
 Encoding: 39 71 39
 Width: 1495
@@ -1204,6 +1248,7 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: H
 Encoding: 40 72 40
 Width: 1243
@@ -1228,6 +1273,7 @@ SplineSet
  947 960 1002 1439 1126 1425 c 4
 EndSplineSet
 EndChar
+
 StartChar: I
 Encoding: 41 73 41
 Width: 768
@@ -1254,6 +1300,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: J
 Encoding: 42 74 42
 Width: 901
@@ -1281,6 +1328,7 @@ SplineSet
  650 934 624 1299 767 1265 c 0
 EndSplineSet
 EndChar
+
 StartChar: K
 Encoding: 43 75 43
 Width: 1221
@@ -1305,6 +1353,7 @@ SplineSet
  597 451 367 461 383 574 c 0
 EndSplineSet
 EndChar
+
 StartChar: L
 Encoding: 44 76 44
 Width: 1058
@@ -1325,6 +1374,7 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
+
 StartChar: M
 Encoding: 45 77 45
 Width: 1480
@@ -1354,6 +1404,7 @@ SplineSet
  218 834 246 1242 378 1214 c 0
 EndSplineSet
 EndChar
+
 StartChar: N
 Encoding: 46 78 46
 Width: 1074
@@ -1376,6 +1427,7 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
+
 StartChar: O
 Encoding: 47 79 47
 Width: 1106
@@ -1400,6 +1452,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: P
 Encoding: 48 80 48
 Width: 1081
@@ -1428,6 +1481,7 @@ SplineSet
  229 511 284 34 133 46 c 4
 EndSplineSet
 EndChar
+
 StartChar: Q
 Encoding: 49 81 49
 Width: 1293
@@ -1460,6 +1514,7 @@ SplineSet
  580 304 439 178 390 271 c 0
 EndSplineSet
 EndChar
+
 StartChar: R
 Encoding: 50 82 50
 Width: 1081
@@ -1493,6 +1548,7 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
+
 StartChar: S
 Encoding: 51 83 51
 Width: 1182
@@ -1521,6 +1577,7 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
+
 StartChar: T
 Encoding: 52 84 52
 Width: 1413
@@ -1540,6 +1597,7 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
+
 StartChar: U
 Encoding: 53 85 53
 Width: 1398
@@ -1567,6 +1625,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: V
 Encoding: 54 86 54
 Width: 1257
@@ -1587,6 +1646,7 @@ SplineSet
  47 1251 0 1411 72 1444 c 0
 EndSplineSet
 EndChar
+
 StartChar: W
 Encoding: 55 87 55
 Width: 1614
@@ -1613,6 +1673,7 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
+
 StartChar: X
 Encoding: 56 88 56
 Width: 1117
@@ -1634,6 +1695,7 @@ SplineSet
  146 1133 -49 1493 40 1536 c 0
 EndSplineSet
 EndChar
+
 StartChar: Y
 Encoding: 57 89 57
 Width: 851
@@ -1659,6 +1721,7 @@ SplineSet
  591 1188 697 1521 807 1478 c 4
 EndSplineSet
 EndChar
+
 StartChar: Z
 Encoding: 58 90 58
 Width: 1052
@@ -1690,6 +1753,7 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
+
 StartChar: bracketleft
 Encoding: 59 91 59
 Width: 627
@@ -1717,6 +1781,7 @@ SplineSet
  93 1198 44 1339 115 1368 c 0
 EndSplineSet
 EndChar
+
 StartChar: backslash
 Encoding: 60 92 60
 Width: 599
@@ -1733,6 +1798,7 @@ SplineSet
  390 255 461 12 552 42 c 0
 EndSplineSet
 EndChar
+
 StartChar: bracketright
 Encoding: 61 93 61
 Width: 627
@@ -1760,6 +1826,7 @@ SplineSet
  534 1198 582 1339 511 1368 c 0
 EndSplineSet
 EndChar
+
 StartChar: asciicircum
 Encoding: 62 94 62
 Width: 437
@@ -1779,6 +1846,7 @@ SplineSet
  127 1252 180 1364 231 1342 c 4
 EndSplineSet
 EndChar
+
 StartChar: underscore
 Encoding: 63 95 63
 Width: 751
@@ -1793,6 +1861,7 @@ SplineSet
  32 145 253 160 354 166 c 0
 EndSplineSet
 EndChar
+
 StartChar: grave
 Encoding: 64 96 64
 Width: 384
@@ -1807,6 +1876,7 @@ SplineSet
  106 1221 -8 1331 49 1384 c 4
 EndSplineSet
 EndChar
+
 StartChar: a
 Encoding: 65 97 65
 Width: 795
@@ -1836,6 +1906,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: b
 Encoding: 66 98 66
 Width: 751
@@ -1864,6 +1935,7 @@ SplineSet
  275 385 269 188 171 215 c 4
 EndSplineSet
 EndChar
+
 StartChar: c
 Encoding: 67 99 67
 Width: 751
@@ -1885,6 +1957,7 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: d
 Encoding: 68 100 68
 Width: 789
@@ -1916,6 +1989,7 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
+
 StartChar: e
 Encoding: 69 101 69
 Width: 751
@@ -1943,6 +2017,7 @@ SplineSet
  332 428 192 329 148 407 c 0
 EndSplineSet
 EndChar
+
 StartChar: f
 Encoding: 70 102 70
 Width: 915
@@ -1969,6 +2044,7 @@ SplineSet
  807 804 578 785 401 702 c 0
 EndSplineSet
 EndChar
+
 StartChar: g
 Encoding: 71 103 71
 Width: 763
@@ -2006,6 +2082,7 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
+
 StartChar: h
 Encoding: 72 104 72
 Width: 809
@@ -2034,6 +2111,7 @@ SplineSet
  240 143 197 -32 126 -4 c 0
 EndSplineSet
 EndChar
+
 StartChar: i
 Encoding: 73 105 73
 Width: 355
@@ -2054,6 +2132,7 @@ SplineSet
  328 1282 326 1182 265 1156 c 0
 EndSplineSet
 EndChar
+
 StartChar: j
 Encoding: 74 106 74
 Width: 703
@@ -2087,6 +2166,7 @@ SplineSet
  696 1440 693 1340 632 1314 c 0
 EndSplineSet
 EndChar
+
 StartChar: k
 Encoding: 75 107 75
 Width: 789
@@ -2121,6 +2201,7 @@ SplineSet
  411 285 212 344 273 430 c 0
 EndSplineSet
 EndChar
+
 StartChar: l
 Encoding: 76 108 76
 Width: 549
@@ -2139,6 +2220,7 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
+
 StartChar: m
 Encoding: 77 109 77
 Width: 947
@@ -2171,6 +2253,7 @@ SplineSet
  544 249 538 35 461 75 c 0
 EndSplineSet
 EndChar
+
 StartChar: n
 Encoding: 78 110 78
 Width: 643
@@ -2196,6 +2279,7 @@ SplineSet
  488 19 461 90 452 304 c 4
 EndSplineSet
 EndChar
+
 StartChar: o
 Encoding: 79 111 79
 Width: 649
@@ -2219,6 +2303,7 @@ SplineSet
  456 639 407 728 343 728 c 4
 EndSplineSet
 EndChar
+
 StartChar: p
 Encoding: 80 112 80
 Width: 847
@@ -2252,6 +2337,7 @@ SplineSet
  363 57 283 127 310 192 c 0
 EndSplineSet
 EndChar
+
 StartChar: q
 Encoding: 81 113 81
 Width: 928
@@ -2290,6 +2376,7 @@ SplineSet
  513 -467 531 -748 402 -732 c 0
 EndSplineSet
 EndChar
+
 StartChar: r
 Encoding: 82 114 82
 Width: 751
@@ -2312,6 +2399,7 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
+
 StartChar: s
 Encoding: 83 115 83
 Width: 654
@@ -2337,6 +2425,7 @@ SplineSet
  368 850 466 798 444 737 c 4
 EndSplineSet
 EndChar
+
 StartChar: t
 Encoding: 84 116 84
 Width: 928
@@ -2365,6 +2454,7 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
+
 StartChar: u
 Encoding: 85 117 85
 Width: 672
@@ -2391,6 +2481,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: v
 Encoding: 86 118 86
 Width: 536
@@ -2410,6 +2501,7 @@ SplineSet
  5 479 -5 620 64 633 c 0
 EndSplineSet
 EndChar
+
 StartChar: w
 Encoding: 87 119 87
 Width: 892
@@ -2437,6 +2529,7 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
+
 StartChar: x
 Encoding: 88 120 88
 Width: 640
@@ -2460,6 +2553,7 @@ SplineSet
  308 756 392 887 466 831 c 0
 EndSplineSet
 EndChar
+
 StartChar: y
 Encoding: 89 121 89
 Width: 607
@@ -2485,6 +2579,7 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
+
 StartChar: z
 Encoding: 90 122 90
 Width: 678
@@ -2513,6 +2608,7 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
+
 StartChar: braceleft
 Encoding: 91 123 91
 Width: 540
@@ -2538,6 +2634,7 @@ SplineSet
  395 1566 512 1545 496 1443 c 0
 EndSplineSet
 EndChar
+
 StartChar: bar
 Encoding: 92 124 92
 Width: 253
@@ -2554,6 +2651,7 @@ SplineSet
  40 1219 33 1546 128 1553 c 0
 EndSplineSet
 EndChar
+
 StartChar: braceright
 Encoding: 93 125 93
 Width: 534
@@ -2579,6 +2677,7 @@ SplineSet
  134 8 18 29 34 131 c 0
 EndSplineSet
 EndChar
+
 StartChar: asciitilde
 Encoding: 94 126 94
 Width: 1011
@@ -2597,12 +2696,14 @@ SplineSet
  63 606 -5 496 56 446 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni00A0
 Encoding: 95 160 95
 Width: 400
 Flags: W
 LayerCount: 2
 EndChar
+
 StartChar: exclamdown
 Encoding: 96 161 96
 Width: 276
@@ -2622,6 +2723,7 @@ SplineSet
  -43 547 99 688 169 624 c 4
 EndSplineSet
 EndChar
+
 StartChar: cent
 Encoding: 97 162 97
 Width: 978
@@ -2650,6 +2752,7 @@ SplineSet
  375 1240 297 1611 410 1624 c 4
 EndSplineSet
 EndChar
+
 StartChar: sterling
 Encoding: 98 163 98
 Width: 1009
@@ -2687,6 +2790,7 @@ SplineSet
  274 632 98 424 34 514 c 0
 EndSplineSet
 EndChar
+
 StartChar: currency
 Encoding: 99 164 99
 Width: 973
@@ -2726,6 +2830,7 @@ SplineSet
  739 1330 851 1462 931 1398 c 0
 EndSplineSet
 EndChar
+
 StartChar: yen
 Encoding: 100 165 100
 Width: 851
@@ -2761,6 +2866,7 @@ SplineSet
  296 110 90 15 66 97 c 0
 EndSplineSet
 EndChar
+
 StartChar: brokenbar
 Encoding: 101 166 101
 Width: 244
@@ -2780,6 +2886,7 @@ SplineSet
  33 534 25 743 116 747 c 0
 EndSplineSet
 EndChar
+
 StartChar: section
 Encoding: 102 167 102
 Width: 911
@@ -2814,6 +2921,7 @@ SplineSet
  291 1122 413 1231 480 1167 c 0
 EndSplineSet
 EndChar
+
 StartChar: dieresis
 Encoding: 103 168 103
 Width: 505
@@ -2833,6 +2941,7 @@ SplineSet
  421 1024 365 973 322 994 c 4
 EndSplineSet
 EndChar
+
 StartChar: copyright
 Encoding: 104 169 104
 Width: 1463
@@ -2868,6 +2977,7 @@ SplineSet
  831 1180 925 1115 890 1039 c 0
 EndSplineSet
 EndChar
+
 StartChar: ordfeminine
 Encoding: 105 170 105
 Width: 750
@@ -2893,6 +3003,7 @@ SplineSet
  421 1338 430 1484 513 1483 c 0
 EndSplineSet
 EndChar
+
 StartChar: guillemotleft
 Encoding: 106 171 106
 Width: 813
@@ -2918,6 +3029,7 @@ SplineSet
  666 626 835 742 757 820 c 4
 EndSplineSet
 EndChar
+
 StartChar: logicalnot
 Encoding: 107 172 107
 Width: 1102
@@ -2937,6 +3049,7 @@ SplineSet
  894 629 888 874 1003 867 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni00AD
 Encoding: 108 173 108
 Width: 707
@@ -2951,6 +3064,7 @@ SplineSet
  242 382 23 334 17 450 c 4
 EndSplineSet
 EndChar
+
 StartChar: registered
 Encoding: 109 174 109
 Width: 1461
@@ -2996,6 +3110,7 @@ SplineSet
  754 653 638 696 669 756 c 0
 EndSplineSet
 EndChar
+
 StartChar: macron
 Encoding: 110 175 110
 Width: 751
@@ -3010,6 +3125,7 @@ SplineSet
  41 1203 238 1238 335 1261 c 4
 EndSplineSet
 EndChar
+
 StartChar: degree
 Encoding: 111 176 111
 Width: 386
@@ -3029,6 +3145,7 @@ SplineSet
  274 1387 256 1430 221 1444 c 4
 EndSplineSet
 EndChar
+
 StartChar: plusminus
 Encoding: 112 177 112
 Width: 836
@@ -3053,6 +3170,7 @@ SplineSet
  343 609 331 895 427 891 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni00B2
 Encoding: 113 178 113
 Width: 633
@@ -3076,6 +3194,7 @@ SplineSet
  161 1343 170 1316 106 1276 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni00B3
 Encoding: 114 179 114
 Width: 561
@@ -3102,6 +3221,7 @@ SplineSet
  89 1304 23 1349 30 1401 c 0
 EndSplineSet
 EndChar
+
 StartChar: acute
 Encoding: 115 180 115
 Width: 384
@@ -3116,6 +3236,7 @@ SplineSet
  270 1221 384 1331 327 1384 c 4
 EndSplineSet
 EndChar
+
 StartChar: mu
 Encoding: 116 181 116
 Width: 751
@@ -3146,6 +3267,7 @@ SplineSet
  89 511 92 823 219 808 c 0
 EndSplineSet
 EndChar
+
 StartChar: paragraph
 Encoding: 117 182 117
 Width: 1109
@@ -3183,6 +3305,7 @@ SplineSet
  412 1287 399 1585 524 1585 c 0
 EndSplineSet
 EndChar
+
 StartChar: periodcentered
 Encoding: 118 183 118
 Width: 177
@@ -3197,6 +3320,7 @@ SplineSet
  146 595 109 556 45 578 c 4
 EndSplineSet
 EndChar
+
 StartChar: cedilla
 Encoding: 119 184 119
 Width: 751
@@ -3219,6 +3343,7 @@ SplineSet
  264 5 289 25 318 25 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni00B9
 Encoding: 120 185 120
 Width: 245
@@ -3233,6 +3358,7 @@ SplineSet
  47 1273 -1 1476 106 1483 c 4
 EndSplineSet
 EndChar
+
 StartChar: ordmasculine
 Encoding: 121 186 121
 Width: 639
@@ -3252,6 +3378,7 @@ SplineSet
  447 1332 386 1427 329 1431 c 0
 EndSplineSet
 EndChar
+
 StartChar: guillemotright
 Encoding: 122 187 122
 Width: 813
@@ -3277,6 +3404,7 @@ SplineSet
  146 626 -23 742 55 820 c 0
 EndSplineSet
 EndChar
+
 StartChar: onequarter
 Encoding: 123 188 123
 Width: 1301
@@ -3312,6 +3440,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: onehalf
 Encoding: 124 189 124
 Width: 1301
@@ -3347,6 +3476,7 @@ SplineSet
  808 509 817 482 753 442 c 4
 EndSplineSet
 EndChar
+
 StartChar: threequarters
 Encoding: 125 190 125
 Width: 1453
@@ -3394,6 +3524,7 @@ SplineSet
  462 277 295 26 222 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: questiondown
 Encoding: 126 191 126
 Width: 751
@@ -3415,6 +3546,7 @@ SplineSet
  310 501 184 678 319 716 c 4
 EndSplineSet
 EndChar
+
 StartChar: Agrave
 Encoding: 127 192 127
 Width: 1011
@@ -3448,6 +3580,7 @@ SplineSet
  421 494 258 378 216 475 c 4
 EndSplineSet
 EndChar
+
 StartChar: Aacute
 Encoding: 128 193 128
 Width: 1011
@@ -3481,6 +3614,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: Acircumflex
 Encoding: 129 194 129
 Width: 1011
@@ -3519,6 +3653,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: Atilde
 Encoding: 130 195 130
 Width: 1011
@@ -3554,6 +3689,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: Adieresis
 Encoding: 131 196 131
 Width: 1011
@@ -3592,6 +3728,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: Aring
 Encoding: 132 197 132
 Width: 1011
@@ -3630,6 +3767,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: AE
 Encoding: 133 198 133
 Width: 1649
@@ -3670,6 +3808,7 @@ SplineSet
  553 597 376 530 351 614 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ccedilla
 Encoding: 134 199 134
 Width: 1080
@@ -3705,6 +3844,7 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
+
 StartChar: Egrave
 Encoding: 135 200 135
 Width: 1008
@@ -3742,6 +3882,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Eacute
 Encoding: 136 201 136
 Width: 1008
@@ -3779,6 +3920,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ecircumflex
 Encoding: 137 202 137
 Width: 1008
@@ -3821,6 +3963,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Edieresis
 Encoding: 138 203 138
 Width: 1008
@@ -3863,6 +4006,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Igrave
 Encoding: 139 204 139
 Width: 768
@@ -3894,6 +4038,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: Iacute
 Encoding: 140 205 140
 Width: 768
@@ -3925,6 +4070,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: Icircumflex
 Encoding: 141 206 141
 Width: 768
@@ -3961,6 +4107,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: Idieresis
 Encoding: 142 207 142
 Width: 768
@@ -3997,6 +4144,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: Eth
 Encoding: 143 208 143
 Width: 1362
@@ -4034,6 +4182,7 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ntilde
 Encoding: 144 209 144
 Width: 1074
@@ -4063,6 +4212,7 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ograve
 Encoding: 145 210 145
 Width: 1106
@@ -4092,6 +4242,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: Oacute
 Encoding: 146 211 146
 Width: 1106
@@ -4121,6 +4272,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ocircumflex
 Encoding: 147 212 147
 Width: 1106
@@ -4155,6 +4307,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: Otilde
 Encoding: 148 213 148
 Width: 1106
@@ -4186,6 +4339,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: Odieresis
 Encoding: 149 214 149
 Width: 1106
@@ -4220,6 +4374,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: multiply
 Encoding: 150 215 150
 Width: 563
@@ -4239,6 +4394,7 @@ SplineSet
  229 423 192 173 96 213 c 0
 EndSplineSet
 EndChar
+
 StartChar: Oslash
 Encoding: 151 216 151
 Width: 1106
@@ -4271,6 +4427,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ugrave
 Encoding: 152 217 152
 Width: 1398
@@ -4303,6 +4460,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: Uacute
 Encoding: 153 218 153
 Width: 1398
@@ -4335,6 +4493,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ucircumflex
 Encoding: 154 219 154
 Width: 1398
@@ -4372,6 +4531,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: Udieresis
 Encoding: 155 220 155
 Width: 1398
@@ -4409,6 +4569,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: Yacute
 Encoding: 156 221 156
 Width: 851
@@ -4439,6 +4600,7 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
+
 StartChar: Thorn
 Encoding: 157 222 157
 Width: 1237
@@ -4471,6 +4633,7 @@ SplineSet
  339 805 258 454 150 505 c 0
 EndSplineSet
 EndChar
+
 StartChar: germandbls
 Encoding: 158 223 158
 Width: 1000
@@ -4500,6 +4663,7 @@ SplineSet
  205 78 202 -279 97 -273 c 0
 EndSplineSet
 EndChar
+
 StartChar: agrave
 Encoding: 159 224 159
 Width: 795
@@ -4534,6 +4698,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: aacute
 Encoding: 160 225 160
 Width: 795
@@ -4568,6 +4733,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: acircumflex
 Encoding: 161 226 161
 Width: 795
@@ -4607,6 +4773,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: atilde
 Encoding: 162 227 162
 Width: 795
@@ -4643,6 +4810,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: adieresis
 Encoding: 163 228 163
 Width: 795
@@ -4682,6 +4850,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: aring
 Encoding: 164 229 164
 Width: 795
@@ -4721,6 +4890,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: ae
 Encoding: 165 230 165
 Width: 1153
@@ -4765,6 +4935,7 @@ SplineSet
  393 643 480 702 504 650 c 0
 EndSplineSet
 EndChar
+
 StartChar: ccedilla
 Encoding: 166 231 166
 Width: 751
@@ -4799,6 +4970,7 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: egrave
 Encoding: 167 232 167
 Width: 751
@@ -4831,6 +5003,7 @@ SplineSet
  208 1263 94 1373 151 1426 c 0
 EndSplineSet
 EndChar
+
 StartChar: eacute
 Encoding: 168 233 168
 Width: 751
@@ -4863,6 +5036,7 @@ SplineSet
  498 1249 612 1359 555 1412 c 0
 EndSplineSet
 EndChar
+
 StartChar: ecircumflex
 Encoding: 169 234 169
 Width: 751
@@ -4900,6 +5074,7 @@ SplineSet
  246 1293 299 1405 350 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: edieresis
 Encoding: 170 235 170
 Width: 751
@@ -4937,6 +5112,7 @@ SplineSet
  538 1132 482 1081 439 1102 c 0
 EndSplineSet
 EndChar
+
 StartChar: igrave
 Encoding: 171 236 171
 Width: 355
@@ -4957,6 +5133,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: iacute
 Encoding: 172 237 172
 Width: 355
@@ -4977,6 +5154,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: icircumflex
 Encoding: 173 238 173
 Width: 355
@@ -5002,6 +5180,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: idieresis
 Encoding: 174 239 174
 Width: 355
@@ -5027,6 +5206,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: eth
 Encoding: 175 240 175
 Width: 805
@@ -5055,6 +5235,7 @@ SplineSet
  392 1323 607 1463 657 1360 c 0
 EndSplineSet
 EndChar
+
 StartChar: ntilde
 Encoding: 176 241 176
 Width: 643
@@ -5087,6 +5268,7 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
+
 StartChar: ograve
 Encoding: 177 242 177
 Width: 649
@@ -5115,6 +5297,7 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: oacute
 Encoding: 178 243 178
 Width: 649
@@ -5143,6 +5326,7 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: ocircumflex
 Encoding: 179 244 179
 Width: 649
@@ -5176,6 +5360,7 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: otilde
 Encoding: 180 245 180
 Width: 649
@@ -5206,6 +5391,7 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: odieresis
 Encoding: 181 246 181
 Width: 649
@@ -5239,6 +5425,7 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: divide
 Encoding: 182 247 182
 Width: 872
@@ -5259,6 +5446,7 @@ SplineSet
  265 533 54 439 26 539 c 0
 EndSplineSet
 EndChar
+
 StartChar: oslash
 Encoding: 183 248 183
 Width: 649
@@ -5289,6 +5477,7 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: ugrave
 Encoding: 184 249 184
 Width: 672
@@ -5320,6 +5509,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: uacute
 Encoding: 185 250 185
 Width: 672
@@ -5351,6 +5541,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: ucircumflex
 Encoding: 186 251 186
 Width: 672
@@ -5387,6 +5578,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: udieresis
 Encoding: 187 252 187
 Width: 672
@@ -5423,6 +5615,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: yacute
 Encoding: 188 253 188
 Width: 607
@@ -5453,6 +5646,7 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
+
 StartChar: thorn
 Encoding: 189 254 189
 Width: 847
@@ -5487,6 +5681,7 @@ SplineSet
  363 57 283 127 310 192 c 0
 EndSplineSet
 EndChar
+
 StartChar: ydieresis
 Encoding: 190 255 190
 Width: 607
@@ -5522,6 +5717,7 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
+
 StartChar: Amacron
 Encoding: 191 256 191
 Width: 1011
@@ -5555,6 +5751,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: amacron
 Encoding: 192 257 192
 Width: 795
@@ -5589,6 +5786,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: Abreve
 Encoding: 193 258 193
 Width: 1011
@@ -5626,6 +5824,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: abreve
 Encoding: 194 259 194
 Width: 795
@@ -5664,6 +5863,7 @@ SplineSet
  445 495 475 743 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: Aogonek
 Encoding: 195 260 195
 Width: 1011
@@ -5700,6 +5900,7 @@ SplineSet
  421 494 258 378 216 475 c 0
 EndSplineSet
 EndChar
+
 StartChar: aogonek
 Encoding: 196 261 196
 Width: 795
@@ -5738,6 +5939,7 @@ SplineSet
  451 496 483 769 581 724 c 0
 EndSplineSet
 EndChar
+
 StartChar: Cacute
 Encoding: 197 262 197
 Width: 1080
@@ -5765,6 +5967,7 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
+
 StartChar: cacute
 Encoding: 198 263 198
 Width: 751
@@ -5791,6 +5994,7 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ccircumflex
 Encoding: 199 264 199
 Width: 1080
@@ -5823,6 +6027,7 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
+
 StartChar: ccircumflex
 Encoding: 200 265 200
 Width: 751
@@ -5854,6 +6059,7 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: Cdotaccent
 Encoding: 201 266 201
 Width: 1080
@@ -5881,6 +6087,7 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
+
 StartChar: cdotaccent
 Encoding: 202 267 202
 Width: 751
@@ -5907,6 +6114,7 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ccaron
 Encoding: 203 268 203
 Width: 1080
@@ -5939,6 +6147,7 @@ SplineSet
  887 1418 980 1326 921 1255 c 0
 EndSplineSet
 EndChar
+
 StartChar: ccaron
 Encoding: 204 269 204
 Width: 751
@@ -5970,6 +6179,7 @@ SplineSet
  477 833 552 726 498 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: Dcaron
 Encoding: 205 270 205
 Width: 1362
@@ -6012,6 +6222,7 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
+
 StartChar: dcaron
 Encoding: 206 271 206
 Width: 789
@@ -6048,6 +6259,7 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
+
 StartChar: Dcroat
 Encoding: 207 272 207
 Width: 1362
@@ -6085,6 +6297,7 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
+
 StartChar: dcroat
 Encoding: 208 273 208
 Width: 789
@@ -6121,6 +6334,7 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
+
 StartChar: Emacron
 Encoding: 209 274 209
 Width: 1008
@@ -6158,6 +6372,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: emacron
 Encoding: 210 275 210
 Width: 751
@@ -6190,6 +6405,7 @@ SplineSet
  35 1170 232 1205 329 1228 c 0
 EndSplineSet
 EndChar
+
 StartChar: Edotaccent
 Encoding: 211 278 211
 Width: 1008
@@ -6227,6 +6443,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: edotaccent
 Encoding: 212 279 212
 Width: 751
@@ -6259,6 +6476,7 @@ SplineSet
  418 1071 362 1020 319 1041 c 0
 EndSplineSet
 EndChar
+
 StartChar: Eogonek
 Encoding: 213 280 213
 Width: 1008
@@ -6299,6 +6517,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: eogonek
 Encoding: 214 281 214
 Width: 751
@@ -6334,6 +6553,7 @@ SplineSet
  332 428 192 329 148 407 c 4
 EndSplineSet
 EndChar
+
 StartChar: Ecaron
 Encoding: 215 282 215
 Width: 1008
@@ -6376,6 +6596,7 @@ SplineSet
  430 593 213 484 190 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: ecaron
 Encoding: 216 283 216
 Width: 751
@@ -6413,6 +6634,7 @@ SplineSet
  439 1125 386 1013 335 1035 c 0
 EndSplineSet
 EndChar
+
 StartChar: Gcircumflex
 Encoding: 217 284 217
 Width: 1495
@@ -6451,6 +6673,7 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: gcircumflex
 Encoding: 218 285 218
 Width: 763
@@ -6498,6 +6721,7 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
+
 StartChar: Gbreve
 Encoding: 219 286 219
 Width: 1495
@@ -6535,6 +6759,7 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: gbreve
 Encoding: 220 287 220
 Width: 763
@@ -6581,6 +6806,7 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
+
 StartChar: Gdotaccent
 Encoding: 221 288 221
 Width: 1495
@@ -6614,6 +6840,7 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: gdotaccent
 Encoding: 222 289 222
 Width: 763
@@ -6656,6 +6883,7 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
+
 StartChar: Gcommaaccent
 Encoding: 223 290 223
 Width: 1495
@@ -6689,6 +6917,7 @@ SplineSet
  1008 594 812 559 810 675 c 0
 EndSplineSet
 EndChar
+
 StartChar: gcommaaccent
 Encoding: 224 291 224
 Width: 763
@@ -6731,6 +6960,7 @@ SplineSet
  583 436 526 675 651 691 c 0
 EndSplineSet
 EndChar
+
 StartChar: Hcircumflex
 Encoding: 225 292 225
 Width: 1243
@@ -6765,6 +6995,7 @@ SplineSet
  947 960 1002 1439 1126 1425 c 0
 EndSplineSet
 EndChar
+
 StartChar: hcircumflex
 Encoding: 226 293 226
 Width: 793
@@ -6803,6 +7034,7 @@ SplineSet
  284 1817 337 1929 388 1907 c 4
 EndSplineSet
 EndChar
+
 StartChar: Hbar
 Encoding: 227 294 227
 Width: 1569
@@ -6834,6 +7066,7 @@ SplineSet
  1109 960 1164 1439 1288 1425 c 0
 EndSplineSet
 EndChar
+
 StartChar: hbar
 Encoding: 228 295 228
 Width: 971
@@ -6867,6 +7100,7 @@ SplineSet
  402 143 359 -32 288 -4 c 0
 EndSplineSet
 EndChar
+
 StartChar: Itilde
 Encoding: 229 296 229
 Width: 768
@@ -6900,6 +7134,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: itilde
 Encoding: 230 297 230
 Width: 355
@@ -6922,6 +7157,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: Imacron
 Encoding: 231 298 231
 Width: 768
@@ -6953,6 +7189,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: imacron
 Encoding: 232 299 232
 Width: 355
@@ -6973,6 +7210,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: Iogonek
 Encoding: 233 302 233
 Width: 768
@@ -7007,6 +7245,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: iogonek
 Encoding: 234 303 234
 Width: 355
@@ -7030,6 +7269,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: Idotaccent
 Encoding: 235 304 235
 Width: 768
@@ -7061,6 +7301,7 @@ SplineSet
  299 1181 296 1322 368 1328 c 0
 EndSplineSet
 EndChar
+
 StartChar: dotlessi
 Encoding: 236 305 236
 Width: 355
@@ -7076,6 +7317,7 @@ SplineSet
  45 506 39 723 153 720 c 0
 EndSplineSet
 EndChar
+
 StartChar: Jcircumflex
 Encoding: 237 308 237
 Width: 901
@@ -7113,6 +7355,7 @@ SplineSet
  650 934 624 1299 767 1265 c 0
 EndSplineSet
 EndChar
+
 StartChar: jcircumflex
 Encoding: 238 309 238
 Width: 703
@@ -7151,6 +7394,7 @@ SplineSet
  528 484 488 719 592 725 c 0
 EndSplineSet
 EndChar
+
 StartChar: Kcommaaccent
 Encoding: 239 310 239
 Width: 1221
@@ -7180,6 +7424,7 @@ SplineSet
  597 451 367 461 383 574 c 0
 EndSplineSet
 EndChar
+
 StartChar: kcommaaccent
 Encoding: 240 311 240
 Width: 789
@@ -7219,6 +7464,7 @@ SplineSet
  411 285 212 344 273 430 c 0
 EndSplineSet
 EndChar
+
 StartChar: kgreenlandic
 Encoding: 241 312 241
 Width: 805
@@ -7243,6 +7489,7 @@ SplineSet
  312 331 184 408 244 478 c 0
 EndSplineSet
 EndChar
+
 StartChar: Lacute
 Encoding: 242 313 242
 Width: 1058
@@ -7268,6 +7515,7 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
+
 StartChar: lacute
 Encoding: 243 314 243
 Width: 549
@@ -7291,6 +7539,7 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Lcommaaccent
 Encoding: 244 315 244
 Width: 1058
@@ -7316,6 +7565,7 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
+
 StartChar: lcommaaccent
 Encoding: 245 316 245
 Width: 549
@@ -7339,6 +7589,7 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Lcaron
 Encoding: 246 317 246
 Width: 1058
@@ -7364,6 +7615,7 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
+
 StartChar: lcaron
 Encoding: 247 318 247
 Width: 549
@@ -7387,6 +7639,7 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Lslash
 Encoding: 248 321 248
 Width: 1058
@@ -7412,6 +7665,7 @@ SplineSet
  127 1250 116 1490 238 1487 c 0
 EndSplineSet
 EndChar
+
 StartChar: lslash
 Encoding: 249 322 249
 Width: 549
@@ -7435,6 +7689,7 @@ SplineSet
  39 1023 74 1593 201 1578 c 0
 EndSplineSet
 EndChar
+
 StartChar: Nacute
 Encoding: 250 323 250
 Width: 1074
@@ -7462,6 +7717,7 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
+
 StartChar: nacute
 Encoding: 251 324 251
 Width: 643
@@ -7492,6 +7748,7 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ncommaaccent
 Encoding: 252 325 252
 Width: 1074
@@ -7519,6 +7776,7 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
+
 StartChar: ncommaaccent
 Encoding: 253 326 253
 Width: 643
@@ -7549,6 +7807,7 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ncaron
 Encoding: 254 327 254
 Width: 1074
@@ -7581,6 +7840,7 @@ SplineSet
  178 219 160 56 53 78 c 0
 EndSplineSet
 EndChar
+
 StartChar: ncaron
 Encoding: 255 328 255
 Width: 643
@@ -7616,6 +7876,7 @@ SplineSet
  488 19 461 90 452 304 c 0
 EndSplineSet
 EndChar
+
 StartChar: Eng
 Encoding: 256 330 256
 Width: 1129
@@ -7648,6 +7909,7 @@ SplineSet
  207 375 181 187 112 197 c 0
 EndSplineSet
 EndChar
+
 StartChar: eng
 Encoding: 257 331 257
 Width: 733
@@ -7676,6 +7938,7 @@ SplineSet
  246 216 192 -12 101 21 c 0
 EndSplineSet
 EndChar
+
 StartChar: Omacron
 Encoding: 258 332 258
 Width: 1106
@@ -7705,6 +7968,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: omacron
 Encoding: 259 333 259
 Width: 663
@@ -7733,6 +7997,7 @@ SplineSet
  470 639 421 728 357 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ohungarumlaut
 Encoding: 260 336 260
 Width: 1106
@@ -7767,6 +8032,7 @@ SplineSet
  881 953 804 1166 676 1237 c 0
 EndSplineSet
 EndChar
+
 StartChar: ohungarumlaut
 Encoding: 261 337 261
 Width: 649
@@ -7800,6 +8066,7 @@ SplineSet
  456 639 407 728 343 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: OE
 Encoding: 262 338 262
 Width: 1657
@@ -7845,6 +8112,7 @@ SplineSet
  1094 717 940 613 899 695 c 0
 EndSplineSet
 EndChar
+
 StartChar: oe
 Encoding: 263 339 263
 Width: 1212
@@ -7880,6 +8148,7 @@ SplineSet
  537 834 669 721 615 656 c 0
 EndSplineSet
 EndChar
+
 StartChar: Racute
 Encoding: 264 340 264
 Width: 1081
@@ -7918,6 +8187,7 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
+
 StartChar: racute
 Encoding: 265 341 265
 Width: 751
@@ -7945,6 +8215,7 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
+
 StartChar: Rcommaaccent
 Encoding: 266 342 266
 Width: 1081
@@ -7983,6 +8254,7 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
+
 StartChar: rcommaaccent
 Encoding: 267 343 267
 Width: 751
@@ -8010,6 +8282,7 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
+
 StartChar: Rcaron
 Encoding: 268 344 268
 Width: 1081
@@ -8053,6 +8326,7 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
+
 StartChar: rcaron
 Encoding: 269 345 269
 Width: 751
@@ -8085,6 +8359,7 @@ SplineSet
  221 278 257 8 140 32 c 0
 EndSplineSet
 EndChar
+
 StartChar: Sacute
 Encoding: 270 346 270
 Width: 1182
@@ -8118,6 +8393,7 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
+
 StartChar: sacute
 Encoding: 271 347 271
 Width: 654
@@ -8148,6 +8424,7 @@ SplineSet
  481 1216 595 1326 538 1379 c 0
 EndSplineSet
 EndChar
+
 StartChar: Scircumflex
 Encoding: 272 348 272
 Width: 1182
@@ -8186,6 +8463,7 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
+
 StartChar: scircumflex
 Encoding: 273 349 273
 Width: 654
@@ -8221,6 +8499,7 @@ SplineSet
  195 1267 248 1379 299 1357 c 0
 EndSplineSet
 EndChar
+
 StartChar: Scedilla
 Encoding: 274 350 274
 Width: 1182
@@ -8262,6 +8541,7 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
+
 StartChar: scedilla
 Encoding: 275 351 275
 Width: 654
@@ -8300,6 +8580,7 @@ SplineSet
  241 24 266 44 295 44 c 0
 EndSplineSet
 EndChar
+
 StartChar: Scaron
 Encoding: 276 352 276
 Width: 1182
@@ -8338,6 +8619,7 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
+
 StartChar: scaron
 Encoding: 277 353 277
 Width: 654
@@ -8373,6 +8655,7 @@ SplineSet
  358 1040 305 928 254 950 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0162
 Encoding: 278 354 278
 Width: 1413
@@ -8405,6 +8688,7 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0163
 Encoding: 279 355 279
 Width: 928
@@ -8446,6 +8730,7 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
+
 StartChar: Tcaron
 Encoding: 280 356 280
 Width: 1413
@@ -8475,6 +8760,7 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
+
 StartChar: tcaron
 Encoding: 281 357 281
 Width: 928
@@ -8508,6 +8794,7 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
+
 StartChar: Tbar
 Encoding: 282 358 282
 Width: 1413
@@ -8532,6 +8819,7 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
+
 StartChar: tbar
 Encoding: 283 359 283
 Width: 928
@@ -8565,6 +8853,7 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
+
 StartChar: Utilde
 Encoding: 284 360 284
 Width: 1398
@@ -8599,6 +8888,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: utilde
 Encoding: 285 361 285
 Width: 672
@@ -8632,6 +8922,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: Umacron
 Encoding: 286 362 286
 Width: 1398
@@ -8664,6 +8955,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: umacron
 Encoding: 287 363 287
 Width: 672
@@ -8695,6 +8987,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ubreve
 Encoding: 288 364 288
 Width: 1398
@@ -8733,6 +9026,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: ubreve
 Encoding: 289 365 289
 Width: 672
@@ -8768,6 +9062,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: Uring
 Encoding: 290 366 290
 Width: 1398
@@ -8806,6 +9101,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: uring
 Encoding: 291 367 291
 Width: 672
@@ -8843,6 +9139,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: Uhungarumlaut
 Encoding: 292 368 292
 Width: 1398
@@ -8880,6 +9177,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: uhungarumlaut
 Encoding: 293 369 293
 Width: 672
@@ -8916,6 +9214,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: Uogonek
 Encoding: 294 370 294
 Width: 1398
@@ -8951,6 +9250,7 @@ SplineSet
  900 1224 895 1482 1010 1470 c 0
 EndSplineSet
 EndChar
+
 StartChar: uogonek
 Encoding: 295 371 295
 Width: 888
@@ -8985,6 +9285,7 @@ SplineSet
  403 550 390 731 488 734 c 0
 EndSplineSet
 EndChar
+
 StartChar: Wcircumflex
 Encoding: 296 372 296
 Width: 1614
@@ -9021,6 +9322,7 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
+
 StartChar: wcircumflex
 Encoding: 297 373 297
 Width: 892
@@ -9058,6 +9360,7 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ycircumflex
 Encoding: 298 374 298
 Width: 851
@@ -9093,6 +9396,7 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
+
 StartChar: ycircumflex
 Encoding: 299 375 299
 Width: 607
@@ -9128,6 +9432,7 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ydieresis
 Encoding: 300 376 300
 Width: 851
@@ -9163,6 +9468,7 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
+
 StartChar: Zacute
 Encoding: 301 377 301
 Width: 1052
@@ -9199,6 +9505,7 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
+
 StartChar: zacute
 Encoding: 302 378 302
 Width: 678
@@ -9232,6 +9539,7 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
+
 StartChar: Zdotaccent
 Encoding: 303 379 303
 Width: 1052
@@ -9268,6 +9576,7 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
+
 StartChar: zdotaccent
 Encoding: 304 380 304
 Width: 678
@@ -9301,6 +9610,7 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
+
 StartChar: Zcaron
 Encoding: 305 381 305
 Width: 1052
@@ -9342,6 +9652,7 @@ SplineSet
  295 692 23 653 20 750 c 0
 EndSplineSet
 EndChar
+
 StartChar: zcaron
 Encoding: 306 382 306
 Width: 678
@@ -9380,6 +9691,7 @@ SplineSet
  237 365 61 282 38 349 c 0
 EndSplineSet
 EndChar
+
 StartChar: florin
 Encoding: 307 402 307
 Width: 915
@@ -9409,6 +9721,7 @@ SplineSet
  807 804 578 785 401 702 c 0
 EndSplineSet
 EndChar
+
 StartChar: Scommaaccent
 Encoding: 308 536 308
 Width: 1182
@@ -9442,6 +9755,7 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
+
 StartChar: scommaaccent
 Encoding: 309 537 309
 Width: 654
@@ -9472,6 +9786,7 @@ SplineSet
  368 850 466 798 444 737 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni021A
 Encoding: 310 538 310
 Width: 1413
@@ -9496,6 +9811,7 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni021B
 Encoding: 311 539 311
 Width: 928
@@ -9529,6 +9845,7 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
+
 StartChar: circumflex
 Encoding: 312 710 312
 Width: 437
@@ -9548,6 +9865,7 @@ SplineSet
  127 1252 180 1364 231 1342 c 4
 EndSplineSet
 EndChar
+
 StartChar: caron
 Encoding: 313 711 313
 Width: 437
@@ -9567,6 +9885,7 @@ SplineSet
  311 1051 258 939 207 961 c 0
 EndSplineSet
 EndChar
+
 StartChar: breve
 Encoding: 314 728 314
 Width: 575
@@ -9585,6 +9904,7 @@ SplineSet
  18 1146 5 1319 96 1319 c 4
 EndSplineSet
 EndChar
+
 StartChar: dotaccent
 Encoding: 315 729 315
 Width: 234
@@ -9599,6 +9919,7 @@ SplineSet
  168 1147 112 1096 69 1117 c 4
 EndSplineSet
 EndChar
+
 StartChar: ring
 Encoding: 316 730 316
 Width: 386
@@ -9618,6 +9939,7 @@ SplineSet
  276 1173 258 1216 223 1230 c 4
 EndSplineSet
 EndChar
+
 StartChar: ogonek
 Encoding: 317 731 317
 Width: 465
@@ -9635,6 +9957,7 @@ SplineSet
  99 137 196 281 257 256 c 0
 EndSplineSet
 EndChar
+
 StartChar: tilde
 Encoding: 318 732 318
 Width: 702
@@ -9651,6 +9974,7 @@ SplineSet
  100 1298 -14 1123 47 1060 c 4
 EndSplineSet
 EndChar
+
 StartChar: hungarumlaut
 Encoding: 319 733 319
 Width: 672
@@ -9670,6 +9994,7 @@ SplineSet
  286 1230 400 1340 343 1393 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni0609
 Encoding: 320 1545 320
 Width: 1081
@@ -9703,6 +10028,7 @@ SplineSet
  525 1344 628 1558 717 1506 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni060A
 Encoding: 321 1546 321
 Width: 1312
@@ -9741,6 +10067,7 @@ SplineSet
  525 1344 628 1558 717 1506 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni060C
 Encoding: 322 1548 322
 Width: 264
@@ -9758,6 +10085,7 @@ SplineSet
  221 207 169 165 107 180 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni061B
 Encoding: 323 1563 323
 Width: 264
@@ -9778,6 +10106,7 @@ SplineSet
  235 279 216 65 84 110 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni061F
 Encoding: 324 1567 324
 Width: 810
@@ -9802,6 +10131,7 @@ SplineSet
  473 273 599 96 464 58 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni0621
 Encoding: 325 1569 325
 Width: 537
@@ -9821,6 +10151,7 @@ SplineSet
  70 633 307 934 387 832 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0622
 Encoding: 326 1570 326
 Width: 669
@@ -9847,6 +10178,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE82
 EndChar
+
 StartChar: uni0623
 Encoding: 327 1571 327
 Width: 279
@@ -9871,6 +10203,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE84
 EndChar
+
 StartChar: uni0624
 Encoding: 328 1572 328
 Width: 550
@@ -9898,6 +10231,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE86
 EndChar
+
 StartChar: uni0625
 Encoding: 329 1573 329
 Width: 279
@@ -9922,6 +10256,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE88
 EndChar
+
 StartChar: uni0626
 Encoding: 330 1574 330
 Width: 1525
@@ -9958,6 +10293,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFE8C
 Substitution2: "'init' Initial Forms lookup 42-1" uniFE8B
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE8A
 EndChar
+
 StartChar: uni0627
 Encoding: 331 1575 331
 Width: 279
@@ -9975,6 +10311,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE8E
 EndChar
+
 StartChar: uni0628
 Encoding: 332 1576 332
 Width: 1926
@@ -10001,6 +10338,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFE92
 Substitution2: "'init' Initial Forms lookup 42-1" uniFE91
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE90
 EndChar
+
 StartChar: uni0629
 Encoding: 333 1577 333
 Width: 528
@@ -10028,6 +10366,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE94
 EndChar
+
 StartChar: uni062A
 Encoding: 334 1578 334
 Width: 1926
@@ -10056,6 +10395,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFE98
 Substitution2: "'init' Initial Forms lookup 42-1" uniFE97
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE96
 EndChar
+
 StartChar: uni062B
 Encoding: 335 1579 335
 Width: 1926
@@ -10087,6 +10427,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFE9C
 Substitution2: "'init' Initial Forms lookup 42-1" uniFE9B
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE9A
 EndChar
+
 StartChar: uni062C
 Encoding: 336 1580 336
 Width: 1234
@@ -10119,6 +10460,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEA0
 Substitution2: "'init' Initial Forms lookup 42-1" uniFE9F
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFE9E
 EndChar
+
 StartChar: uni062D
 Encoding: 337 1581 337
 Width: 1234
@@ -10148,6 +10490,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEA4
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEA3
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEA2
 EndChar
+
 StartChar: uni062E
 Encoding: 338 1582 338
 Width: 1234
@@ -10180,6 +10523,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEA8
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEA7
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEA6
 EndChar
+
 StartChar: uni062F
 Encoding: 339 1583 339
 Width: 469
@@ -10197,6 +10541,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEAA
 EndChar
+
 StartChar: uni0630
 Encoding: 340 1584 340
 Width: 469
@@ -10217,6 +10562,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEAC
 EndChar
+
 StartChar: uni0631
 Encoding: 341 1585 341
 Width: 532
@@ -10234,6 +10580,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEAE
 EndChar
+
 StartChar: uni0632
 Encoding: 342 1586 342
 Width: 532
@@ -10254,6 +10601,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEB0
 EndChar
+
 StartChar: uni0633
 Encoding: 343 1587 343
 Width: 2091
@@ -10285,6 +10633,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEB4
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEB3
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEB2
 EndChar
+
 StartChar: uni0634
 Encoding: 344 1588 344
 Width: 2091
@@ -10324,6 +10673,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEB8
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEB7
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEB6
 EndChar
+
 StartChar: uni0635
 Encoding: 345 1589 345
 Width: 2254
@@ -10359,6 +10709,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEBC
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEBB
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEBA
 EndChar
+
 StartChar: uni0636
 Encoding: 346 1590 346
 Width: 2254
@@ -10397,6 +10748,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEC0
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEBF
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEBE
 EndChar
+
 StartChar: uni0637
 Encoding: 347 1591 347
 Width: 780
@@ -10427,6 +10779,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEC4
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEC3
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEC2
 EndChar
+
 StartChar: uni0638
 Encoding: 348 1592 348
 Width: 780
@@ -10460,6 +10813,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEC8
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEC7
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEC6
 EndChar
+
 StartChar: uni0639
 Encoding: 349 1593 349
 Width: 777
@@ -10492,6 +10846,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFECC
 Substitution2: "'init' Initial Forms lookup 42-1" uniFECB
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFECA
 EndChar
+
 StartChar: uni063A
 Encoding: 350 1594 350
 Width: 777
@@ -10527,6 +10882,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFED0
 Substitution2: "'init' Initial Forms lookup 42-1" uniFECF
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFECE
 EndChar
+
 StartChar: uni0641
 Encoding: 351 1601 351
 Width: 1777
@@ -10554,6 +10910,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFED4
 Substitution2: "'init' Initial Forms lookup 42-1" uniFED3
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFED2
 EndChar
+
 StartChar: uni0642
 Encoding: 352 1602 352
 Width: 1641
@@ -10585,6 +10942,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFED8
 Substitution2: "'init' Initial Forms lookup 42-1" uniFED7
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFED6
 EndChar
+
 StartChar: uni0643
 Encoding: 353 1603 353
 Width: 1695
@@ -10621,6 +10979,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEDC
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEDB
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEDA
 EndChar
+
 StartChar: uni0644
 Encoding: 354 1604 354
 Width: 1606
@@ -10648,6 +11007,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEE0
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEDF
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEDE
 EndChar
+
 StartChar: uni0645
 Encoding: 355 1605 355
 Width: 828
@@ -10672,6 +11032,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEE4
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEE3
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEE2
 EndChar
+
 StartChar: uni0646
 Encoding: 356 1606 356
 Width: 1707
@@ -10700,6 +11061,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEE8
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEE7
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEE6
 EndChar
+
 StartChar: uni0647
 Encoding: 357 1607 357
 Width: 528
@@ -10724,6 +11086,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEEC
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEEB
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEEA
 EndChar
+
 StartChar: uni0648
 Encoding: 358 1608 358
 Width: 550
@@ -10744,6 +11107,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEEE
 EndChar
+
 StartChar: uni0649
 Encoding: 359 1609 359
 Width: 1525
@@ -10773,6 +11137,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFBE9
 Substitution2: "'init' Initial Forms lookup 42-1" uniFBE8
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEF0
 EndChar
+
 StartChar: uni064A
 Encoding: 360 1610 360
 Width: 1525
@@ -10807,51 +11172,62 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFEF4
 Substitution2: "'init' Initial Forms lookup 42-1" uniFEF3
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFEF2
 EndChar
+
 StartChar: uni064B
 Encoding: 361 1611 361
 Width: 515
-Flags: W
+Flags: HW
+AnchorPoint: "HarakatAboveLig" 270 478 mark 0
 AnchorPoint: "HarakatAbove" 270 478 mark 0
 LayerCount: 2
 Fore
 SplineSet
-454 1202 m 4
- 498 1154 399 1046 278 950 c 4
- 165 861 63 764 17 828 c 4
- -34 900 121 992 198 1056 c 4
- 277 1121 392 1269 454 1202 c 4
-474 954 m 4
- 518 906 419 798 298 702 c 4
- 185 613 83 516 37 580 c 4
- -14 652 141 744 218 808 c 4
- 297 873 412 1021 474 954 c 4
+454 1202 m 0
+ 498 1154 399 1046 278 950 c 0
+ 263.632617462 938.684096939 249.443059225 927.238867115 235.523818561 916.011674153 c 0
+ 139.967711792 838.93657535 57.1513310024 772.137278605 17 828 c 0
+ -24.5230907927 886.62083406 70.5083805866 958.499392603 148.81747094 1017.7297134 c 0
+ 166.690132277 1031.24798388 183.691725314 1044.10740805 198 1056 c 0
+ 215.990387033 1070.80221718 235.84770964 1089.90875804 256.520901181 1109.80032081 c 0
+ 326.628532131 1177.25726564 406.119037924 1253.74232998 454 1202 c 0
+474 954 m 0
+ 518 906 419 798 298 702 c 0
+ 283.632617462 690.684096939 269.443059225 679.238867115 255.523818561 668.011674153 c 0
+ 159.967711792 590.93657535 77.1513310024 524.137278605 37 580 c 0
+ -4.52309079269 638.62083406 90.5083805866 710.499392603 168.81747094 769.729713398 c 0
+ 186.690132277 783.247983878 203.691725314 796.107408054 218 808 c 0
+ 235.990387033 822.802217179 255.84770964 841.908758043 276.520901181 861.800320808 c 0
+ 346.628532131 929.257265642 426.119037924 1005.74232998 474 954 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni064C
 Encoding: 362 1612 362
 Width: 473
-Flags: W
+Flags: HW
+AnchorPoint: "HarakatAboveLig" 240 478 mark 0
 AnchorPoint: "HarakatAbove" 240 478 mark 0
 LayerCount: 2
 Fore
 SplineSet
-65 559 m 4
- 30 624 178 695 240 761 c 5
- 197 797 147 863 172 938 c 4
- 200 1022 295 1087 375 1048 c 4
- 467 1003 457 876 418 782 c 4
- 368 662 108 480 65 559 c 4
-84 851 m 4
- 32 852 6 935 27 1023 c 4
- 36 1061 56 1111 80 1142 c 4
- 114 1185 169 1213 224 1221 c 4
- 310 1233 397 1195 388 1147 c 4
- 380 1105 321 1115 255 1108 c 4
- 222 1104 194 1088 171 1058 c 4
- 152 1034 137 1000 131 968 c 4
- 119 908 122 850 84 851 c 4
+65 559 m 0
+ 30 624 178 695 240 761 c 1
+ 197 797 147 863 172 938 c 0
+ 200 1022 295 1087 375 1048 c 0
+ 467 1003 457 876 418 782 c 0
+ 368 662 108 480 65 559 c 0
+84 851 m 0
+ 32 852 6 935 27 1023 c 0
+ 36 1061 56 1111 80 1142 c 0
+ 114 1185 169 1213 224 1221 c 0
+ 310 1233 397 1195 388 1147 c 0
+ 380 1105 321 1115 255 1108 c 0
+ 222 1104 194 1088 171 1058 c 0
+ 152 1034 137 1000 131 968 c 0
+ 119 908 122 850 84 851 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni064D
 Encoding: 363 1613 363
 Width: 515
@@ -10873,6 +11249,7 @@ SplineSet
  317 -452 432 -305 494 -372 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni064E
 Encoding: 364 1614 364
 Width: 515
@@ -10889,6 +11266,7 @@ SplineSet
  297 873 412 1021 474 954 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni064F
 Encoding: 365 1615 365
 Width: 435
@@ -10906,6 +11284,7 @@ SplineSet
  332 662 72 480 29 559 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni0650
 Encoding: 366 1616 366
 Width: 515
@@ -10922,6 +11301,7 @@ SplineSet
  297 -204 412 -57 474 -124 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0651
 Encoding: 367 1617 367
 Width: 525
@@ -10943,6 +11323,7 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0652
 Encoding: 368 1618 368
 Width: 405
@@ -10962,6 +11343,7 @@ SplineSet
  121 913 121 804 57 814 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0653
 Encoding: 369 1619 369
 Width: 959
@@ -10982,6 +11364,7 @@ SplineSet
  185 680 136 472 62 502 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0654
 Encoding: 370 1620 370
 Width: 403
@@ -11000,6 +11383,7 @@ SplineSet
  24 1031 231 1268 295 1200 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0655
 Encoding: 371 1621 371
 Width: 403
@@ -11018,6 +11402,7 @@ SplineSet
  24 -332 231 -95 295 -163 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0656
 Encoding: 372 1622 372
 Width: 211
@@ -11034,6 +11419,7 @@ SplineSet
  28 -317 -9 -155 80 -148 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni066A
 Encoding: 373 1642 373
 Width: 790
@@ -11062,6 +11448,7 @@ SplineSet
  525 1344 628 1558 717 1506 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni066D
 Encoding: 374 1645 374
 Width: 839
@@ -11086,6 +11473,7 @@ SplineSet
  275 478 79 419 61 532 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni0670
 Encoding: 375 1648 375
 Width: 211
@@ -11102,6 +11490,7 @@ SplineSet
  28 1093 -9 1255 80 1262 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni0674
 Encoding: 376 1652 376
 Width: 427
@@ -11118,6 +11507,7 @@ SplineSet
  41 1436 248 1673 312 1605 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni067E
 Encoding: 377 1662 377
 Width: 1926
@@ -11149,6 +11539,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFB59
 Substitution2: "'init' Initial Forms lookup 42-1" uniFB58
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB57
 EndChar
+
 StartChar: uni0686
 Encoding: 378 1670 378
 Width: 1234
@@ -11186,6 +11577,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFB7D
 Substitution2: "'init' Initial Forms lookup 42-1" uniFB7C
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB7B
 EndChar
+
 StartChar: uni0698
 Encoding: 379 1688 379
 Width: 532
@@ -11211,6 +11603,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB8B
 EndChar
+
 StartChar: uni06A9
 Encoding: 380 1705 380
 Width: 1695
@@ -11240,6 +11633,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFB91
 Substitution2: "'init' Initial Forms lookup 42-1" uniFB90
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB8F
 EndChar
+
 StartChar: uni06AF
 Encoding: 381 1711 381
 Width: 1695
@@ -11276,6 +11670,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFB95
 Substitution2: "'init' Initial Forms lookup 42-1" uniFB94
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFB93
 EndChar
+
 StartChar: uni06C0
 Encoding: 382 1728 382
 Width: 528
@@ -11305,6 +11700,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFBA5
 EndChar
+
 StartChar: uni06CC
 Encoding: 383 1740 383
 Width: 1525
@@ -11334,6 +11730,7 @@ Substitution2: "'medi' Medial Forms lookup 43-1" uniFBFF
 Substitution2: "'init' Initial Forms lookup 42-1" uniFBFE
 Substitution2: "'fina' Terminal Forms lookup 41-1" uniFBFD
 EndChar
+
 StartChar: uni06F0
 Encoding: 384 1776 384
 Width: 512
@@ -11353,6 +11750,7 @@ SplineSet
  350 674 329 726 287 743 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni06F1
 Encoding: 385 1777 385
 Width: 363
@@ -11367,6 +11765,7 @@ SplineSet
  82 883 -29 1406 86 1423 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni06F2
 Encoding: 386 1778 386
 Width: 865
@@ -11385,6 +11784,7 @@ SplineSet
  609 900 494 832 348 882 c 1
 EndSplineSet
 EndChar
+
 StartChar: uni06F3
 Encoding: 387 1779 387
 Width: 1063
@@ -11406,6 +11806,7 @@ SplineSet
  156 881 -53 1302 84 1372 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni06F4
 Encoding: 388 1780 388
 Width: 746
@@ -11428,6 +11829,7 @@ SplineSet
  12 774 114 912 240 996 c 1
 EndSplineSet
 EndChar
+
 StartChar: uni06F5
 Encoding: 389 1781 389
 Width: 1063
@@ -11454,6 +11856,7 @@ SplineSet
  720 797 653 871 528 968 c 1
 EndSplineSet
 EndChar
+
 StartChar: uni06F6
 Encoding: 390 1782 390
 Width: 1063
@@ -11474,6 +11877,7 @@ SplineSet
  785 1130 876 1268 943 1178 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni06F7
 Encoding: 391 1783 391
 Width: 925
@@ -11494,6 +11898,7 @@ SplineSet
  146 907 -50 1277 60 1327 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni06F8
 Encoding: 392 1784 392
 Width: 1063
@@ -11513,6 +11918,7 @@ SplineSet
  265 285 204 72 113 106 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni06F9
 Encoding: 393 1785 393
 Width: 703
@@ -11533,6 +11939,7 @@ SplineSet
  386 1004 372 1173 358 1199 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E02
 Encoding: 394 7682 394
 Width: 1272
@@ -11570,6 +11977,7 @@ SplineSet
  286 877 267 311 109 337 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E03
 Encoding: 395 7683 395
 Width: 751
@@ -11603,6 +12011,7 @@ SplineSet
  275 385 269 188 171 215 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E0A
 Encoding: 396 7690 396
 Width: 1362
@@ -11640,6 +12049,7 @@ SplineSet
  246 605 219 300 96 323 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E0B
 Encoding: 397 7691 397
 Width: 789
@@ -11676,6 +12086,7 @@ SplineSet
  439 1246 511 1594 617 1560 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E1E
 Encoding: 398 7710 398
 Width: 1069
@@ -11705,6 +12116,7 @@ SplineSet
  350 542 138 496 134 584 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E1F
 Encoding: 399 7711 399
 Width: 915
@@ -11736,6 +12148,7 @@ SplineSet
  807 804 578 785 401 702 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E40
 Encoding: 400 7744 400
 Width: 1480
@@ -11770,6 +12183,7 @@ SplineSet
  218 834 246 1242 378 1214 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E41
 Encoding: 401 7745 401
 Width: 947
@@ -11807,6 +12221,7 @@ SplineSet
  544 249 538 35 461 75 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E56
 Encoding: 402 7766 402
 Width: 1081
@@ -11840,6 +12255,7 @@ SplineSet
  229 511 284 34 133 46 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E57
 Encoding: 403 7767 403
 Width: 847
@@ -11878,6 +12294,7 @@ SplineSet
  363 57 283 127 310 192 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E60
 Encoding: 404 7776 404
 Width: 1182
@@ -11911,6 +12328,7 @@ SplineSet
  780 1464 825 1344 763 1303 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E61
 Encoding: 405 7777 405
 Width: 654
@@ -11941,6 +12359,7 @@ SplineSet
  368 850 466 798 444 737 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E6A
 Encoding: 406 7786 406
 Width: 1413
@@ -11965,6 +12384,7 @@ SplineSet
  578 1114 586 1568 695 1568 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni1E6B
 Encoding: 407 7787 407
 Width: 928
@@ -11998,6 +12418,7 @@ SplineSet
  215 958 137 783 60 841 c 0
 EndSplineSet
 EndChar
+
 StartChar: Wgrave
 Encoding: 408 7808 408
 Width: 1614
@@ -12029,6 +12450,7 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
+
 StartChar: wgrave
 Encoding: 409 7809 409
 Width: 892
@@ -12061,6 +12483,7 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
+
 StartChar: Wacute
 Encoding: 410 7810 410
 Width: 1614
@@ -12092,6 +12515,7 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
+
 StartChar: wacute
 Encoding: 411 7811 411
 Width: 892
@@ -12124,6 +12548,7 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
+
 StartChar: Wdieresis
 Encoding: 412 7812 412
 Width: 1614
@@ -12160,6 +12585,7 @@ SplineSet
  8 905 24 1488 158 1480 c 0
 EndSplineSet
 EndChar
+
 StartChar: wdieresis
 Encoding: 413 7813 413
 Width: 892
@@ -12197,6 +12623,7 @@ SplineSet
  411 338 380 544 461 562 c 0
 EndSplineSet
 EndChar
+
 StartChar: Ygrave
 Encoding: 414 7922 414
 Width: 851
@@ -12227,6 +12654,7 @@ SplineSet
  591 1188 697 1521 807 1478 c 0
 EndSplineSet
 EndChar
+
 StartChar: ygrave
 Encoding: 415 7923 415
 Width: 607
@@ -12257,6 +12685,7 @@ SplineSet
  462 -573 441 -913 323 -887 c 0
 EndSplineSet
 EndChar
+
 StartChar: endash
 Encoding: 416 8211 416
 Width: 707
@@ -12271,6 +12700,7 @@ SplineSet
  242 382 23 334 17 450 c 0
 EndSplineSet
 EndChar
+
 StartChar: emdash
 Encoding: 417 8212 417
 Width: 1092
@@ -12287,6 +12717,7 @@ SplineSet
  196 391 19 348 17 450 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2015
 Encoding: 418 8213 418
 Width: 1423
@@ -12303,6 +12734,7 @@ SplineSet
  207 387 29 348 27 450 c 0
 EndSplineSet
 EndChar
+
 StartChar: quoteleft
 Encoding: 419 8216 419
 Width: 415
@@ -12317,6 +12749,7 @@ SplineSet
  191 1233 148 1091 80 1119 c 0
 EndSplineSet
 EndChar
+
 StartChar: quoteright
 Encoding: 420 8217 420
 Width: 406
@@ -12331,6 +12764,7 @@ SplineSet
  211 1454 254 1595 322 1567 c 0
 EndSplineSet
 EndChar
+
 StartChar: quotesinglbase
 Encoding: 421 8218 421
 Width: 406
@@ -12345,6 +12779,7 @@ SplineSet
  211 368 254 510 322 482 c 0
 EndSplineSet
 EndChar
+
 StartChar: quotedblleft
 Encoding: 422 8220 422
 Width: 673
@@ -12364,6 +12799,7 @@ SplineSet
  191 1233 148 1091 80 1119 c 0
 EndSplineSet
 EndChar
+
 StartChar: quotedblright
 Encoding: 423 8221 423
 Width: 649
@@ -12383,6 +12819,7 @@ SplineSet
  465 1487 508 1629 576 1601 c 4
 EndSplineSet
 EndChar
+
 StartChar: quotedblbase
 Encoding: 424 8222 424
 Width: 649
@@ -12402,6 +12839,7 @@ SplineSet
  465 373 508 514 576 486 c 4
 EndSplineSet
 EndChar
+
 StartChar: dagger
 Encoding: 425 8224 425
 Width: 854
@@ -12425,6 +12863,7 @@ SplineSet
  23 1049 194 1074 280 1090 c 4
 EndSplineSet
 EndChar
+
 StartChar: daggerdbl
 Encoding: 426 8225 426
 Width: 854
@@ -12455,6 +12894,7 @@ SplineSet
  23 1049 194 1074 280 1090 c 0
 EndSplineSet
 EndChar
+
 StartChar: bullet
 Encoding: 427 8226 427
 Width: 386
@@ -12469,6 +12909,7 @@ SplineSet
  300 559 199 510 110 552 c 0
 EndSplineSet
 EndChar
+
 StartChar: ellipsis
 Encoding: 428 8230 428
 Width: 787
@@ -12493,6 +12934,7 @@ SplineSet
  205 103 168 64 104 86 c 4
 EndSplineSet
 EndChar
+
 StartChar: perthousand
 Encoding: 429 8240 429
 Width: 1579
@@ -12542,6 +12984,7 @@ SplineSet
  921 528 916 590 887 605 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2031
 Encoding: 430 8241 430
 Width: 2086
@@ -12601,6 +13044,7 @@ SplineSet
  921 528 916 590 887 605 c 0
 EndSplineSet
 EndChar
+
 StartChar: guilsinglleft
 Encoding: 431 8249 431
 Width: 613
@@ -12619,6 +13063,7 @@ SplineSet
  460 772 579 843 520 915 c 0
 EndSplineSet
 EndChar
+
 StartChar: guilsinglright
 Encoding: 432 8250 432
 Width: 611
@@ -12637,6 +13082,7 @@ SplineSet
  150 772 31 843 90 915 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni203B
 Encoding: 433 8251 433
 Width: 1325
@@ -12680,6 +13126,7 @@ SplineSet
  802 1146 979 1316 1048 1233 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2070
 Encoding: 434 8304 434
 Width: 639
@@ -12699,6 +13146,7 @@ SplineSet
  447 1332 386 1427 329 1431 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni2074
 Encoding: 435 8308 435
 Width: 568
@@ -12722,6 +13170,7 @@ SplineSet
  292 1120 262 1309 338 1318 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2075
 Encoding: 436 8309 436
 Width: 561
@@ -12746,6 +13195,7 @@ SplineSet
  233 1431 118 1345 82 1396 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni2076
 Encoding: 437 8310 437
 Width: 503
@@ -12768,6 +13218,7 @@ SplineSet
  51 1399 148 1610 225 1555 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2077
 Encoding: 438 8311 438
 Width: 648
@@ -12792,6 +13243,7 @@ SplineSet
  329 1182 188 1089 148 1156 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni2078
 Encoding: 439 8312 439
 Width: 499
@@ -12819,6 +13271,7 @@ SplineSet
  119 1340 31 1390 65 1447 c 4
 EndSplineSet
 EndChar
+
 StartChar: uni2079
 Encoding: 440 8313 440
 Width: 513
@@ -12844,6 +13297,7 @@ SplineSet
  313 1349 344 1611 455 1584 c 4
 EndSplineSet
 EndChar
+
 StartChar: Euro
 Encoding: 441 8364 441
 Width: 1083
@@ -12876,6 +13330,7 @@ SplineSet
  221 354 33 275 1 360 c 0
 EndSplineSet
 EndChar
+
 StartChar: trademark
 Encoding: 442 8482 442
 Width: 1020
@@ -12915,6 +13370,7 @@ SplineSet
  816 1308 805 1507 858 1516 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2150
 Encoding: 443 8528 443
 Width: 1335
@@ -12951,6 +13407,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2151
 Encoding: 444 8529 444
 Width: 1183
@@ -12988,6 +13445,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2152
 Encoding: 445 8530 445
 Width: 1589
@@ -13024,6 +13482,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: onethird
 Encoding: 446 8531 446
 Width: 1301
@@ -13062,6 +13521,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: twothirds
 Encoding: 447 8532 447
 Width: 1526
@@ -13109,6 +13569,7 @@ SplineSet
  214 1233 223 1206 159 1166 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2155
 Encoding: 448 8533 448
 Width: 1301
@@ -13145,6 +13606,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2156
 Encoding: 449 8534 449
 Width: 1456
@@ -13190,6 +13652,7 @@ SplineSet
  474 277 307 26 234 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2157
 Encoding: 450 8535 450
 Width: 1336
@@ -13238,6 +13701,7 @@ SplineSet
  942 688 827 602 791 653 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2158
 Encoding: 451 8536 451
 Width: 1462
@@ -13283,6 +13747,7 @@ SplineSet
  1068 688 953 602 917 653 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni2159
 Encoding: 452 8537 452
 Width: 1301
@@ -13317,6 +13782,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni215A
 Encoding: 453 8538 453
 Width: 1391
@@ -13361,6 +13827,7 @@ SplineSet
  396 277 229 26 156 86 c 4
 EndSplineSet
 EndChar
+
 StartChar: oneeighth
 Encoding: 454 8539 454
 Width: 1301
@@ -13400,6 +13867,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: threeeighths
 Encoding: 455 8540 455
 Width: 1333
@@ -13451,6 +13919,7 @@ SplineSet
  91 1256 25 1301 32 1353 c 4
 EndSplineSet
 EndChar
+
 StartChar: fiveeighths
 Encoding: 456 8541 456
 Width: 1336
@@ -13500,6 +13969,7 @@ SplineSet
  354 277 187 26 114 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: seveneighths
 Encoding: 457 8542 457
 Width: 1438
@@ -13549,6 +14019,7 @@ SplineSet
  456 277 289 26 216 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: uni215F
 Encoding: 458 8543 458
 Width: 1301
@@ -13570,6 +14041,7 @@ SplineSet
  306 277 139 26 66 86 c 0
 EndSplineSet
 EndChar
+
 StartChar: infinity
 Encoding: 459 8734 459
 Width: 1293
@@ -13600,6 +14072,7 @@ SplineSet
  513 389 621 567 697 499 c 0
 EndSplineSet
 EndChar
+
 StartChar: notequal
 Encoding: 460 8800 460
 Width: 685
@@ -13626,6 +14099,7 @@ SplineSet
  236 629 83 558 67 647 c 0
 EndSplineSet
 EndChar
+
 StartChar: lessequal
 Encoding: 461 8804 461
 Width: 679
@@ -13650,6 +14124,7 @@ SplineSet
  136 278 -15 323 37 408 c 0
 EndSplineSet
 EndChar
+
 StartChar: greaterequal
 Encoding: 462 8805 462
 Width: 679
@@ -13674,6 +14149,7 @@ SplineSet
  552 278 703 323 651 408 c 4
 EndSplineSet
 EndChar
+
 StartChar: uniFB56
 Encoding: 463 64342 463
 Width: 1926
@@ -13702,6 +14178,7 @@ SplineSet
  924 -668 848 -879 710 -777 c 4
 EndSplineSet
 EndChar
+
 StartChar: uniFB57
 Encoding: 464 64343 464
 Width: 2028
@@ -13733,6 +14210,7 @@ SplineSet
  508 -53 138 17 70 296 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB58
 Encoding: 465 64344 465
 Width: 232
@@ -13762,6 +14240,7 @@ Substitution2: "Initial Forms Preceding Heh-1" PehInit3
 Substitution2: "Initial Forms Preceding Meem-1" PehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" PehInit1
 EndChar
+
 StartChar: uniFB59
 Encoding: 466 64345 466
 Width: 322
@@ -13795,6 +14274,7 @@ Substitution2: "Medial Forms Preceding Heh-1" PehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" PehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" PehMedi1
 EndChar
+
 StartChar: uniFB7A
 Encoding: 467 64378 467
 Width: 1234
@@ -13829,6 +14309,7 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB7B
 Encoding: 468 64379 468
 Width: 522
@@ -13865,6 +14346,7 @@ SplineSet
  718 -709 651 -908 522 -814 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB7C
 Encoding: 469 64380 469
 Width: 586
@@ -13904,6 +14386,7 @@ Substitution2: "Initial Forms Preceding Heh-1" TchehInit5
 Substitution2: "Initial Forms Preceding Meem-1" TchehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" TchehInit2
 EndChar
+
 StartChar: uniFB7D
 Encoding: 470 64381 470
 Width: 194
@@ -13942,6 +14425,7 @@ Substitution2: "Medial Forms Preceding Heh-1" TchehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" TchehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" TchehMedi2
 EndChar
+
 StartChar: uniFB8A
 Encoding: 471 64394 471
 Width: 532
@@ -13966,6 +14450,7 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB8B
 Encoding: 472 64395 472
 Width: 568
@@ -13995,6 +14480,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" JehFina1
 EndChar
+
 StartChar: uniFB8E
 Encoding: 473 64398 473
 Width: 1695
@@ -14021,6 +14507,7 @@ SplineSet
  1944 1856 1626 1368 1554 1401 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB8F
 Encoding: 474 64399 474
 Width: 1650
@@ -14050,6 +14537,7 @@ SplineSet
  1438 603 1385 942 1484 945 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB90
 Encoding: 475 64400 475
 Width: 379
@@ -14078,6 +14566,7 @@ Substitution2: "Initial Forms Preceding Heh-1" KehInit4
 Substitution2: "Initial Forms Preceding Meem-1" KehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KehInit2
 EndChar
+
 StartChar: uniFB91
 Encoding: 476 64401 476
 Width: 414
@@ -14110,6 +14599,7 @@ Substitution2: "Medial Forms Preceding Heh-1" KehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
 EndChar
+
 StartChar: uniFB92
 Encoding: 477 64402 477
 Width: 1695
@@ -14143,6 +14633,7 @@ SplineSet
  1656 1776 1842 2060 1880 2122 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB93
 Encoding: 478 64403 478
 Width: 1650
@@ -14178,6 +14669,7 @@ SplineSet
  1438 603 1385 942 1484 945 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFB94
 Encoding: 479 64404 479
 Width: 379
@@ -14211,6 +14703,7 @@ Substitution2: "Initial Forms Preceding Heh-1" GafInit4
 Substitution2: "Initial Forms Preceding Meem-1" GafInit3
 Substitution2: "Initial Forms Preceding Jeem-1" GafInit2
 EndChar
+
 StartChar: uniFB95
 Encoding: 480 64405 480
 Width: 414
@@ -14247,6 +14740,7 @@ Substitution2: "Medial Forms Preceding Heh-1" GafMedi5
 Substitution2: "Medial Forms Preceding Meem-1" GafMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" GafMedi3
 EndChar
+
 StartChar: uniFBA4
 Encoding: 481 64420 481
 Width: 528
@@ -14275,6 +14769,7 @@ SplineSet
  384 548 289 591 255 594 c 5
 EndSplineSet
 EndChar
+
 StartChar: uniFBA5
 Encoding: 482 64421 482
 Width: 744
@@ -14301,6 +14796,7 @@ SplineSet
  219 1272 425 1510 489 1442 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFBE8
 Encoding: 483 64488 483
 Width: 232
@@ -14322,6 +14818,7 @@ Substitution2: "Initial Forms Preceding Heh-1" AlefMaksuraInit3
 Substitution2: "Initial Forms Preceding Meem-1" AlefMaksuraInit2
 Substitution2: "Initial Forms Preceding Jeem-1" AlefMaksuraInit1
 EndChar
+
 StartChar: uniFBE9
 Encoding: 484 64489 484
 Width: 322
@@ -14347,6 +14844,7 @@ Substitution2: "Medial Forms Preceding Heh-1" AlefMaksuraMedi4
 Substitution2: "Medial Forms Preceding Meem-1" AlefMaksuraMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" AlefMaksuraMedi1
 EndChar
+
 StartChar: uniFBFC
 Encoding: 485 64508 485
 Width: 1525
@@ -14373,6 +14871,7 @@ SplineSet
  1115 867 1437 1193 1496 1108 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFBFD
 Encoding: 486 64509 486
 Width: 1090
@@ -14401,6 +14900,7 @@ EndSplineSet
 Substitution2: "Final Form Yeh 2-1" YehFina2
 Substitution2: "Final Form Yeh 1-1" YehFina1
 EndChar
+
 StartChar: uniFBFE
 Encoding: 487 64510 487
 Width: 232
@@ -14427,6 +14927,7 @@ Substitution2: "Initial Forms Preceding Heh-1" YehInit3
 Substitution2: "Initial Forms Preceding Meem-1" YehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" YehInit1
 EndChar
+
 StartChar: uniFBFF
 Encoding: 488 64511 488
 Width: 322
@@ -14457,6 +14958,7 @@ Substitution2: "Medial Forms Preceding Heh-1" YehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" YehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehMedi1
 EndChar
+
 StartChar: uniFC5E
 Encoding: 489 64606 489
 Width: 525
@@ -14493,6 +14995,7 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFC5F
 Encoding: 490 64607 490
 Width: 551
@@ -14524,6 +15027,7 @@ SplineSet
  433 1483 390 1621 447 1627 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFC60
 Encoding: 491 64608 491
 Width: 525
@@ -14550,6 +15054,7 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFC61
 Encoding: 492 64609 492
 Width: 525
@@ -14577,6 +15082,7 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFC62
 Encoding: 493 64610 493
 Width: 551
@@ -14603,6 +15109,7 @@ SplineSet
  433 1230 390 1368 447 1374 c 4
 EndSplineSet
 EndChar
+
 StartChar: uniFC63
 Encoding: 494 64611 494
 Width: 525
@@ -14629,6 +15136,7 @@ SplineSet
  433 939 390 1077 447 1083 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE80
 Encoding: 495 65152 495
 Width: 537
@@ -14648,6 +15156,7 @@ SplineSet
  70 633 307 934 387 832 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE81
 Encoding: 496 65153 496
 Width: 669
@@ -14673,6 +15182,7 @@ SplineSet
  41 1674 61 1395 -44 1398 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE82
 Encoding: 497 65154 497
 Width: 310
@@ -14702,6 +15212,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefMaddaFina1
 EndChar
+
 StartChar: uniFE83
 Encoding: 498 65155 498
 Width: 279
@@ -14725,6 +15236,7 @@ SplineSet
  -6 1893 200 2129 264 2061 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE84
 Encoding: 499 65156 499
 Width: 310
@@ -14753,6 +15265,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaAboveFina1
 EndChar
+
 StartChar: uniFE85
 Encoding: 500 65157 500
 Width: 550
@@ -14779,6 +15292,7 @@ SplineSet
  247 43 329 84 357 184 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFE86
 Encoding: 501 65158 501
 Width: 570
@@ -14810,6 +15324,7 @@ SplineSet
  243 -35 304 -9 336 105 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFE87
 Encoding: 502 65159 502
 Width: 279
@@ -14833,6 +15348,7 @@ SplineSet
  -91 -246 114 -8 178 -76 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE88
 Encoding: 503 65160 503
 Width: 310
@@ -14861,6 +15377,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefHamzaBelowFina1
 EndChar
+
 StartChar: uniFE89
 Encoding: 504 65161 504
 Width: 1525
@@ -14894,6 +15411,7 @@ SplineSet
  563 1551 768 1788 832 1720 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE8A
 Encoding: 505 65162 505
 Width: 1090
@@ -14928,6 +15446,7 @@ EndSplineSet
 Substitution2: "Final Form Yeh 2-1" YehHamzaFina2
 Substitution2: "Final Form Yeh 1-1" YehHamzaFina1
 EndChar
+
 StartChar: uniFE8B
 Encoding: 506 65163 506
 Width: 232
@@ -14958,6 +15477,7 @@ Substitution2: "Initial Forms Preceding Heh-1" YehHamzaInit3
 Substitution2: "Initial Forms Preceding Meem-1" YehHamzaInit2
 Substitution2: "Initial Forms Preceding Jeem-1" YehHamzaInit1
 EndChar
+
 StartChar: uniFE8C
 Encoding: 507 65164 507
 Width: 322
@@ -14991,6 +15511,7 @@ Substitution2: "Medial Forms Preceding Reh-1" YehHamzaMedi5
 Substitution2: "Medial Forms Preceding Meem-1" YehHamzaMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehHamzaMedi1
 EndChar
+
 StartChar: uniFE8D
 Encoding: 508 65165 508
 Width: 279
@@ -15007,6 +15528,7 @@ SplineSet
  270 1228 222 861 228 624 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE8E
 Encoding: 509 65166 509
 Width: 310
@@ -15028,6 +15550,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" AlefFina1
 EndChar
+
 StartChar: uniFE8F
 Encoding: 510 65167 510
 Width: 1926
@@ -15051,6 +15574,7 @@ SplineSet
  993 -346 903 -624 768 -572 c 4
 EndSplineSet
 EndChar
+
 StartChar: uniFE90
 Encoding: 511 65168 511
 Width: 2028
@@ -15077,6 +15601,7 @@ SplineSet
  508 -53 138 17 70 296 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE91
 Encoding: 512 65169 512
 Width: 232
@@ -15101,6 +15626,7 @@ Substitution2: "Initial Forms Preceding Heh-1" BehInit3
 Substitution2: "Initial Forms Preceding Meem-1" BehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" BehInit1
 EndChar
+
 StartChar: uniFE92
 Encoding: 513 65170 513
 Width: 322
@@ -15129,6 +15655,7 @@ Substitution2: "Medial Forms Preceding Heh-1" BehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" BehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" BehMedi1
 EndChar
+
 StartChar: uniFE93
 Encoding: 514 65171 514
 Width: 528
@@ -15155,6 +15682,7 @@ SplineSet
  384 548 289 591 255 594 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFE94
 Encoding: 515 65172 515
 Width: 744
@@ -15179,6 +15707,7 @@ SplineSet
  12 -80 74 82 126 208 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE95
 Encoding: 516 65173 516
 Width: 1926
@@ -15204,6 +15733,7 @@ SplineSet
  967 1634 1254 1606 1214 1492 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE96
 Encoding: 517 65174 517
 Width: 2028
@@ -15232,6 +15762,7 @@ SplineSet
  1020 1453 1301 1425 1263 1311 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE97
 Encoding: 518 65175 518
 Width: 232
@@ -15260,6 +15791,7 @@ Substitution2: "Initial Forms Preceding Heh-1" TehInit3
 Substitution2: "Initial Forms Preceding Meem-1" TehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" TehInit1
 EndChar
+
 StartChar: uniFE98
 Encoding: 519 65176 519
 Width: 322
@@ -15291,6 +15823,7 @@ Substitution2: "Medial Forms Preceding Heh-1" TehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" TehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TehMedi1
 EndChar
+
 StartChar: uniFE99
 Encoding: 520 65177 520
 Width: 1926
@@ -15319,6 +15852,7 @@ SplineSet
  1013 1976 940 1741 826 1785 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE9A
 Encoding: 521 65178 521
 Width: 2028
@@ -15350,6 +15884,7 @@ SplineSet
  1060 1782 961 1571 879 1604 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE9B
 Encoding: 522 65179 522
 Width: 232
@@ -15381,6 +15916,7 @@ Substitution2: "Initial Forms Preceding Heh-1" ThehInit3
 Substitution2: "Initial Forms Preceding Meem-1" ThehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" ThehInit1
 EndChar
+
 StartChar: uniFE9C
 Encoding: 523 65180 523
 Width: 322
@@ -15415,6 +15951,7 @@ Substitution2: "Medial Forms Preceding Heh-1" ThehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" ThehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ThehMedi1
 EndChar
+
 StartChar: uniFE9D
 Encoding: 524 65181 524
 Width: 1234
@@ -15444,6 +15981,7 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE9E
 Encoding: 525 65182 525
 Width: 522
@@ -15475,6 +16013,7 @@ SplineSet
  428 -542 507 -384 609 -430 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFE9F
 Encoding: 526 65183 526
 Width: 586
@@ -15509,6 +16048,7 @@ Substitution2: "Initial Forms Preceding Heh-1" JeemInit5
 Substitution2: "Initial Forms Preceding Meem-1" JeemInit3
 Substitution2: "Initial Forms Preceding Jeem-1" JeemInit2
 EndChar
+
 StartChar: uniFEA0
 Encoding: 527 65184 527
 Width: 194
@@ -15542,6 +16082,7 @@ Substitution2: "Medial Forms Preceding Heh-1" JeemMedi5
 Substitution2: "Medial Forms Preceding Meem-1" JeemMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" JeemMedi2
 EndChar
+
 StartChar: uniFEA1
 Encoding: 528 65185 528
 Width: 1234
@@ -15568,6 +16109,7 @@ SplineSet
  586 545 572 329 478 332 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEA2
 Encoding: 529 65186 529
 Width: 522
@@ -15596,6 +16138,7 @@ SplineSet
  190 546 513 783 522 789 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEA3
 Encoding: 530 65187 530
 Width: 586
@@ -15627,6 +16170,7 @@ Substitution2: "Initial Forms Preceding Heh-1" HahInit5
 Substitution2: "Initial Forms Preceding Meem-1" HahInit3
 Substitution2: "Initial Forms Preceding Jeem-1" HahInit2
 EndChar
+
 StartChar: uniFEA4
 Encoding: 531 65188 531
 Width: 194
@@ -15657,6 +16201,7 @@ Substitution2: "Medial Forms Preceding Heh-1" HahMedi5
 Substitution2: "Medial Forms Preceding Meem-1" HahMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" HahMedi2
 EndChar
+
 StartChar: uniFEA5
 Encoding: 532 65189 532
 Width: 1234
@@ -15686,6 +16231,7 @@ SplineSet
  622 1492 713 1674 830 1622 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEA6
 Encoding: 533 65190 533
 Width: 522
@@ -15717,6 +16263,7 @@ SplineSet
  274 1156 352 1318 454 1272 c 4
 EndSplineSet
 EndChar
+
 StartChar: uniFEA7
 Encoding: 534 65191 534
 Width: 586
@@ -15751,6 +16298,7 @@ Substitution2: "Initial Forms Preceding Heh-1" KhehInit5
 Substitution2: "Initial Forms Preceding Meem-1" KhehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KhehInit2
 EndChar
+
 StartChar: uniFEA8
 Encoding: 535 65192 535
 Width: 194
@@ -15784,6 +16332,7 @@ Substitution2: "Medial Forms Preceding Heh-1" KhehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KhehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" KhehMedi2
 EndChar
+
 StartChar: uniFEA9
 Encoding: 536 65193 536
 Width: 469
@@ -15800,6 +16349,7 @@ SplineSet
  338 605 106 776 194 850 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEAA
 Encoding: 537 65194 537
 Width: 487
@@ -15822,6 +16372,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" DalFina1
 EndChar
+
 StartChar: uniFEAB
 Encoding: 538 65195 538
 Width: 469
@@ -15841,6 +16392,7 @@ SplineSet
  80 1474 168 1656 285 1604 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEAC
 Encoding: 539 65196 539
 Width: 487
@@ -15866,6 +16418,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Long Final Forms-1" ThalFina1
 EndChar
+
 StartChar: uniFEAD
 Encoding: 540 65197 540
 Width: 532
@@ -15882,6 +16435,7 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEAE
 Encoding: 541 65198 541
 Width: 568
@@ -15903,6 +16457,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" RehFina1
 EndChar
+
 StartChar: uniFEAF
 Encoding: 542 65199 542
 Width: 532
@@ -15922,6 +16477,7 @@ SplineSet
  327 225 394 510 486 470 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEB0
 Encoding: 543 65200 543
 Width: 568
@@ -15946,6 +16502,7 @@ SplineSet
 EndSplineSet
 Substitution2: "Final Reh Succeeding Stretched Tooth-1" ZehFina1
 EndChar
+
 StartChar: uniFEB1
 Encoding: 544 65201 544
 Width: 2091
@@ -15974,6 +16531,7 @@ SplineSet
  1970 864 1932 1058 2014 1058 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEB2
 Encoding: 545 65202 545
 Width: 2046
@@ -16006,6 +16564,7 @@ SplineSet
  1894 784 1884 988 1964 976 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEB3
 Encoding: 546 65203 546
 Width: 763
@@ -16035,6 +16594,7 @@ Substitution2: "Initial Forms Preceding Heh-1" SeenInit4
 Substitution2: "Initial Forms Preceding Meem-1" SeenInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SeenInit1
 EndChar
+
 StartChar: uniFEB4
 Encoding: 547 65204 547
 Width: 780
@@ -16070,6 +16630,7 @@ Substitution2: "Medial Forms Preceding Heh-1" SeenMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SeenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SeenMedi1
 EndChar
+
 StartChar: uniFEB5
 Encoding: 548 65205 548
 Width: 2091
@@ -16106,6 +16667,7 @@ SplineSet
  1436 1990 1407 1751 1275 1791 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEB6
 Encoding: 549 65206 549
 Width: 2046
@@ -16146,6 +16708,7 @@ SplineSet
  1363 1911 1330 1672 1198 1712 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEB7
 Encoding: 550 65207 550
 Width: 763
@@ -16184,6 +16747,7 @@ Substitution2: "Initial Forms Preceding Heh-1" SheenInit4
 Substitution2: "Initial Forms Preceding Meem-1" SheenInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SheenInit1
 EndChar
+
 StartChar: uniFEB8
 Encoding: 551 65208 551
 Width: 780
@@ -16228,6 +16792,7 @@ Substitution2: "Medial Forms Preceding Heh-1" SheenMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SheenMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SheenMedi1
 EndChar
+
 StartChar: uniFEB9
 Encoding: 552 65209 552
 Width: 2254
@@ -16260,6 +16825,7 @@ SplineSet
  2105 786 2090 1064 2090 1064 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEBA
 Encoding: 553 65210 553
 Width: 2131
@@ -16295,6 +16861,7 @@ SplineSet
  1996 753 1978 1014 1978 1014 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEBB
 Encoding: 554 65211 554
 Width: 862
@@ -16327,6 +16894,7 @@ Substitution2: "Initial Forms Preceding Heh-1" SadInit4
 Substitution2: "Initial Forms Preceding Meem-1" SadInit2
 Substitution2: "Initial Forms Preceding Jeem-1" SadInit1
 EndChar
+
 StartChar: uniFEBC
 Encoding: 555 65212 555
 Width: 847
@@ -16364,6 +16932,7 @@ Substitution2: "Medial Forms Preceding Heh-1" SadMedi4
 Substitution2: "Medial Forms Preceding Meem-1" SadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" SadMedi1
 EndChar
+
 StartChar: uniFEBD
 Encoding: 556 65213 556
 Width: 2254
@@ -16399,6 +16968,7 @@ SplineSet
  1480 1844 1448 1607 1316 1647 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEBE
 Encoding: 557 65214 557
 Width: 2131
@@ -16437,6 +17007,7 @@ SplineSet
  1996 753 1978 1014 1978 1014 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEBF
 Encoding: 558 65215 558
 Width: 862
@@ -16472,6 +17043,7 @@ Substitution2: "Initial Forms Preceding Heh-1" DadInit4
 Substitution2: "Initial Forms Preceding Meem-1" DadInit2
 Substitution2: "Initial Forms Preceding Jeem-1" DadInit1
 EndChar
+
 StartChar: uniFEC0
 Encoding: 559 65216 559
 Width: 847
@@ -16512,6 +17084,7 @@ Substitution2: "Medial Forms Preceding Heh-1" DadMedi4
 Substitution2: "Medial Forms Preceding Meem-1" DadMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" DadMedi1
 EndChar
+
 StartChar: uniFEC1
 Encoding: 560 65217 560
 Width: 780
@@ -16539,6 +17112,7 @@ SplineSet
  612 532 681 668 654 688 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEC2
 Encoding: 561 65218 561
 Width: 888
@@ -16570,6 +17144,7 @@ SplineSet
  657 504 726 640 699 660 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEC3
 Encoding: 562 65219 562
 Width: 666
@@ -16599,6 +17174,7 @@ Substitution2: "Initial Forms Preceding Heh-1" TahInit3
 Substitution2: "Initial Forms Preceding Meem-1" TahInit2
 Substitution2: "Initial Forms Preceding Jeem-1" TahInit1
 EndChar
+
 StartChar: uniFEC4
 Encoding: 563 65220 563
 Width: 645
@@ -16632,6 +17208,7 @@ Substitution2: "Medial Forms Preceding Heh-1" TahMedi3
 Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" TahMedi1
 EndChar
+
 StartChar: uniFEC5
 Encoding: 564 65221 564
 Width: 780
@@ -16662,6 +17239,7 @@ SplineSet
  862 1820 830 1582 698 1622 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEC6
 Encoding: 565 65222 565
 Width: 888
@@ -16696,6 +17274,7 @@ SplineSet
  943 1700 910 1462 778 1502 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEC7
 Encoding: 566 65223 566
 Width: 666
@@ -16728,6 +17307,7 @@ Substitution2: "Initial Forms Preceding Heh-1" ZahInit3
 Substitution2: "Initial Forms Preceding Meem-1" ZahInit2
 Substitution2: "Initial Forms Preceding Jeem-1" ZahInit1
 EndChar
+
 StartChar: uniFEC8
 Encoding: 567 65224 567
 Width: 645
@@ -16764,6 +17344,7 @@ Substitution2: "Medial Forms Preceding Heh-1" ZahMedi3
 Substitution2: "Medial Forms Preceding Meem-1" TahMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" ZahMedi1
 EndChar
+
 StartChar: uniFEC9
 Encoding: 568 65225 568
 Width: 777
@@ -16793,6 +17374,7 @@ SplineSet
  562 746 697 654 645 578 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFECA
 Encoding: 569 65226 569
 Width: 860
@@ -16823,6 +17405,7 @@ SplineSet
  568 912 624 932 676 932 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFECB
 Encoding: 570 65227 570
 Width: 607
@@ -16852,6 +17435,7 @@ Substitution2: "Initial Forms Preceding Heh-1" AinInit5
 Substitution2: "Initial Forms Preceding Meem-1" AinInit3
 Substitution2: "Initial Forms Preceding Jeem-1" AinInit2
 EndChar
+
 StartChar: uniFECC
 Encoding: 571 65228 571
 Width: 402
@@ -16881,6 +17465,7 @@ Substitution2: "Medial Forms Preceding Heh-1" AinMedi4
 Substitution2: "Medial Forms Preceding Meem-1" AinMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" AinMedi1
 EndChar
+
 StartChar: uniFECD
 Encoding: 572 65229 572
 Width: 777
@@ -16913,6 +17498,7 @@ SplineSet
  534 1416 501 1176 369 1216 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFECE
 Encoding: 573 65230 573
 Width: 860
@@ -16946,6 +17532,7 @@ SplineSet
  648 1668 615 1428 483 1468 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFECF
 Encoding: 574 65231 574
 Width: 607
@@ -16978,6 +17565,7 @@ Substitution2: "Initial Forms Preceding Heh-1" GhainInit5
 Substitution2: "Initial Forms Preceding Meem-1" GhainInit3
 Substitution2: "Initial Forms Preceding Jeem-1" GhainInit2
 EndChar
+
 StartChar: uniFED0
 Encoding: 575 65232 575
 Width: 402
@@ -17010,6 +17598,7 @@ Substitution2: "Medial Forms Preceding Heh-1" GhainMedi4
 Substitution2: "Medial Forms Preceding Meem-1" GhainMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" GhainMedi1
 EndChar
+
 StartChar: uniFED1
 Encoding: 576 65233 576
 Width: 1777
@@ -17034,6 +17623,7 @@ SplineSet
  1052 1545 1011 1276 879 1322 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFED2
 Encoding: 577 65234 577
 Width: 1750
@@ -17065,6 +17655,7 @@ SplineSet
  1026 1545 982 1276 850 1322 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFED3
 Encoding: 578 65235 578
 Width: 390
@@ -17092,6 +17683,7 @@ Substitution2: "Initial Forms Preceding Heh-1" FehInit5
 Substitution2: "Initial Forms Preceding Meem-1" FehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" FehInit2
 EndChar
+
 StartChar: uniFED4
 Encoding: 579 65236 579
 Width: 372
@@ -17123,6 +17715,7 @@ Substitution2: "Medial Forms Preceding Heh-1" FehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" FehMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" FehMedi2
 EndChar
+
 StartChar: uniFED5
 Encoding: 580 65237 580
 Width: 1641
@@ -17151,6 +17744,7 @@ SplineSet
  1102 1300 962 1345 900 1336 c 4
 EndSplineSet
 EndChar
+
 StartChar: uniFED6
 Encoding: 581 65238 581
 Width: 1590
@@ -17183,6 +17777,7 @@ SplineSet
  1100 1300 960 1345 898 1336 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFED7
 Encoding: 582 65239 582
 Width: 390
@@ -17212,6 +17807,7 @@ Substitution2: "Initial Forms Preceding Heh-1" QafInit5
 Substitution2: "Initial Forms Preceding Meem-1" QafInit3
 Substitution2: "Initial Forms Preceding Jeem-1" QafInit2
 EndChar
+
 StartChar: uniFED8
 Encoding: 583 65240 583
 Width: 372
@@ -17245,6 +17841,7 @@ Substitution2: "Medial Forms Preceding Heh-1" QafMedi5
 Substitution2: "Medial Forms Preceding Meem-1" QafMedi3
 Substitution2: "Medial Forms Preceding Jeem-1" QafMedi2
 EndChar
+
 StartChar: uniFED9
 Encoding: 584 65241 584
 Width: 1695
@@ -17278,6 +17875,7 @@ SplineSet
  1944 1856 1626 1368 1554 1401 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEDA
 Encoding: 585 65242 585
 Width: 1650
@@ -17314,6 +17912,7 @@ SplineSet
  642 1052 848 1288 912 1220 c 4
 EndSplineSet
 EndChar
+
 StartChar: uniFEDB
 Encoding: 586 65243 586
 Width: 379
@@ -17342,6 +17941,7 @@ Substitution2: "Initial Forms Preceding Heh-1" KehInit4
 Substitution2: "Initial Forms Preceding Meem-1" KehInit3
 Substitution2: "Initial Forms Preceding Jeem-1" KehInit2
 EndChar
+
 StartChar: uniFEDC
 Encoding: 587 65244 587
 Width: 414
@@ -17374,6 +17974,7 @@ Substitution2: "Medial Forms Preceding Heh-1" KehMedi5
 Substitution2: "Medial Forms Preceding Meem-1" KehMedi4
 Substitution2: "Medial Forms Preceding Jeem-1" KehMedi3
 EndChar
+
 StartChar: uniFEDD
 Encoding: 588 65245 588
 Width: 1606
@@ -17398,6 +17999,7 @@ SplineSet
  1413 474 1363 1006 1462 1014 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEDE
 Encoding: 589 65246 589
 Width: 1653
@@ -17425,6 +18027,7 @@ SplineSet
  1401 492 1367 1032 1466 1032 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEDF
 Encoding: 590 65247 590
 Width: 312
@@ -17449,6 +18052,7 @@ Substitution2: "Initial Forms Preceding Heh-1" LamInit3
 Substitution2: "Initial Forms Preceding Meem-1" LamInit2
 Substitution2: "Initial Forms Preceding Jeem-1" LamInit1
 EndChar
+
 StartChar: uniFEE0
 Encoding: 591 65248 591
 Width: 357
@@ -17477,6 +18081,7 @@ Substitution2: "Medial Forms Preceding Heh-1" LamMedi3
 Substitution2: "Medial Forms Preceding Meem-1" LamMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" LamMedi1
 EndChar
+
 StartChar: uniFEE1
 Encoding: 592 65249 592
 Width: 828
@@ -17498,6 +18103,7 @@ SplineSet
  241 965 449 1072 627 1244 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEE2
 Encoding: 593 65250 593
 Width: 637
@@ -17522,6 +18128,7 @@ SplineSet
  452 482 493 640 637 784 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEE3
 Encoding: 594 65251 594
 Width: 472
@@ -17547,6 +18154,7 @@ Substitution2: "Initial Forms Preceding Heh-1" MeemInit5
 Substitution2: "Initial Forms Preceding Meem-1" MeemInit3
 Substitution2: "Initial Forms Preceding Jeem-1" MeemInit2
 EndChar
+
 StartChar: uniFEE4
 Encoding: 595 65252 595
 Width: 282
@@ -17575,6 +18183,7 @@ Substitution2: "Medial Forms Preceding Heh-1" MeemMedi4
 Substitution2: "Medial Forms Preceding Meem-1" MeemMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" MeemMedi1
 EndChar
+
 StartChar: uniFEE5
 Encoding: 596 65253 596
 Width: 1707
@@ -17600,6 +18209,7 @@ SplineSet
  1024 354 953 136 848 176 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEE6
 Encoding: 597 65254 597
 Width: 1683
@@ -17634,6 +18244,7 @@ SplineSet
  982 354 940 90 781 154 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEE7
 Encoding: 598 65255 598
 Width: 232
@@ -17659,6 +18270,7 @@ Substitution2: "Initial Forms Preceding Heh-1" NoonInit3
 Substitution2: "Initial Forms Preceding Meem-1" NoonInit2
 Substitution2: "Initial Forms Preceding Jeem-1" NoonInit1
 EndChar
+
 StartChar: uniFEE8
 Encoding: 599 65256 599
 Width: 322
@@ -17688,6 +18300,7 @@ Substitution2: "Medial Forms Preceding Heh-1" NoonMedi4
 Substitution2: "Medial Forms Preceding Meem-1" NoonMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" NoonMedi1
 EndChar
+
 StartChar: uniFEE9
 Encoding: 600 65257 600
 Width: 528
@@ -17709,6 +18322,7 @@ SplineSet
  384 548 289 591 255 594 c 5
 EndSplineSet
 EndChar
+
 StartChar: uniFEEA
 Encoding: 601 65258 601
 Width: 744
@@ -17728,6 +18342,7 @@ SplineSet
  12 -80 74 82 126 208 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEEB
 Encoding: 602 65259 602
 Width: 625
@@ -17760,6 +18375,7 @@ Substitution2: "Initial Forms Preceding Heh-1" HehInit4
 Substitution2: "Initial Forms Preceding Meem-1" HehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" HehInit1
 EndChar
+
 StartChar: uniFEEC
 Encoding: 603 65260 603
 Width: 525
@@ -17789,6 +18405,7 @@ Substitution2: "Medial Forms Preceding Heh-1" HehMedi3
 Substitution2: "Medial Forms Preceding Meem-1" HehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" HehMedi1
 EndChar
+
 StartChar: uniFEED
 Encoding: 604 65261 604
 Width: 550
@@ -17808,6 +18425,7 @@ SplineSet
  247 43 329 84 357 184 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEEE
 Encoding: 605 65262 605
 Width: 570
@@ -17832,6 +18450,7 @@ SplineSet
  243 -35 304 -9 336 105 c 1
 EndSplineSet
 EndChar
+
 StartChar: uniFEEF
 Encoding: 606 65263 606
 Width: 1525
@@ -17858,6 +18477,7 @@ SplineSet
  1115 867 1437 1193 1496 1108 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEF0
 Encoding: 607 65264 607
 Width: 1090
@@ -17886,6 +18506,7 @@ EndSplineSet
 Substitution2: "Final Form Yeh 2-1" YehFina2
 Substitution2: "Final Form Yeh 1-1" YehFina1
 EndChar
+
 StartChar: uniFEF1
 Encoding: 608 65265 608
 Width: 1525
@@ -17917,6 +18538,7 @@ SplineSet
  1115 867 1437 1193 1496 1108 c 0
 EndSplineSet
 EndChar
+
 StartChar: uniFEF2
 Encoding: 609 65266 609
 Width: 1090
@@ -17950,6 +18572,7 @@ EndSplineSet
 Substitution2: "Final Form Yeh 2-1" YehArabicFina2
 Substitution2: "Final Form Yeh 1-1" YehArabicFina1
 EndChar
+
 StartChar: uniFEF3
 Encoding: 610 65267 610
 Width: 232
@@ -17976,6 +18599,7 @@ Substitution2: "Initial Forms Preceding Heh-1" YehInit3
 Substitution2: "Initial Forms Preceding Meem-1" YehInit2
 Substitution2: "Initial Forms Preceding Jeem-1" YehInit1
 EndChar
+
 StartChar: uniFEF4
 Encoding: 611 65268 611
 Width: 322
@@ -18006,6 +18630,7 @@ Substitution2: "Medial Forms Preceding Heh-1" YehMedi4
 Substitution2: "Medial Forms Preceding Meem-1" YehMedi2
 Substitution2: "Medial Forms Preceding Jeem-1" YehMedi1
 EndChar
+
 StartChar: uniFEF5
 Encoding: 612 65269 612
 Width: 657
@@ -18043,6 +18668,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE82
 EndChar
+
 StartChar: uniFEF6
 Encoding: 613 65270 613
 Width: 710
@@ -18083,6 +18709,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE82
 EndChar
+
 StartChar: uniFEF7
 Encoding: 614 65271 614
 Width: 657
@@ -18117,6 +18744,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE84
 EndChar
+
 StartChar: uniFEF8
 Encoding: 615 65272 615
 Width: 710
@@ -18155,6 +18783,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE84
 EndChar
+
 StartChar: uniFEF9
 Encoding: 616 65273 616
 Width: 657
@@ -18189,6 +18818,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE88
 EndChar
+
 StartChar: uniFEFA
 Encoding: 617 65274 617
 Width: 710
@@ -18227,6 +18857,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE88
 EndChar
+
 StartChar: uniFEFB
 Encoding: 618 65275 618
 Width: 657
@@ -18254,6 +18885,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEDF uniFE8E
 EndChar
+
 StartChar: uniFEFC
 Encoding: 619 65276 619
 Width: 710
@@ -18283,8 +18915,10 @@ SplineSet
  510 1116 547 1325 610 1299 c 0
  654 1281 627 1144 633 968 c 0
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 44-1" uniFEE0 uniFE8E
 EndChar
+
 StartChar: AlefFina1
 Encoding: 620 -1 620
 Width: 488
@@ -18306,6 +18940,7 @@ SplineSet
  111 1013 139 1072 189 1072 c 4
 EndSplineSet
 EndChar
+
 StartChar: DalFina1
 Encoding: 621 -1 621
 Width: 771
@@ -18327,6 +18962,7 @@ SplineSet
  479 400 506 669 598 666 c 0
 EndSplineSet
 EndChar
+
 StartChar: ThalFina1
 Encoding: 622 -1 622
 Width: 771
@@ -18351,6 +18987,7 @@ SplineSet
  479 400 506 669 598 666 c 0
 EndSplineSet
 EndChar
+
 StartChar: RehFina1
 Encoding: 623 -1 623
 Width: 414
@@ -18370,6 +19007,7 @@ SplineSet
  270 206 356 296 414 340 c 1
 EndSplineSet
 EndChar
+
 StartChar: ZehFina1
 Encoding: 624 -1 624
 Width: 414
@@ -18392,6 +19030,7 @@ SplineSet
  270 206 356 296 414 340 c 1
 EndSplineSet
 EndChar
+
 StartChar: JehFina1
 Encoding: 625 -1 625
 Width: 414
@@ -18419,6 +19058,7 @@ SplineSet
  270 206 356 296 414 340 c 1
 EndSplineSet
 EndChar
+
 StartChar: KehFina1
 Encoding: 626 -1 626
 Width: 1699
@@ -18448,6 +19088,7 @@ SplineSet
  1722 1527 1543 979 1455 982 c 0
 EndSplineSet
 EndChar
+
 StartChar: KehFina2
 Encoding: 627 -1 627
 Width: 1650
@@ -18477,6 +19118,7 @@ SplineSet
  1722 1527 1543 979 1455 982 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafFina1
 Encoding: 628 -1 628
 Width: 1699
@@ -18512,6 +19154,7 @@ SplineSet
  1496 587 1445 923 1544 926 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafFina2
 Encoding: 629 -1 629
 Width: 1650
@@ -18547,6 +19190,7 @@ SplineSet
  1496 587 1445 923 1544 926 c 0
 EndSplineSet
 EndChar
+
 StartChar: HehFina1
 Encoding: 630 -1 630
 Width: 744
@@ -18566,6 +19210,7 @@ SplineSet
  152 30 172 86 234 206 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehArabicFina1
 Encoding: 631 -1 631
 Width: 1002
@@ -18597,6 +19242,7 @@ SplineSet
  832 449 808 534 1002 774 c 1
 EndSplineSet
 EndChar
+
 StartChar: YehArabicFina2
 Encoding: 632 -1 632
 Width: 1065
@@ -18628,6 +19274,7 @@ SplineSet
  85 -150 -15 -8 65 296 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehFina1
 Encoding: 633 -1 633
 Width: 1002
@@ -18654,6 +19301,7 @@ SplineSet
  832 449 808 534 1002 774 c 5
 EndSplineSet
 EndChar
+
 StartChar: YehFina2
 Encoding: 634 -1 634
 Width: 1065
@@ -18680,6 +19328,7 @@ SplineSet
  85 -150 -15 -8 65 296 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefMaddaFina1
 Encoding: 635 -1 635
 Width: 488
@@ -18710,6 +19359,7 @@ SplineSet
  -29 1486 -78 1278 -152 1308 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefHamzaAboveFina1
 Encoding: 636 -1 636
 Width: 488
@@ -18738,6 +19388,7 @@ SplineSet
  42 1893 248 2129 312 2061 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefHamzaBelowFina1
 Encoding: 637 -1 637
 Width: 488
@@ -18766,6 +19417,7 @@ SplineSet
  -7 -408 196 -169 260 -237 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaFina1
 Encoding: 638 -1 638
 Width: 1002
@@ -18799,6 +19451,7 @@ SplineSet
  474 1306 680 1546 744 1478 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaFina2
 Encoding: 639 -1 639
 Width: 1065
@@ -18831,6 +19484,7 @@ SplineSet
  522 1279 729 1516 793 1448 c 0
 EndSplineSet
 EndChar
+
 StartChar: HehYehFina1
 Encoding: 640 -1 640
 Width: 744
@@ -18857,6 +19511,7 @@ SplineSet
  295 1222 502 1460 566 1392 c 0
 EndSplineSet
 EndChar
+
 StartChar: BehMedi1
 Encoding: 641 -1 641
 Width: 346
@@ -18880,6 +19535,7 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
+
 StartChar: BehMedi2
 Encoding: 642 -1 642
 Width: 316
@@ -18903,6 +19559,7 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: BehMedi3
 Encoding: 643 -1 643
 Width: 314
@@ -18926,6 +19583,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: BehMedi4
 Encoding: 644 -1 644
 Width: 402
@@ -18949,6 +19607,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: BehMedi5
 Encoding: 645 -1 645
 Width: 354
@@ -18972,6 +19631,7 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: PehMedi1
 Encoding: 646 -1 646
 Width: 346
@@ -19000,6 +19660,7 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
+
 StartChar: PehMedi2
 Encoding: 647 -1 647
 Width: 316
@@ -19028,6 +19689,7 @@ SplineSet
  68 1355 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: PehMedi3
 Encoding: 648 -1 648
 Width: 314
@@ -19056,6 +19718,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: PehMedi4
 Encoding: 649 -1 649
 Width: 402
@@ -19084,6 +19747,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: PehMedi5
 Encoding: 650 -1 650
 Width: 354
@@ -19112,6 +19776,7 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehMedi1
 Encoding: 651 -1 651
 Width: 346
@@ -19137,6 +19802,7 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehMedi2
 Encoding: 652 -1 652
 Width: 316
@@ -19162,6 +19828,7 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehMedi3
 Encoding: 653 -1 653
 Width: 314
@@ -19187,6 +19854,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehMedi4
 Encoding: 654 -1 654
 Width: 402
@@ -19212,6 +19880,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehMedi5
 Encoding: 655 -1 655
 Width: 354
@@ -19237,6 +19906,7 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehMedi6
 Encoding: 656 -1 656
 Width: 322
@@ -19262,6 +19932,7 @@ SplineSet
  322 189 l 1
 EndSplineSet
 EndChar
+
 StartChar: ThehMedi1
 Encoding: 657 -1 657
 Width: 346
@@ -19290,6 +19961,7 @@ SplineSet
  88 851 150 903 214 903 c 0
 EndSplineSet
 EndChar
+
 StartChar: ThehMedi2
 Encoding: 658 -1 658
 Width: 316
@@ -19318,6 +19990,7 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: ThehMedi3
 Encoding: 659 -1 659
 Width: 314
@@ -19346,6 +20019,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: ThehMedi4
 Encoding: 660 -1 660
 Width: 402
@@ -19374,6 +20048,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: ThehMedi5
 Encoding: 661 -1 661
 Width: 354
@@ -19402,6 +20077,7 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: ThehMedi6
 Encoding: 662 -1 662
 Width: 322
@@ -19430,6 +20106,7 @@ SplineSet
  322 188 l 1
 EndSplineSet
 EndChar
+
 StartChar: JeemMedi1
 Encoding: 663 -1 663
 Width: 302
@@ -19458,6 +20135,7 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
+
 StartChar: JeemMedi2
 Encoding: 664 -1 664
 Width: 228
@@ -19485,6 +20163,7 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
+
 StartChar: JeemMedi3
 Encoding: 665 -1 665
 Width: 123
@@ -19511,6 +20190,7 @@ SplineSet
  -164 1527 -47 1707 123 1821 c 1
 EndSplineSet
 EndChar
+
 StartChar: JeemMedi4
 Encoding: 666 -1 666
 Width: 123
@@ -19537,6 +20217,7 @@ SplineSet
  -167 1002 -49 1176 123 1293 c 1
 EndSplineSet
 EndChar
+
 StartChar: JeemMedi5
 Encoding: 667 -1 667
 Width: 3
@@ -19563,6 +20244,7 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
+
 StartChar: TchehMedi1
 Encoding: 668 -1 668
 Width: 302
@@ -19596,6 +20278,7 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
+
 StartChar: TchehMedi2
 Encoding: 669 -1 669
 Width: 228
@@ -19628,6 +20311,7 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
+
 StartChar: TchehMedi3
 Encoding: 670 -1 670
 Width: 123
@@ -19659,6 +20343,7 @@ SplineSet
  -164 1527 -47 1707 123 1821 c 1
 EndSplineSet
 EndChar
+
 StartChar: TchehMedi4
 Encoding: 671 -1 671
 Width: 123
@@ -19690,6 +20375,7 @@ SplineSet
  -167 1002 -49 1176 123 1293 c 1
 EndSplineSet
 EndChar
+
 StartChar: TchehMedi5
 Encoding: 672 -1 672
 Width: 3
@@ -19721,6 +20407,7 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
+
 StartChar: HahMedi1
 Encoding: 673 -1 673
 Width: 302
@@ -19746,6 +20433,7 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
+
 StartChar: HahMedi2
 Encoding: 674 -1 674
 Width: 228
@@ -19770,6 +20458,7 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
+
 StartChar: HahMedi3
 Encoding: 675 -1 675
 Width: 123
@@ -19793,6 +20482,7 @@ SplineSet
  -164 1527 -47 1707 123 1821 c 1
 EndSplineSet
 EndChar
+
 StartChar: HahMedi4
 Encoding: 676 -1 676
 Width: 123
@@ -19816,6 +20506,7 @@ SplineSet
  -167 1002 -49 1176 123 1293 c 1
 EndSplineSet
 EndChar
+
 StartChar: HahMedi5
 Encoding: 677 -1 677
 Width: 3
@@ -19839,6 +20530,7 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
+
 StartChar: KhehMedi1
 Encoding: 678 -1 678
 Width: 302
@@ -19867,6 +20559,7 @@ SplineSet
  -4 687 284 915 302 927 c 1
 EndSplineSet
 EndChar
+
 StartChar: KhehMedi2
 Encoding: 679 -1 679
 Width: 228
@@ -19894,6 +20587,7 @@ SplineSet
  -61 1087 81 1268 228 1370 c 1
 EndSplineSet
 EndChar
+
 StartChar: KhehMedi3
 Encoding: 680 -1 680
 Width: 123
@@ -19920,6 +20614,7 @@ SplineSet
  -44 2327 37 2493 145 2447 c 0
 EndSplineSet
 EndChar
+
 StartChar: KhehMedi4
 Encoding: 681 -1 681
 Width: 123
@@ -19946,6 +20641,7 @@ SplineSet
  -87 1747 -6 1914 102 1868 c 0
 EndSplineSet
 EndChar
+
 StartChar: KhehMedi5
 Encoding: 682 -1 682
 Width: 3
@@ -19972,6 +20668,7 @@ SplineSet
  -285 949 -203 1146 3 1287 c 1
 EndSplineSet
 EndChar
+
 StartChar: SeenMedi1
 Encoding: 683 -1 683
 Width: 921
@@ -20000,6 +20697,7 @@ SplineSet
  764 1058 752 1223 838 1220 c 0
 EndSplineSet
 EndChar
+
 StartChar: SeenMedi2
 Encoding: 684 -1 684
 Width: 838
@@ -20027,6 +20725,7 @@ SplineSet
  685 1540 673 1706 759 1706 c 0
 EndSplineSet
 EndChar
+
 StartChar: SeenMedi3
 Encoding: 685 -1 685
 Width: 918
@@ -20055,6 +20754,7 @@ SplineSet
  764 1040 752 1206 838 1204 c 0
 EndSplineSet
 EndChar
+
 StartChar: SeenMedi4
 Encoding: 686 -1 686
 Width: 888
@@ -20083,6 +20783,7 @@ SplineSet
  732 1002 716 1141 780 1161 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenMedi1
 Encoding: 687 -1 687
 Width: 921
@@ -20119,6 +20820,7 @@ SplineSet
  764 1058 752 1223 838 1220 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenMedi2
 Encoding: 688 -1 688
 Width: 838
@@ -20154,6 +20856,7 @@ SplineSet
  685 1540 673 1706 759 1706 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenMedi3
 Encoding: 689 -1 689
 Width: 918
@@ -20190,6 +20893,7 @@ SplineSet
  764 1040 752 1206 838 1204 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenMedi4
 Encoding: 690 -1 690
 Width: 888
@@ -20226,6 +20930,7 @@ SplineSet
  732 1002 716 1141 780 1161 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenMedi5
 Encoding: 691 -1 691
 Width: 780
@@ -20264,6 +20969,7 @@ SplineSet
  662 583 630 728 700 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: SadMedi1
 Encoding: 692 -1 692
 Width: 885
@@ -20295,6 +21001,7 @@ SplineSet
  446 759 l 1
 EndSplineSet
 EndChar
+
 StartChar: SadMedi2
 Encoding: 693 -1 693
 Width: 876
@@ -20326,6 +21033,7 @@ SplineSet
  442 1275 l 1
 EndSplineSet
 EndChar
+
 StartChar: SadMedi3
 Encoding: 694 -1 694
 Width: 877
@@ -20357,6 +21065,7 @@ SplineSet
  434 768 l 1
 EndSplineSet
 EndChar
+
 StartChar: SadMedi4
 Encoding: 695 -1 695
 Width: 867
@@ -20389,6 +21098,7 @@ SplineSet
  434 801 l 1
 EndSplineSet
 EndChar
+
 StartChar: DadMedi1
 Encoding: 696 -1 696
 Width: 885
@@ -20423,6 +21133,7 @@ SplineSet
  446 759 l 1
 EndSplineSet
 EndChar
+
 StartChar: DadMedi2
 Encoding: 697 -1 697
 Width: 876
@@ -20457,6 +21168,7 @@ SplineSet
  442 1275 l 1
 EndSplineSet
 EndChar
+
 StartChar: DadMedi3
 Encoding: 698 -1 698
 Width: 877
@@ -20491,6 +21203,7 @@ SplineSet
  434 768 l 1
 EndSplineSet
 EndChar
+
 StartChar: DadMedi4
 Encoding: 699 -1 699
 Width: 867
@@ -20526,6 +21239,7 @@ SplineSet
  434 801 l 1
 EndSplineSet
 EndChar
+
 StartChar: TahMedi1
 Encoding: 700 -1 700
 Width: 543
@@ -20558,6 +21272,7 @@ SplineSet
  372 1149 383 1244 363 1254 c 0
 EndSplineSet
 EndChar
+
 StartChar: TahMedi2
 Encoding: 701 -1 701
 Width: 510
@@ -20587,6 +21302,7 @@ SplineSet
  230 1454 358 1677 314 1692 c 0
 EndSplineSet
 EndChar
+
 StartChar: TahMedi3
 Encoding: 702 -1 702
 Width: 495
@@ -20619,6 +21335,7 @@ SplineSet
  307 1084 331 1185 310 1194 c 0
 EndSplineSet
 EndChar
+
 StartChar: ZahMedi1
 Encoding: 703 -1 703
 Width: 543
@@ -20654,6 +21371,7 @@ SplineSet
  571 2212 537 1974 405 2014 c 0
 EndSplineSet
 EndChar
+
 StartChar: ZahMedi2
 Encoding: 704 -1 704
 Width: 510
@@ -20686,6 +21404,7 @@ SplineSet
  571 2667 537 2428 405 2468 c 4
 EndSplineSet
 EndChar
+
 StartChar: ZahMedi3
 Encoding: 705 -1 705
 Width: 495
@@ -20721,6 +21440,7 @@ SplineSet
  307 1084 331 1185 310 1194 c 4
 EndSplineSet
 EndChar
+
 StartChar: AinMedi1
 Encoding: 706 -1 706
 Width: 418
@@ -20745,6 +21465,7 @@ SplineSet
  52 827 105 859 135 897 c 1
 EndSplineSet
 EndChar
+
 StartChar: AinMedi2
 Encoding: 707 -1 707
 Width: 322
@@ -20769,6 +21490,7 @@ SplineSet
  252 1198 200 1235 166 1269 c 1
 EndSplineSet
 EndChar
+
 StartChar: AinMedi3
 Encoding: 708 -1 708
 Width: 322
@@ -20793,6 +21515,7 @@ SplineSet
  252 676 200 713 166 747 c 1
 EndSplineSet
 EndChar
+
 StartChar: AinMedi4
 Encoding: 709 -1 709
 Width: 298
@@ -20817,6 +21540,7 @@ SplineSet
  9 734 12 741 21 765 c 1
 EndSplineSet
 EndChar
+
 StartChar: GhainMedi1
 Encoding: 710 -1 710
 Width: 418
@@ -20844,6 +21568,7 @@ SplineSet
  258 2019 224 1781 92 1821 c 4
 EndSplineSet
 EndChar
+
 StartChar: GhainMedi2
 Encoding: 711 -1 711
 Width: 322
@@ -20871,6 +21596,7 @@ SplineSet
  252 1198 200 1235 166 1269 c 1
 EndSplineSet
 EndChar
+
 StartChar: GhainMedi3
 Encoding: 712 -1 712
 Width: 322
@@ -20898,6 +21624,7 @@ SplineSet
  252 676 200 713 166 747 c 1
 EndSplineSet
 EndChar
+
 StartChar: GhainMedi4
 Encoding: 713 -1 713
 Width: 298
@@ -20925,6 +21652,7 @@ SplineSet
  9 734 12 741 21 765 c 1
 EndSplineSet
 EndChar
+
 StartChar: FehMedi1
 Encoding: 714 -1 714
 Width: 372
@@ -20951,6 +21679,7 @@ SplineSet
  12 553 70 730 208 730 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehMedi2
 Encoding: 715 -1 715
 Width: 384
@@ -20977,6 +21706,7 @@ SplineSet
  140 1235 268 1254 350 1196 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehMedi3
 Encoding: 716 -1 716
 Width: 307
@@ -21003,6 +21733,7 @@ SplineSet
  55 1635 181 1674 261 1612 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehMedi4
 Encoding: 717 -1 717
 Width: 304
@@ -21029,6 +21760,7 @@ SplineSet
  55 1111 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehMedi5
 Encoding: 718 -1 718
 Width: 261
@@ -21056,6 +21788,7 @@ SplineSet
  -64 1078 0 1137 68 1137 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafMedi1
 Encoding: 719 -1 719
 Width: 372
@@ -21082,6 +21815,7 @@ SplineSet
  12 612 70 789 208 789 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafMedi2
 Encoding: 720 -1 720
 Width: 384
@@ -21110,6 +21844,7 @@ SplineSet
  175 2108 326 2073 282 1971 c 4
 EndSplineSet
 EndChar
+
 StartChar: QafMedi3
 Encoding: 721 -1 721
 Width: 307
@@ -21138,6 +21873,7 @@ SplineSet
  55 1635 181 1674 261 1612 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafMedi4
 Encoding: 722 -1 722
 Width: 304
@@ -21166,6 +21902,7 @@ SplineSet
  55 1111 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafMedi5
 Encoding: 723 -1 723
 Width: 261
@@ -21195,6 +21932,7 @@ SplineSet
  -64 1078 0 1137 68 1137 c 0
 EndSplineSet
 EndChar
+
 StartChar: KehMedi1
 Encoding: 724 -1 724
 Width: 393
@@ -21224,6 +21962,7 @@ SplineSet
  -126 710 52 835 138 850 c 0
 EndSplineSet
 EndChar
+
 StartChar: KehMedi2
 Encoding: 725 -1 725
 Width: 414
@@ -21249,6 +21988,7 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+
 StartChar: KehMedi3
 Encoding: 726 -1 726
 Width: 375
@@ -21276,6 +22016,7 @@ SplineSet
  764 2790 1006 3251 1088 3152 c 0
 EndSplineSet
 EndChar
+
 StartChar: KehMedi4
 Encoding: 727 -1 727
 Width: 310
@@ -21303,6 +22044,7 @@ SplineSet
  0 1281 l 1
 EndSplineSet
 EndChar
+
 StartChar: KehMedi5
 Encoding: 728 -1 728
 Width: 270
@@ -21330,6 +22072,7 @@ SplineSet
  106 1050 3 1368 111 1380 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafMedi1
 Encoding: 729 -1 729
 Width: 393
@@ -21364,6 +22107,7 @@ SplineSet
  -126 710 52 835 138 850 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafMedi2
 Encoding: 730 -1 730
 Width: 414
@@ -21394,6 +22138,7 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+
 StartChar: GafMedi3
 Encoding: 731 -1 731
 Width: 375
@@ -21425,6 +22170,7 @@ SplineSet
  510 2366 696 2650 734 2712 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafMedi4
 Encoding: 732 -1 732
 Width: 310
@@ -21456,6 +22202,7 @@ SplineSet
  510 2856 696 3142 734 3204 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafMedi5
 Encoding: 733 -1 733
 Width: 270
@@ -21487,6 +22234,7 @@ SplineSet
  106 1050 3 1368 111 1380 c 0
 EndSplineSet
 EndChar
+
 StartChar: LamMedi1
 Encoding: 734 -1 734
 Width: 357
@@ -21511,6 +22259,7 @@ SplineSet
  114 1277 104 1604 206 1604 c 0
 EndSplineSet
 EndChar
+
 StartChar: LamMedi2
 Encoding: 735 -1 735
 Width: 295
@@ -21535,6 +22284,7 @@ SplineSet
  64 1747 54 2073 156 2073 c 0
 EndSplineSet
 EndChar
+
 StartChar: LamMedi3
 Encoding: 736 -1 736
 Width: 331
@@ -21558,6 +22308,7 @@ SplineSet
  0 716 l 1
 EndSplineSet
 EndChar
+
 StartChar: MeemMedi1
 Encoding: 737 -1 737
 Width: 314
@@ -21583,6 +22334,7 @@ SplineSet
  208 1141 246 1209 314 1284 c 1
 EndSplineSet
 EndChar
+
 StartChar: MeemMedi2
 Encoding: 738 -1 738
 Width: 218
@@ -21606,6 +22358,7 @@ SplineSet
  92 1550 132 1630 218 1726 c 1
 EndSplineSet
 EndChar
+
 StartChar: MeemMedi3
 Encoding: 739 -1 739
 Width: 218
@@ -21630,6 +22383,7 @@ SplineSet
  118 1061 156 1122 218 1190 c 1
 EndSplineSet
 EndChar
+
 StartChar: MeemMedi4
 Encoding: 740 -1 740
 Width: 255
@@ -21655,6 +22409,7 @@ SplineSet
  180 1114 237 1178 255 1202 c 1
 EndSplineSet
 EndChar
+
 StartChar: NoonMedi1
 Encoding: 741 -1 741
 Width: 346
@@ -21678,6 +22433,7 @@ SplineSet
  88 851 150 903 214 903 c 4
 EndSplineSet
 EndChar
+
 StartChar: NoonMedi2
 Encoding: 742 -1 742
 Width: 316
@@ -21701,6 +22457,7 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: NoonMedi3
 Encoding: 743 -1 743
 Width: 314
@@ -21724,6 +22481,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: NoonMedi4
 Encoding: 744 -1 744
 Width: 402
@@ -21747,6 +22505,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: NoonMedi5
 Encoding: 745 -1 745
 Width: 354
@@ -21770,6 +22529,7 @@ SplineSet
  86 408 149 412 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: NoonMedi6
 Encoding: 746 -1 746
 Width: 322
@@ -21793,6 +22553,7 @@ SplineSet
  322 188 l 1
 EndSplineSet
 EndChar
+
 StartChar: HehMedi1
 Encoding: 747 -1 747
 Width: 686
@@ -21817,6 +22578,7 @@ SplineSet
  600 882 671 1038 686 1076 c 1
 EndSplineSet
 EndChar
+
 StartChar: HehMedi2
 Encoding: 748 -1 748
 Width: 489
@@ -21842,6 +22604,7 @@ SplineSet
  415 1294 474 1430 489 1468 c 1
 EndSplineSet
 EndChar
+
 StartChar: HehMedi3
 Encoding: 749 -1 749
 Width: 568
@@ -21867,6 +22630,7 @@ SplineSet
  0 630 l 1
 EndSplineSet
 EndChar
+
 StartChar: HehMedi4
 Encoding: 750 -1 750
 Width: 568
@@ -21892,6 +22656,7 @@ SplineSet
  0 716 l 1
 EndSplineSet
 EndChar
+
 StartChar: HehMedi5
 Encoding: 751 -1 751
 Width: 466
@@ -21918,6 +22683,7 @@ SplineSet
  397 347 451 472 466 510 c 1
 EndSplineSet
 EndChar
+
 StartChar: YehMedi1
 Encoding: 752 -1 752
 Width: 346
@@ -21943,6 +22709,7 @@ SplineSet
  88 394 150 448 214 448 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehMedi2
 Encoding: 753 -1 753
 Width: 316
@@ -21968,6 +22735,7 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehMedi3
 Encoding: 754 -1 754
 Width: 314
@@ -21993,6 +22761,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehMedi4
 Encoding: 755 -1 755
 Width: 402
@@ -22018,6 +22787,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehMedi5
 Encoding: 756 -1 756
 Width: 354
@@ -22043,6 +22813,7 @@ SplineSet
  86 408 149 414 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaMedi1
 Encoding: 757 -1 757
 Width: 346
@@ -22070,6 +22841,7 @@ SplineSet
  88 853 150 907 214 907 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaMedi2
 Encoding: 758 -1 758
 Width: 316
@@ -22097,6 +22869,7 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaMedi3
 Encoding: 759 -1 759
 Width: 313
@@ -22124,6 +22897,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaMedi4
 Encoding: 760 -1 760
 Width: 402
@@ -22151,6 +22925,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaMedi5
 Encoding: 761 -1 761
 Width: 354
@@ -22178,6 +22953,7 @@ SplineSet
  86 408 149 414 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaMedi6
 Encoding: 762 -1 762
 Width: 322
@@ -22205,6 +22981,7 @@ SplineSet
  322 188 l 1
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraMedi1
 Encoding: 763 -1 763
 Width: 346
@@ -22225,6 +23002,7 @@ SplineSet
  88 853 150 907 214 907 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraMedi2
 Encoding: 764 -1 764
 Width: 316
@@ -22245,6 +23023,7 @@ SplineSet
  68 1358 106 1383 164 1383 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraMedi3
 Encoding: 765 -1 765
 Width: 313
@@ -22265,6 +23044,7 @@ SplineSet
  40 805 103 860 153 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraMedi4
 Encoding: 766 -1 766
 Width: 402
@@ -22285,6 +23065,7 @@ SplineSet
  18 756 82 846 176 860 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraMedi5
 Encoding: 767 -1 767
 Width: 354
@@ -22305,6 +23086,7 @@ SplineSet
  86 408 149 414 176 414 c 0
 EndSplineSet
 EndChar
+
 StartChar: BehInit1
 Encoding: 768 -1 768
 Width: 493
@@ -22327,6 +23109,7 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
+
 StartChar: BehInit2
 Encoding: 769 -1 769
 Width: 270
@@ -22349,6 +23132,7 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
+
 StartChar: BehInit3
 Encoding: 770 -1 770
 Width: 270
@@ -22369,6 +23153,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: BehInit4
 Encoding: 771 -1 771
 Width: 318
@@ -22391,6 +23176,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: PehInit1
 Encoding: 772 -1 772
 Width: 493
@@ -22418,6 +23204,7 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
+
 StartChar: PehInit2
 Encoding: 773 -1 773
 Width: 270
@@ -22443,6 +23230,7 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
+
 StartChar: PehInit3
 Encoding: 774 -1 774
 Width: 270
@@ -22468,6 +23256,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: PehInit4
 Encoding: 775 -1 775
 Width: 318
@@ -22495,6 +23284,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: TehInit1
 Encoding: 776 -1 776
 Width: 493
@@ -22519,6 +23309,7 @@ SplineSet
  311 1457 209 1477 147 1462 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehInit2
 Encoding: 777 -1 777
 Width: 270
@@ -22543,6 +23334,7 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
+
 StartChar: TehInit3
 Encoding: 778 -1 778
 Width: 270
@@ -22565,6 +23357,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: TehInit4
 Encoding: 779 -1 779
 Width: 318
@@ -22589,6 +23382,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: TehInit5
 Encoding: 780 -1 780
 Width: 232
@@ -22611,6 +23405,7 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+
 StartChar: TehInit6
 Encoding: 781 -1 781
 Width: 232
@@ -22633,6 +23428,7 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+
 StartChar: ThehInit1
 Encoding: 782 -1 782
 Width: 493
@@ -22660,6 +23456,7 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
+
 StartChar: ThehInit2
 Encoding: 783 -1 783
 Width: 270
@@ -22687,6 +23484,7 @@ SplineSet
  0 1281 l 2
 EndSplineSet
 EndChar
+
 StartChar: ThehInit3
 Encoding: 784 -1 784
 Width: 270
@@ -22712,6 +23510,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: ThehInit4
 Encoding: 785 -1 785
 Width: 318
@@ -22739,6 +23538,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: ThehInit5
 Encoding: 786 -1 786
 Width: 232
@@ -22764,6 +23564,7 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+
 StartChar: ThehInit6
 Encoding: 787 -1 787
 Width: 232
@@ -22790,6 +23591,7 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+
 StartChar: JeemInit1
 Encoding: 788 -1 788
 Width: 687
@@ -22818,6 +23620,7 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
+
 StartChar: JeemInit2
 Encoding: 789 -1 789
 Width: 396
@@ -22843,6 +23646,7 @@ SplineSet
  53 -122 132 40 234 -6 c 0
 EndSplineSet
 EndChar
+
 StartChar: JeemInit3
 Encoding: 790 -1 790
 Width: 312
@@ -22868,6 +23672,7 @@ SplineSet
  -192 1579 -126 1638 12 1650 c 0
 EndSplineSet
 EndChar
+
 StartChar: JeemInit4
 Encoding: 791 -1 791
 Width: 352
@@ -22892,6 +23697,7 @@ SplineSet
  -191 977 -44 1014 64 1020 c 0
 EndSplineSet
 EndChar
+
 StartChar: JeemInit5
 Encoding: 792 -1 792
 Width: 300
@@ -22917,6 +23723,7 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
+
 StartChar: TchehInit1
 Encoding: 793 -1 793
 Width: 687
@@ -22950,6 +23757,7 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
+
 StartChar: TchehInit2
 Encoding: 794 -1 794
 Width: 396
@@ -22980,6 +23788,7 @@ SplineSet
  -103 1142 18 1198 126 1198 c 0
 EndSplineSet
 EndChar
+
 StartChar: TchehInit3
 Encoding: 795 -1 795
 Width: 312
@@ -23010,6 +23819,7 @@ SplineSet
  -192 1579 -126 1638 12 1650 c 0
 EndSplineSet
 EndChar
+
 StartChar: TchehInit4
 Encoding: 796 -1 796
 Width: 352
@@ -23039,6 +23849,7 @@ SplineSet
  -191 977 -44 1014 64 1020 c 0
 EndSplineSet
 EndChar
+
 StartChar: TchehInit5
 Encoding: 797 -1 797
 Width: 300
@@ -23069,6 +23880,7 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
+
 StartChar: HahInit1
 Encoding: 798 -1 798
 Width: 687
@@ -23094,6 +23906,7 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
+
 StartChar: HahInit2
 Encoding: 799 -1 799
 Width: 396
@@ -23116,6 +23929,7 @@ SplineSet
  -103 1142 18 1198 126 1198 c 0
 EndSplineSet
 EndChar
+
 StartChar: HahInit3
 Encoding: 800 -1 800
 Width: 312
@@ -23138,6 +23952,7 @@ SplineSet
  -192 1579 -126 1638 12 1650 c 0
 EndSplineSet
 EndChar
+
 StartChar: HahInit4
 Encoding: 801 -1 801
 Width: 352
@@ -23159,6 +23974,7 @@ SplineSet
  -191 977 -44 1014 64 1020 c 0
 EndSplineSet
 EndChar
+
 StartChar: HahInit5
 Encoding: 802 -1 802
 Width: 300
@@ -23181,6 +23997,7 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
+
 StartChar: KhehInit1
 Encoding: 803 -1 803
 Width: 687
@@ -23209,6 +24026,7 @@ SplineSet
  79 986 122 1070 214 1082 c 0
 EndSplineSet
 EndChar
+
 StartChar: KhehInit2
 Encoding: 804 -1 804
 Width: 396
@@ -23234,6 +24052,7 @@ SplineSet
  -114 1904 -34 2071 74 2025 c 0
 EndSplineSet
 EndChar
+
 StartChar: KhehInit3
 Encoding: 805 -1 805
 Width: 312
@@ -23259,6 +24078,7 @@ SplineSet
  -129 2345 -50 2511 58 2465 c 4
 EndSplineSet
 EndChar
+
 StartChar: KhehInit4
 Encoding: 806 -1 806
 Width: 352
@@ -23283,6 +24103,7 @@ SplineSet
  -149 1747 -68 1914 40 1868 c 0
 EndSplineSet
 EndChar
+
 StartChar: KhehInit5
 Encoding: 807 -1 807
 Width: 300
@@ -23308,6 +24129,7 @@ SplineSet
  -226 1050 -156 1096 -24 1102 c 0
 EndSplineSet
 EndChar
+
 StartChar: SeenInit1
 Encoding: 808 -1 808
 Width: 822
@@ -23332,6 +24154,7 @@ SplineSet
  680 1081 682 1237 734 1240 c 0
 EndSplineSet
 EndChar
+
 StartChar: SeenInit2
 Encoding: 809 -1 809
 Width: 822
@@ -23356,6 +24179,7 @@ SplineSet
  662 1600 660 1761 716 1761 c 0
 EndSplineSet
 EndChar
+
 StartChar: SeenInit3
 Encoding: 810 -1 810
 Width: 822
@@ -23380,6 +24204,7 @@ SplineSet
  689 722 688 885 744 885 c 0
 EndSplineSet
 EndChar
+
 StartChar: SeenInit4
 Encoding: 811 -1 811
 Width: 657
@@ -23404,6 +24229,7 @@ SplineSet
  636 1054 636 1214 692 1214 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenInit1
 Encoding: 812 -1 812
 Width: 822
@@ -23436,6 +24262,7 @@ SplineSet
  680 1081 682 1237 734 1240 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenInit2
 Encoding: 813 -1 813
 Width: 822
@@ -23468,6 +24295,7 @@ SplineSet
  662 1600 660 1761 716 1761 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenInit3
 Encoding: 814 -1 814
 Width: 822
@@ -23500,6 +24328,7 @@ SplineSet
  689 722 688 885 744 885 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenInit4
 Encoding: 815 -1 815
 Width: 657
@@ -23532,6 +24361,7 @@ SplineSet
  636 1054 636 1214 692 1214 c 0
 EndSplineSet
 EndChar
+
 StartChar: SheenInit5
 Encoding: 816 -1 816
 Width: 763
@@ -23564,6 +24394,7 @@ SplineSet
  781 606 752 731 700 728 c 0
 EndSplineSet
 EndChar
+
 StartChar: SadInit1
 Encoding: 817 -1 817
 Width: 900
@@ -23590,6 +24421,7 @@ SplineSet
  446 759 l 1
 EndSplineSet
 EndChar
+
 StartChar: SadInit2
 Encoding: 818 -1 818
 Width: 900
@@ -23617,6 +24449,7 @@ SplineSet
  442 1275 l 1
 EndSplineSet
 EndChar
+
 StartChar: SadInit3
 Encoding: 819 -1 819
 Width: 900
@@ -23644,6 +24477,7 @@ SplineSet
  442 765 l 1
 EndSplineSet
 EndChar
+
 StartChar: SadInit4
 Encoding: 820 -1 820
 Width: 900
@@ -23670,6 +24504,7 @@ SplineSet
  440 795 l 1
 EndSplineSet
 EndChar
+
 StartChar: DadInit1
 Encoding: 821 -1 821
 Width: 900
@@ -23699,6 +24534,7 @@ SplineSet
  496 2354 464 2114 332 2154 c 0
 EndSplineSet
 EndChar
+
 StartChar: DadInit2
 Encoding: 822 -1 822
 Width: 900
@@ -23729,6 +24565,7 @@ SplineSet
  496 2805 464 2568 332 2608 c 0
 EndSplineSet
 EndChar
+
 StartChar: DadInit3
 Encoding: 823 -1 823
 Width: 900
@@ -23759,6 +24596,7 @@ SplineSet
  496 2283 464 2044 332 2084 c 0
 EndSplineSet
 EndChar
+
 StartChar: DadInit4
 Encoding: 824 -1 824
 Width: 900
@@ -23788,6 +24626,7 @@ SplineSet
  506 2228 472 1991 340 2031 c 0
 EndSplineSet
 EndChar
+
 StartChar: TahInit1
 Encoding: 825 -1 825
 Width: 567
@@ -23813,6 +24652,7 @@ SplineSet
  296 936 384 1212 346 1227 c 0
 EndSplineSet
 EndChar
+
 StartChar: TahInit2
 Encoding: 826 -1 826
 Width: 513
@@ -23837,6 +24677,7 @@ SplineSet
  230 1454 358 1677 314 1692 c 0
 EndSplineSet
 EndChar
+
 StartChar: TahInit3
 Encoding: 827 -1 827
 Width: 513
@@ -23862,6 +24703,7 @@ SplineSet
  211 895 356 1161 310 1179 c 0
 EndSplineSet
 EndChar
+
 StartChar: ZahInit1
 Encoding: 828 -1 828
 Width: 567
@@ -23890,6 +24732,7 @@ SplineSet
  296 936 384 1212 346 1227 c 0
 EndSplineSet
 EndChar
+
 StartChar: ZahInit2
 Encoding: 829 -1 829
 Width: 513
@@ -23917,6 +24760,7 @@ SplineSet
  230 1454 358 1677 314 1692 c 0
 EndSplineSet
 EndChar
+
 StartChar: ZahInit3
 Encoding: 830 -1 830
 Width: 513
@@ -23945,6 +24789,7 @@ SplineSet
  211 895 356 1161 310 1179 c 0
 EndSplineSet
 EndChar
+
 StartChar: AinInit1
 Encoding: 831 -1 831
 Width: 687
@@ -23970,6 +24815,7 @@ SplineSet
  76 718 286 1047 424 1050 c 0
 EndSplineSet
 EndChar
+
 StartChar: AinInit2
 Encoding: 832 -1 832
 Width: 469
@@ -23995,6 +24841,7 @@ SplineSet
  -106 1091 -24 1266 126 1342 c 0
 EndSplineSet
 EndChar
+
 StartChar: AinInit3
 Encoding: 833 -1 833
 Width: 460
@@ -24020,6 +24867,7 @@ SplineSet
  -129 1624 16 1773 34 1788 c 0
 EndSplineSet
 EndChar
+
 StartChar: AinInit4
 Encoding: 834 -1 834
 Width: 441
@@ -24045,6 +24893,7 @@ SplineSet
  -129 1102 16 1251 34 1266 c 0
 EndSplineSet
 EndChar
+
 StartChar: AinInit5
 Encoding: 835 -1 835
 Width: 331
@@ -24069,6 +24918,7 @@ SplineSet
  -202 920 -185 1001 -164 1047 c 0
 EndSplineSet
 EndChar
+
 StartChar: GhainInit1
 Encoding: 836 -1 836
 Width: 687
@@ -24097,6 +24947,7 @@ SplineSet
  76 718 286 1047 424 1050 c 0
 EndSplineSet
 EndChar
+
 StartChar: GhainInit2
 Encoding: 837 -1 837
 Width: 469
@@ -24125,6 +24976,7 @@ SplineSet
  -106 1091 -24 1266 126 1342 c 0
 EndSplineSet
 EndChar
+
 StartChar: GhainInit3
 Encoding: 838 -1 838
 Width: 460
@@ -24153,6 +25005,7 @@ SplineSet
  -129 1624 16 1773 34 1788 c 0
 EndSplineSet
 EndChar
+
 StartChar: GhainInit4
 Encoding: 839 -1 839
 Width: 441
@@ -24181,6 +25034,7 @@ SplineSet
  -129 1102 16 1251 34 1266 c 0
 EndSplineSet
 EndChar
+
 StartChar: GhainInit5
 Encoding: 840 -1 840
 Width: 331
@@ -24208,6 +25062,7 @@ SplineSet
  -202 920 -185 1001 -164 1047 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehInit1
 Encoding: 841 -1 841
 Width: 390
@@ -24230,6 +25085,7 @@ SplineSet
  12 553 70 730 208 730 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehInit2
 Encoding: 842 -1 842
 Width: 390
@@ -24252,6 +25108,7 @@ SplineSet
  73 1176 187 1254 316 1202 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehInit3
 Encoding: 843 -1 843
 Width: 390
@@ -24274,6 +25131,7 @@ SplineSet
  25 1683 143 1717 225 1677 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehInit4
 Encoding: 844 -1 844
 Width: 340
@@ -24296,6 +25154,7 @@ SplineSet
  39 1074 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
+
 StartChar: FehInit5
 Encoding: 845 -1 845
 Width: 390
@@ -24317,6 +25176,7 @@ SplineSet
  3 722 9 741 9 741 c 1
 EndSplineSet
 EndChar
+
 StartChar: QafInit1
 Encoding: 846 -1 846
 Width: 378
@@ -24341,6 +25201,7 @@ SplineSet
  12 612 70 789 208 789 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafInit2
 Encoding: 847 -1 847
 Width: 390
@@ -24365,6 +25226,7 @@ SplineSet
  73 1176 187 1254 316 1202 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafInit3
 Encoding: 848 -1 848
 Width: 390
@@ -24389,6 +25251,7 @@ SplineSet
  25 1683 143 1717 225 1677 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafInit4
 Encoding: 849 -1 849
 Width: 340
@@ -24413,6 +25276,7 @@ SplineSet
  39 1074 181 1150 261 1088 c 0
 EndSplineSet
 EndChar
+
 StartChar: QafInit5
 Encoding: 850 -1 850
 Width: 390
@@ -24436,6 +25300,7 @@ SplineSet
  3 722 9 741 9 741 c 1
 EndSplineSet
 EndChar
+
 StartChar: KehInit1
 Encoding: 851 -1 851
 Width: 379
@@ -24460,6 +25325,7 @@ SplineSet
  -132 420 -156 490 -147 540 c 0
 EndSplineSet
 EndChar
+
 StartChar: KehInit2
 Encoding: 852 -1 852
 Width: 379
@@ -24483,6 +25349,7 @@ SplineSet
  764 2790 1006 3251 1088 3152 c 0
 EndSplineSet
 EndChar
+
 StartChar: KehInit3
 Encoding: 853 -1 853
 Width: 306
@@ -24506,6 +25373,7 @@ SplineSet
  706 3283 947 3749 1029 3650 c 0
 EndSplineSet
 EndChar
+
 StartChar: KehInit4
 Encoding: 854 -1 854
 Width: 258
@@ -24529,6 +25397,7 @@ SplineSet
  670 2653 911 3115 993 3016 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafInit1
 Encoding: 855 -1 855
 Width: 379
@@ -24558,6 +25427,7 @@ SplineSet
  -132 420 -156 490 -147 540 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafInit2
 Encoding: 856 -1 856
 Width: 379
@@ -24585,6 +25455,7 @@ SplineSet
  510 2366 696 2650 734 2712 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafInit3
 Encoding: 857 -1 857
 Width: 306
@@ -24612,6 +25483,7 @@ SplineSet
  510 2856 696 3142 734 3204 c 0
 EndSplineSet
 EndChar
+
 StartChar: GafInit4
 Encoding: 858 -1 858
 Width: 258
@@ -24639,6 +25511,7 @@ SplineSet
  470 2225 656 2509 694 2571 c 0
 EndSplineSet
 EndChar
+
 StartChar: LamInit1
 Encoding: 859 -1 859
 Width: 312
@@ -24658,6 +25531,7 @@ SplineSet
  135 1450 101 1628 200 1628 c 0
 EndSplineSet
 EndChar
+
 StartChar: LamInit2
 Encoding: 860 -1 860
 Width: 244
@@ -24677,6 +25551,7 @@ SplineSet
  99 1896 65 2073 164 2073 c 0
 EndSplineSet
 EndChar
+
 StartChar: LamInit3
 Encoding: 861 -1 861
 Width: 199
@@ -24696,6 +25571,7 @@ SplineSet
  0 716 l 1
 EndSplineSet
 EndChar
+
 StartChar: MeemInit1
 Encoding: 862 -1 862
 Width: 516
@@ -24718,6 +25594,7 @@ SplineSet
  337 692 348 692 357 692 c 0
 EndSplineSet
 EndChar
+
 StartChar: MeemInit2
 Encoding: 863 -1 863
 Width: 460
@@ -24738,6 +25615,7 @@ SplineSet
  162 1083 204 1112 292 1112 c 0
 EndSplineSet
 EndChar
+
 StartChar: MeemInit3
 Encoding: 864 -1 864
 Width: 367
@@ -24758,6 +25636,7 @@ SplineSet
  64 1340 41 1387 62 1437 c 0
 EndSplineSet
 EndChar
+
 StartChar: MeemInit4
 Encoding: 865 -1 865
 Width: 463
@@ -24777,6 +25656,7 @@ SplineSet
  89 956 101 1108 267 1108 c 0
 EndSplineSet
 EndChar
+
 StartChar: MeemInit5
 Encoding: 866 -1 866
 Width: 273
@@ -24797,6 +25677,7 @@ SplineSet
  38 812 -30 858 -15 932 c 0
 EndSplineSet
 EndChar
+
 StartChar: NoonInit1
 Encoding: 867 -1 867
 Width: 493
@@ -24819,6 +25700,7 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
+
 StartChar: NoonInit2
 Encoding: 868 -1 868
 Width: 270
@@ -24841,6 +25723,7 @@ SplineSet
  0 936 l 2
 EndSplineSet
 EndChar
+
 StartChar: NoonInit3
 Encoding: 869 -1 869
 Width: 270
@@ -24861,6 +25744,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: NoonInit4
 Encoding: 870 -1 870
 Width: 318
@@ -24883,6 +25767,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: NoonInit5
 Encoding: 871 -1 871
 Width: 376
@@ -24903,6 +25788,7 @@ SplineSet
  0 327 l 1
 EndSplineSet
 EndChar
+
 StartChar: HehInit1
 Encoding: 872 -1 872
 Width: 706
@@ -24932,6 +25818,7 @@ SplineSet
  534 1084 378 1137 378 1137 c 1
 EndSplineSet
 EndChar
+
 StartChar: HehInit2
 Encoding: 873 -1 873
 Width: 687
@@ -24961,6 +25848,7 @@ SplineSet
  484 1544 328 1598 328 1598 c 1
 EndSplineSet
 EndChar
+
 StartChar: HehInit3
 Encoding: 874 -1 874
 Width: 681
@@ -24991,6 +25879,7 @@ SplineSet
  495 967 308 1026 308 1026 c 1
 EndSplineSet
 EndChar
+
 StartChar: HehInit4
 Encoding: 875 -1 875
 Width: 607
@@ -25020,6 +25909,7 @@ SplineSet
  454 955 279 1035 279 1035 c 1
 EndSplineSet
 EndChar
+
 StartChar: YehInit1
 Encoding: 876 -1 876
 Width: 493
@@ -25044,6 +25934,7 @@ SplineSet
  102 -537 -23 -608 -38 -528 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehInit2
 Encoding: 877 -1 877
 Width: 270
@@ -25068,6 +25959,7 @@ SplineSet
  0 1041 l 2
 EndSplineSet
 EndChar
+
 StartChar: YehInit3
 Encoding: 878 -1 878
 Width: 270
@@ -25090,6 +25982,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehInit4
 Encoding: 879 -1 879
 Width: 318
@@ -25114,6 +26007,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaInit1
 Encoding: 880 -1 880
 Width: 493
@@ -25140,6 +26034,7 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaInit2
 Encoding: 881 -1 881
 Width: 270
@@ -25166,6 +26061,7 @@ SplineSet
  0 981 l 2
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaInit3
 Encoding: 882 -1 882
 Width: 270
@@ -25190,6 +26086,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaInit4
 Encoding: 883 -1 883
 Width: 318
@@ -25216,6 +26113,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaInit5
 Encoding: 884 -1 884
 Width: 376
@@ -25240,6 +26138,7 @@ SplineSet
  0 327 l 1
 EndSplineSet
 EndChar
+
 StartChar: YehHamzaInit6
 Encoding: 885 -1 885
 Width: 232
@@ -25264,6 +26163,7 @@ SplineSet
  0 231 l 1
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraInit1
 Encoding: 886 -1 886
 Width: 493
@@ -25283,6 +26183,7 @@ SplineSet
  0 789 l 1
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraInit2
 Encoding: 887 -1 887
 Width: 270
@@ -25302,6 +26203,7 @@ SplineSet
  0 981 l 2
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraInit3
 Encoding: 888 -1 888
 Width: 270
@@ -25319,6 +26221,7 @@ SplineSet
  34 804 77 938 153 900 c 0
 EndSplineSet
 EndChar
+
 StartChar: AlefMaksuraInit4
 Encoding: 889 -1 889
 Width: 318
@@ -25338,6 +26241,7 @@ SplineSet
  140 587 50 504 0 460 c 1
 EndSplineSet
 EndChar
+
 StartChar: TashdidFathatanLig
 Encoding: 890 -1 890
 Width: 877
