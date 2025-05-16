@@ -1,0 +1,35 @@
+on:
+    release:
+        types: [published]
+jobs:
+    make_release:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Check out the repository to the runner
+            uses: actions/checkout@v4
+
+          - name: Install prerequisites
+            run: sudo apt install -y fontforge perl
+
+          - name: Normalize the project file
+            run: |
+                ./scripts/sfdnormalize.pl ./src/Farid.sfd
+                rm ./src/Farid.sfd
+                mv ./src/Farid.sfd.norm ./src/Farid.sfd
+
+          - name: Generate font files
+            run: |
+                ./scripts/generatefont.py src/Farid.sfd ttf/Farid.ttf
+                ./scripts/generatefont.py src/Farid.sfd ttf/Farid.otf
+                ./scripts/generatefont.py src/Farid.sfd ttf/Farid.woff2
+          - name: Create zip archive
+            uses: thedoctor0/zip-release@0.7.5
+            with:
+                type: 'zip'
+                filename: 'Farid-${{ github.event.release.name }}.zip'
+                path: ./ttf/*
+          - name: Add the archive to the latest release
+            uses: svenstaro/upload-release-action@v2
+                with:
+                    repo_token: ${{ secrets.GITHUB_TOKEN }}
+                    file: Farid-${{ github.event.release.name }}.zip
