@@ -5,7 +5,7 @@ FamilyName: Farid
 Weight: Regular
 Copyright: Copyright (c) 2024, TDC
 UComments: "2024-7-12: Created with FontForge (http://fontforge.org)"
-Version: 001.300
+Version: 001.310
 ItalicAngle: 0
 UnderlinePosition: -204
 UnderlineWidth: 102
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1747387216
-ModificationTime: 1747418705
+ModificationTime: 1747419837
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -250,6 +250,7 @@ Grid
 -2048 33548.8798828 m 0
  4096 33548.8798828 l 1024
 EndSplineSet
+TeXData: 1 0 0 204800 102400 68266 344576 -1048576 68266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "HarakatBelowLig" "'blwm' Below Base Mark lookup 4-1" "HarakatBelow" "'blwm' Below Base Mark lookup 3-1" "HarakatAboveLig" "'abvm' Above Base Mark lookup 2-1" "HarakatAbove" "'abvm' Above Base Mark lookup 1-1" "Curs" "'curs' Cursive Attachment in Arabic lookup 0-1"
 BeginChars: 891 891
 
