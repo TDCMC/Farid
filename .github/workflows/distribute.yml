@@ -9,7 +9,7 @@ jobs:
             uses: actions/checkout@v4
 
           - name: Install prerequisites
-            run: sudo apt install -y fontforge perl
+            run: sudo apt install -y fontforge python3-fontforge perl
 
           - name: Normalize the project file
             run: |
@@ -23,11 +23,8 @@ jobs:
                 ./scripts/generatefont.py src/Farid.sfd ttf/Farid.otf
                 ./scripts/generatefont.py src/Farid.sfd ttf/Farid.woff2
           - name: Create zip archive
-            uses: thedoctor0/zip-release@0.7.5
-            with:
-                type: 'zip'
-                filename: 'Farid-${{ github.event.release.name }}.zip'
-                path: ./ttf/*
+            run: zip -r Farid-${{ github.event.release.name }}.zip . -i ./ttf/*
+
           - name: Add the archive to the latest release
             uses: svenstaro/upload-release-action@v2
             with:
