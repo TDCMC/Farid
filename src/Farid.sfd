@@ -5,7 +5,7 @@ FamilyName: Farid
 Weight: Regular
 Copyright: Copyright (c) 2024, TDC
 UComments: "2024-7-12: Created with FontForge (http://fontforge.org)"
-Version: 001.400
+Version: 001.410
 ItalicAngle: 0
 UnderlinePosition: -204
 UnderlineWidth: 102
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1764605376
-ModificationTime: 1764605376
+ModificationTime: 1764605508
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
