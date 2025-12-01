@@ -21,8 +21,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1763226899
-ModificationTime: 1763227180
+CreationTime: 1764605376
+ModificationTime: 1764605376
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -90,10 +90,10 @@ Lookup: 6 9 0 "'calt' Contextual Alternates in Arabic lookup 38" { "'calt' Conte
 Lookup: 6 9 0 "'calt' Contextual Alternates in Arabic lookup 39" { "'calt' Contextual Alternates in Arabic lookup 39-1"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > ) ]
 Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition lookup 40" { "'ccmp' Glyph Composition/Decomposition lookup 40-1"  } ['ccmp' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 259 9 0 "'curs' Cursive Attachment in Arabic lookup 0" { "'curs' Cursive Attachment in Arabic lookup 0-1"  } ['curs' ('DFLT' <'dflt' > 'arab' <'dflt' > ) ]
-Lookup: 260 1 0 "'abvm' Above Base Mark lookup 1" { "'abvm' Above Base Mark lookup 1-1"  } ['abvm' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 261 1 0 "'abvm' Above Base Mark lookup 2" { "'abvm' Above Base Mark lookup 2-1"  } ['abvm' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 1 0 "'blwm' Below Base Mark lookup 3" { "'blwm' Below Base Mark lookup 3-1"  } ['blwm' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 261 1 0 "'blwm' Below Base Mark lookup 4" { "'blwm' Below Base Mark lookup 4-1"  } ['blwm' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 1" { "'mark' Mark Positioning lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lookup 2-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning lookup 3" { "'mark' Mark Positioning lookup 3-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning lookup 4" { "'mark' Mark Positioning lookup 4-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'calt' Contextual Alternates in Arabic lookup 38-1" 0 0 0 1
@@ -250,7 +250,7 @@ Grid
 -2048 33548.8798828 m 0
  4096 33548.8798828 l 1024
 EndSplineSet
-AnchorClass2: "HarakatBelowLig" "'blwm' Below Base Mark lookup 4-1" "HarakatBelow" "'blwm' Below Base Mark lookup 3-1" "HarakatAboveLig" "'abvm' Above Base Mark lookup 2-1" "HarakatAbove" "'abvm' Above Base Mark lookup 1-1" "Curs" "'curs' Cursive Attachment in Arabic lookup 0-1"
+AnchorClass2: "HarakatBelowLig" "'mark' Mark Positioning lookup 4-1" "HarakatBelow" "'mark' Mark Positioning lookup 3-1" "HarakatAboveLig" "'mark' Mark Positioning lookup 2-1" "HarakatAbove" "'mark' Mark Positioning lookup 1-1" "Curs" "'curs' Cursive Attachment in Arabic lookup 0-1"
 BeginChars: 892 897
 
 StartChar: uni0000
@@ -932,7 +932,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 30 62 30
+Encoding: 0 62 30
 Width: 625
 Flags: W
 LayerCount: 2
@@ -3530,130 +3530,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ampersand
-Encoding: 7 38 125
-Width: 1095
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-1065 193 m 4
- 1024 110 860 190 704 303 c 4
- 583 391 473 487 404 576 c 4
- 319 685 240 903 218 1060 c 4
- 211 1110 183 1285 302 1393 c 4
- 366 1451 472 1433 539 1407 c 4
- 606 1382 664 1334 680 1256 c 4
- 701 1152 647 1075 584 995 c 4
- 550 952 425 819 316 664 c 4
- 278 609 207 482 197 387 c 4
- 192 338 209 249 304 257 c 4
- 422 266 519 341 631 446 c 4
- 796 600 906 777 962 743 c 4
- 1040 696 903 506 742 340 c 4
- 635 229 487 126 367 106 c 4
- 212 81 136 133 94 184 c 4
- 17 278 39 380 49 435 c 4
- 69 540 131 684 171 739 c 4
- 239 832 300 891 347 940 c 4
- 434 1032 526 1163 533 1210 c 4
- 539 1253 431 1294 399 1263 c 4
- 353 1218 341 1141 386 992 c 4
- 437 823 467 754 591 598 c 4
- 659 513 737 458 841 394 c 4
- 955 324 1094 251 1065 193 c 4
-EndSplineSet
-EndChar
-
-StartChar: hyphen
-Encoding: 13 45 126
-Width: 707
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-17 450 m 4
- 11 550 229 567 348 574 c 4
- 504 583 693 586 689 479 c 4
- 685 380 491 399 371 391 c 4
- 242 382 23 334 17 450 c 4
-EndSplineSet
-EndChar
-
-StartChar: equal
-Encoding: 29 61 127
-Width: 685
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-67 369 m 4
- 51 456 247 500 351 503 c 4
- 452 506 662 506 632 391 c 4
- 611 309 484 357 364 354 c 4
- 236 351 83 280 67 369 c 4
-67 647 m 0
- 51 734 247 778 351 781 c 0
- 452 784 662 783 632 668 c 0
- 611 586 484 635 364 632 c 0
- 236 629 83 558 67 647 c 0
-EndSplineSet
-EndChar
-
-StartChar: a
-Encoding: 64 97 128
-Width: 795
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-475 683 m 0
- 405 696 376 683 332 646 c 0
- 267 591 245 554 205 472 c 0
- 168 397 130 218 187 199 c 0
- 269 172 335 331 375 418 c 0
- 429 537 507 744 566 730 c 0
- 672 706 550 478 500 366 c 0
- 440 233 364 71 223 32 c 0
- 159 14 77 46 46 105 c 0
- -12 217 7 365 64 524 c 0
- 86 585 166 701 242 756 c 0
- 341 828 446 821 498 802 c 0
- 539 787 558 757 545 721 c 4
- 533 688 504 678 475 683 c 0
-581 724 m 0
- 649 712 565 479 601 362 c 0
- 630 267 794 240 773 176 c 0
- 754 118 686 110 630 134 c 0
- 538 174 480 265 465 363 c 0
- 445 495 475 743 581 724 c 0
-EndSplineSet
-EndChar
-
-StartChar: questiondown
-Encoding: 123 191 129
-Width: 751
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-632 -372 m 4
- 714 -384 748 -603 490 -708 c 4
- 346 -766 51 -770 25 -568 c 4
- -2 -348 390 -138 406 21 c 4
- 415 109 236 213 296 282 c 4
- 360 356 588 194 554 0 c 4
- 516 -212 166 -431 184 -537 c 4
- 199 -623 402 -589 496 -537 c 4
- 554 -503 544 -358 632 -372 c 4
-319 716 m 4
- 405 740 510 565 384 525 c 4
- 310 501 184 678 319 716 c 4
-EndSplineSet
-EndChar
-
 StartChar: Aacute
-Encoding: 125 193 130
+Encoding: 0 193 125
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3687,7 +3565,7 @@ EndSplineSet
 EndChar
 
 StartChar: Acircumflex
-Encoding: 126 194 131
+Encoding: 0 194 126
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3726,7 +3604,7 @@ EndSplineSet
 EndChar
 
 StartChar: Atilde
-Encoding: 127 195 132
+Encoding: 0 195 127
 Width: 1011
 Flags: W
 LayerCount: 2
@@ -3758,6 +3636,128 @@ SplineSet
  644 701 873 661 835 562 c 0
  804 480 618 527 518 510 c 0
  421 494 258 378 216 475 c 0
+EndSplineSet
+EndChar
+
+StartChar: ampersand
+Encoding: 7 38 128
+Width: 1095
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1065 193 m 4
+ 1024 110 860 190 704 303 c 4
+ 583 391 473 487 404 576 c 4
+ 319 685 240 903 218 1060 c 4
+ 211 1110 183 1285 302 1393 c 4
+ 366 1451 472 1433 539 1407 c 4
+ 606 1382 664 1334 680 1256 c 4
+ 701 1152 647 1075 584 995 c 4
+ 550 952 425 819 316 664 c 4
+ 278 609 207 482 197 387 c 4
+ 192 338 209 249 304 257 c 4
+ 422 266 519 341 631 446 c 4
+ 796 600 906 777 962 743 c 4
+ 1040 696 903 506 742 340 c 4
+ 635 229 487 126 367 106 c 4
+ 212 81 136 133 94 184 c 4
+ 17 278 39 380 49 435 c 4
+ 69 540 131 684 171 739 c 4
+ 239 832 300 891 347 940 c 4
+ 434 1032 526 1163 533 1210 c 4
+ 539 1253 431 1294 399 1263 c 4
+ 353 1218 341 1141 386 992 c 4
+ 437 823 467 754 591 598 c 4
+ 659 513 737 458 841 394 c 4
+ 955 324 1094 251 1065 193 c 4
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 13 45 129
+Width: 707
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+17 450 m 4
+ 11 550 229 567 348 574 c 4
+ 504 583 693 586 689 479 c 4
+ 685 380 491 399 371 391 c 4
+ 242 382 23 334 17 450 c 4
+EndSplineSet
+EndChar
+
+StartChar: equal
+Encoding: 29 61 130
+Width: 685
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+67 369 m 4
+ 51 456 247 500 351 503 c 4
+ 452 506 662 506 632 391 c 4
+ 611 309 484 357 364 354 c 4
+ 236 351 83 280 67 369 c 4
+67 647 m 0
+ 51 734 247 778 351 781 c 0
+ 452 784 662 783 632 668 c 0
+ 611 586 484 635 364 632 c 0
+ 236 629 83 558 67 647 c 0
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 64 97 131
+Width: 795
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+475 683 m 0
+ 405 696 376 683 332 646 c 0
+ 267 591 245 554 205 472 c 0
+ 168 397 130 218 187 199 c 0
+ 269 172 335 331 375 418 c 0
+ 429 537 507 744 566 730 c 0
+ 672 706 550 478 500 366 c 0
+ 440 233 364 71 223 32 c 0
+ 159 14 77 46 46 105 c 0
+ -12 217 7 365 64 524 c 0
+ 86 585 166 701 242 756 c 0
+ 341 828 446 821 498 802 c 0
+ 539 787 558 757 545 721 c 4
+ 533 688 504 678 475 683 c 0
+581 724 m 0
+ 649 712 565 479 601 362 c 0
+ 630 267 794 240 773 176 c 0
+ 754 118 686 110 630 134 c 0
+ 538 174 480 265 465 363 c 0
+ 445 495 475 743 581 724 c 0
+EndSplineSet
+EndChar
+
+StartChar: questiondown
+Encoding: 123 191 132
+Width: 751
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+632 -372 m 4
+ 714 -384 748 -603 490 -708 c 4
+ 346 -766 51 -770 25 -568 c 4
+ -2 -348 390 -138 406 21 c 4
+ 415 109 236 213 296 282 c 4
+ 360 356 588 194 554 0 c 4
+ 516 -212 166 -431 184 -537 c 4
+ 199 -623 402 -589 496 -537 c 4
+ 554 -503 544 -358 632 -372 c 4
+319 716 m 4
+ 405 740 510 565 384 525 c 4
+ 310 501 184 678 319 716 c 4
 EndSplineSet
 EndChar
 
@@ -8875,8 +8875,8 @@ Fore
 SplineSet
 647 907 m 4
  763 935 970 951 963 841 c 4
- 958 760 821 787 667 755 c 4
- 570 735 408 685 385 755 c 4
+ 958 760 821 787 667 755 c 0
+ 570 735 408 685 385 755 c 0
  353 849 550 884 647 907 c 4
 18 1351 m 0
  -18 1500 431 1548 703 1584 c 0
